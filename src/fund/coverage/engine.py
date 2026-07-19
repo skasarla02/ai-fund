@@ -1,4 +1,4 @@
-"""The coverage engine: one rating per S&P 500 company.
+"""The coverage engine: one rating per company across S&P 500 + 400 + 600.
 
 For each company: pull the price signal snapshot (existing indicator engine) and
 the fundamentals snapshot, hand both to Claude for a structured rating, and store
@@ -7,8 +7,14 @@ serves the latest rating and a company's history can be reconstructed from git.
 
 Model: claude-sonnet-5, not Opus — see PRD.md §6. This is bounded, structured
 reasoning over data we hand the model, not frontier-hard problem solving, and
-Sonnet 5 is near-Opus quality on it at roughly half the cost. A full 500-company
-refresh is ~$9 at Sonnet 5 intro pricing.
+Sonnet 5 is near-Opus quality on it at roughly half the cost. A full ~1,500
+company refresh is ~$27 at Sonnet 5 intro pricing.
+
+The point of spanning three tiers (not just S&P 500) is analyst coverage, not
+just company count: S&P 500 megacaps often have 40-60 analysts covering them;
+S&P 600 small-caps routinely have single digits. That gap — not "we rated 500
+companies," which every sell-side desk already does exhaustively — is the
+actual differentiator. See PRD.md §6 for the full reasoning.
 """
 from __future__ import annotations
 
@@ -23,7 +29,7 @@ from typing import Callable
 from fund.config import RESULTS_DIR, TRADING_DAYS_PER_YEAR
 from fund.coverage.fundamentals import get_fundamentals
 from fund.coverage.schemas import CompanyRating
-from fund.coverage.universe import Company, fetch_sp500
+from fund.coverage.universe import Company, fetch_universe
 from fund.data.assets import Asset
 from fund.data.market import get_bars
 from fund.decision.llm import LLMClient
@@ -37,7 +43,10 @@ COVERAGE_MODEL = "claude-sonnet-5"
 SYSTEM_PROMPT = """\
 You are an equity research analyst. You are given one company's pre-computed
 price/technical signals and fundamental data — never invent or recompute a
-number; reason only over what you're given.
+number; reason only over what you're given. You're also told the S&P tier
+(500/400/600) and how many sell-side analysts currently cover the stock, since
+that context matters: a thinly-covered small-cap mispricing lasts longer than
+one in a stock 50 analysts already watch.
 
 Produce a rating (bullish, neutral, or bearish), a conviction — an honest
 probability in [0,1] that the rating direction is correct over roughly the next
@@ -80,6 +89,7 @@ def _extract_metrics(snapshot: dict) -> dict:
         "return_on_equity": fnd.get("returnOnEquity"),
         "beta": fnd.get("beta"),
         "market_cap": fnd.get("marketCap"),
+        "analyst_coverage": fnd.get("numberOfAnalystOpinions"),
     }
 
 
@@ -130,6 +140,7 @@ def write_result(result: CoverageResult, out_dir: Path = COVERAGE_DIR) -> None:
         "name": result.company.name,
         "sector": result.company.sector,
         "sub_industry": result.company.sub_industry,
+        "tier": result.company.tier,
         "price": result.price,
         "as_of": result.as_of,
         **result.rating.model_dump(),
@@ -176,9 +187,10 @@ def run_coverage(
     pace_seconds: float = 0.0,
     on_result: Callable[[CoverageResult], None] | None = None,
 ) -> list[CoverageResult]:
-    """Rate every requested ticker (default: the full S&P 500) and persist each."""
+    """Rate every requested ticker (default: the full S&P 500+400+600 universe)
+    and persist each."""
     client = client or LLMClient(model=COVERAGE_MODEL)
-    companies = fetch_sp500()
+    companies = fetch_universe()
     if tickers:
         wanted = set(tickers)
         companies = [c for c in companies if c.ticker in wanted]
@@ -202,9 +214,15 @@ def run_coverage(
 
 
 def _build_prompt(company: Company, snapshot: dict) -> str:
+    analysts = snapshot["fundamentals"].get("numberOfAnalystOpinions")
+    coverage_note = (
+        f"{analysts} sell-side analysts currently cover this stock."
+        if analysts is not None else "Analyst coverage count unavailable."
+    )
     return "\n".join([
         f"Company: {company.name} ({company.ticker})",
-        f"Sector / sub-industry: {company.sector} / {company.sub_industry}",
+        f"Index: {company.tier}  ·  Sector / sub-industry: {company.sector} / {company.sub_industry}",
+        coverage_note,
         "",
         "Price/technical signals (JSON):",
         json.dumps(snapshot["signals"], indent=2),
@@ -230,6 +248,7 @@ def _mock_rating(snapshot: dict) -> dict:
     margin = fnd.get("profitMargins")
     growth = fnd.get("revenueGrowth")
     pe = fnd.get("trailingPE")
+    analysts = fnd.get("numberOfAnalystOpinions")
 
     score = 0.5 + 0.5 * mom
     if margin is not None:
@@ -243,14 +262,19 @@ def _mock_rating(snapshot: dict) -> dict:
     rating = "bullish" if conviction > 0.58 and above_200 else (
         "bearish" if conviction < 0.42 else "neutral")
 
+    coverage_phrase = (
+        f"only {analysts} analysts covering it" if analysts is not None and analysts <= 8
+        else (f"{analysts} analysts covering it" if analysts is not None else "coverage unknown")
+    )
+
     return {
         "rating": rating,
         "conviction": round(conviction, 3),
         "key_signal": f"63d momentum {mom:+.1%}, margin "
-                      f"{f'{margin:.1%}' if margin is not None else 'n/a'}.",
+                      f"{f'{margin:.1%}' if margin is not None else 'n/a'}, {coverage_phrase}.",
         "thesis": f"[mock] Trades {'above' if above_200 else 'below'} its 200-day "
                   f"average with {mom:+.1%} momentum; profit margin "
-                  f"{f'{margin:.1%}' if margin is not None else 'unavailable'}.",
+                  f"{f'{margin:.1%}' if margin is not None else 'unavailable'} — {coverage_phrase}.",
         "bear_case": f"[mock] Valuation at {f'{pe:.1f}x' if pe is not None else 'n/a'} "
                      f"trailing earnings leaves little room for a growth miss.",
     }

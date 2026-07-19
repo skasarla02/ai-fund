@@ -64,22 +64,39 @@ exactly when it became newly buildable.
 - **Not real-money execution**, now or in v1. If that ever changes it's a deliberate,
   separately-scoped decision — not a default.
 
-## 6. Scope — v1
+## 6. Scope — v1.1 (Hidden Winners expansion)
 
-- **Universe:** S&P 500. Recognizable names (so "look up your employer" works),
-  large enough to prove real coverage, small enough to stay affordable and specific
-  rather than generic.
+- **Universe:** S&P 500 + 400 (mid-cap) + 600 (small-cap) — ~1,500 companies.
+  **Why S&P, not Russell 2000 or "all US stocks":** S&P indices require positive
+  earnings (most recent quarter + trailing four quarters) plus minimum market
+  cap, liquidity, and float. Russell 2000 has no such bar — it's just "rank by
+  market cap, take the next 2,000" — and is full of unprofitable, thinly-traded
+  names that would degrade ratings into generic "loses money, avoid" noise
+  across hundreds of companies, the exact specificity failure flagged in §9.
+  S&P 500/400/600 share one rigorous methodology at three sizes, giving a
+  defensible "most-covered → least-covered" ladder instead of an arbitrary
+  universe swap, while keeping recognizable names (S&P 500) as the searchable
+  hook that makes the product instantly testable by a stranger.
+- **Why this expansion matters:** rating the S&P 500 alone was a weak claim —
+  it's the *most* analyst-covered stretch of the market in the world. The
+  actual differentiator is **analyst coverage gap**, made literal via
+  yfinance's `numberOfAnalystOpinions` field: NVDA has 58 analysts covering
+  it; small-cap names in S&P 600 routinely have single digits (Artisan
+  Partners: 4). That number is now a first-class stat on every card, and
+  a dedicated **Hidden Winners** view (`/api/coverage?hidden_winners=true`)
+  surfaces bullish calls sorted by *fewest analysts first* — not highest
+  conviction — because the point is surfacing what Wall Street stopped
+  watching, not just our best guesses.
 - **Reasoning inputs:** price/technical signals (existing signal engine) **+
-  fundamentals** (margins, growth, valuation, debt, profitability — via yfinance).
-  Fundamentals are the load-bearing decision here: technicals alone produce
-  near-identical memos across companies ("momentum positive, above 200-day" ×500),
-  which kills the product's credibility. Fundamentals are what make NVDA's memo
-  read differently from KO's.
-- **Model:** `claude-sonnet-5`, not Opus. This is structured reasoning over data
-  we hand the model — not frontier-hard problem solving. Sonnet 5 is near-Opus
-  quality on this task at roughly half the cost. Full 500-name refresh ≈ $9 at
-  Sonnet 5 intro pricing. Opus stays a future option for a premium deep-dive tier
-  on a small top-conviction subset, not the default.
+  fundamentals** (margins, growth, valuation, debt, profitability — via
+  yfinance) **+ analyst coverage count**, now passed to the model as explicit
+  context ("13 analysts cover this stock") since thin coverage is itself
+  decision-relevant information — a mispricing in a 4-analyst stock persists
+  longer than one in a 58-analyst stock.
+- **Model:** `claude-sonnet-5`, not Opus — unchanged reasoning from v1. Full
+  ~1,500-company refresh ≈ $27 at Sonnet 5 intro pricing (up from ~$9 at
+  500-only scope, still trivial). Opus stays a future option for a premium
+  deep-dive tier on a small top-conviction subset, not the default.
 - **Paper portfolio:** unchanged from the existing engine — the fund puts real paper
   capital behind its highest-conviction names, and that track record is the *proof*
   layer, not the pitch.
@@ -134,11 +151,22 @@ and for whom*; the README governs *how*.
 - **Phase 2 — done.** LLM decision engine (per-asset thesis/bear-case/conviction),
   code-side risk gate, immutable memos, calibration eval layer.
 - **Phase 3a — done.** FastAPI backend serving results as JSON.
-- **Phase 3b — in progress.** UI rebuild around this PRD's hero narrative
-  (coverage + accountability first, track record demoted to proof).
-- **Phase 3c — next.** S&P 500 coverage engine: price + fundamentals →
-  Sonnet 5 rating per company, searchable in the UI. This is the new centerpiece.
-- **Phase 4 — later.** Live forward-running paper fund on a scheduler; polish/writeups.
+- **Phase 3b — done.** HTML/JS prototype validating the hero narrative, search,
+  comparison (radar chart), sector heatmap, upgrades/downgrades feed, calibration
+  trend — all working, all on real (mock-mode) data. Branded "The Spread Model."
+- **Phase 3c — done.** Coverage engine expanded to S&P 500+400+600 (~1,500
+  companies), analyst-coverage-count wired through as a first-class stat and
+  model input, Hidden Winners API filter shipped. See §6.
+- **Phase 3d — next.** The real production frontend: Vite + React, wired live
+  to the FastAPI backend (no more embedded mock JSON in a static HTML file).
+  Carries forward the visual language validated in the 3b prototype.
+- **Phase 3e — after that.** Full live coverage run once Anthropic billing
+  clears (real Claude ratings, not mock) across the full ~1,500-company
+  universe (~$27).
+- **Phase 4 — later.** Real scheduled autonomous runs (GitHub Actions cron) so
+  the desk actually re-rates on a cadence and the change feed / calibration
+  trend become fully organic, not seeded. Portfolio-site integration timing:
+  TBD, user will confirm when ready.
 
 ## 12. Changelog
 
@@ -152,3 +180,22 @@ and for whom*; the README governs *how*.
   visibly differentiate output across companies, the PRD §9 risk did not
   materialize. Next: rebuild the UI hero to §7's spec, backed by this real
   coverage data instead of mocked cards.
+- **2026-07-19** — UI prototype built and fixed (Phase 3b): hero card with
+  inline live search (no scroll to see results), sector heatmap, comparison
+  feature with radar chart, upgrades/downgrades feed, calibration trend chart.
+  Caught and fixed a real JS bug (temporal-dead-zone crash silently killing
+  the entire script on load) and a CSS anomaly (`max-height` transitions not
+  applying in the test environment — switched to JS-measured explicit height,
+  the more robust classic technique). Branded "The Spread Model."
+- **2026-07-19** — User pushback, and it was right: "what do people need info
+  on S&P 500 for? It's an index fund for a reason." Rating the most
+  analyst-covered stretch of the market wasn't actually filling a coverage
+  gap. Expanded universe to S&P 500+400+600 (~1,500 companies), added
+  `numberOfAnalystOpinions` as a first-class stat and model input, shipped a
+  Hidden Winners filter (bullish calls sorted by fewest analysts, not highest
+  conviction). Verified real analyst-count spread end-to-end: NVDA 58 vs.
+  Artisan Partners (S&P 600) 4. Considered and rejected Russell 2000 as the
+  broader-universe alternative — no profitability requirement, would degrade
+  output specificity on the long unprofitable tail. See §6 for full reasoning.
+  Next: real Vite+React frontend wired to the live FastAPI backend (Phase 3d),
+  replacing the standalone HTML prototype.

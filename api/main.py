@@ -122,25 +122,44 @@ def _load_coverage() -> list[dict]:
 
 @app.get("/api/coverage/stats")
 def coverage_stats() -> dict:
-    """Headline coverage numbers for the hero: how many companies, how it splits."""
+    """Headline coverage numbers for the hero: how many companies, how it splits,
+    and by tier — so the UI can show the S&P 500 vs 400/600 breakdown directly."""
     rows = _load_coverage()
     if not rows:
-        return {"n": 0, "bullish": 0, "neutral": 0, "bearish": 0, "model": COVERAGE_MODEL}
+        return {"n": 0, "bullish": 0, "neutral": 0, "bearish": 0, "by_tier": {}, "model": COVERAGE_MODEL}
     bullish = sum(1 for r in rows if r["rating"] == "bullish")
     bearish = sum(1 for r in rows if r["rating"] == "bearish")
+    by_tier: dict[str, int] = {}
+    for r in rows:
+        by_tier[r.get("tier", "unknown")] = by_tier.get(r.get("tier", "unknown"), 0) + 1
     return {
         "n": len(rows),
         "bullish": bullish,
         "neutral": len(rows) - bullish - bearish,
         "bearish": bearish,
+        "by_tier": by_tier,
         "model": COVERAGE_MODEL,
         "last_updated": max((r["as_of"] for r in rows), default=None),
     }
 
 
 @app.get("/api/coverage")
-def coverage(q: str | None = None, sector: str | None = None, rating: str | None = None) -> list[dict]:
-    """Search/filter coverage. ``q`` matches ticker or company name (case-insensitive)."""
+def coverage(
+    q: str | None = None,
+    sector: str | None = None,
+    rating: str | None = None,
+    tier: str | None = None,
+    hidden_winners: bool = False,
+    max_analysts: int | None = None,
+) -> list[dict]:
+    """Search/filter coverage.
+
+    ``q`` matches ticker or company name (case-insensitive). ``hidden_winners``
+    is the product's core differentiator: bullish calls on the least-covered
+    names, sorted by analyst count ascending (fewest analysts first) rather
+    than conviction — the point is surfacing companies Wall Street has mostly
+    stopped watching, not just our highest-confidence calls.
+    """
     rows = _load_coverage()
     if q:
         needle = q.lower()
@@ -149,7 +168,16 @@ def coverage(q: str | None = None, sector: str | None = None, rating: str | None
         rows = [r for r in rows if r["sector"].lower() == sector.lower()]
     if rating:
         rows = [r for r in rows if r["rating"].lower() == rating.lower()]
-    rows.sort(key=lambda r: r["conviction"], reverse=True)
+    if tier:
+        rows = [r for r in rows if r.get("tier", "").lower() == tier.lower()]
+    if max_analysts is not None:
+        rows = [r for r in rows if (r.get("metrics", {}).get("analyst_coverage") or 0) <= max_analysts]
+
+    if hidden_winners:
+        rows = [r for r in rows if r["rating"] == "bullish" and r.get("metrics", {}).get("analyst_coverage") is not None]
+        rows.sort(key=lambda r: (r["metrics"]["analyst_coverage"], -r["conviction"]))
+    else:
+        rows.sort(key=lambda r: r["conviction"], reverse=True)
     return rows
 
 

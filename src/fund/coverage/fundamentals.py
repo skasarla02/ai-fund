@@ -25,7 +25,7 @@ FIELDS = [
     "revenueGrowth", "earningsGrowth", "returnOnEquity",
     "debtToEquity", "freeCashflow", "totalRevenue",
     "dividendYield", "fiftyTwoWeekHigh", "fiftyTwoWeekLow",
-    "recommendationKey",
+    "recommendationKey", "numberOfAnalystOpinions",
 ]
 
 
