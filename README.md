@@ -79,6 +79,7 @@ src/fund/
   backtest/    # lookahead-safe engine, metrics, baseline strategies
   decision/    # LLM research desk: schemas, Claude client, risk gate, memos
   eval/        # calibration (Brier) + attribution — did the confidence mean anything
+  coverage/    # S&P 500 coverage engine — see PRD.md, this is the product's core
 ```
 
 Roadmap:
@@ -133,8 +134,14 @@ pip install -r requirements.txt
 
 python scripts/run_backtest.py            # equities + crypto
 python scripts/run_backtest.py --only equities
-pytest                                    # 18 tests, no network required
+python scripts/run_decision.py            # one portfolio decision + memo
+python scripts/run_coverage.py --limit 5  # rate a handful of S&P 500 companies
+python scripts/run_coverage.py            # rate the full S&P 500 (real run: ~$9 on Sonnet 5)
+python -m uvicorn api.main:app --reload   # serve everything as JSON on :8000
+pytest                                    # unit tests, no network required
 ```
 
-Phase 1 needs no API keys — market data is free and keyless. Phase 2 will read
-`ANTHROPIC_API_KEY` from a local `.env` (see `.env.example`).
+Phase 1 needs no API keys — market data is free and keyless. Phases 2–3c read
+`ANTHROPIC_API_KEY` from a local `.env` (see `.env.example`); without a key,
+`run_decision.py` and `run_coverage.py` both run in **mock mode** (deterministic
+stand-in, no network calls to Claude) so the full pipeline is verifiable for free.

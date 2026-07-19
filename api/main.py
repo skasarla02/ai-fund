@@ -19,6 +19,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "src"))
 
 from fund.config import EQUITY_UNIVERSE, RESULTS_DIR  # noqa: E402
+from fund.coverage.engine import COVERAGE_DIR, COVERAGE_MODEL  # noqa: E402
 from fund.data.market import get_close_panel  # noqa: E402
 from fund.eval.calibration import (  # noqa: E402
     load_memos, make_panel_forward_return, score_calibration,
@@ -111,6 +112,53 @@ def latest_decision() -> dict:
         raise HTTPException(404, "No decisions yet. Run scripts/run_decision.py.")
     memos.sort(key=lambda m: m.get("as_of", ""))
     return memos[-1]
+
+
+def _load_coverage() -> list[dict]:
+    if not COVERAGE_DIR.exists():
+        return []
+    return [json.loads(p.read_text()) for p in sorted(COVERAGE_DIR.glob("*.json"))]
+
+
+@app.get("/api/coverage/stats")
+def coverage_stats() -> dict:
+    """Headline coverage numbers for the hero: how many companies, how it splits."""
+    rows = _load_coverage()
+    if not rows:
+        return {"n": 0, "bullish": 0, "neutral": 0, "bearish": 0, "model": COVERAGE_MODEL}
+    bullish = sum(1 for r in rows if r["rating"] == "bullish")
+    bearish = sum(1 for r in rows if r["rating"] == "bearish")
+    return {
+        "n": len(rows),
+        "bullish": bullish,
+        "neutral": len(rows) - bullish - bearish,
+        "bearish": bearish,
+        "model": COVERAGE_MODEL,
+        "last_updated": max((r["as_of"] for r in rows), default=None),
+    }
+
+
+@app.get("/api/coverage")
+def coverage(q: str | None = None, sector: str | None = None, rating: str | None = None) -> list[dict]:
+    """Search/filter coverage. ``q`` matches ticker or company name (case-insensitive)."""
+    rows = _load_coverage()
+    if q:
+        needle = q.lower()
+        rows = [r for r in rows if needle in r["ticker"].lower() or needle in r["name"].lower()]
+    if sector:
+        rows = [r for r in rows if r["sector"].lower() == sector.lower()]
+    if rating:
+        rows = [r for r in rows if r["rating"].lower() == rating.lower()]
+    rows.sort(key=lambda r: r["conviction"], reverse=True)
+    return rows
+
+
+@app.get("/api/coverage/{ticker}")
+def coverage_detail(ticker: str) -> dict:
+    path = COVERAGE_DIR / f"{ticker.upper()}.json"
+    if not path.exists():
+        raise HTTPException(404, f"No coverage for '{ticker}'. Not yet rated or not in the S&P 500.")
+    return json.loads(path.read_text())
 
 
 @app.get("/api/calibration")
