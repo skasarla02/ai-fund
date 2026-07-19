@@ -71,17 +71,51 @@ src/fund/
   signals/     # technical indicators — all math lives here, never the LLM
   broker/      # deterministic paper broker: cash, positions, costs
   backtest/    # lookahead-safe engine, metrics, baseline strategies
+  decision/    # LLM research desk: schemas, Claude client, risk gate, memos
+  eval/        # calibration (Brier) + attribution — did the confidence mean anything
 ```
 
 Roadmap:
 
 - **Phase 1 — done.** Data, signals, paper broker, lookahead-safe backtester,
   baseline strategy, metrics, tests.
-- **Phase 2 — the decision engine.** Multi-stage LLM research desk (thesis →
-  steelman the bear case → risk gate → allocate), plus the eval layer:
-  calibration (Brier score), attribution, immutable decision memos.
+- **Phase 2 — done.** LLM research desk + eval layer (below).
 - **Phase 3 — live + dashboard.** Forward-running paper fund on a scheduler
   (free via GitHub Actions) and a hosted dashboard showing the track record.
+
+---
+
+## The decision engine (Phase 2)
+
+The research desk runs on `claude-opus-4-8` with adaptive thinking. For each
+asset it receives the **code-computed** signal snapshot and returns structured
+output — a market view plus, per asset, a bull thesis, a steelmanned bear case,
+a stance, and a **conviction** in [0, 1]. The model expresses judgment; it never
+sizes a position and never computes a number.
+
+[`fund/decision/risk.py`](src/fund/decision/risk.py) — **in code, not the model**
+— turns convictions into weights under hard limits (max position, max gross, a
+conviction floor). Every decision writes an immutable
+[memo](src/fund/decision/memo.py): market view, per-asset reasoning, weights, the
+exact numeric snapshot, model id, and a prompt hash. Fully auditable and replayable.
+
+The same `decide(...) -> weights` shape plugs into the Phase 1 backtester, so the
+LLM desk runs on the identical lookahead-safe harness.
+
+**The eval layer is the point.** [`fund/eval/calibration.py`](src/fund/eval/calibration.py)
+scores every logged conviction against its realized forward outcome — a Brier
+score and a reliability table (predicted vs. actual per confidence bucket). This
+is what turns "it made money" into "its stated probabilities were actually
+informative," and it flags overconfidence directly.
+
+Runs in **mock mode with no API key** (deterministic stand-in for the model) so
+the whole pipeline is verifiable for free; drop `ANTHROPIC_API_KEY` into a local
+`.env` to run the real desk.
+
+```bash
+python scripts/run_decision.py               # one decision + memo
+python scripts/run_decision.py --backtest    # backtest the desk + calibration report
+```
 
 ---
 
