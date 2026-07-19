@@ -1,0 +1,102 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ground: #15141d;
+  --color-ink: #f4f3fb;
+  --color-muted: #9e9db4;
+  --color-faint: #5e5d70;
+  --color-mint: #7fe9c0;
+  --color-mint-dim: #4fae8f;
+  --color-iris: #a99cff;
+  --color-pink: #ff9ecf;
+  --color-up: #7fe9c0;
+  --color-down: #ff9e86;
+
+  --font-display: "Fredoka", system-ui, sans-serif;
+  --font-head: "Bricolage Grotesque", "Fredoka", system-ui, sans-serif;
+  --font-ui: "Plus Jakarta Sans", system-ui, sans-serif;
+  --font-mono: "DM Mono", ui-monospace, Menlo, monospace;
+}
+
+@layer base {
+  * {
+    box-sizing: border-box;
+  }
+  body {
+    margin: 0;
+    background: var(--color-ground);
+    color: var(--color-ink);
+    font-family: var(--font-ui);
+    font-weight: 500;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
+  }
+}
+
+@layer components {
+  .glass {
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.07), rgba(255, 255, 255, 0.022));
+    border: 1px solid rgba(255, 255, 255, 0.11);
+    border-radius: 22px;
+    box-shadow:
+      inset 0 1px 0 rgba(255, 255, 255, 0.14),
+      0 34px 70px -34px rgba(20, 10, 40, 0.75);
+    backdrop-filter: blur(18px) saturate(1.3);
+    position: relative;
+    overflow: hidden;
+  }
+  .chrome {
+    background: linear-gradient(102deg, #8febc6 0%, #a99cff 34%, #ff9ecf 63%, #ffc9a6 100%);
+    background-size: 210% 100%;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    filter: drop-shadow(0 6px 26px rgba(169, 156, 255, 0.34));
+    animation: sheen 8s ease-in-out infinite;
+  }
+  .tick {
+    display: inline-flex;
+    align-items: center;
+    gap: 11px;
+    font-family: var(--font-mono);
+    font-size: 11.5px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--color-mint);
+  }
+  .tick::before {
+    content: "";
+    width: 20px;
+    height: 2px;
+    border-radius: 2px;
+    background: linear-gradient(90deg, var(--color-mint), var(--color-iris));
+  }
+  .tick.alt {
+    color: var(--color-iris);
+  }
+  .tick.alt::before {
+    background: linear-gradient(90deg, var(--color-iris), var(--color-pink));
+  }
+}
+
+@keyframes sheen {
+  0%,
+  100% {
+    background-position: 0% 0;
+  }
+  50% {
+    background-position: 100% 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

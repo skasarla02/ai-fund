@@ -132,14 +132,27 @@ python scripts/run_decision.py --backtest    # backtest the desk + calibration r
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 
-python scripts/run_backtest.py            # equities + crypto
+python scripts/run_backtest.py                  # equities + crypto
 python scripts/run_backtest.py --only equities
-python scripts/run_decision.py            # one portfolio decision + memo
-python scripts/run_coverage.py --limit 5  # rate a handful of S&P 500 companies
-python scripts/run_coverage.py            # rate the full S&P 500 (real run: ~$9 on Sonnet 5)
-python -m uvicorn api.main:app --reload   # serve everything as JSON on :8000
-pytest                                    # unit tests, no network required
+python scripts/run_decision.py                  # one portfolio decision + memo
+python scripts/run_coverage.py --limit 5        # rate a handful of companies
+python scripts/run_coverage.py --tier "S&P 600" # rate just the small-cap tier
+python scripts/run_coverage.py                  # rate the full ~1,500-company universe (real run: ~$27 on Sonnet 5)
+python -m uvicorn api.main:app --reload         # serve everything as JSON on :8000
+pytest                                          # unit tests, no network required
 ```
+
+### The web app
+
+```bash
+cd web
+npm install
+npm run dev   # http://localhost:5173, proxies /api to the FastAPI backend on :8000
+```
+
+Vite + React + TypeScript + Tailwind v4, wired live to the backend (no embedded
+mock data — this is the real production frontend, replacing the standalone
+HTML prototype used during design iteration).
 
 Phase 1 needs no API keys — market data is free and keyless. Phases 2–3c read
 `ANTHROPIC_API_KEY` from a local `.env` (see `.env.example`); without a key,
