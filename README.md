@@ -1,8 +1,14 @@
 # ai-fund
 
-An autonomous, continuously-running **research desk** that makes paper-trading
-decisions across equities and crypto, and — the part that actually matters —
-**measures whether those decisions were any good.**
+**AI equity research that shows its receipts.** Every S&P 500 company gets a
+bull case, a steelmanned bear case, and a confidence score — graded publicly
+against what actually happened. See [PRD.md](PRD.md) for the product thesis
+(the problem, who it's for, and why this beats "another AI stock opinion").
+
+This repo is also, underneath that, an autonomous, continuously-running
+**research desk** that makes paper-trading decisions across equities and
+crypto, and — the part that actually matters — **measures whether those
+decisions were any good.**
 
 This is not a "my AI made me money" project. It's a decision-making system built
 to be *audited*: every allocation is logged with the data and reasoning behind
