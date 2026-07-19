@@ -58,6 +58,28 @@ class CoverageResult:
     rating: CompanyRating
     price: float | None
     as_of: str
+    metrics: dict
+
+
+def _extract_metrics(snapshot: dict) -> dict:
+    """A compact, numeric-only slice of the snapshot for comparison/charting.
+
+    Kept separate from the free-text rating so a comparison UI (or any future
+    chart) always has real numbers to plot, independent of how the model's
+    prose happens to be worded.
+    """
+    sig, fnd = snapshot["signals"], snapshot["fundamentals"]
+    return {
+        "momentum_63d": sig.get("mom_63d"),
+        "volatility_ann": sig.get("vol_30d_ann"),
+        "rsi_14": sig.get("rsi_14"),
+        "profit_margin": fnd.get("profitMargins"),
+        "revenue_growth": fnd.get("revenueGrowth"),
+        "trailing_pe": fnd.get("trailingPE"),
+        "return_on_equity": fnd.get("returnOnEquity"),
+        "beta": fnd.get("beta"),
+        "market_cap": fnd.get("marketCap"),
+    }
 
 
 def build_snapshot(company: Company) -> dict | None:
@@ -91,6 +113,7 @@ def rate_company(
         rating=rating,
         price=snapshot["signals"].get("price"),
         as_of=datetime.now(timezone.utc).isoformat(),
+        metrics=_extract_metrics(snapshot),
     )
 
 
@@ -104,6 +127,7 @@ def write_result(result: CoverageResult, out_dir: Path = COVERAGE_DIR) -> None:
         "price": result.price,
         "as_of": result.as_of,
         **result.rating.model_dump(),
+        "metrics": result.metrics,
     }
     (out_dir / f"{result.ticker}.json").write_text(json.dumps(payload, indent=2))
 

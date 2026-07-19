@@ -145,3 +145,10 @@ and for whom*; the README governs *how*.
 - **2026-07-19** — Pivoted from "track record as the pitch" to "coverage +
   accountability as the pitch, track record as proof." Added S&P 500 coverage
   engine to scope. Locked model choice at Sonnet 5 for coverage generation.
+- **2026-07-19** — Coverage engine built (Phase 3c): `fund/coverage/` (universe,
+  fundamentals, schemas, engine) + `/api/coverage` search/filter/detail
+  endpoints. Smoke-tested on 31 real, diverse S&P 500 companies in mock mode
+  (still waiting on Anthropic billing for live Sonnet 5 runs) — fundamentals
+  visibly differentiate output across companies, the PRD §9 risk did not
+  materialize. Next: rebuild the UI hero to §7's spec, backed by this real
+  coverage data instead of mocked cards.
