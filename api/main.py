@@ -19,10 +19,10 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "src"))
 
 from fund.config import EQUITY_UNIVERSE, RESULTS_DIR  # noqa: E402
-from fund.coverage.engine import COVERAGE_DIR, COVERAGE_MODEL  # noqa: E402
+from fund.coverage.engine import COVERAGE_DIR, COVERAGE_MODEL, load_changes  # noqa: E402
 from fund.data.market import get_close_panel  # noqa: E402
 from fund.eval.calibration import (  # noqa: E402
-    load_memos, make_panel_forward_return, score_calibration,
+    calibration_trend, load_memos, make_panel_forward_return, score_calibration,
 )
 
 UNIVERSES = ("equities", "crypto")
@@ -159,6 +159,26 @@ def coverage_detail(ticker: str) -> dict:
     if not path.exists():
         raise HTTPException(404, f"No coverage for '{ticker}'. Not yet rated or not in the S&P 500.")
     return json.loads(path.read_text())
+
+
+@app.get("/api/coverage/changes/feed")
+def coverage_changes(limit: int = 20) -> list[dict]:
+    """Real upgrade/downgrade events — populated only once a company has been
+    rated more than once. Empty until the coverage engine has run on a
+    recurring schedule (Phase 4)."""
+    return load_changes(limit=limit)
+
+
+@app.get("/api/calibration/trend")
+def calibration_trend_endpoint(horizon_days: int = 21, freq: str = "MS") -> list[dict]:
+    """Brier score binned by calendar period — real evidence calibration holds
+    up over time, computed from the same decision memos as /api/calibration."""
+    memos = load_memos()
+    if not memos:
+        raise HTTPException(404, "No decisions to score yet.")
+    panel = get_close_panel(EQUITY_UNIVERSE)
+    trend = calibration_trend(memos, make_panel_forward_return(panel), horizon_days=horizon_days, freq=freq)
+    return _records(trend)
 
 
 @app.get("/api/calibration")

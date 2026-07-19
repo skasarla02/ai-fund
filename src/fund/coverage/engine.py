@@ -31,6 +31,7 @@ from fund.decision.schemas import strict_json_schema
 from fund.signals.indicators import signal_snapshot
 
 COVERAGE_DIR = RESULTS_DIR / "coverage"
+CHANGES_LOG = COVERAGE_DIR / "_changes.jsonl"
 COVERAGE_MODEL = "claude-sonnet-5"
 
 SYSTEM_PROMPT = """\
@@ -119,6 +120,11 @@ def rate_company(
 
 def write_result(result: CoverageResult, out_dir: Path = COVERAGE_DIR) -> None:
     out_dir.mkdir(parents=True, exist_ok=True)
+    path = out_dir / f"{result.ticker}.json"
+
+    if path.exists():
+        _log_change_if_any(json.loads(path.read_text()), result, out_dir)
+
     payload = {
         "ticker": result.ticker,
         "name": result.company.name,
@@ -129,7 +135,39 @@ def write_result(result: CoverageResult, out_dir: Path = COVERAGE_DIR) -> None:
         **result.rating.model_dump(),
         "metrics": result.metrics,
     }
-    (out_dir / f"{result.ticker}.json").write_text(json.dumps(payload, indent=2))
+    path.write_text(json.dumps(payload, indent=2))
+
+
+def _log_change_if_any(previous: dict, result: CoverageResult, out_dir: Path) -> None:
+    """Append a change-log entry when a refresh actually moves the rating.
+
+    This is what makes an "upgrades/downgrades" feed real: each entry is a
+    genuine diff between two runs, not a fabricated narrative. A single run
+    over a fresh ticker produces no entry — history only exists once a
+    company has been rated more than once.
+    """
+    if previous.get("rating") == result.rating.rating:
+        return
+    entry = {
+        "ticker": result.ticker,
+        "name": result.company.name,
+        "as_of": result.as_of,
+        "from_rating": previous.get("rating"),
+        "to_rating": result.rating.rating,
+        "from_conviction": previous.get("conviction"),
+        "to_conviction": result.rating.conviction,
+        "key_signal": result.rating.key_signal,
+    }
+    with open(out_dir / "_changes.jsonl", "a") as f:
+        f.write(json.dumps(entry) + "\n")
+
+
+def load_changes(path: Path = CHANGES_LOG, limit: int = 50) -> list[dict]:
+    """Most recent rating changes, newest first."""
+    if not path.exists():
+        return []
+    lines = path.read_text().strip().splitlines()
+    return [json.loads(line) for line in reversed(lines[-limit:])]
 
 
 def run_coverage(

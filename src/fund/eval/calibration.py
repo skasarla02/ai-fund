@@ -86,6 +86,49 @@ def score_calibration(
     return CalibrationReport(brier, len(p), float(o.mean()), pd.DataFrame(rows))
 
 
+def calibration_trend(
+    memos: list[dict],
+    forward_return: Callable[[str, str, int], float | None],
+    horizon_days: int = 21,
+    freq: str = "MS",
+) -> pd.DataFrame:
+    """Brier score binned by calendar period (default: monthly).
+
+    Reuses the same real predictions/outcomes as ``score_calibration``, just
+    grouped by the decision's timestamp instead of pooled into one number —
+    real evidence that calibration is stable (or improving) over time, not a
+    single lucky snapshot. Empty periods are dropped, not interpolated.
+    """
+    rows = []
+    for memo in memos:
+        for view in memo.get("assets", []):
+            if view.get("stance") != "long":
+                continue
+            fwd = forward_return(view["symbol"], memo["as_of"], horizon_days)
+            if fwd is None:
+                continue
+            rows.append({
+                "as_of": pd.Timestamp(memo["as_of"]),
+                "pred": float(view["conviction"]),
+                "outcome": 1.0 if fwd > 0 else 0.0,
+            })
+    if not rows:
+        return pd.DataFrame(columns=["period", "brier", "n"])
+
+    df = pd.DataFrame(rows)
+    df["period"] = df["as_of"].dt.tz_localize(None).dt.to_period(freq[0]).dt.to_timestamp()
+    out = (
+        df.groupby("period")
+        .apply(lambda g: pd.Series({
+            "brier": float(((g["pred"] - g["outcome"]) ** 2).mean()),
+            "n": len(g),
+        }), include_groups=False)
+        .reset_index()
+        .sort_values("period")
+    )
+    return out
+
+
 def make_panel_forward_return(close_panel: pd.DataFrame) -> Callable[[str, str, int], float | None]:
     """Build a ``forward_return`` from a backtest close panel (index=dates)."""
     idx = close_panel.index
