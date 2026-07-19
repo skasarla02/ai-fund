@@ -186,14 +186,29 @@ def run_coverage(
     client: LLMClient | None = None,
     pace_seconds: float = 0.0,
     on_result: Callable[[CoverageResult], None] | None = None,
+    skip_existing: bool = True,
+    out_dir: Path = COVERAGE_DIR,
 ) -> list[CoverageResult]:
     """Rate every requested ticker (default: the full S&P 500+400+600 universe)
-    and persist each."""
+    and persist each.
+
+    ``skip_existing`` (default True) makes runs resumable and idempotent: a
+    company already rated (a JSON file exists for it) is left alone rather
+    than re-rated at full cost. This is what lets an interrupted run — killed
+    process, sleeping laptop, closed terminal — pick back up where it left off
+    with `python scripts/run_coverage.py`, no flags, no wasted spend on
+    already-done companies. Pass ``skip_existing=False`` for a deliberate full
+    re-rate (e.g. Phase 4's scheduled refresh, which *wants* to re-rate
+    everyone to catch rating drift and populate the changes feed for real).
+    """
     client = client or LLMClient(model=COVERAGE_MODEL)
     companies = fetch_universe()
     if tickers:
         wanted = set(tickers)
         companies = [c for c in companies if c.ticker in wanted]
+    if skip_existing:
+        already = {p.stem for p in out_dir.glob("*.json")} if out_dir.exists() else set()
+        companies = [c for c in companies if c.ticker not in already]
 
     results = []
     for company in companies:
@@ -204,7 +219,7 @@ def run_coverage(
             continue
         if result is None:
             continue
-        write_result(result)
+        write_result(result, out_dir=out_dir)
         results.append(result)
         if on_result:
             on_result(result)

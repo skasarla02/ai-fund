@@ -157,12 +157,19 @@ and for whom*; the README governs *how*.
 - **Phase 3c — done.** Coverage engine expanded to S&P 500+400+600 (~1,500
   companies), analyst-coverage-count wired through as a first-class stat and
   model input, Hidden Winners API filter shipped. See §6.
-- **Phase 3d — next.** The real production frontend: Vite + React, wired live
-  to the FastAPI backend (no more embedded mock JSON in a static HTML file).
-  Carries forward the visual language validated in the 3b prototype.
-- **Phase 3e — after that.** Full live coverage run once Anthropic billing
-  clears (real Claude ratings, not mock) across the full ~1,500-company
-  universe (~$27).
+- **Phase 3d — done.** Real production frontend built: Vite + React + TypeScript
+  + Tailwind v4 + Framer Motion + TanStack Query, in `web/`, wired live to the
+  FastAPI backend (zero embedded mock data). Carries forward the 3b visual
+  language into real components. Verified end-to-end against live data: search,
+  card expand with real Claude-generated bull/bear reasoning, comparison with
+  a working radar chart, sector heatmap, changes feed, calibration (with real
+  quarterly Brier trend), track record — all fetching live via React Query.
+- **Phase 3e — in progress.** Billing cleared unexpectedly during this
+  session; a full live coverage run (real Sonnet 5 ratings, not mock) kicked
+  off across the ~1,505-company universe, ~$27, running unattended in the
+  background (`/tmp/full_coverage_sweep.log`; ~15-25s/company, so several
+  hours to complete). Verify it finished and check final spend before
+  reporting the dataset as complete.
 - **Phase 4 — later.** Real scheduled autonomous runs (GitHub Actions cron) so
   the desk actually re-rates on a cadence and the change feed / calibration
   trend become fully organic, not seeded. Portfolio-site integration timing:
