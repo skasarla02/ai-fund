@@ -1,0 +1,26 @@
+{
+  "ticker": "EME",
+  "name": "Emcor",
+  "sector": "Industrials",
+  "sub_industry": "Construction & Engineering",
+  "tier": "S&P 500",
+  "price": 744.1599731445312,
+  "as_of": "2026-07-19T22:05:57.300994+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "EME is down ~22% from its 52-week high and 11% in the last month, now trading right at its 200DMA (740 vs price 744) after a sharp momentum breakdown despite still-strong fundamentals (20% revenue growth, 30% earnings growth, 39% ROE).",
+  "thesis": "EMCOR's fundamentals remain excellent \u2014 revenue growth of ~20%, earnings growth of 30%, ROE near 39%, and operating margins expanding to 8.7% \u2014 reflecting continued strength in its electrical/mechanical construction backlog tied to data center, manufacturing reshoring, and infrastructure spend. The stock has pulled back sharply (mom_21d -10.8%, mom_63d -6%) from its 52-week high of $952 to $744, pushing RSI to 36 (oversold territory) while it still sits above its 200-day moving average with an active golden cross, suggesting the primary uptrend is intact despite the near-term correction. Valuation at 22.6x forward earnings is not excessive given 30% earnings growth (PEG well under 1), and low analyst coverage (7 analysts) with a consensus 'buy' rating suggests the recent drawdown may be a sentiment-driven overreaction rather than a fundamental deterioration, creating a tactical entry point for a quality compounder with minimal balance sheet leverage relative to equity value.",
+  "bear_case": "The technical picture is genuinely deteriorating, not just noisy: price is below the 50-day SMA by over 10%, MACD histogram is decisively negative (-3.77), and 30-day annualized volatility has spiked to 44%, indicating the market is actively repricing risk rather than offering a clean dip-buy setup. High beta (1.13) combined with a P/B multiple of 8.5x and trailing P/E near 25x leaves little room for multiple compression if construction/engineering end-markets soften \u2014 margins are thin (7.5% net, 19% gross) for a business this capital-intensive, meaning any moderation in project awards or cost inflation could hit earnings growth harder than the market currently prices in. With only 7 analysts covering the name, there's less scrutiny to catch early warning signs, and a break below the 200DMA (currently just 4 points below spot) could trigger further technical selling given the golden cross may soon invert if the downtrend persists.",
+  "metrics": {
+    "momentum_63d": -0.06021533705342308,
+    "volatility_ann": 0.4380890527867101,
+    "rsi_14": 36.41799843373833,
+    "profit_margin": 0.07537,
+    "revenue_growth": 0.197,
+    "trailing_pe": 24.996975,
+    "return_on_equity": 0.39229,
+    "beta": 1.126,
+    "market_cap": 33139353600,
+    "analyst_coverage": 7
+  }
+}

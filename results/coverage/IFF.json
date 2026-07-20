@@ -1,0 +1,26 @@
+{
+  "ticker": "IFF",
+  "name": "International Flavors & Fragrances",
+  "sector": "Materials",
+  "sub_industry": "Specialty Chemicals",
+  "tier": "S&P 500",
+  "price": 78.19999694824219,
+  "as_of": "2026-07-19T22:36:27.142629+00:00",
+  "rating": "bullish",
+  "conviction": 0.6,
+  "key_signal": "Stock holds a golden cross and trades above both 50- and 200-day moving averages (78.20 vs 76.51/70.53) even as forward P/E (16.3x) implies a sharp earnings recovery from a currently negative revenue growth base (-3.6%).",
+  "thesis": "IFF's technical structure remains constructive\u2014price is above both key moving averages with a golden cross intact and 126-day momentum of +12.7%, suggesting the market is pricing in the multi-year restructuring/deleveraging story finally bearing fruit. The gap between trailing P/E (24.2x) and forward P/E (16.3x) signals consensus expects a meaningful earnings inflection, and free cash flow of $3.7B against a $20B market cap (an ~18.5% FCF/market cap ratio) gives management ample room to pay down debt (D/E still elevated at 45.7%) and support the 2.05% dividend. With 18 analysts covering the name at a 'buy' consensus and the stock still ~7% below its 52-week high of $84.45, there's room to re-rate higher if margin execution continues (gross margin 36.3%, operating margin 10.1%) even as revenue growth stabilizes.",
+  "bear_case": "The fundamental picture is genuinely weak beneath the technical veneer: revenue growth is negative (-3.6%), ROE is a mediocre 6.1%, net margins are thin at 7.7%, and debt-to-equity at 45.7% leaves little room for error if the anticipated earnings recovery (implied by the forward P/E discount) doesn't materialize\u2014this is a classic value trap setup where the market has already priced in a turnaround that hasn't shown up in the top line yet. Short-term momentum is also softening, with 21-day momentum near flat (+0.98%) and MACD histogram negative (-0.377), suggesting the recent uptrend is losing steam just as it approaches resistance from the 52-week high, and at 33% annualized volatility a reversal back toward the 200-day average (70.53) would erase much of the recent gain.",
+  "metrics": {
+    "momentum_63d": 0.09094479514910003,
+    "volatility_ann": 0.33317183744864276,
+    "rsi_14": 52.99341670517105,
+    "profit_margin": 0.076570004,
+    "revenue_growth": -0.036,
+    "trailing_pe": 24.210526,
+    "return_on_equity": 0.060510002,
+    "beta": 0.944,
+    "market_cap": 19964731392,
+    "analyst_coverage": 18
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "PSA",
+  "name": "Public Storage",
+  "sector": "Real Estate",
+  "sub_industry": "Self-Storage REITs",
+  "tier": "S&P 500",
+  "price": 314.3699951171875,
+  "as_of": "2026-07-20T15:57:26.099661+00:00",
+  "rating": "neutral",
+  "conviction": 0.56,
+  "key_signal": "PSA trades just under its 52-week high with a golden cross intact, but momentum is stalling (RSI 46.6, negative MACD histogram, flat 21d momentum) while trading at a rich 11.3x book value and 32.5x trailing earnings for only 3.2% revenue growth.",
+  "thesis": "PSA remains in a durable long-term uptrend (above both 50- and 200-day moving averages, golden cross confirmed, +9.4% over 126 days) with strong profitability (46% operating margin, 39% net margin, 20% ROE) and 32.8% earnings growth outpacing peers. A low beta (0.95) and 3.77% dividend yield make it a defensive holding, and 16 analysts still rate it a consensus 'buy,' suggesting institutional support persists even as self-storage fundamentals moderate.",
+  "bear_case": "Revenue growth has decelerated to just 3.2%, well below the earnings growth rate, implying margin expansion or one-time items rather than organic demand strength \u2014 a red flag for a REIT priced at 11.3x book value and nearly 33x trailing earnings, multiples that leave little room for disappointment. Short-term technicals confirm the risk: negative MACD histogram, sub-50 RSI, and a 1-day drop of over 1% while sitting just 5% off the 52-week high suggest the stock may be rolling over after its run, and with self-storage supply growth historically pressuring rents, any guidance softness could trigger a valuation reset given the stock's premium versus REIT peers.",
+  "metrics": {
+    "momentum_63d": 0.026099134796787826,
+    "volatility_ann": 0.2416714286947181,
+    "rsi_14": 46.64861922016811,
+    "profit_margin": 0.39061,
+    "revenue_growth": 0.032,
+    "trailing_pe": 32.509823,
+    "return_on_equity": 0.20175,
+    "beta": 0.952,
+    "market_cap": 55196975104,
+    "analyst_coverage": 16
+  }
+}

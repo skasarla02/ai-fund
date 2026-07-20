@@ -1,0 +1,26 @@
+{
+  "ticker": "CASY",
+  "name": "Casey's",
+  "sector": "Consumer Staples",
+  "sub_industry": "Food Retail",
+  "tier": "S&P 500",
+  "price": 859.1199951171875,
+  "as_of": "2026-07-19T21:39:51.568308+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "CASY just popped +3.9% on the day and sits 27% above its 200-day SMA with a golden cross intact, confirming a powerful uptrend (63d mom +16.6%, 126d mom +39.6%) even as it consolidates only ~7% below its 52-week high of $927.85.",
+  "thesis": "Casey's is showing durable fundamental momentum (66% earnings growth, 14.5% revenue growth, 19% ROE) layered on top of a technically pristine chart\u2014above both the 50- and 200-day moving averages, golden cross confirmed, MACD histogram positive, and RSI at a healthy 57 with room to run before overbought. The 18 analysts covering it already rate it 'buy,' and low beta (0.619) plus consistent same-store-sales/fuel-margin execution has made CASY a favored consumer-staples-adjacent compounder that institutions keep adding to on dips (the -0.7% 21-day pullback looks like digestion, not a trend break). Today's 3.9% single-day pop suggests fresh buying interest, likely event-driven (earnings or guidance), reinforcing the fundamental growth story.",
+  "bear_case": "Valuation is stretched well beyond what a low-single-digit-margin convenience-store operator historically commands: trailing P/E of 44.8x, forward P/E of 36.5x, and price-to-book of 8x are extreme for a business with 4.07% net margins and 24.6% gross margins, meaning any deceleration from the current 66% earnings-growth pace (which is almost certainly not repeatable given a much harder comp) could trigger a sharp multiple contraction. Debt-to-equity of 73.5% also leaves less balance-sheet flexibility for continued M&A-driven growth if fuel margins normalize or acquisition integration costs rise, and with the stock already near its 52-week high and 30-day annualized volatility near 70%, a reversal from these elevated levels could be fast and painful for late entrants.",
+  "metrics": {
+    "momentum_63d": 0.16615944109801317,
+    "volatility_ann": 0.6956500467370669,
+    "rsi_14": 57.45147978925578,
+    "profit_margin": 0.04068,
+    "revenue_growth": 0.145,
+    "trailing_pe": 44.83925,
+    "return_on_equity": 0.19153,
+    "beta": 0.619,
+    "market_cap": 31791659008,
+    "analyst_coverage": 18
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "SHW",
+  "name": "Sherwin-Williams",
+  "sector": "Materials",
+  "sub_industry": "Specialty Chemicals",
+  "tier": "S&P 500",
+  "price": 327.6400146484375,
+  "as_of": "2026-07-20T16:06:47.589168+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "SHW trades below its 200-day moving average with negative 63/126-day momentum despite a rich 31.5x trailing P/E and 18x price-to-book, suggesting the market is digesting a premium valuation against decelerating housing/paint demand.",
+  "thesis": "Sherwin-Williams retains best-in-class profitability (49% gross margin, 60.7% ROE, 14.2% operating margin) and a durable pro-channel/architectural coatings moat that supports pricing power even as volumes soften. Revenue growth of 6.8% and earnings growth of 7.5% are still positive, the stock sits comfortably above its 50-day SMA (319 vs 327.6 price) with a recent 21-day bounce of +4.4%, and 20 sell-side analysts maintain a consensus 'buy' rating, implying institutional confidence that current softness is cyclical rather than structural. A ~1% dividend yield with a long history of growth adds a floor for patient holders.",
+  "bear_case": "The stock is priced for perfection at 31.5x trailing/24.6x forward earnings and 18x book value while medium-term momentum is clearly negative (-4.9% over 63 days, -7.6% over 126 days) and price has broken below the 200-day SMA with no golden cross, historically a sign institutional flows are rotating out. Debt-to-equity of 330% is extreme even for a share-buyback-heavy compounder, leaving little balance-sheet flexibility if a housing/remodeling slowdown pressures volumes further, and the negative MACD histogram (-1.97) confirms downside momentum is still building rather than reversing. If earnings growth decelerates below the high-single-digit rate embedded in the forward multiple, this premium-priced, highly-levered name has substantial multiple-compression risk, especially with the stock still ~14% off its 52-week high and RSI sitting neutral rather than oversold, meaning there's no capitulation signal to suggest a durable bottom is in.'",
+  "metrics": {
+    "momentum_63d": -0.04937186656028292,
+    "volatility_ann": 0.30435855235937814,
+    "rsi_14": 48.19202569671664,
+    "profit_margin": 0.1086,
+    "revenue_growth": 0.068,
+    "trailing_pe": 31.503849,
+    "return_on_equity": 0.60723,
+    "beta": 1.1,
+    "market_cap": 80807698432,
+    "analyst_coverage": 20
+  }
+}

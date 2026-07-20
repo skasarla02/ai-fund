@@ -1,0 +1,26 @@
+{
+  "ticker": "AMGN",
+  "name": "Amgen",
+  "sector": "Health Care",
+  "sub_industry": "Biotechnology",
+  "tier": "S&P 500",
+  "price": 366.2900085449219,
+  "as_of": "2026-07-19T21:21:58.255982+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "AMGN is in a confirmed uptrend (golden cross, price above both 50- and 200-day SMAs, +13% over 126 days) while trading at just 15.6x forward earnings versus 25.5x trailing, implying the market expects a meaningful earnings inflection.",
+  "thesis": "Amgen's technical picture is constructive: all momentum windows (21/63/126-day) are positive, the stock sits comfortably above its 50-day ($346) and 200-day ($336) moving averages with a golden cross intact, and RSI at 58 shows room before overbought. Fundamentally, the forward PE (15.6x) is dramatically cheaper than trailing PE (25.5x), consistent with sell-side consensus (29 analysts, 'buy' rating) expecting earnings acceleration, likely tied to pipeline catalysts like the MariTide obesity program and continued Repatha/Tepezza/Uplizna growth. Margins remain excellent (71% gross, 34% operating) and free cash flow of $7.4B supports the 2.75% dividend even as leverage is elevated. Low beta (0.40) makes this a defensive large-cap biotech play that has still delivered double-digit momentum, offering a rare combination of growth optionality and downside ballast in a volatile tape.",
+  "bear_case": "The balance sheet is the real risk here: debt-to-equity of 624% (largely from the $27.8B Horizon Therapeutics acquisition) has pushed reported ROE to a distorted 101%, masking that book value is thin and the company is highly levered into a rate-sensitive environment. Earnings growth of only 4.4% and revenue growth of 5.8% look modest against a 25.5x trailing PE and 21.5x price-to-book, meaning the 'cheap' forward multiple requires the market's optimistic growth assumptions to actually materialize\u2014if MariTide or other pipeline assets disappoint, the multiple compression could be severe. Short-term technicals are also softening: MACD histogram is negative and the stock fell 1.4% on the day, and shares are already ~6% below the 52-week high of $391, suggesting the easy momentum gains may be behind it while patent-cliff pressure on legacy drugs like Enbrel continues to weigh on the base business.",
+  "metrics": {
+    "momentum_63d": 0.056286695288790156,
+    "volatility_ann": 0.27456030657803665,
+    "rsi_14": 57.656406546623096,
+    "profit_margin": 0.20955999,
+    "revenue_growth": 0.058,
+    "trailing_pe": 25.507662,
+    "return_on_equity": 1.01318,
+    "beta": 0.403,
+    "market_cap": 197689753600,
+    "analyst_coverage": 29
+  }
+}

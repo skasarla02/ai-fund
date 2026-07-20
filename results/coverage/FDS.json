@@ -1,0 +1,26 @@
+{
+  "ticker": "FDS",
+  "name": "FactSet",
+  "sector": "Financials",
+  "sub_industry": "Financial Exchanges & Data",
+  "tier": "S&P 500",
+  "price": 258.0899963378906,
+  "as_of": "2026-07-19T22:11:33.121102+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "FDS trades near 40% below its 52-week high at just 13x forward earnings, but earnings growth is actually contracting (-9.6%) even as the stock bounces off a technical low.",
+  "thesis": "At 13.1x forward earnings and 17x trailing, FDS is priced well below its historical premium multiple for a recurring-revenue data/analytics business with 51% gross margins, 30% operating margins, and 27% ROE. The stock has stabilized and turned higher \u2014 up 8.6% over 21 days and 11.9% over 63 days, now trading above both its 50- and 200-day moving averages with a positive MACD histogram \u2014 suggesting the selloff from the $432 high may be exhausting itself. Low beta (0.72) and a 1.8% dividend add defensive characteristics while the market waits for earnings growth to reaccelerate from the current 6.4% revenue growth base.",
+  "bear_case": "Earnings growth is negative (-9.6%) even as revenue growth has slowed to just 6.4%, meaning margins are compressing or one-time items are hurting profitability \u2014 this is the real reason the stock is down ~40% from its highs, not just multiple compression. The 126-day momentum of -11.7% shows the stock was in a sustained downtrend for most of the past six months, and the recent bounce could simply be a dead-cat rally within a broader de-rating as FactSet faces intensifying competition from Bloomberg, S&P Capital IQ, and cheaper AI-driven data alternatives that threaten its per-seat pricing model. With 16 analysts already covering the name and a consensus 'hold' rating, there's little informational edge left to exploit, and debt-to-equity of 77% limits flexibility if earnings continue to soften. The lack of a golden cross (50dma still below 200dma) signals the longer-term trend has not yet confirmed a reversal.",
+  "metrics": {
+    "momentum_63d": 0.11860805261963292,
+    "volatility_ann": 0.5699833165824496,
+    "rsi_14": 57.70492467276661,
+    "profit_margin": 0.2321,
+    "revenue_growth": 0.064,
+    "trailing_pe": 17.001976,
+    "return_on_equity": 0.27032,
+    "beta": 0.715,
+    "market_cap": 9179111424,
+    "analyst_coverage": 16
+  }
+}

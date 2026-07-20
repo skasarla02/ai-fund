@@ -1,0 +1,26 @@
+{
+  "ticker": "DXCM",
+  "name": "Dexcom",
+  "sector": "Health Care",
+  "sub_industry": "Health Care Equipment",
+  "tier": "S&P 500",
+  "price": 76.6500015258789,
+  "as_of": "2026-07-19T21:59:58.615998+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "DXCM trades above both its 50- and 200-day moving averages with a golden cross intact and 63-day momentum of +25%, even as it sits ~15% below its 52-week high, suggesting room to re-rate as earnings growth (92% y/y) is digested.",
+  "thesis": "Dexcom's technical setup is constructive: price is above both the 50-day ($70.5) and 200-day ($67.3) SMAs with a golden cross confirmed, MACD histogram positive, and RSI at 59 leaving room before overbought territory. Fundamentally, the company is compounding nicely \u2014 15% revenue growth, 92% earnings growth, 61.5% gross margins, 21.4% operating margins, and a 35.6% ROE \u2014 while trading at a forward PE of ~25x, a discount to its trailing PE of ~33x, implying the market expects continued margin/earnings expansion. Free cash flow of over $1B on ~$4.8B revenue shows the model is converting growth into cash. With 24 analysts rating it a 'strong buy' and the stock still 15% below its 52-week high of $89.98, there's a credible reversion path if execution continues, especially with momentum already reaccelerating (mom_63d +25%).",
+  "bear_case": "The stock carries a rich valuation for a medical device name \u2014 10x price-to-book and 33x trailing earnings \u2014 leaving little room for error, and it's still down meaningfully from its 52-week high, which could reflect lasting concerns (e.g., competitive CGM pressure from Abbott's Libre franchise or Medtronic, plus pricing/reimbursement risk) rather than a temporary dip. Beta of 1.45 and 30-day annualized volatility of 43% mean this is a high-beta, high-volatility name that can give back momentum gains quickly in a risk-off tape, and the -1.7% daily move alongside 24 analysts already covering the name means any fundamental disappointment gets priced in fast with little informational edge left to exploit. Debt-to-equity of ~47 also adds leverage risk if growth decelerates from the current 15% pace.",
+  "metrics": {
+    "momentum_63d": 0.2518373689192319,
+    "volatility_ann": 0.42799945583554083,
+    "rsi_14": 59.08335598798717,
+    "profit_margin": 0.19311,
+    "revenue_growth": 0.15,
+    "trailing_pe": 32.896996,
+    "return_on_equity": 0.35624,
+    "beta": 1.453,
+    "market_cap": 29577164800,
+    "analyst_coverage": 24
+  }
+}

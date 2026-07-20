@@ -1,0 +1,26 @@
+{
+  "ticker": "CCL",
+  "name": "Carnival Corporation",
+  "sector": "Consumer Discretionary",
+  "sub_industry": "Hotels, Resorts & Cruise Lines",
+  "tier": "S&P 500",
+  "price": 26.40999984741211,
+  "as_of": "2026-07-19T21:39:05.916458+00:00",
+  "rating": "bearish",
+  "conviction": 0.58,
+  "key_signal": "Price has broken below both the 50- and 200-day moving averages with a -14.5% one-month momentum decline and negative MACD, signaling accelerating technical deterioration despite a 'buy' consensus.",
+  "thesis": "Carnival trades at a discounted 11.9x trailing / 10x forward earnings with ROE near 27% and revenue growth of 5.3%, and the stock is well off its 52-week high, offering a potential value entry if cruise demand holds and margins (55.7% gross, 12.8% operating) continue to normalize post-recovery. A reinstated 1.7% dividend and FCF of ~$1.9B support the deleveraging narrative that could eventually re-rate the stock as debt/equity (currently 201.6%) comes down.",
+  "bear_case": "The technical picture is unambiguously negative \u2014 price is below both the 50-day ($27.32) and 200-day ($27.85) averages with no golden cross, momentum negative across 21/63/126-day windows, and a beta of 2.32 means any broader risk-off move or consumer spending slowdown will hit this stock disproportionately hard; combined with earnings growth already turning negative (-6.5%) and leverage still elevated at over 200% debt-to-equity, the 'cheap' valuation could be a value trap if a weakening discretionary spending environment further pressures bookings and pricing power, pushing shares toward the 52-week low of $23.45.",
+  "metrics": {
+    "momentum_63d": -0.027031847062146785,
+    "volatility_ann": 0.4849882547697196,
+    "rsi_14": 42.70989643594969,
+    "profit_margin": 0.11237001,
+    "revenue_growth": 0.053,
+    "trailing_pe": 11.896397,
+    "return_on_equity": 0.26689,
+    "beta": 2.322,
+    "market_cap": 36172435456,
+    "analyst_coverage": 25
+  }
+}

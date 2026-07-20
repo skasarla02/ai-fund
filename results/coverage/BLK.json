@@ -1,0 +1,26 @@
+{
+  "ticker": "BLK",
+  "name": "BlackRock",
+  "sector": "Financials",
+  "sub_industry": "Asset Management & Custody Banks",
+  "tier": "S&P 500",
+  "price": 1072.199951171875,
+  "as_of": "2026-07-19T21:33:27.164411+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "BlackRock's price has reclaimed its 200-day average with positive MACD momentum while trading at a much cheaper forward P/E (16.7x) than trailing (25.7x), reflecting expected earnings acceleration.",
+  "thesis": "BLK is showing a technical recovery (mom_21d +1.9%, mom_63d +5.2%, MACD histogram strongly positive, RSI 60) after a pullback from its 52-week high, and it's now back above its 200-day moving average. Fundamentally, revenue growth of 30.6% YoY and earnings growth of 19.7% are robust for a mega-cap asset manager, driven by AUM inflows (likely boosted by ETF/fixed-income demand and the GIP/Preqin-type expansions). Operating margins of 35% and gross margins of 47% show scale efficiency, and the forward P/E discount to trailing P/E signals the Street expects margin/earnings expansion. A 2.14% dividend yield adds a income floor, and a 'buy' consensus across 16 analysts suggests institutional confidence without the stock being over-scrutinized like mega-cap tech.",
+  "bear_case": "The stock remains roughly 12% below its 52-week high and technically sits in a death-cross configuration (50dma at 1033 below 200dma at 1049), meaning the medium-term trend is still bearish and the recent bounce could be a dead-cat rally within a larger downtrend; mom_126d is still slightly negative (-0.7%), confirming stalled 6-month momentum. With a beta of 1.44 and 32% annualized volatility, BLK is highly levered to market sentiment and rate expectations \u2014 any equity market correction or outflows from active/ETF products would hit both AUM-based fees and the stock disproportionately. At 2.94x book and 25.7x trailing earnings, valuation isn't cheap in absolute terms, so the bull case depends heavily on forward estimates materializing, and any deceleration in the 30.6% revenue growth (which is unusually high and may include one-time M&A-related boosts like GIP/Preqin) could trigger a re-rating lower.",
+  "metrics": {
+    "momentum_63d": 0.051994768448763606,
+    "volatility_ann": 0.32066543338210973,
+    "rsi_14": 60.34929917130835,
+    "profit_margin": 0.24089001,
+    "revenue_growth": 0.306,
+    "trailing_pe": 25.706064,
+    "return_on_equity": null,
+    "beta": 1.443,
+    "market_cap": 174342193152,
+    "analyst_coverage": 16
+  }
+}

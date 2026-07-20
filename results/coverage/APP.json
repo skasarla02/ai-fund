@@ -1,0 +1,26 @@
+{
+  "ticker": "APP",
+  "name": "AppLovin",
+  "sector": "Information Technology",
+  "sub_industry": "Application Software",
+  "tier": "S&P 500",
+  "price": 424.5400085449219,
+  "as_of": "2026-07-19T21:24:19.400623+00:00",
+  "rating": "bearish",
+  "conviction": 0.57,
+  "key_signal": "APP has fallen 43% from its 52-week high and trades below both its 50- and 200-day moving averages with decisively negative momentum across the 21d, 63d, and 126d windows.",
+  "thesis": "AppLovin remains a highly profitable growth engine\u201459% revenue growth, 78% operating margin, 64% net margin, and 113% earnings growth\u2014with a forward P/E of just ~19.6x that looks cheap relative to its growth profile, and the 30-analyst consensus still rates it strong buy, suggesting the recent drawdown may eventually be viewed as a valuation reset rather than a fundamental impairment.",
+  "bear_case": "The technical picture is unambiguously deteriorating: price is below both the 50-day (505) and 200-day (532) moving averages with no golden cross, momentum is negative on every horizon (-17.6% 1M, -8.9% 3M, -31.3% 6M), MACD histogram is sharply negative, and RSI at 36 shows room to fall further before oversold\u2014this is a stock in a confirmed downtrend, not consolidation. Combined with a beta of 2.48 and 73% annualized volatility, any broader market weakness or continued deceleration in mobile ad spend will amplify losses; meanwhile the trailing P/E of 37x and price-to-book of 60x (against a debt/equity of 163%) leave little margin for error if growth decelerates from its current elevated pace, and the stock has already round-tripped from 745 to the low 400s once sentiment shifted, showing how quickly the market re-rates this name when momentum breaks.",
+  "metrics": {
+    "momentum_63d": -0.08914584762477329,
+    "volatility_ann": 0.7300069502399312,
+    "rsi_14": 36.15443120550345,
+    "profit_margin": 0.6429,
+    "revenue_growth": 0.59,
+    "trailing_pe": 36.88445,
+    "return_on_equity": 2.66444,
+    "beta": 2.483,
+    "market_cap": 142619770880,
+    "analyst_coverage": 30
+  }
+}

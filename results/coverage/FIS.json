@@ -1,0 +1,26 @@
+{
+  "ticker": "FIS",
+  "name": "Fidelity National Information Services",
+  "sector": "Financials",
+  "sub_industry": "Transaction & Payment Processing Services",
+  "tier": "S&P 500",
+  "price": 41.90999984741211,
+  "as_of": "2026-07-19T22:18:47.340955+00:00",
+  "rating": "bullish",
+  "conviction": 0.56,
+  "key_signal": "FIS trades at just 6.1x forward earnings and a 4% dividend yield after cratering ~49% from its 52-week high, while short-term momentum (mom_21d +6.1%, MACD histogram positive, price back above the 50-day SMA) suggests the selling pressure is stabilizing.",
+  "thesis": "The stock's collapse from $82.62 to $41.91 has pushed valuation to distressed levels (trailing PE 8.1x, forward PE 6.1x, P/B 1.36x) that look disconnected from a business still generating 30% revenue growth, 23% net margins, 17% ROE, and $2.4B of free cash flow on $11.4B revenue. A 4% dividend yield is well-covered by that FCF, and the recent 21-day momentum turning positive (+6.1%) alongside a bullish MACD histogram and RSI sitting at a neutral 54.7 suggests the stock is finding a base above its 50-day SMA ($41.01) after a brutal 33% six-month drawdown. With 22 analysts still rating it a 'buy' consensus, any stabilization in payments-industry sentiment or confirmation that the earlier de-rating was overdone could drive a mean-reversion rally, especially given beta of only 0.81 offering some defensiveness if the broader market wobbles.",
+  "bear_case": "The stock remains well below its 200-day SMA ($52.81, vs. current $41.91) with no golden cross, meaning the dominant technical trend is still firmly bearish, and the 126-day momentum of -33% signals a structural de-rating rather than a temporary dip \u2014 markets may be correctly pricing deteriorating competitive dynamics in payment processing (Worldpay-related restructuring, market share pressure from newer fintech rails) that the cheap multiple reflects rather than mispricing. Debt-to-equity of 132% is elevated for a company facing revenue growth deceleration risk, and the reported 30.4x earnings growth figure is almost certainly a distorted year-over-year comparison (likely from a prior-period impairment or divestiture charge) rather than a repeatable trend, meaning the 'cheap on earnings' framing could be misleading. With 22 analysts already covering this large-cap S&P 500 name, any real fundamental improvement is likely to already be reflected in consensus estimates, leaving limited room for a surprise re-rating catalyst, and the single-day -1.7% move alongside 35% annualized volatility shows the stock is still capable of resuming its downtrend quickly.",
+  "metrics": {
+    "momentum_63d": -0.12816540777251284,
+    "volatility_ann": 0.3511710317324997,
+    "rsi_14": 54.72465489322606,
+    "profit_margin": 0.23347999,
+    "revenue_growth": 0.301,
+    "trailing_pe": 8.122093,
+    "return_on_equity": 0.17225,
+    "beta": 0.813,
+    "market_cap": 21662404608,
+    "analyst_coverage": 22
+  }
+}

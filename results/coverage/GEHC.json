@@ -1,0 +1,26 @@
+{
+  "ticker": "GEHC",
+  "name": "GE HealthCare",
+  "sector": "Health Care",
+  "sub_industry": "Health Care Equipment",
+  "tier": "S&P 500",
+  "price": 63.06999969482422,
+  "as_of": "2026-07-19T22:23:56.020054+00:00",
+  "rating": "bearish",
+  "conviction": 0.58,
+  "key_signal": "GEHC trades near its 52-week low, down ~26% over six months, with earnings growth of -30.9% despite revenue growth of only 7.4%, and remains below both its 50- and 200-day moving averages with a negative MACD histogram.",
+  "thesis": "The stock's valuation has compressed sharply (forward P/E 11.76, trailing P/E 15.1) which could set up a value rebound if the earnings decline proves transitory, and the underlying business still shows 39% gross margins, 11% operating margins, and a strong 19.5% ROE with positive revenue growth of 7.4%. Sell-side consensus remains 'buy' across 18 analysts, and free cash flow of ~$1.5B on $21B revenue supports the balance sheet even as leverage (D/E ~97) is elevated. A stock this beaten down (58.75 low vs 89.77 high) could see mean reversion if imaging/diagnostics demand stabilizes.",
+  "bear_case": "The technical picture is unambiguously deteriorating \u2014 price is below both the 50-day ($63.55) and 200-day ($73.56) moving averages with no golden cross, momentum is negative across 21/63/126-day windows (worst at -26% over six months), and MACD histogram is still negative, signaling the downtrend has momentum rather than exhaustion. More importantly, earnings growth of -30.9% year-over-year is a real fundamental deterioration, not just sentiment \u2014 likely driven by China imaging demand weakness, tariff/cost pressure, or margin compression that a 7.4% revenue growth rate isn't offsetting, and with debt-to-equity near 97% the company has less flexibility to absorb further earnings shocks. Annualized volatility of 37% and a stock hovering just above its 52-week low suggest the market sees more risk ahead, and with 18 analysts already covering the name, any mispricing from 'cheap' headline multiples is likely to be quickly arbitraged away rather than persist as a buying opportunity.",
+  "metrics": {
+    "momentum_63d": -0.13838794638995167,
+    "volatility_ann": 0.36899446637383,
+    "rsi_14": 46.41110348101638,
+    "profit_margin": 0.091000006,
+    "revenue_growth": 0.074,
+    "trailing_pe": 15.1247,
+    "return_on_equity": 0.19462,
+    "beta": 0.839,
+    "market_cap": 28690024448,
+    "analyst_coverage": 18
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "AEE",
+  "name": "Ameren",
+  "sector": "Utilities",
+  "sub_industry": "Multi-Utilities",
+  "tier": "S&P 500",
+  "price": 111.55000305175781,
+  "as_of": "2026-07-19T21:19:52.922214+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "AEE is in a confirmed uptrend (golden cross, price above both 50- and 200-day SMAs) while trading at a reasonable 19x forward earnings alongside 19.6% earnings growth, a rare combination for a regulated utility.",
+  "thesis": "Ameren's 126-day momentum (+10.3%) and price structure (above 50dma of $110.06 and 200dma of $105.77, golden cross intact) confirm an intact bullish trend for a low-beta (0.48) defensive utility that sell-side analysts rate 'buy' across 15 covering firms. Earnings growth of 19.6% outpacing revenue growth of 3.7% suggests margin expansion or favorable rate-case outcomes, and operating margins of 27.8% remain healthy. Trading at 19.2x forward earnings with a 2.69% dividend yield, the stock isn't stretched relative to its own growth profile, and it sits comfortably below its 52-week high ($118.32) with room to re-test that level. The negative free cash flow is typical of a utility in a heavy capex/rate-base growth cycle, which typically underwrites future earned ROE increases.",
+  "bear_case": "Momentum has stalled badly in the near term \u2014 63-day momentum is essentially flat (0.05%), MACD histogram is negative, and the stock just dropped 1.4% in a single day, suggesting the golden cross and 126-day gains are backward-looking and the trend may be running out of steam. Debt-to-equity of 155.7% is elevated even for a regulated utility, and with FCF deeply negative (-$1.87B), Ameren is dependent on continued capital markets access and constructive rate case outcomes in Missouri and Illinois; any regulatory disappointment or a spike in long-term rates (utilities are rate-sensitive, evidenced by beta near zero but high vol_30d_ann of 24%) could pressure the premium multiple (2.28x price-to-book) investors are currently paying for growth that is really earnings-driven rather than organic revenue growth (only 3.7%).",
+  "metrics": {
+    "momentum_63d": 0.0005015138821629073,
+    "volatility_ann": 0.24016665356782135,
+    "rsi_14": 49.03718743385771,
+    "profit_margin": 0.17834999,
+    "revenue_growth": 0.037,
+    "trailing_pe": 20.06295,
+    "return_on_equity": 0.117469996,
+    "beta": 0.481,
+    "market_cap": 30871644160,
+    "analyst_coverage": 15
+  }
+}

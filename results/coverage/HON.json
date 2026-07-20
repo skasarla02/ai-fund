@@ -1,0 +1,26 @@
+{
+  "ticker": "HON",
+  "name": "Honeywell Technologies",
+  "sector": "Industrials",
+  "sub_industry": "Industrial Conglomerates",
+  "tier": "S&P 500",
+  "price": 225.02000427246094,
+  "as_of": "2026-07-19T22:30:46.642343+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "Price has fallen ~13% from its 52-week high and sits just above the 200-day SMA (225 vs 224) with negative 21d/63d momentum and a negative MACD histogram, even as the stock trades on a 'buy' consensus ahead of Honeywell's planned three-way breakup.",
+  "thesis": "Honeywell is executing a structural break-up into Aerospace, Automation, and Advanced Materials units, which should unlock a sum-of-the-parts valuation above the current 18x trailing / 23x forward P/E, especially given 21% operating margins, 24% ROE, and a 4.2% dividend yield that offers downside cushion while the market digests the separation. The stock remains above its 200-day moving average with an intact golden cross, and 16 analysts still rate it a buy, suggesting institutional conviction in the long-term restructuring story hasn't broken despite the recent pullback.",
+  "bear_case": "Earnings growth of -41.9% is a serious red flag that the forward P/E of 23x (up from 18x trailing) already reflects a deteriorating near-term profit base, likely tied to one-time separation costs, pension charges, or margin pressure that could persist through the spin-off execution window; layered on top of 257% debt-to-equity, this leverage leaves little room for error if integration costs or macro-driven industrial demand softness (revenue growth of only 2.4%) worsen. Technically, price is below both the 50-day SMA (231) and its recent highs, momentum is negative across the 21-day and 63-day windows, and MACD is rolling over \u2014 a pattern consistent with a stock that could break below its 200-day support (224) into a deeper correction if the breakup timeline slips or Q-over-Q earnings disappoint again before the split is finalized.",
+  "metrics": {
+    "momentum_63d": -0.05948321457273453,
+    "volatility_ann": 0.39804896824090097,
+    "rsi_14": 46.25593341714657,
+    "profit_margin": 0.1089,
+    "revenue_growth": 0.024,
+    "trailing_pe": 17.98721,
+    "return_on_equity": 0.24264,
+    "beta": 0.93,
+    "market_cap": 71292313600,
+    "analyst_coverage": 16
+  }
+}

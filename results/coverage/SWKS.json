@@ -1,0 +1,26 @@
+{
+  "ticker": "SWKS",
+  "name": "Skyworks Solutions",
+  "sector": "Information Technology",
+  "sub_industry": "Semiconductors",
+  "tier": "S&P 500",
+  "price": 60.20500183105469,
+  "as_of": "2026-07-20T16:07:22.412519+00:00",
+  "rating": "bearish",
+  "conviction": 0.58,
+  "key_signal": "Despite a golden cross, SWKS trades below its 200-day moving average and has fallen ~34% from its 52-week high on a -44.9% earnings growth print and flat/negative revenue growth.",
+  "thesis": "The stock's forward P/E of 11.7 (vs trailing 25) implies the market expects a sharp earnings rebound, and the 4.79% dividend yield offers income support while low leverage (debt/equity ~20.6%) gives balance-sheet flexibility to wait out the cycle. Gross margins remain healthy at 41%, suggesting the core mix business isn't structurally impaired, and a golden cross (50dma above 200dma) is a textbook bullish technical setup that could attract trend-followers if momentum stabilizes.",
+  "bear_case": "Momentum is actively deteriorating (mom_21d -13.2%, MACD histogram negative, RSI just below 41) and the stock sits below its 200-day average despite the golden cross, which is a lagging indicator likely to reverse if the downtrend persists; more importantly, earnings growth is down nearly 45% with revenue growth still negative, ROE is a weak 6.2%, and profit margins are thin at ~8.9%, meaning the 'cheap' forward P/E assumes an earnings recovery that isn't yet visible in the trailing fundamentals \u2014 a classic value trap where the 4.79% yield could be cut if free cash flow ($688M against a $9B cap) doesn't improve, and 16 analysts already rate it 'hold,' implying limited near-term re-rating catalyst from coverage initiation or upgrades.",
+  "metrics": {
+    "momentum_63d": 0.029464935730437736,
+    "volatility_ann": 0.5236555440137565,
+    "rsi_14": 40.97370540323107,
+    "profit_margin": 0.08931,
+    "revenue_growth": -0.01,
+    "trailing_pe": 25.085417,
+    "return_on_equity": 0.06171,
+    "beta": 1.497,
+    "market_cap": 9055192064,
+    "analyst_coverage": 16
+  }
+}

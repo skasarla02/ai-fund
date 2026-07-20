@@ -1,0 +1,26 @@
+{
+  "ticker": "ICE",
+  "name": "Intercontinental Exchange",
+  "sector": "Financials",
+  "sub_industry": "Financial Exchanges & Data",
+  "tier": "S&P 500",
+  "price": 139.64999389648438,
+  "as_of": "2026-07-19T22:36:10.559711+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "ICE trades 26% below its 52-week high and below both the 50- and 200-day moving averages, yet forward P/E has compressed to 16x on 79.7% earnings growth and a unanimous 'strong buy' from all 15 covering analysts.",
+  "thesis": "ICE's technical picture looks weak (below 200dma, momentum negative over 63d/126d) but the deterioration appears to be stalling: 21d momentum is only mildly negative, MACD histogram has turned positive, and RSI sits neutral at 55 rather than oversold-panic territory. Underneath the price action, fundamentals are accelerating, not decaying \u2014 20.4% revenue growth, 79.7% earnings growth, 57% operating margins, and near-100% gross margins reflect the toll-booth economics of exchange/data businesses layered onto ICE's mortgage-tech (Black Knight) integration finally scaling. Forward P/E of 16x versus trailing 20.3x implies the Street expects earnings to keep outrunning price, and with $3.7B in free cash flow against a $79B market cap, ICE can keep funding its 1.49% dividend and delever even at current leverage. A low beta (0.95) and unanimous strong-buy consensus from 15 analysts suggest the drawdown is viewed as a valuation reset rather than a fundamental impairment, setting up mean reversion toward the 50-day (141.5) and eventually 200-day (154.5) as the catalyst.",
+  "bear_case": "The stock's own trend is the strongest argument against the thesis: it's down ~19% over six months, sits below both major moving averages with no golden cross, and 30-day annualized volatility of 32% shows the market is still repricing something structurally, not just noise. Debt-to-equity of 71% is elevated for a company whose earnings growth (79.7%) is almost certainly inflated by comps/one-time items post-Black Knight acquisition rather than organic exchange volume \u2014 if mortgage origination volumes stay depressed on higher-for-longer rates, the Black Knight segment (a major growth driver) disappoints and the 'growth deceleration already priced in' bull case unwinds fast. Price-to-book of 2.68x and trailing P/E of 20.3x are not screamingly cheap for a business that's just broken its 200-day average, and a return below the 121.79 52-week low would confirm the downtrend rather than a bottom, making this a falling knife dressed up as a value trade.",
+  "metrics": {
+    "momentum_63d": -0.14400825080054258,
+    "volatility_ann": 0.31953725250177906,
+    "rsi_14": 55.20010574101987,
+    "profit_margin": 0.37671003,
+    "revenue_growth": 0.204,
+    "trailing_pe": 20.32751,
+    "return_on_equity": 0.13853,
+    "beta": 0.948,
+    "market_cap": 78973820928,
+    "analyst_coverage": 15
+  }
+}

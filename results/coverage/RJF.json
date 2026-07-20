@@ -1,0 +1,26 @@
+{
+  "ticker": "RJF",
+  "name": "Raymond James Financial",
+  "sector": "Financials",
+  "sub_industry": "Investment Banking & Brokerage",
+  "tier": "S&P 500",
+  "price": 168.0749969482422,
+  "as_of": "2026-07-20T15:59:14.775811+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "RJF trades at just 11.9x forward earnings despite 15%+ ROE and double-digit revenue/earnings growth, while 1-month and 3-month momentum (+6.2%/+11.2%) show renewed upside after a mid-2024 lull.",
+  "thesis": "Raymond James is cheap on a forward basis (11.9x forward PE vs 15.9x trailing) for a franchise generating 17.3% ROE, 19.3% operating margins, and 13.1% revenue growth with 15.3% earnings growth - metrics that don't scream 'value trap' but rather a market still catching up to improving brokerage/asset-management economics. Price sits comfortably above both the 50-day ($155.25) and 200-day ($156.88) moving averages, MACD histogram is solidly positive (0.41), and RSI at 63.7 shows strength without being deeply overbought. The stock is only ~5% off its 52-week high of $177.66 after rallying substantially off its $138.82 low, and sell-side consensus is 'buy' across 12 analysts. Beta of 0.94 suggests below-market volatility risk despite the realized 25% annualized vol, and a 2.6x price-to-book is reasonable for a firm with this ROE profile in the brokerage/wealth management space.",
+  "bear_case": "The technical picture is more mixed than the headline momentum suggests: the 50-day SMA is now below the 200-day (no golden cross, effectively a recent death-cross setup), and 126-day momentum is slightly negative (-1.3%), indicating the recent 1-3 month pop is a bounce within a choppier, range-bound six-month trend rather than a clean breakout. Debt-to-equity of 48.5 is elevated for what's classified as asset management, and brokerage/investment-banking revenue (advisory fees, trading, banking activity) is inherently cyclical and rate-sensitive - a slowdown in capital markets activity or unexpected rate cuts compressing net interest income on client cash balances could quickly erode the 15% earnings growth baked into current estimates. With only 12 analysts covering a $32.7B market-cap name, any single disappointing quarter could trigger an outsized repricing given thin coverage and no cushion of broad institutional consensus to smooth sentiment.",
+  "metrics": {
+    "momentum_63d": 0.11152638060062592,
+    "volatility_ann": 0.2506598468549133,
+    "rsi_14": 63.745351405852354,
+    "profit_margin": 0.14583,
+    "revenue_growth": 0.131,
+    "trailing_pe": 15.871104,
+    "return_on_equity": 0.17289,
+    "beta": 0.939,
+    "market_cap": 32754966528,
+    "analyst_coverage": 12
+  }
+}

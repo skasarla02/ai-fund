@@ -1,0 +1,26 @@
+{
+  "ticker": "ITW",
+  "name": "Illinois Tool Works",
+  "sector": "Industrials",
+  "sub_industry": "Industrial Machinery & Supplies & Components",
+  "tier": "S&P 500",
+  "price": 276.04998779296875,
+  "as_of": "2026-07-19T22:34:22.410595+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "ITW trades at a rich 25.6x trailing / 22.7x forward P/E despite only 4.6% revenue growth, even as technicals (golden cross, above both SMAs) remain bullish but momentum is decelerating (mom_21d 4.5% vs mom_126d 8%).",
+  "thesis": "ITW's technical setup is constructive\u2014price sits above both the 50-day (258.3) and 200-day (257.8) moving averages with a golden cross intact, RSI at 60 shows healthy but non-overbought strength, and MACD histogram is positive. Fundamentally, this is a best-in-class industrial compounder: 44% gross margin, 25.7% operating margin, and 19.3% net margin dwarf typical machinery peers, while ROE near 97% (aided by financial leverage) and consistent free cash flow (~$2.2B) support the 2.33% dividend. Earnings growth of 11.8% outpacing revenue growth of 4.6% suggests margin expansion and capital discipline (buybacks) are still working, which could justify a premium multiple for a business with ITW's pricing power and 80/20 operating model.",
+  "bear_case": "The stock is priced for perfection at 25.6x trailing earnings and a startling 24.6x price-to-book, yet top-line growth is anemic at 4.6%\u2014well below what a premium industrial multiple typically demands\u2014leaving little room for multiple compression risk if growth disappoints. Debt-to-equity of 283% means the eye-popping ROE is largely a leverage artifact, not organic profitability improvement, and rising rate sensitivity could pressure this balance sheet structure. The stock is already down nearly 9% from its 52-week high of 303 with a sharp single-day drop of -2.4%, momentum is clearly decelerating (21-day momentum of 4.5% barely exceeds the 63-day figure of 4.6%, well below the 126-day 8%), and with 14 analysts already covering the name at a consensus 'hold,' there's limited informational edge to exploit\u2014any disappointment in industrial demand (a sector-wide risk given elevated 24% annualized volatility) could trigger a valuation reset toward peer multiples in the high-teens.",
+  "metrics": {
+    "momentum_63d": 0.04559953458043986,
+    "volatility_ann": 0.24184028782496844,
+    "rsi_14": 60.08980320418572,
+    "profit_margin": 0.19320999,
+    "revenue_growth": 0.046,
+    "trailing_pe": 25.631382,
+    "return_on_equity": 0.96848,
+    "beta": 1.011,
+    "market_cap": 79419580416,
+    "analyst_coverage": 14
+  }
+}

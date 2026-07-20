@@ -1,0 +1,26 @@
+{
+  "ticker": "BAX",
+  "name": "Baxter International",
+  "sector": "Health Care",
+  "sub_industry": "Health Care Equipment",
+  "tier": "S&P 500",
+  "price": 22.610000610351562,
+  "as_of": "2026-07-19T21:31:43.198925+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "BAX has rallied ~25% over the last quarter and sits comfortably above both its 50- and 200-day moving averages, but today's -3.2% drop and negative MACD histogram suggest the uptrend is losing steam right at a point where profitability remains negative (ROE -15%, net margin -9.7%).",
+  "thesis": "Baxter trades at just 11.3x forward earnings and 1.9x book despite a $11.3B revenue base, low beta (0.61) and positive free cash flow (~$900M), suggesting the market is still pricing in restructuring/deleveraging risk that could reverse as margins normalize. The stock's technical picture is constructive: price is above both the 50-day ($20.06) and 200-day ($19.53) moving averages with a golden cross intact, and momentum over 21/63/126 days has been strongly positive (+10.5%/+24.7%/+14.1%), reflecting renewed investor confidence after the stock's slide to a 52-week low of $15.73. If revenue growth (currently a modest 2.9%) accelerates alongside margin recovery, the cheap forward multiple offers meaningful re-rating upside.",
+  "bear_case": "The fundamental picture is genuinely weak: trailing profitability is negative (profit margin -9.7%, ROE -15%), debt-to-equity is elevated at 161%, and revenue growth of just 2.9% shows little organic acceleration to justify the recent 25% run-up in the stock over 63 days. The negative MACD histogram and today's -3.2% daily decline, occurring after RSI reached 58.7, hint that the rally may be exhausting just as the stock nears resistance well below its 52-week high of $29.35 \u2014 a large air pocket that reflects real uncertainty investors haven't resolved. With 11 analysts already covering the name at a consensus 'hold,' any disappointment in the deleveraging or margin-recovery narrative (e.g., another guidance cut) could quickly erase the technical gains, especially given the stock's already-elevated 43% annualized volatility.",
+  "metrics": {
+    "momentum_63d": 0.24706458605014037,
+    "volatility_ann": 0.4292946992118785,
+    "rsi_14": 58.6775155864779,
+    "profit_margin": -0.096999995,
+    "revenue_growth": 0.029,
+    "trailing_pe": null,
+    "return_on_equity": -0.15010999,
+    "beta": 0.613,
+    "market_cap": 11677364224,
+    "analyst_coverage": 11
+  }
+}

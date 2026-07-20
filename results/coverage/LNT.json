@@ -1,0 +1,26 @@
+{
+  "ticker": "LNT",
+  "name": "Alliant Energy",
+  "sector": "Utilities",
+  "sub_industry": "Electric Utilities",
+  "tier": "S&P 500",
+  "price": 74.81999969482422,
+  "as_of": "2026-07-19T21:17:59.692272+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "LNT trades near 52-week highs and above both moving averages (golden cross intact) but momentum is stalling\u2014MACD histogram just turned negative and the stock fell 1.2% while trailing P/E sits at a rich 23.5x for a low-growth regulated utility.",
+  "thesis": "Alliant remains a textbook defensive utility trade: beta of 0.54, above both the 50- and 200-day moving averages, a golden cross signal, and 126-day momentum of +13.7% show the uptrend is well established and consensus is a 'buy' across 13 covering analysts. Revenue growth (5%) and earnings growth (4.9%) are modest but steady, margins are healthy (21% operating margin), and the 2.86% dividend yield offers income support in a market where rate-sensitive utilities have been rerating higher as rate-cut expectations solidify. Being a large, well-covered S&P 500 name with low volatility (20.7% annualized) makes it a reasonable rotation destination if risk appetite fades.",
+  "bear_case": "The stock is priced for perfection at 23.5x trailing and 20.3x forward earnings with a 2.6x price-to-book against an ROE of just 11.3%, leaving little room for multiple expansion in a sector growing revenue at only 5%. Debt-to-equity of ~160% combined with deeply negative free cash flow (-$1.2B) signals the company is funding heavy capex/rate-base growth with debt issuance, a vulnerability if long-term yields back up and utility valuations compress; the recent negative MACD histogram and stalling RSI (48.5, right at neutral) after a ~13.7% six-month run suggest the easy momentum gains are behind it, and the stock is already 5% below its 52-week high with a down day and negative daily return signaling possible near-term consolidation or pullback toward the 50-day SMA at $73.78.",
+  "metrics": {
+    "momentum_63d": 0.03586801892336888,
+    "volatility_ann": 0.20667368314675075,
+    "rsi_14": 48.51375782545308,
+    "profit_margin": 0.18583,
+    "revenue_growth": 0.05,
+    "trailing_pe": 23.528301,
+    "return_on_equity": 0.113120005,
+    "beta": 0.54,
+    "market_cap": 19324289024,
+    "analyst_coverage": 13
+  }
+}

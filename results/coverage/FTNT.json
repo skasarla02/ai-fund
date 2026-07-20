@@ -1,0 +1,26 @@
+{
+  "ticker": "FTNT",
+  "name": "Fortinet",
+  "sector": "Information Technology",
+  "sub_industry": "Systems Software",
+  "tier": "S&P 500",
+  "price": 161.61000061035156,
+  "as_of": "2026-07-19T22:20:45.973932+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "FTNT has rallied ~112% over 126 days to trade just 5% below its 52-week high, but a negative MACD histogram signals fading short-term momentum even as the stock still holds golden-cross/above-200dma technical strength.",
+  "thesis": "Fortinet's fundamentals remain excellent: 20% revenue growth, 28.6% earnings growth, 80% gross margins and 31% operating margins show the SASE/security platform transition is monetizing well, and free cash flow of $1.8B supports continued buybacks that have driven ROE to over 100%. The stock is in a powerful uptrend (price above both the 50- and 200-day moving averages, golden cross intact) and 37 analysts covering it keep information flow efficient, so any pullback toward the rising 50-day SMA ($141.8) would likely find buyers given the durable growth profile.",
+  "bear_case": "Valuation has become genuinely extreme \u2014 a trailing P/E of 62x, forward P/E of 47x, and a price-to-book of ~120x leave essentially no room for a growth hiccup, especially with the stock already up over 100% in six months and sitting near its 52-week high of $170.35. The negative MACD histogram despite a still-positive RSI (59.9) suggests momentum is decelerating right at resistance, and with 'hold' as the consensus analyst recommendation across 37 covering firms, the sell-side is signaling the easy re-rating has already happened; any deceleration in the 20%+ revenue growth or margin compression from competitive pressure in network security (Palo Alto, Zscaler) could trigger a sharp multiple contraction given how much good news is already priced in.",
+  "metrics": {
+    "momentum_63d": 0.9612863788551704,
+    "volatility_ann": 0.39576451367333026,
+    "rsi_14": 59.855919117582445,
+    "profit_margin": 0.27491,
+    "revenue_growth": 0.201,
+    "trailing_pe": 62.397686,
+    "return_on_equity": 1.32392,
+    "beta": 1.09,
+    "market_cap": 118403309568,
+    "analyst_coverage": 37
+  }
+}

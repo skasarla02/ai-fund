@@ -1,0 +1,26 @@
+{
+  "ticker": "KLAC",
+  "name": "KLA Corporation",
+  "sector": "Information Technology",
+  "sub_industry": "Semiconductor Materials & Equipment",
+  "tier": "S&P 500",
+  "price": 212.75,
+  "as_of": "2026-07-19T22:43:06.416627+00:00",
+  "rating": "neutral",
+  "conviction": 0.56,
+  "key_signal": "KLAC has pulled back over 10% in the past month and slipped below its 50-day moving average with a negative MACD histogram, even though it remains solidly above its 200-day average with a golden cross intact.",
+  "thesis": "KLA remains a dominant, high-margin process-control franchise in semiconductor equipment, benefiting from AI-driven capex at leading-edge fabs; gross margins of 61%, operating margins of 41%, and an eye-popping 95% ROE reflect a business with real pricing power and limited direct competition in inspection/metrology. Revenue and earnings growth of ~11-12% are healthy for a company of this scale, and the stock's 126-day momentum of +48.7% and position well above its 200-day SMA (157.70) show the underlying secular uptrend from the 52-week low of $83 is still largely intact despite the recent drawdown from the $307 high.",
+  "bear_case": "Valuation is extremely stretched for a cyclical semicap name\u2014trailing P/E of 60x, forward P/E of 41x, and price-to-book near 48x leave essentially no room for a growth disappointment, and the stock is already down roughly 31% from its 52-week high, suggesting the market is pricing in a slowdown. The recent 21-day momentum of -10.4%, break below the 50-day SMA, negative MACD histogram, and RSI near 44 all point to fading short-term momentum that could extend if semicap capex commentary (especially China export-control exposure, a known KLA revenue driver) disappoints in upcoming earnings, and with 28 analysts already covering the name and a consensus 'buy' rating, any incremental negative catalyst is unlikely to be a surprise the market hasn't priced, limiting near-term upside asymmetry.",
+  "metrics": {
+    "momentum_63d": 0.22789603188721808,
+    "volatility_ann": 1.0579313763275655,
+    "rsi_14": 43.99102636135795,
+    "profit_margin": 0.35661998,
+    "revenue_growth": 0.115,
+    "trailing_pe": 60.269123,
+    "return_on_equity": 0.94975996,
+    "beta": 1.407,
+    "market_cap": 277910061056,
+    "analyst_coverage": 28
+  }
+}

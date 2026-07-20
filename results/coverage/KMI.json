@@ -1,0 +1,26 @@
+{
+  "ticker": "KMI",
+  "name": "Kinder Morgan",
+  "sector": "Energy",
+  "sub_industry": "Oil & Gas Storage & Transportation",
+  "tier": "S&P 500",
+  "price": 32.29999923706055,
+  "as_of": "2026-07-19T22:42:28.303749+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "KMI trades near its 52-week high with price essentially at its 50-day SMA (32.30 vs 32.23) and well above its 200-day SMA (29.90), showing a mature uptrend that has lost short-term momentum (RSI 51, mom_21d/63d both under 3%).",
+  "thesis": "KMI's golden cross and above-200dma trend confirm a durable multi-quarter uptrend (mom_126d +19.6%), supported by strong earnings growth (36%) and revenue growth (13.8%) that outpace typical midstream peers, alongside high margins (operating margin ~30%) and a well-covered 3.64% dividend yield that appeals to income investors in a lower-rate environment. Low beta (0.53) makes it a defensive energy holding, and consensus sell-side sentiment is 'buy' across 21 analysts, suggesting institutional confidence in KMI's toll-road-like cash flow model amid rising natural gas demand (LNG exports, data center power needs) that could sustain volume growth on its pipeline network.",
+  "bear_case": "At a forward P/E of ~21.5x and price/book of 2.29x, KMI is priced richly relative to its historical midstream multiple and its modest ROE of 10.6%, leaving little margin for error if natural gas basis spreads or throughput volumes disappoint. Debt-to-equity of ~99% is elevated, and with momentum stalling (mom_21d +2.7%, mom_63d +2.5%) right at the 52-week high (34.81) and price converging exactly to the 50-day SMA, the stock looks technically exhausted after its 19.6% 126-day run \u2014 a pullback toward the 200dma (29.90, ~7.5% downside) is plausible if broader energy sentiment sours or rates stay higher for longer, pressuring the dividend-yield trade that has driven much of the recent re-rating.",
+  "metrics": {
+    "momentum_63d": 0.025436477292317683,
+    "volatility_ann": 0.1941276756619,
+    "rsi_14": 51.04112065251985,
+    "profit_margin": 0.18917,
+    "revenue_growth": 0.138,
+    "trailing_pe": 21.677853,
+    "return_on_equity": 0.10597,
+    "beta": 0.533,
+    "market_cap": 71861870592,
+    "analyst_coverage": 21
+  }
+}

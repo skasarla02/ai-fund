@@ -1,0 +1,26 @@
+{
+  "ticker": "CMI",
+  "name": "Cummins",
+  "sector": "Industrials",
+  "sub_industry": "Construction Machinery & Heavy Transportation Equipment",
+  "tier": "S&P 500",
+  "price": 648.47998046875,
+  "as_of": "2026-07-19T21:56:31.633921+00:00",
+  "rating": "bearish",
+  "conviction": 0.56,
+  "key_signal": "CMI has broken below its 50-day moving average with negative MACD momentum and a 7.4% 21-day drawdown, even as trailing earnings growth sits at -21% against a still-rich 33.7x trailing P/E.",
+  "thesis": "Longer-term trend remains intact (above 200dma, golden cross, +15% over 126 days) and the market is pricing a sharp earnings recovery, with forward P/E collapsing to 19x from 33.7x trailing \u2014 implying nearly 77% forward EPS growth. ROE of 22% and operating margins near 9.8% show underlying profitability is solid, and a 'buy' consensus among 19 analysts reflects confidence that the current cyclical dip in engines/heavy-truck demand is transitory.",
+  "bear_case": "The near-term technical picture is deteriorating \u2014 price is down 7.4% over the last month, sitting below its 50dma with RSI at 43 and a negative MACD histogram (-4.7), signaling momentum has turned before any earnings inflection is confirmed. Trailing earnings growth of -21% alongside anemic revenue growth of just 2.7% suggests the cyclical machinery/trucking downturn is still working through results, and the stock trades at a demanding 7.2x book value and 33.7x trailing earnings for a business carrying 61.6x debt-to-equity \u2014 leaving little margin for disappointment if the forward-PE-implied recovery slips, especially with 45.7% annualized volatility amplifying any guidance miss.'",
+  "metrics": {
+    "momentum_63d": 0.06836494460080167,
+    "volatility_ann": 0.4569812257252967,
+    "rsi_14": 43.15135559554654,
+    "profit_margin": 0.07886,
+    "revenue_growth": 0.027,
+    "trailing_pe": 33.66978,
+    "return_on_equity": 0.21993999,
+    "beta": 1.222,
+    "market_cap": 89483149312,
+    "analyst_coverage": 19
+  }
+}

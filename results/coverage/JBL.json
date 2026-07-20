@@ -1,0 +1,26 @@
+{
+  "ticker": "JBL",
+  "name": "Jabil",
+  "sector": "Information Technology",
+  "sub_industry": "Electronic Manufacturing Services",
+  "tier": "S&P 500",
+  "price": 301.010009765625,
+  "as_of": "2026-07-19T22:39:08.376648+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "JBL has plunged 19.8% in a month (RSI 31.9, deeply oversold) despite still trading above its rising 200-day average with a forward P/E of just 18x against 27.6% expected earnings growth.",
+  "thesis": "The stock's sharp 21-day drawdown looks like a valuation reset rather than a broken trend: it remains above its 200-day SMA (272.9) with an intact golden cross, and 126-day momentum is still solidly positive (+24.8%), suggesting the primary uptrend (driven by AI/data-center power and cooling demand for its EMS business) hasn't reversed. Forward P/E of 17.97 versus trailing P/E of 37.7 implies the market is pricing a large step-up in earnings, consistent with the reported 27.6% earnings growth and 11.8% revenue growth. RSI at 31.9 and a large gap below the 50-day SMA (356 vs 301 spot) point to an oversold condition ripe for mean reversion, and sell-side sentiment remains 'buy' even with only 9 analysts covering, meaning any recovery narrative has room to be re-rated before broader coverage catches up.",
+  "bear_case": "The magnitude of the selloff (-19.7% in a month, MACD histogram sharply negative at -5.4, price now below the 50-day SMA by over 15%) could reflect a genuine deterioration in the AI/data-center capex cycle or a customer concentration issue rather than noise, and EMS businesses are notoriously thin-margin (gross margin just 9.2%, operating margin 5.2%, net margin 2.6%) so any revenue miss flows straight through to earnings. Debt-to-equity of 297% and a price-to-book of nearly 24x (largely an artifact of aggressive buybacks shrinking equity) leave the balance sheet with little cushion and the stock priced for perfection if growth disappoints. With only 9 analysts covering and beta of 1.28 in a name already showing 51% annualized volatility, negative surprises could compound quickly with limited institutional support to arrest the slide.",
+  "metrics": {
+    "momentum_63d": -0.029093923327377702,
+    "volatility_ann": 0.510230699652311,
+    "rsi_14": 31.91631300082618,
+    "profit_margin": 0.02566,
+    "revenue_growth": 0.118,
+    "trailing_pe": 37.720554,
+    "return_on_equity": 0.65876,
+    "beta": 1.279,
+    "market_cap": 31541962752,
+    "analyst_coverage": 9
+  }
+}

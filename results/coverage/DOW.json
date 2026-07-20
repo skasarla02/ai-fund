@@ -1,0 +1,26 @@
+{
+  "ticker": "DOW",
+  "name": "Dow Inc.",
+  "sector": "Materials",
+  "sub_industry": "Commodity Chemicals",
+  "tier": "S&P 500",
+  "price": 29.920000076293945,
+  "as_of": "2026-07-19T22:02:33.223005+00:00",
+  "rating": "bearish",
+  "conviction": 0.58,
+  "key_signal": "Dow's free cash flow is negative (-$676M) while it pays a 4.68% dividend yield, signaling a payout that fundamentals no longer support even as technicals show a tentative bounce.",
+  "thesis": "The stock is trading above its 200-day moving average with a golden cross and positive MACD momentum, suggesting technical stabilization after a brutal 24% three-month drawdown, and it sits near the low end of its 52-week range ($20.40-$42.74) at a modest forward P/E of 15.4x and price-to-book of 1.41x. A cyclical rebound in commodity chemical demand, combined with Dow's low beta (0.435) making it a relatively defensive materials holding, could allow shares to mean-revert toward the 50-day SMA ($32.96), a roughly 10% move from current levels. The persistent 'buy' consensus from all 16 covering analysts suggests the Street still sees recovery potential despite the recent selloff.",
+  "bear_case": "The fundamentals are genuinely deteriorating, not just cyclically soft: revenue is shrinking (-6.1% YoY), operating margin has collapsed to essentially zero (0.01%), net margin is negative (-7.24%), and ROE is -15.26% \u2014 this is a company barely breaking even operationally while burning cash (-$676M FCF). With debt-to-equity at 117%, the balance sheet has little room for error, and the 4.68% dividend yield is unsupported by free cash flow, raising real risk of a dividend cut that would trigger a sharp re-rating lower, especially since income-oriented holders are a key part of the shareholder base. The 21% momentum reversal over 63 days shows the market already sniffed out these issues, and a bounce off the 200-day average in a high-volatility (35.75% annualized) name could easily be a dead-cat rally rather than a genuine trend change, particularly if commodity chemical pricing stays weak into next quarter.",
+  "metrics": {
+    "momentum_63d": -0.24287968818415806,
+    "volatility_ann": 0.357524469392707,
+    "rsi_14": 46.52262046445828,
+    "profit_margin": -0.07244,
+    "revenue_growth": -0.061,
+    "trailing_pe": null,
+    "return_on_equity": -0.15262,
+    "beta": 0.435,
+    "market_cap": 21564583936,
+    "analyst_coverage": 16
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "ADBE",
+  "name": "Adobe Inc.",
+  "sector": "Information Technology",
+  "sub_industry": "Application Software",
+  "tier": "S&P 500",
+  "price": 237.25,
+  "as_of": "2026-07-19T21:14:27.269392+00:00",
+  "rating": "bullish",
+  "conviction": 0.6,
+  "key_signal": "ADBE trades at an 8.6x forward P/E and 13.6x trailing P/E despite 89% gross margins, 35% operating margins, and 63% ROE\u2014valuation levels rarely seen for this quality of software franchise, even as the stock stages a 14% 21-day rally with a bullish MACD crossover.",
+  "thesis": "The market has priced in severe AI-disruption fears (Figma, generative design tools eating into Creative Cloud) knocking ADBE from $376 to the $190s, but the fundamentals haven't cracked: revenue growth is still 12.7%, FCF is $9.2B on $25.2B revenue, and margins remain best-in-class. At 8.6x forward earnings, the stock is priced more like a legacy hardware company than a dominant, high-margin software platform with 63% ROE. The 21-day momentum of +14.4%, price back above the 50-day SMA ($230.6), and a strongly positive MACD histogram (3.88) suggest the six-month downtrend (-22% over 126 days) may be exhausting itself, with RSI at 61 showing room to run before overbought. A re-rating even to a still-conservative 15-16x forward multiple would imply substantial upside from here.",
+  "bear_case": "The technical picture is not actually confirmed\u2014ADBE remains below its 200-day SMA ($281.9, price is 0% above it) with no golden cross, meaning the dominant trend is still bearish and this could be a bounce within a larger downtrend, similar to what preceded the prior leg down. More importantly, the earnings growth of just 7.9% against 12.7% revenue growth signals margin/opex pressure or dilution eating into per-share value, and the persistent 'hold' consensus from all 33 covering analysts suggests informed opinion doesn't see a catalyst for re-rating despite the cheap multiple\u2014this could be a genuine value trap if generative AI tools structurally erode Creative Cloud pricing power and seat growth over the next several quarters, a risk that a single quarter's price bounce does nothing to resolve.",
+  "metrics": {
+    "momentum_63d": -0.04396358599738037,
+    "volatility_ann": 0.4712772496383105,
+    "rsi_14": 61.13506744395063,
+    "profit_margin": 0.28689,
+    "revenue_growth": 0.127,
+    "trailing_pe": 13.564895,
+    "return_on_equity": 0.62953997,
+    "beta": 1.433,
+    "market_cap": 94306877440,
+    "analyst_coverage": 33
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "HRL",
+  "name": "Hormel Foods",
+  "sector": "Consumer Staples",
+  "sub_industry": "Packaged Foods & Meats",
+  "tier": "S&P 500",
+  "price": 25.389999389648438,
+  "as_of": "2026-07-19T22:31:01.606366+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "HRL has rallied ~23% over the past 3 months and reclaimed both its 50- and 200-day moving averages with a golden cross, even as trailing fundamentals show revenue (-2.9%) and earnings (-5.1%) still contracting.",
+  "thesis": "Technicals have turned decisively bullish: price is above both the 50-day (23.07) and 200-day (22.66) SMAs, a golden cross has formed, and 63-day momentum of +22.9% shows the stock recovering sharply off its 52-week low of 19.70. RSI at 61 shows strength without being overbought, and the market appears to be pricing in an earnings inflection\u2014forward P/E of 16.3x is roughly half the trailing P/E of 29.9x, implying analysts expect a meaningful margin/earnings recovery. At 4.61% the dividend yield is well above the sector norm and offers a cushion while the turnaround plays out, and with only 8 analysts covering the name, any re-rating on improving fundamentals could take longer to be fully priced in than in a heavily-covered mega-cap.",
+  "bear_case": "The rally looks more technical than fundamental: revenue growth is negative (-2.9%), earnings growth is negative (-5.1%), profit margin is a thin 3.8%, and ROE is a weak 5.8%, none of which supports a trailing P/E near 30x. Debt/equity of 4.24 is elevated for a staples name, and MACD histogram has already turned slightly negative, hinting momentum is stalling just as the stock nears its 52-week high (29.78) and the 'hold' consensus among the few analysts covering it reflects genuine uncertainty rather than an overlooked opportunity. If the anticipated forward-earnings recovery implied by the 16.3x forward P/E fails to materialize\u2014plausible given ongoing input-cost and volume pressures in packaged meats\u2014the stock could give back its recent gains quickly given a 28% annualized volatility that's high for a 'defensive' name.'",
+  "metrics": {
+    "momentum_63d": 0.22939845636132872,
+    "volatility_ann": 0.2797913713297948,
+    "rsi_14": 61.20838378476501,
+    "profit_margin": 0.03821,
+    "revenue_growth": -0.029,
+    "trailing_pe": 29.870586,
+    "return_on_equity": 0.05831,
+    "beta": 0.328,
+    "market_cap": 13972496384,
+    "analyst_coverage": 8
+  }
+}

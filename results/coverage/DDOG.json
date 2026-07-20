@@ -1,0 +1,26 @@
+{
+  "ticker": "DDOG",
+  "name": "Datadog",
+  "sector": "Information Technology",
+  "sub_industry": "Application Software",
+  "tier": "S&P 500",
+  "price": 258.69000244140625,
+  "as_of": "2026-07-19T21:57:53.395306+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "DDOG has rallied ~110% over the past 3 months and sits just below its 52-week high, but MACD histogram has turned negative and daily momentum stalled, suggesting the powerful uptrend may be losing steam right as valuation (90x forward earnings, 23x book) leaves no room for disappointment.",
+  "thesis": "Datadog is riding a genuine fundamental acceleration \u2014 32% revenue growth, 104% earnings growth, and 80% gross margins \u2014 that has driven the stock from oversold lows to well above both its 50- and 200-day moving averages with a confirmed golden cross, and consensus among 46 analysts remains 'strong buy.' If AI-driven observability demand keeps compounding at this rate, forward multiples compress quickly and the technical trend (still above both SMAs, RSI in neutral-bullish territory) supports continuation.",
+  "bear_case": "The stock's fundamentals still show a company barely profitable on an operating basis (0.8% operating margin, 3.7% net margin) trading at 663x trailing and 90x forward earnings and 23x book value, meaning any deceleration in the 32% revenue growth rate \u2014 or a market rotation out of high-multiple software after a +110% 3-month run \u2014 could trigger a sharp re-rating; the negative MACD histogram and one-day pullback near the 52-week high are early technical warning signs that the momentum trade is already fully discovered by all 46 covering analysts, leaving little informational edge and asymmetric downside if growth merely meets rather than beats expectations.",
+  "metrics": {
+    "momentum_63d": 1.095164816423682,
+    "volatility_ann": 0.439472124112482,
+    "rsi_14": 57.65710165976461,
+    "profit_margin": 0.03695,
+    "revenue_growth": 0.322,
+    "trailing_pe": 663.30774,
+    "return_on_equity": 0.039300002,
+    "beta": 1.543,
+    "market_cap": 92083339264,
+    "analyst_coverage": 46
+  }
+}

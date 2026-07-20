@@ -1,0 +1,26 @@
+{
+  "ticker": "CIEN",
+  "name": "Ciena",
+  "sector": "Information Technology",
+  "sub_industry": "Communications Equipment",
+  "tier": "S&P 500",
+  "price": 374.4100036621094,
+  "as_of": "2026-07-19T21:47:06.859577+00:00",
+  "rating": "bearish",
+  "conviction": 0.62,
+  "key_signal": "CIEN has cratered 25% below its 50-day SMA and is down 24% over the last quarter despite still trading near a lofty 125x trailing P/E, with RSI at 32.7 and MACD deeply negative signaling an unresolved downtrend.",
+  "thesis": "Ciena's underlying growth story remains intact \u2014 revenue growth of 39.5%, operating margin expansion to 15.2%, and a 57% run over the trailing six months reflect genuine demand tailwinds from AI-driven optical networking buildouts, and the stock remains comfortably above its 200-day SMA (340) with a golden cross still in effect, suggesting the multi-month uptrend hasn't technically broken even after this drawdown. If the recent price action is a violent but ultimately reactive de-rating within a longer secular uptrend, the 41% pullback from the 52-week high of $637 could set up a mean-reversion bounce once selling pressure (RSI 32.7, oversold) exhausts itself, especially with 19 analysts still carrying a consensus 'buy' rating.",
+  "bear_case": "The technical picture is deteriorating sharply and consistently across every short-term window \u2014 down 3.7% on the day, -13% over the month, -24% over the quarter, sitting 25% below the 50-day moving average with a strongly negative MACD histogram (-4.84) \u2014 which is a textbook momentum breakdown, not noise. At a 125x trailing P/E, 38.8x forward P/E, and 18.3x price-to-book, CIEN is priced for flawless execution on AI/optical capex cycles, leaving zero margin for the kind of order digestion or hyperscaler capex pause that has hit networking-equipment peers before; with 78% annualized volatility, any incremental disappointment can produce outsized drawdowns exactly like the one already underway. The stock fell from $637 to $374 in a matter of months, and there's no evidence yet in the data (still-negative MACD, price well under the 50dma) that the selling has stabilized, meaning the 'above 200dma' and 'golden cross' signals may simply be lagging artifacts of the prior rally rather than a live support level.",
+  "metrics": {
+    "momentum_63d": -0.24387585372887055,
+    "volatility_ann": 0.782521942688704,
+    "rsi_14": 32.7342892179946,
+    "profit_margin": 0.0787,
+    "revenue_growth": 0.395,
+    "trailing_pe": 124.80334,
+    "return_on_equity": 0.15464,
+    "beta": 1.274,
+    "market_cap": 52998832128,
+    "analyst_coverage": 19
+  }
+}

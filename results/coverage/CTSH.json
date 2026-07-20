@@ -1,0 +1,26 @@
+{
+  "ticker": "CTSH",
+  "name": "Cognizant",
+  "sector": "Information Technology",
+  "sub_industry": "IT Consulting & Other Services",
+  "tier": "S&P 500",
+  "price": 44.77000045776367,
+  "as_of": "2026-07-19T21:50:19.834415+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "CTSH has cratered ~48% over six months to a 9.7x trailing / 7.2x forward P/E, trading well below both its 50- and 200-day moving averages despite still-positive revenue and earnings growth.",
+  "thesis": "At 7.2x forward earnings, 1.4x book value, and a ~3% dividend yield, CTSH is priced for much worse than the fundamentals show: gross margins of 33.5%, operating margins of 15.6%, ROE near 15%, and revenue still growing 5.8% y/y. The recent MACD histogram turning positive and RSI sitting near neutral (49.8) after a brutal 126-day drawdown (-47.7%) suggest the selling pressure may be exhausting itself, and with 25 analysts still rating it a 'buy,' sell-side consensus has not abandoned the name even as the stock has been de-rated to a valuation multiple far below typical IT services peers (which often trade 15-20x). A stabilization here could set up a mean-reversion trade back toward the 50-day SMA of $47.7.",
+  "bear_case": "The technical picture is unambiguously broken \u2014 price sits below both the 50-day ($47.74) and 200-day ($64.39) moving averages with no golden cross, and a 47.7% six-month decline is not a garden-variety pullback but a regime change that the market is pricing correctly. Annualized volatility of 54.5% for a supposedly defensive IT services stock signals the market sees real fundamental risk, and the reported debt-to-equity of 7.25x (if accurate) implies a much more leveraged balance sheet than investors associate with Cognizant, which could constrain capital return (dividends, buybacks) if earnings growth continues decelerating from 3.6%. With 25 analysts already covering the name, any information edge from 'cheap valuation' has likely already been priced in by professionals who nonetheless watched the stock keep falling \u2014 a classic value trap where low P/E reflects justified expectations of further margin or growth erosion in a highly competitive, pricing-pressured IT consulting industry.",
+  "metrics": {
+    "momentum_63d": -0.25515134352410873,
+    "volatility_ann": 0.5449117804895005,
+    "rsi_14": 49.84893421341857,
+    "profit_margin": 0.10413,
+    "revenue_growth": 0.058,
+    "trailing_pe": 9.711496,
+    "return_on_equity": 0.14876,
+    "beta": 0.859,
+    "market_cap": 21176209408,
+    "analyst_coverage": 25
+  }
+}

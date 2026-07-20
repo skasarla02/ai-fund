@@ -1,0 +1,26 @@
+{
+  "ticker": "ETR",
+  "name": "Entergy",
+  "sector": "Utilities",
+  "sub_industry": "Electric Utilities",
+  "tier": "S&P 500",
+  "price": 113.23999786376953,
+  "as_of": "2026-07-19T22:06:21.802667+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "Stock trades above both its 50-day and 200-day moving averages with a golden cross intact, but 126-day momentum has stalled (+20% to now near-flat over 63 days) and MACD histogram is negative, showing fading upside momentum after a strong run.",
+  "thesis": "Entergy remains a well-run regulated utility with strong secular tailwinds from data-center and industrial load growth in its Gulf South service territory, evidenced by 12% revenue growth and a low beta of 0.49 that appeals to defensive capital rotating out of higher-duration equities. The stock sits comfortably above its 50- and 200-day moving averages (112.15 and 102.55 respectively) with a golden cross in place, and 126-day momentum of +20% shows the market has rewarded the growth narrative. A 2.26% dividend yield plus continued rate-base growth from grid modernization and LNG/industrial electrification demand provides a durable, visible earnings runway, and the 21-analyst 'buy' consensus reflects broad institutional confidence in the growth story.",
+  "bear_case": "Valuation has become stretched for a regulated utility\u201428.9x trailing and 22.3x forward earnings with a 2.99x price-to-book is rich versus utility sector norms, especially against tepid 1.2% earnings growth guidance that lags the multiple expansion already priced in. Negative free cash flow (-$3.9B) and elevated leverage (debt-to-equity near 193%) signal heavy capex spending that could pressure the balance sheet or require dilutive equity issuance if rates stay elevated, which is a real risk given ROE of only 10.75% versus that debt load. Technically, momentum is already rolling over: 63-day return is negative, MACD histogram is negative, and RSI sits near 49 (neutral-to-weak), suggesting the market may be starting to digest that the AI/data-center demand story is now fully priced after the stock nearly touched its 52-week high of 118.45\u2014any guidance disappointment could trigger a sharp de-rating toward the 50-day support near 112.",
+  "metrics": {
+    "momentum_63d": -0.014301749481403392,
+    "volatility_ann": 0.17542738801531,
+    "rsi_14": 48.76090226781513,
+    "profit_margin": 0.13414,
+    "revenue_growth": 0.12,
+    "trailing_pe": 28.887754,
+    "return_on_equity": 0.10751,
+    "beta": 0.489,
+    "market_cap": 52837228544,
+    "analyst_coverage": 21
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "HWM",
+  "name": "Howmet Aerospace",
+  "sector": "Industrials",
+  "sub_industry": "Aerospace & Defense",
+  "tier": "S&P 500",
+  "price": 272.42999267578125,
+  "as_of": "2026-07-19T22:31:33.277449+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "HWM trades at 63x trailing / 45x forward earnings and 20x book while short-term momentum has stalled (mom_21d -1.8%, MACD histogram negative) just below its 52-week high.",
+  "thesis": "Howmet's aerospace fastener/forging franchise is riding a genuine supercycle: 19% revenue growth, 71% earnings growth, 28% operating margins and 34% ROE reflect real operating leverage from OEM build-rate recoveries and aftermarket spares demand. The stock remains above both its 50- and 200-day moving averages with a golden cross intact, and 126-day momentum of +24% shows the underlying uptrend is still structurally strong; 20 analysts rate it a consensus strong buy, reflecting broad conviction in the multi-year aerospace upcycle (Boeing/Airbus rate ramps, engine spares) that Howmet is uniquely levered to via its titanium/nickel forgings.",
+  "bear_case": "At 63x trailing earnings, 45x forward, and nearly 20x book value, HWM is priced for flawless execution in a name where debt-to-equity is already 88% and free cash flow ($1.19B) covers only a fraction of the market cap's implicit growth expectations \u2014 any deceleration in the 71% earnings growth rate (which is almost certainly not sustainable at that pace) or a delay in Boeing/Airbus rate increases would compress the multiple hard. The recent price action already hints at this: 21-day momentum has turned negative and MACD histogram is negative even as the stock sits near its 52-week high, suggesting buyers are becoming more selective after the 24% six-month run, and with 20 analysts already at 'strong buy,' the positive fundamental story is largely known and priced in, leaving asymmetric downside risk if execution merely meets rather than beats expectations.",
+  "metrics": {
+    "momentum_63d": 0.10076735084637578,
+    "volatility_ann": 0.3250561869244432,
+    "rsi_14": 52.281729765410034,
+    "profit_margin": 0.20225,
+    "revenue_growth": 0.191,
+    "trailing_pe": 63.35581,
+    "return_on_equity": 0.33818,
+    "beta": 1.189,
+    "market_cap": 109001277440,
+    "analyst_coverage": 20
+  }
+}

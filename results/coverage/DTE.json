@@ -1,0 +1,26 @@
+{
+  "ticker": "DTE",
+  "name": "DTE Energy",
+  "sector": "Utilities",
+  "sub_industry": "Multi-Utilities",
+  "tier": "S&P 500",
+  "price": 148.19000244140625,
+  "as_of": "2026-07-19T22:02:58.431374+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "DTE trades above both its 50- and 200-day moving averages (golden cross intact) with 12.4% 6-month momentum, but recent momentum has stalled (21d +0.3%, MACD histogram negative) just below its 52-week high of $155.75.",
+  "thesis": "DTE remains a classic low-beta (0.38) regulated multi-utility compounder trading near but not at all-time highs, with a forward P/E of 17.7x well below its trailing 24.4x \u2014 implying the market expects a rebound from the earnings dip (-44.4% trailing) tied to one-off items, back toward normalized growth. Revenue growth of 15.8% is unusually strong for a regulated utility, likely reflecting rate base expansion and infrastructure investment, and a 3.14% dividend yield offers income support in a market where rate-sensitive names have been rewarded on rotation into defensives. The stock's technical structure (above both 50/200 DMAs, golden cross active) supports a durable uptrend, and 15 analysts rate it a consensus 'buy,' suggesting institutional confidence in the regulated growth capex story translating to EPS recovery ahead.",
+  "bear_case": "The balance sheet is stretched for a regulated utility \u2014 debt-to-equity of 219% alongside deeply negative free cash flow (-$2.19B) signals DTE is funding heavy capex with debt that will pressure interest costs and potentially dilute equity via issuance, a real risk as rates stay elevated. Trailing earnings growth of -44.4% is not clearly a one-off; if it reflects genuine deterioration (e.g., regulatory lag, storm costs, or Midwest industrial demand softness), the 17.7x forward multiple could re-rate higher rather than the stock re-rating up, especially since price-to-book of 2.5x is already rich versus utility peers with ROE of just 10.4%. Technically, momentum has clearly decelerated \u2014 21-day return is flat, MACD histogram is negative, and the stock sits 5% below its 52-week high with RSI at a neutral 48, suggesting the golden-cross uptrend may be losing steam right as leverage concerns could resurface if the Fed stays hawkish longer than expected.",
+  "metrics": {
+    "momentum_63d": 0.016324985228838518,
+    "volatility_ann": 0.19754355228492243,
+    "rsi_14": 48.42222597452124,
+    "profit_margin": 0.07654,
+    "revenue_growth": 0.158,
+    "trailing_pe": 24.373356,
+    "return_on_equity": 0.10423,
+    "beta": 0.381,
+    "market_cap": 30827716608,
+    "analyst_coverage": 15
+  }
+}

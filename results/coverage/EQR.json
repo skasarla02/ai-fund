@@ -1,0 +1,26 @@
+{
+  "ticker": "EQR",
+  "name": "Equity Residential",
+  "sector": "Real Estate",
+  "sub_industry": "Multi-Family Residential REITs",
+  "tier": "S&P 500",
+  "price": 69.0,
+  "as_of": "2026-07-19T22:07:44.721876+00:00",
+  "rating": "neutral",
+  "conviction": 0.56,
+  "key_signal": "EQR is up 15% over the past 3 months and sits just below its 52-week high with a golden cross intact, but a -64.6% earnings growth print and 44x forward P/E signal the rally has outrun fundamentals.",
+  "thesis": "EQR's technical picture is clearly constructive: price trades above both the 50- and 200-day moving averages, a golden cross remains in place, and 63/126-day momentum near +15% shows sustained institutional accumulation in a low-beta (0.75) defensive rate-sensitive name. As a large-cap, well-covered coastal multifamily REIT, EQR benefits from resilient occupancy, a 62.8% gross margin, and a 4.07% dividend yield that becomes increasingly attractive if rates stabilize or decline, which also explains the strength since the stock cleared its 200dma. Revenue growth of 2.5% is modest but stable, and FCF of $1.4B supports the dividend comfortably.",
+  "bear_case": "The valuation has become disconnected from earnings quality: trailing P/E of 27.6x balloons to a forward P/E of 44x precisely because earnings growth collapsed -64.6% y/y, likely reflecting lower gains on property sales or one-time items that inflated prior-year comps, but sell-side consensus (buy, 18 analysts) may not have fully priced in the magnitude of that reset. Price-to-book at 2.4x is rich for a REIT with only 8.7% ROE and leverage (debt/equity 78.4) that leaves it exposed if rate cuts disappoint. The MACD histogram is already negative despite the price being near its 52-week high ($69 vs $71.50), a classic momentum-divergence warning that upside is stalling just as the stock is priced for perfection; any softening in coastal rent growth or supply-driven concession pressure could trigger a sharp mean-reversion given how extended the 15% 3-month move already is.",
+  "metrics": {
+    "momentum_63d": 0.15253330111733931,
+    "volatility_ann": 0.22502226329846942,
+    "rsi_14": 56.00420892139127,
+    "profit_margin": 0.30632,
+    "revenue_growth": 0.025,
+    "trailing_pe": 27.6,
+    "return_on_equity": 0.08671,
+    "beta": 0.754,
+    "market_cap": 26659944448,
+    "analyst_coverage": 18
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "IDXX",
+  "name": "Idexx Laboratories",
+  "sector": "Health Care",
+  "sub_industry": "Health Care Equipment",
+  "tier": "S&P 500",
+  "price": 567.4400024414062,
+  "as_of": "2026-07-19T22:34:03.772865+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "IDXX has bounced above its 50-day SMA (567 vs 555) with a positive MACD histogram, but remains ~9% below its 200-day SMA and down 20% over 126 days, reflecting a stock still working through a valuation reset after falling ~26% from its 52-week high of $770.",
+  "thesis": "IDXX remains a high-quality compounder with 62% gross margins, 32% operating margins, and a remarkable 73% ROE, alongside double-digit revenue (14.3%) and earnings (17.2%) growth that few diagnostics peers can match. The stock has stabilized above its 50-day moving average with improving momentum (MACD turning positive, RSI at a neutral 53.6), suggesting the sharp multi-month drawdown may be finding a floor near the $513-567 range, well off the 52-week low. For a business this profitable, the pullback to a forward P/E of ~34x (still elevated but down from prior peaks) could offer a better entry point for long-term holders willing to pay for quality in companion-animal diagnostics, a structurally growing end market.",
+  "bear_case": "The stock is still below both its 200-day SMA (624) and has negative 6-month momentum (-20%), and at 42x trailing earnings and nearly 29x book value, IDXX trades at a premium that leaves little room for error if growth decelerates even modestly from current double-digit rates. High beta (1.55) and elevated 30-day annualized volatility (36%) mean this stock is priced for perfection, and any softness in companion-animal vet visit volumes, pricing pushback, or a broader multiple compression in expensive healthcare-equipment names could easily reassert the downtrend that took the stock from $770 to $513. Debt-to-equity of 71 is also non-trivial for a name valued on quality/moat premium, and 14 analysts closely covering the name limits the odds of a durable informational mispricing that would favor patient contrarian buyers.",
+  "metrics": {
+    "momentum_63d": -0.004403912118372322,
+    "volatility_ann": 0.3633286426569474,
+    "rsi_14": 53.56712151208799,
+    "profit_margin": 0.24634,
+    "revenue_growth": 0.143,
+    "trailing_pe": 41.846607,
+    "return_on_equity": 0.72915,
+    "beta": 1.549,
+    "market_cap": 44761370624,
+    "analyst_coverage": 14
+  }
+}

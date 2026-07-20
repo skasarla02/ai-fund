@@ -1,0 +1,26 @@
+{
+  "ticker": "KIM",
+  "name": "Kimco Realty",
+  "sector": "Real Estate",
+  "sub_industry": "Retail REITs",
+  "tier": "S&P 500",
+  "price": 26.1200008392334,
+  "as_of": "2026-07-19T22:42:17.261551+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "KIM is trading near its 52-week high with a confirmed golden cross and accelerating 126-day momentum (+29%), yet still carries a ~4% dividend yield.",
+  "thesis": "KIM's technical picture is unambiguously strong: price is above both the 50-day (24.48) and 200-day (22.04) moving averages, a golden cross is in place, MACD histogram is positive, and 126-day momentum of nearly 30% shows the trend is accelerating rather than fading. RSI at 64.7 is elevated but not yet overbought, leaving room to run into the 52-week high of 26.45. Fundamentally, earnings growth of 29.4% year-over-year is outpacing the sector average and well ahead of the modest 4% revenue growth, suggesting margin expansion and operational leverage are working in the REIT's favor (operating margin 34.4%, profit margin 28.5%). A ~4% dividend yield with a 'buy' consensus from 23 analysts provides a income cushion while the stock re-rates higher, and beta near 1.0 means it should track a strengthening real estate/retail recovery without excess volatility.",
+  "bear_case": "The valuation is stretched for what is fundamentally a slow-growing retail landlord: a 30x trailing/forward P/E and 1.7x price-to-book are rich multiples when revenue growth is only 4% and return on equity is a modest 5.9%, meaning the earnings growth is likely driven by one-off items or lower interest expense rather than durable operating improvement. With debt-to-equity at nearly 79%, KIM is a rate-sensitive, leveraged vehicle \u2014 if the earnings growth surprise reverses or rate expectations shift hawkish, the stock is priced for perfection at a 52-week high with RSI already at 64.7, leaving little margin of safety and a real risk of a sharp pullback toward the 50-day SMA (24.48) or lower.  A stock this well-covered (23 analysts) also leaves little room for a durable information edge, meaning any disappointment gets priced in immediately.",
+  "metrics": {
+    "momentum_63d": 0.11182924221332424,
+    "volatility_ann": 0.23798579325420752,
+    "rsi_14": 64.67835412521978,
+    "profit_margin": 0.28537,
+    "revenue_growth": 0.04,
+    "trailing_pe": 30.02299,
+    "return_on_equity": 0.058579996,
+    "beta": 0.969,
+    "market_cap": 17615060992,
+    "analyst_coverage": 23
+  }
+}

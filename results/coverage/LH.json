@@ -1,0 +1,26 @@
+{
+  "ticker": "LH",
+  "name": "Labcorp",
+  "sector": "Health Care",
+  "sub_industry": "Health Care Services",
+  "tier": "S&P 500",
+  "price": 283.3599853515625,
+  "as_of": "2026-07-19T22:44:26.307592+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "LH trades within 3% of its 52-week high with all momentum windows positive (21d +7%, 63d +6.7%, 126d +8.7%) while forward P/E of 14.6 is roughly half its trailing P/E of 25.1, signaling the market expects a sharp earnings inflection (earningsGrowth +32.9%).",
+  "thesis": "Labcorp's price action shows a durable uptrend\u2014above both the 50- and 200-day moving averages, RSI at 62.6 (healthy, not overbought), and multi-timeframe momentum all positive\u2014while the stock sits just under its 52-week high of $293.72, suggesting institutional accumulation rather than a blow-off top. The valuation story is compelling: a forward P/E of 14.6 versus trailing 25.1 implies the Street expects earnings to nearly double the growth rate embedded in trailing multiples, consistent with the reported 32.9% earnings growth. Revenue growth of 5.8% is modest but stable for a diagnostics leader, and the 17 covering analysts carry a consensus 'buy' rating, adding a layer of validation without the stock being so over-owned that positive surprises are fully priced. A low beta of 0.861 also makes this a relatively defensive way to play healthcare services momentum.",
+  "bear_case": "The technical picture has a crack: sma_50 (265.3) sits just below sma_200 (266.2), meaning the golden_cross flag is 0 and a death-cross condition is technically in place even as price trades above both averages\u2014a divergence that often precedes momentum stalling, and the negative MACD histogram (-0.18) despite a positive 1-day return corroborates fading short-term momentum. Fundamentally, profit margins are thin (6.66% net, 10.9% operating) for a company with total revenue of $14.1B, and debt-to-equity of 83.4 is elevated, meaning the earnings growth the market is pricing in via the cheap forward multiple needs to actually materialize or the stock re-rates painfully back toward its trailing multiple. With the stock already near its 52-week high and 30-day annualized volatility at 24.6%, any miss on the 32.9% earnings growth assumption\u2014especially with revenue growth stuck at just 5.8%\u2014could trigger a sharp multiple-driven pullback rather than a gentle consolidation.",
+  "metrics": {
+    "momentum_63d": 0.06674653645776796,
+    "volatility_ann": 0.24552395930439602,
+    "rsi_14": 62.6008532300802,
+    "profit_margin": 0.06656,
+    "revenue_growth": 0.058,
+    "trailing_pe": 25.120567,
+    "return_on_equity": 0.11047,
+    "beta": 0.861,
+    "market_cap": 23235518464,
+    "analyst_coverage": 17
+  }
+}

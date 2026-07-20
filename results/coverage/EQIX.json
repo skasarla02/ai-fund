@@ -1,0 +1,26 @@
+{
+  "ticker": "EQIX",
+  "name": "Equinix",
+  "sector": "Real Estate",
+  "sub_industry": "Data Center REITs",
+  "tier": "S&P 500",
+  "price": 1020.0,
+  "as_of": "2026-07-19T22:07:30.822925+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "EQIX trades below its 50-day SMA (1020 vs 1061) with negative MACD momentum despite remaining above its 200-day SMA and golden cross, signaling a stalled uptrend at a stretched valuation (70x trailing P/E, 7x book).",
+  "thesis": "Equinix remains a structural beneficiary of AI/cloud-driven data center demand, evidenced by 29% earnings growth, 12% revenue growth, and 24% operating margins, with the stock still up ~29% over the past six months and holding above its 200-day moving average with an intact golden cross. The recent pullback from the 52-week high of $1128 to $1020 (RSI 42.7, not yet oversold) could represent a healthy consolidation within a longer-term uptrend rather than a trend reversal, and the 1.08% daily bounce hints at buyers stepping in near this level.",
+  "bear_case": "The stock is priced for perfection at 70x trailing earnings and 53x forward earnings with a P/B of 7 and debt-to-equity of 163%, leaving little room for error in a REIT sector sensitive to rates and capex intensity; the last month's -6.8% momentum, price below the 50-day SMA, and a deepening negative MACD histogram (-2.37) suggest institutional distribution is underway, and with 29 analysts already covering the name and consensus at 'buy,' any hint of decelerating hyperscaler leasing or margin compression from power/land cost inflation could trigger a sharp re-rating given how much growth is already embedded in the multiple.",
+  "metrics": {
+    "momentum_63d": -0.042819306232321,
+    "volatility_ann": 0.24896024793528482,
+    "rsi_14": 42.692719872032015,
+    "profit_margin": 0.14928001,
+    "revenue_growth": 0.121,
+    "trailing_pe": 70.44199,
+    "return_on_equity": 0.10059,
+    "beta": 0.971,
+    "market_cap": 100596736000,
+    "analyst_coverage": 29
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "FOX",
+  "name": "Fox Corporation (Class B)",
+  "sector": "Communication Services",
+  "sub_industry": "Broadcasting",
+  "tier": "S&P 500",
+  "price": 51.630001068115234,
+  "as_of": "2026-07-19T22:21:44.363339+00:00",
+  "rating": "bullish",
+  "conviction": 0.56,
+  "key_signal": "FOX trades at just 9.5x forward earnings and has shown a sharp positive momentum reversal (21d +7.7%, MACD turning positive) even though the stock remains below its 50/200-day averages after a tough comp against last year's election-cycle ad boom.",
+  "thesis": "At a forward P/E of 9.5x and price-to-book under 2x, FOX is priced for permanent decline despite still generating 21.4% operating margins, 15.2% ROE, and $1.4B in free cash flow on $16.2B revenue. The -8.6% revenue growth and -49.3% earnings growth almost certainly reflect a tough year-over-year comparison against 2024's outsized political and NFL-cycle ad revenue rather than structural deterioration, and low beta (0.55) plus a 1.08% dividend suggest the market already treats this as a defensive, mature cash-generator. The recent 21-day +7.7% bounce, positive 1-day return, and MACD histogram turning sharply positive (0.76) suggest the multi-month downtrend (-21.6% over 126 days) may be stabilizing as the stock sits near its 52-week low ($44.08) with room to $68 highs.",
+  "bear_case": "The stock is below both its 50-day ($53.82) and 200-day ($56.62) moving averages with no golden cross, confirming the intermediate trend remains bearish, and a -49.3% earnings decline plus -8.6% revenue growth are not merely cyclical noise but evidence that linear cord-cutting and audience erosion at Fox News and cable are structurally impairing the base business even as debt-to-equity sits elevated at 67.9%; if the political/NFL comp explanation is wrong and margins keep compressing, the 'cheap' multiple is a value trap, and 57% annualized volatility shows the market is already pricing real downside risk rather than an anomaly.",
+  "metrics": {
+    "momentum_63d": -0.10829016049267703,
+    "volatility_ann": 0.5773108965340588,
+    "rsi_14": 53.76492478172116,
+    "profit_margin": 0.10561,
+    "revenue_growth": -0.086,
+    "trailing_pe": 13.586843,
+    "return_on_equity": 0.152,
+    "beta": 0.55,
+    "market_cap": 21679470592,
+    "analyst_coverage": null
+  }
+}

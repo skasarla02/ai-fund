@@ -1,0 +1,26 @@
+{
+  "ticker": "CHTR",
+  "name": "Charter Communications",
+  "sector": "Communication Services",
+  "sub_industry": "Cable & Satellite",
+  "tier": "S&P 500",
+  "price": 131.3699951171875,
+  "as_of": "2026-07-19T21:45:38.530905+00:00",
+  "rating": "bearish",
+  "conviction": 0.58,
+  "key_signal": "CHTR has cratered ~44% over the past quarter and now trades far below both its 50-day ($139) and 200-day ($199) moving averages despite a rock-bottom trailing P/E of 3.6, signaling the market believes the earnings base itself is impaired, not just cheap.",
+  "thesis": "The bear-turned-contrarian argument is that at 2.97x forward earnings and roughly book value (P/B 0.99), Charter is pricing in severe structural decline, and with $2.4B of trailing free cash flow against a $20.6B market cap (~11.7% FCF yield), there is room for the company to delever or buy back stock opportunistically if the broadband subscriber bleed stabilizes; the MACD histogram turning positive and RSI at 44 hint at a potential near-term bounce off oversold conditions.",
+  "bear_case": "Revenue growth is already negative (-1%) and the stock has lost two-thirds of its value from the 52-week high of $402 as fixed-wireless and fiber overbuilders structurally erode Charter's broadband subscriber base, the core profit driver; debt-to-equity of 460% (largely from years of leveraged buybacks that shrank the equity base) leaves Charter with far less flexibility to defend market share via pricing or capex in a higher-for-longer rate environment, and the stock remains below its 50-day and 200-day moving averages with no golden cross, meaning technical momentum still confirms the deteriorating fundamental narrative rather than a bottoming process.The cheap multiple is a classic value trap if subscriber losses accelerate.",
+  "metrics": {
+    "momentum_63d": -0.4432767112870549,
+    "volatility_ann": 0.500826420307804,
+    "rsi_14": 43.94465850947909,
+    "profit_margin": 0.09029,
+    "revenue_growth": -0.01,
+    "trailing_pe": 3.5553448,
+    "return_on_equity": 0.27504998,
+    "beta": 0.704,
+    "market_cap": 20582836224,
+    "analyst_coverage": 17
+  }
+}

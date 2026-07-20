@@ -1,0 +1,26 @@
+{
+  "ticker": "MO",
+  "name": "Altria",
+  "sector": "Consumer Staples",
+  "sub_industry": "Tobacco",
+  "tier": "S&P 500",
+  "price": 74.20999908447266,
+  "as_of": "2026-07-19T21:19:05.969931+00:00",
+  "rating": "bullish",
+  "conviction": 0.6,
+  "key_signal": "MO is trading at $74.21, just 1.4% below its 52-week high with a golden cross and price above both the 50- and 200-day moving averages, confirming a durable uptrend (+24.6% over 126 days) while still trading at only 12.6x forward earnings.",
+  "thesis": "Altria's technical picture is unambiguously strong: price sits above both the 50-day ($70.97) and 200-day ($63.47) moving averages with a golden cross intact, momentum accelerating across all horizons (21d +5.7%, 63d +16%, 126d +24.6%), and RSI at 60 shows room to run before overbought. Fundamentally, the stock remains cheap relative to its own growth reacceleration \u2014 forward P/E of 12.6x versus trailing 15.5x implies expected earnings growth, and reported earningsGrowth of 106% signals a major inflection (likely from cost cuts, buybacks, or NJOY-related items) alongside 87% gross margins and 62% operating margins that are best-in-class even for staples. The 5.71% dividend yield remains a powerful anchor for income-oriented capital rotating into low-beta (0.494) defensives, especially with 11 sell-side analysts still only at 'hold' \u2014 leaving room for upgrades if the earnings inflection persists, which would be a catalyst underappreciated by thin coverage relative to mega-cap staples.",
+  "bear_case": "The stock is only 1.4% off its 52-week high after a 24.6% six-month rally, meaning much of the good news \u2014 cost discipline, buybacks, potential earnings inflection \u2014 is likely already priced in, and the consensus 'hold' rating from all 11 covering analysts suggests sell-side sees limited further upside at current levels. Altria's core business faces structural, permanent decline in cigarette volumes (the reason revenue growth is only 5.3% despite huge margins), and the reported 106% earningsGrowth figure is suspiciously large and could reflect a one-time item (e.g., NJOY writedown reversal or litigation settlement) rather than sustainable operating improvement, making the 12.6x forward multiple less of a bargain than it appears. With vol_30d_ann at 25.6% and the stock trading near multi-year highs, any disappointment \u2014 regulatory action on nicotine/vaping, a dividend growth deceleration, or a broader rotation out of richly-run defensives \u2014 could trigger a sharp mean-reversion pullback toward the 50-day at $70.97.",
+  "metrics": {
+    "momentum_63d": 0.1598367284836273,
+    "volatility_ann": 0.2555903055734614,
+    "rsi_14": 60.348351992922815,
+    "profit_margin": 0.39518002,
+    "revenue_growth": 0.053,
+    "trailing_pe": 15.492693,
+    "return_on_equity": null,
+    "beta": 0.494,
+    "market_cap": 123922620416,
+    "analyst_coverage": 11
+  }
+}

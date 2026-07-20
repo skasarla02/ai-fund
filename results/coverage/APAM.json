@@ -1,0 +1,26 @@
+{
+  "ticker": "APAM",
+  "name": "Artisan Partners Asset Management, Inc.",
+  "sector": "Financials",
+  "sub_industry": "Asset Management & Custody Banks",
+  "tier": "S&P 600",
+  "price": 38.5099983215332,
+  "as_of": "2026-07-19T21:04:59.518012+00:00",
+  "rating": "bullish",
+  "conviction": 0.632,
+  "key_signal": "63d momentum +6.4%, margin 23.5%, only 4 analysts covering it.",
+  "thesis": "[mock] Trades above its 200-day average with +6.4% momentum; profit margin 23.5% \u2014 only 4 analysts covering it.",
+  "bear_case": "[mock] Valuation at 9.7x trailing earnings leaves little room for a growth miss.",
+  "metrics": {
+    "momentum_63d": 0.06392386413361018,
+    "volatility_ann": 0.3484059749611136,
+    "rsi_14": 62.46379467811211,
+    "profit_margin": 0.23493999,
+    "revenue_growth": 0.093,
+    "trailing_pe": 9.6516285,
+    "return_on_equity": 0.72485,
+    "beta": 1.668,
+    "market_cap": 2733950208,
+    "analyst_coverage": 4
+  }
+}

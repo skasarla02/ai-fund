@@ -1,0 +1,26 @@
+{
+  "ticker": "BRO",
+  "name": "Brown & Brown",
+  "sector": "Financials",
+  "sub_industry": "Insurance Brokers",
+  "tier": "S&P 500",
+  "price": 69.3499984741211,
+  "as_of": "2026-07-19T21:36:25.333036+00:00",
+  "rating": "neutral",
+  "conviction": 0.56,
+  "key_signal": "BRO has rallied 16% over the past month (RSI 64, positive MACD) yet remains below both its 50- and 200-day moving averages after a steep drop from its $104 52-week high to $69, reflecting an unresolved tug-of-war between technical recovery and a broken longer-term trend.",
+  "thesis": "Despite the recent earnings dip (-7.9% growth) likely tied to acquisition integration and margin normalization after aggressive M&A-driven revenue growth (+35.7% YoY), the sharp drop in forward P/E (14.3x) versus trailing (22.6x) signals the sell-side expects a meaningful earnings rebound. Operating margins remain robust at 47%, and the stock's low beta (0.60) combined with a defensive insurance-brokerage business model offers ballast. The recent 21-day momentum surge (+16%) with positive MACD suggests the market is starting to price in recovery from oversold levels near the 52-week low of $53.81, and a return toward the 200-day SMA ($71.9) would represent a modest further gain.",
+  "bear_case": "The stock trades below both its 50- and 200-day moving averages with no golden cross, and the 126-day momentum is still deeply negative (-12.2%), indicating the primary trend remains down despite a short-term bounce that could be a bull trap within an elevated-volatility regime (36% annualized). Earnings actually contracted even as revenue grew 35.7%, implying real margin/quality deterioration from debt-funded acquisitions (debt-to-equity is high at 64.4), and ROE of just 11.9% is mediocre for a broker trading at 1.85x book and 22.6x trailing earnings. With 16 analysts already covering the name and a consensus 'hold' rating, there's limited informational edge, and the stock could easily round-trip back toward the 200-day SMA resistance or lower if the promised earnings recovery embedded in the forward P/E fails to materialize.",
+  "metrics": {
+    "momentum_63d": 0.010655315110313923,
+    "volatility_ann": 0.35852353351321276,
+    "rsi_14": 64.00541069269428,
+    "profit_margin": 0.18360001,
+    "revenue_growth": 0.357,
+    "trailing_pe": 22.589577,
+    "return_on_equity": 0.11926,
+    "beta": 0.599,
+    "market_cap": 23506032640,
+    "analyst_coverage": 16
+  }
+}

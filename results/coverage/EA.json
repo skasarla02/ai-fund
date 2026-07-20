@@ -1,0 +1,26 @@
+{
+  "ticker": "EA",
+  "name": "Electronic Arts",
+  "sector": "Communication Services",
+  "sub_industry": "Interactive Home Entertainment",
+  "tier": "S&P 500",
+  "price": 208.89999389648438,
+  "as_of": "2026-07-19T22:05:26.484357+00:00",
+  "rating": "neutral",
+  "conviction": 0.63,
+  "key_signal": "EA is trading within $0.30 of its 52-week high and near the reported $210/share take-private deal price, with unusually low realized volatility (4.3% annualized) signaling the market is pricing this as a merger-arbitrage situation rather than a growth story.",
+  "thesis": "With the stock pinned just under its 52-week high of $209.19 and a golden cross plus price above both the 50- and 200-day moving averages, technicals confirm a stable uptrend consistent with the market pricing in high odds of deal completion at/near the ~$210 takeout price; forward P/E of 21.7x versus trailing 59.5x reflects expected earnings growth (85% earningsGrowth estimate) and margin strength (79% gross margin, 24% operating margin) that would matter if the deal breaks and EA reverts to standalone trading, giving some fundamental support beneath the deal price. Low beta (0.64) and low 30-day annualized volatility (4.3%) suggest the market views downside risk as contained.",
+  "bear_case": "The RSI of 80 is not organic momentum but a symptom of the stock being arbitraged toward a fixed deal price, meaning there is very little residual upside left (spread to the presumed ~$210 offer is under 1%) while any regulatory delay, financing snag, or deal-break headline (this is a large leveraged buyout involving sovereign wealth and private equity capital) could send the stock sharply back toward fundamentals-implied levels \u2014 and at 59.5x trailing earnings and 7.7x book value, standalone EA is priced for perfection, so a broken deal could easily see a 15-25% air-pocket decline toward pre-deal trading levels in the $170-180 range.'",
+  "metrics": {
+    "momentum_63d": 0.028163117097300017,
+    "volatility_ann": 0.04332988789244927,
+    "rsi_14": 80.01665230857684,
+    "profit_margin": 0.11778,
+    "revenue_growth": 0.119,
+    "trailing_pe": 59.515667,
+    "return_on_equity": 0.1349,
+    "beta": 0.641,
+    "market_cap": 52381982720,
+    "analyst_coverage": 14
+  }
+}

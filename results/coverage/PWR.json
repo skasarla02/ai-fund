@@ -1,0 +1,26 @@
+{
+  "ticker": "PWR",
+  "name": "Quanta Services",
+  "sector": "Industrials",
+  "sub_industry": "Construction & Engineering",
+  "tier": "S&P 500",
+  "price": 635.1199951171875,
+  "as_of": "2026-07-20T15:57:59.853936+00:00",
+  "rating": "bearish",
+  "conviction": 0.58,
+  "key_signal": "Price has broken below its 50-day moving average (635 vs 704) with negative MACD momentum and RSI under 40, unwinding a chunk of the prior 42% six-month rally even as the stock still trades at 87x trailing earnings.",
+  "thesis": "Quanta remains a structural beneficiary of grid modernization, data-center power buildout, and electrification capex, evidenced by 26% revenue growth and 51% earnings growth\u2014rare combination for a mega-cap industrial. The stock is still above its 200-day SMA with an intact golden cross, and 26 analysts rate it a consensus 'buy,' suggesting institutional conviction in the long-term secular story remains intact despite the pullback from its $788.75 52-week high.",
+  "bear_case": "The technical picture has deteriorated meaningfully: price is down 11% over the last month, sitting 10% below its 50-day average with negative MACD histogram and RSI near 39, indicating the momentum that drove the 42% six-month rally has reversed and could continue mean-reverting toward the 200-day SMA near $552 (a further ~13% downside). This is happening while the stock trades at a demanding 87x trailing P/E, 38.6x forward P/E, and 10.5x book value\u2014multiples that leave zero room for error and are highly sensitive to any deceleration in the 26% revenue growth rate or margin compression (operating margin is already thin at 4.2%), especially with elevated leverage (debt/equity ~69) and high beta (1.215) amplifying downside in a risk-off environment for high-multiple industrials.",
+  "metrics": {
+    "momentum_63d": 0.055388117442971785,
+    "volatility_ann": 0.4592461232097879,
+    "rsi_14": 39.31744093084629,
+    "profit_margin": 0.036679998,
+    "revenue_growth": 0.263,
+    "trailing_pe": 87.122086,
+    "return_on_equity": 0.13534,
+    "beta": 1.215,
+    "market_cap": 95306194944,
+    "analyst_coverage": 26
+  }
+}

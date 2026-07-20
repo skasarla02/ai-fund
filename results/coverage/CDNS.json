@@ -1,0 +1,26 @@
+{
+  "ticker": "CDNS",
+  "name": "Cadence Design Systems",
+  "sector": "Information Technology",
+  "sub_industry": "Application Software",
+  "tier": "S&P 500",
+  "price": 330.1099853515625,
+  "as_of": "2026-07-19T21:38:01.832101+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "CDNS just fell ~9% in a day and sits at RSI 14=28.6 (oversold) with price barely above its 200dma (330 vs 328) after a sharp -15% 21-day drawdown, despite intact double-digit revenue/earnings growth.",
+  "thesis": "Cadence remains a high-margin (86% gross, 30% operating) EDA/software franchise growing revenue ~19% and earnings ~23% with ROE over 20%, and the stock has round-tripped from a 52-week high of $416 to $330 on what looks like a technical/sentiment shock rather than a fundamental break (golden cross still intact, price still above 200dma). RSI at 28.6 and a large single-day drop often mark capitulation in a structurally growing, wide-moat name with 26 analysts rating it strong buy \u2014 a snapback toward the 50dma (~375) is plausible if no fresh negative catalyst emerges, and the sharp momentum reset (-14.9% 21d) has likely overshot the modest deceleration implied by fundamentals.",
+  "bear_case": "Valuation remains extremely stretched at 77x trailing and 35x forward earnings with a price-to-book near 14x, leaving zero margin for error if the -9% single-day move reflects a real fundamental issue (e.g., guidance cut, China/export exposure, or semiconductor capex slowdown) rather than noise; the negative MACD histogram (-4.18) and price now below the 50dma by over 12% suggest a broken uptrend, not just a dip, and in a high-multiple software name a trend break like this can persist for months as multiple compression continues even if underlying growth holds, especially with 30d annualized vol near 45% signaling the market is still repricing risk aggressively.",
+  "metrics": {
+    "momentum_63d": 0.07541697465766406,
+    "volatility_ann": 0.44646772659904693,
+    "rsi_14": 28.621332726004283,
+    "profit_margin": 0.21180001,
+    "revenue_growth": 0.187,
+    "trailing_pe": 76.948715,
+    "return_on_equity": 0.20656,
+    "beta": 1.148,
+    "market_cap": 91049615360,
+    "analyst_coverage": 26
+  }
+}

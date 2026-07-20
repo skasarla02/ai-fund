@@ -1,0 +1,26 @@
+{
+  "ticker": "CPAY",
+  "name": "Corpay",
+  "sector": "Financials",
+  "sub_industry": "Transaction & Payment Processing Services",
+  "tier": "S&P 500",
+  "price": 365.7900085449219,
+  "as_of": "2026-07-19T21:54:06.107071+00:00",
+  "rating": "bullish",
+  "conviction": 0.65,
+  "key_signal": "Strong uptrend with price 15.6% above 200-day SMA and golden cross intact, while forward PE of ~12 is dramatically cheaper than trailing PE of ~22, implying the market is pricing in significant earnings acceleration (49% earnings growth, 25% revenue growth).",
+  "thesis": "Corpay trades near its 52-week high ($365.79 vs $374.09) with a confirmed golden cross and positive MACD momentum, reflecting sustained institutional accumulation over the past 4-6 months (mom_63d +10.2%, mom_126d +11.6%). The fundamental backdrop supports this: 79.7% gross margins, 41.4% operating margins, and 32% ROE are best-in-class for a payments infrastructure business, while revenue growth of 25.4% and earnings growth of 49.1% show the business is compounding faster than its valuation suggests. The forward PE of ~12 versus trailing PE of ~22 signals the market expects a step-change in earnings, and with 14 analysts covering (a 'buy' consensus rating), this isn't a hidden gem but a well-scrutinized compounder still re-rating upward. A low beta of 0.881 suggests this move is fundamentally driven rather than pure market beta, and RSI at 58.6 leaves room to run before overbought territory.",
+  "bear_case": "The balance sheet carries substantial risk with debt-to-equity at 271%, an unusually high leverage level for a company trading at 6.9x price-to-book, meaning any deceleration in cash flow (FCF of $2.1B against $4.78B revenue) could quickly strain debt service capacity, especially if rates stay elevated. Annualized volatility of 33.6% is high for a mega-cap financial, and the stock is down 1.6% on the most recent day despite the broader uptrend, sitting just 2.2% below its 52-week high \u2014 a level where profit-taking or a growth-expectation miss (49% earnings growth is a high bar to repeat) could trigger a sharp pullback. Additionally, forward PE compression this steep (22 to 12) only works if 2025 estimates are hit exactly; any guidance cut given the leveraged balance sheet and payment-processing competitive dynamics (fintech disruption, interchange fee pressure) could cause the stock to re-rate down toward trailing multiples rather than up toward forward ones.",
+  "metrics": {
+    "momentum_63d": 0.10154485643679467,
+    "volatility_ann": 0.336322993483808,
+    "rsi_14": 58.61346770596573,
+    "profit_margin": 0.24597,
+    "revenue_growth": 0.254,
+    "trailing_pe": 21.877394,
+    "return_on_equity": 0.32124,
+    "beta": 0.881,
+    "market_cap": 23908737024,
+    "analyst_coverage": 14
+  }
+}

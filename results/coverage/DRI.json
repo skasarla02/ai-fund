@@ -1,0 +1,26 @@
+{
+  "ticker": "DRI",
+  "name": "Darden Restaurants",
+  "sector": "Consumer Discretionary",
+  "sub_industry": "Restaurants",
+  "tier": "S&P 500",
+  "price": 198.52999877929688,
+  "as_of": "2026-07-19T21:57:36.594500+00:00",
+  "rating": "neutral",
+  "conviction": 0.56,
+  "key_signal": "DRI trades above its 200dma with a golden cross intact, but has broken below its 50dma with negative 21d/126d momentum and a bearish MACD histogram, signaling a short-term pullback within a longer-term uptrend.",
+  "thesis": "Darden's fundamentals remain solid: 13.7% revenue growth, 36% earnings growth, a 14.3% operating margin, and a forward P/E of 16x versus trailing 19x implies the market expects continued earnings acceleration. A 3.08% dividend yield adds income support, and the stock still sits comfortably above its 200-day moving average with an intact golden cross, suggesting the primary trend remains up despite the recent 4.3% one-month pullback. At ~$198.53, shares are roughly 10% off the 52-week high of $220.65 but well above the 52-week low of $169, offering a reasonable entry point for a franchise with 53.7% ROE and durable brand equity across Olive Garden, LongHorn, and other concepts. Low beta (0.585) also makes DRI a relatively defensive way to stay invested in consumer discretionary.",
+  "bear_case": "The technical picture is deteriorating in the near term \u2014 price has fallen below the 50-day SMA, RSI is neutral-to-weak at 45.6, and the MACD histogram is meaningfully negative (-0.87), all consistent with a stock that could retest the 200-day SMA around $193 or lower before finding support. More structurally, Darden carries very high leverage with debt-to-equity of 362%, meaning its impressive 53.7% ROE is significantly leverage-driven rather than purely operational efficiency, leaving less balance-sheet cushion if same-restaurant traffic softens amid a pressured lower-income consumer \u2014 a persistent risk factor in casual dining. With 24 analysts already covering the name and a consensus 'buy' priced in, much of the good news (double-digit earnings growth, margin stability) may already be reflected in the 19x trailing multiple and 10x price-to-book, limiting further re-rating upside even if execution stays solid.",
+  "metrics": {
+    "momentum_63d": 0.01767349440449628,
+    "volatility_ann": 0.2794991767640724,
+    "rsi_14": 45.593404762585614,
+    "profit_margin": 0.09134,
+    "revenue_growth": 0.137,
+    "trailing_pe": 19.016285,
+    "return_on_equity": 0.53718,
+    "beta": 0.585,
+    "market_cap": 22738632704,
+    "analyst_coverage": 24
+  }
+}

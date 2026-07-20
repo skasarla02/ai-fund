@@ -1,0 +1,26 @@
+{
+  "ticker": "CCI",
+  "name": "Crown Castle",
+  "sector": "Real Estate",
+  "sub_industry": "Telecom Tower REITs",
+  "tier": "S&P 500",
+  "price": 79.16999816894531,
+  "as_of": "2026-07-19T21:55:50.935607+00:00",
+  "rating": "bearish",
+  "conviction": 0.58,
+  "key_signal": "CCI trades below both its 50- and 200-day moving averages with double-digit negative momentum across 21/63/126-day windows, sitting just above its 52-week low as it works through a business-model overhaul (fiber divestiture, dividend reset).",
+  "thesis": "Crown Castle still generates high-margin, contracted tower revenue (73.8% gross margin, 47.7% operating margin) and offers a 5.37% dividend yield after its recent dividend cut, with forward PE (26.8x) below trailing PE (33.4x) implying analysts expect earnings to inflect higher as the company completes its fiber/small-cell divestiture and refocuses on core towers. At $79, the stock sits only ~7% above its 52-week low of $73.75, and 19 sell-side analysts still carry a consensus 'buy,' suggesting institutional coverage sees the balance-sheet cleanup and strategic simplification as a re-rating catalyst once uncertainty clears.",
+  "bear_case": "The price action is unambiguously negative and confirmed across every timeframe (-10.2% 1M, -7.8% 3M, -8.5% 6M), trading below both the 50-day ($85.54) and 200-day ($86.26) moving averages with no golden cross, and 30-day annualized volatility of ~40% signals the market still sees this as a high-uncertainty name, not a stabilizing one. More fundamentally, revenue growth is negative (-4.8%), priceToBook is negative (-17.98), implying liabilities exceed assets on a book basis \u2014 a red flag for a REIT that traditionally trades on asset value \u2014 and the ongoing fiber-business sale plus prior dividend cut show a business in restructuring, not compounding. A 33x trailing PE for a shrinking-revenue REIT with impaired book equity leaves little room for multiple expansion if the tower-leasing recovery disappoints or rates stay elevated, pressuring REIT valuations sector-wide.",
+  "metrics": {
+    "momentum_63d": -0.07800367360222793,
+    "volatility_ann": 0.39827719045131,
+    "rsi_14": 44.04387060900198,
+    "profit_margin": 0.25136,
+    "revenue_growth": -0.048,
+    "trailing_pe": 33.405064,
+    "return_on_equity": null,
+    "beta": 0.972,
+    "market_cap": 34553901056,
+    "analyst_coverage": 19
+  }
+}

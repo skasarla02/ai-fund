@@ -1,0 +1,26 @@
+{
+  "ticker": "GM",
+  "name": "General Motors",
+  "sector": "Consumer Discretionary",
+  "sub_industry": "Automobile Manufacturers",
+  "tier": "S&P 500",
+  "price": 76.06999969482422,
+  "as_of": "2026-07-19T22:25:39.331015+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "GM trades at a forward P/E of just 5.4x versus a trailing P/E of 27.8x, implying the market expects a sharp earnings rebound even as the stock sits 13% below its 52-week high.",
+  "thesis": "GM's valuation gap is the standout signal: a price-to-book of 1.1x and forward P/E under 5.5x price in deep skepticism about earnings durability, yet the company still generates $22.5B in free cash flow on $184.6B revenue and maintains operating margins near 9.4%. Technically, the stock remains above its 200-day SMA (75.8 vs price 76.1) with a golden cross intact, and MACD histogram has just turned slightly positive, suggesting the recent pullback (-7.8% over 21 days) may be stabilizing rather than accelerating. With 26 analysts already rating it a consensus 'buy,' the setup favors mean reversion toward the 50-day SMA (78.8) if EV losses continue to narrow and cost cuts materialize, especially with capital returned via dividend and buybacks.",
+  "bear_case": "The fundamentals underneath the cheap multiple are genuinely weak: earnings growth is -15.8%, revenue growth is negative (-0.9%), ROE is a thin 4%, and net margins are just 1.4% despite scale \u2014 this isn't a cheap compounder, it's a low-margin cyclical business with 199% debt-to-equity levering every downturn. Momentum is broadly negative across 21/63/126-day windows, RSI at 42.7 shows no buying conviction, and price sits below both its 50-day SMA and well off the 52-week high of $87.62, with 30-day annualized volatility near 29% signaling elevated downside risk. If EV losses, tariff costs, or a broader auto-cycle slowdown keep pressuring the thin margins further, the 'cheap forward multiple' could prove to be a value trap rather than a rebound setup, and with 26 analysts already covering the name, any further deterioration gets priced in quickly.",
+  "metrics": {
+    "momentum_63d": -0.023255779780708252,
+    "volatility_ann": 0.29197636293658197,
+    "rsi_14": 42.72416176567539,
+    "profit_margin": 0.0137600005,
+    "revenue_growth": -0.009,
+    "trailing_pe": 27.762774,
+    "return_on_equity": 0.040149998,
+    "beta": 1.309,
+    "market_cap": 68589674496,
+    "analyst_coverage": 26
+  }
+}

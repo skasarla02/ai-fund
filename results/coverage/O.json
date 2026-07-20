@@ -1,0 +1,26 @@
+{
+  "ticker": "O",
+  "name": "Realty Income",
+  "sector": "Real Estate",
+  "sub_industry": "Retail REITs",
+  "tier": "S&P 500",
+  "price": 65.25499725341797,
+  "as_of": "2026-07-20T15:59:54.373085+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "O is in a confirmed uptrend (golden cross, above both 50/200-day SMAs, +10% over 126 days) trading near its 52-week high while still yielding almost 5%, suggesting the market is re-rating this bond-proxy REIT as rate-cut expectations build.",
+  "thesis": "Realty Income's technical picture is unambiguously constructive: price sits above both the 50-day ($61.90) and 200-day ($59.89) moving averages with a golden cross intact, positive momentum across 21/63/126-day windows, and a rising MACD histogram (0.24) with RSI at 62 indicating strength without being overbought. Fundamentally, revenue growth of 12% and earnings growth of 17.9% show the acquisition-driven net-lease model is still compounding, supported by extremely high gross (92.6%) and operating (45.5%) margins typical of a well-run triple-net REIT. A low beta of 0.73 and a near-5% dividend yield make this an attractive defensive holding if the market continues to price in Fed rate cuts, which would compress cap-rate spreads and support further multiple expansion toward the 52-week high of $67.94 (only ~4% away). Sell-side sentiment is aligned (consensus 'buy' across 20 analysts), reducing the odds of a negative surprise-driven de-rating.",
+  "bear_case": "The valuation is stretched by traditional metrics \u2014 a 53.5x trailing P/E and 38.4x forward P/E are rich for a company with only 2.8% ROE and debt-to-equity of 73.5x, meaning the re-rating already embeds a lot of good news on rates that may not materialize as fast as priced. Realty Income's business model depends on cheap, continuous capital-market access to fund external growth; if the recent rate-cut optimism reverses (e.g., sticky inflation prints), the stock's beta to rates could snap this uptrend quickly given it's already run up 8% in the last month and sits just below its 52-week high with elevated 30-day annualized volatility (22.8%) relative to its low fundamental beta, indicating the recent move is more sentiment/rate-driven than earnings-driven and vulnerable to a sharp reversal.",
+  "metrics": {
+    "momentum_63d": 0.01565488526729175,
+    "volatility_ann": 0.22809365654626135,
+    "rsi_14": 62.49952504769743,
+    "profit_margin": 0.18899,
+    "revenue_growth": 0.12,
+    "trailing_pe": 53.4877,
+    "return_on_equity": 0.02831,
+    "beta": 0.729,
+    "market_cap": null,
+    "analyst_coverage": 20
+  }
+}

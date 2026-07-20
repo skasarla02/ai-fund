@@ -1,0 +1,26 @@
+{
+  "ticker": "RVTY",
+  "name": "Revvity",
+  "sector": "Health Care",
+  "sub_industry": "Health Care Equipment",
+  "tier": "S&P 500",
+  "price": 106.83000183105469,
+  "as_of": "2026-07-20T16:01:46.147393+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "Shares sit above both the 50- and 200-day moving averages (golden cross intact) but have just reversed with a -3% day and a deeply negative MACD histogram (-0.81), signaling a stall in the recent 9-14% short-term rally.",
+  "thesis": "Revvity trades above its 50dma ($103.4) and 200dma ($97.9) with a golden cross confirmed, and the stock has rallied 9.3% over the last month and 13.8% over the last quarter, reflecting renewed investor confidence after last year's portfolio repositioning. The forward P/E of 18.3x is dramatically cheaper than the trailing 51.4x, implying the market expects a sharp earnings inflection as margin-dilutive legacy businesses roll off and higher-margin diagnostics/software mix improves (gross margin already a healthy 54.3%, operating margin 12.4%). Free cash flow of ~$509M against a $11.9B market cap gives a reasonable ~4.3% FCF yield, and 15 analysts maintain a consensus 'buy' rating, suggesting sell-side confidence in the forward estimates driving that PE compression.",
+  "bear_case": "The fundamentals show real quality concerns that the price action may be papering over: ROE is just 3.2%, earnings growth is a tepid 3.5% versus 7% revenue growth (margin compression), and trailing PE of 51x is very rich for a company with 8.3% net margins - any disappointment relative to the optimistic forward estimates (18.3x PE) could trigger a sharp re-rating. Notably, the 126-day momentum is negative (-7.2%) even though 21d and 63d are positive, meaning the stock is still recovering ground lost earlier this year and remains well below its 52-week high of $118.3. The day's -3% move plus a strongly negative MACD histogram (-0.81) suggests the recent bounce off the 50dma may already be losing steam, and with 40% annualized volatility, a failure to deliver the earnings acceleration implied by the forward multiple could send shares back toward the $97-103 support zone quickly.",
+  "metrics": {
+    "momentum_63d": 0.1376861856868572,
+    "volatility_ann": 0.4036515567790591,
+    "rsi_14": 47.80278717511323,
+    "profit_margin": 0.08258,
+    "revenue_growth": 0.07,
+    "trailing_pe": 51.36058,
+    "return_on_equity": 0.03227,
+    "beta": 1.091,
+    "market_cap": 11917931520,
+    "analyst_coverage": 15
+  }
+}

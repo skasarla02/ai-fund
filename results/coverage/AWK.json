@@ -1,0 +1,26 @@
+{
+  "ticker": "AWK",
+  "name": "American Water Works",
+  "sector": "Utilities",
+  "sub_industry": "Water Utilities",
+  "tier": "S&P 500",
+  "price": 135.11000061035156,
+  "as_of": "2026-07-19T21:21:12.087890+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "AWK trades near multi-month highs with strong short-term momentum (+5.2% 21d) yet earnings growth is negative (-4.8%) and free cash flow remains deeply negative (-$1.9B), reflecting heavy capex funded by rising leverage (debt/equity 142%).",
+  "thesis": "AWK's price action is technically constructive\u2014trading above both the 50- and 200-day moving averages, RSI at 60, and positive MACD histogram\u2014suggesting the market is rewarding its defensive, regulated cash-flow profile (beta 0.6) and steady 5.7% revenue growth amid a low-rate-sensitive utility trade. Its regulated water monopoly structure supports a 33% operating margin and 21% net margin, and the 2.65% dividend yield offers income support in a sector investors rotate into during volatility. Consensus 'hold' with 11 analysts suggests limited surprise risk either way, and shares are still ~9% below the 52-week high of $147.87, leaving room for a re-test if rate-cut expectations persist.",
+  "bear_case": "Valuation is stretched for a utility with declining earnings\u201423x trailing and 20.6x forward earnings versus a shrinking EPS base (-4.8% earnings growth) and heavy negative free cash flow (-$1.9B) driven by capex that pushed debt/equity to 142%, a leverage profile that could strain further if rates stay elevated or credit spreads widen. The stock lacks a golden cross (50-day still below 200-day at 127.3 vs 130.3), and its 3-month and 6-month momentum (4.1%, 3.4%) are much weaker than the 1-month spike, hinting the recent rally may be a short-term bounce rather than a trend confirmation. With ROE modest at 10.2% and price-to-book near 2.4x, any disappointment in rate-case outcomes or a re-acceleration in long-term yields could quickly reprice this bond-proxy lower given its still-premium multiple.'",
+  "metrics": {
+    "momentum_63d": 0.04113623063530514,
+    "volatility_ann": 0.27271321670354337,
+    "rsi_14": 60.32330878940066,
+    "profit_margin": 0.21172,
+    "revenue_growth": 0.057,
+    "trailing_pe": 23.998224,
+    "return_on_equity": 0.10217,
+    "beta": 0.599,
+    "market_cap": 26384353280,
+    "analyst_coverage": 11
+  }
+}

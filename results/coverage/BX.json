@@ -1,0 +1,26 @@
+{
+  "ticker": "BX",
+  "name": "Blackstone Inc.",
+  "sector": "Financials",
+  "sub_industry": "Asset Management & Custody Banks",
+  "tier": "S&P 500",
+  "price": 126.91000366210938,
+  "as_of": "2026-07-19T21:33:47.244692+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "BX has reclaimed its 50-day moving average with strong positive MACD momentum even as it trades 33% below its 52-week high, while forward P/E (17x) implies the market expects a sharp earnings re-acceleration from depressed carry realizations.",
+  "thesis": "Blackstone's stock is recovering (price 126.91 vs 50dma 120.04, MACD histogram +0.86, RSI 58.9) after a rough 126-day stretch (-18.4%) driven by deal-activity and realization slowdown. The gap between trailing PE (32.5x) and forward PE (17.0x) signals sell-side expects earnings to roughly double as fee-related earnings compound and realized performance fees pick up with improving capital markets. Fundamentals remain excellent for the model: ROE near 30%, operating margins of 38%, revenue growth 5.7%, and a 3.92% dividend yield that pays investors to wait. As the largest alternative asset manager with permanent/long-duration capital, BX is a prime beneficiary of any re-opening of M&A and IPO markets, and the stock's break above its 50dma with rising momentum suggests the market is starting to price that recovery in.",
+  "bear_case": "The stock is still below its 200dma (131.93) and down 18% over six months, and this is not a hidden gem \u2014 20 analysts already cover it and consensus already rates it 'buy,' meaning the forward-PE optimism is fully known and priced, leaving little room for surprise. Actual earnings growth of just 3.9% badly lags the multiple expansion embedded in forward estimates, so any delay in the private-equity exit/monetization cycle (still constrained by higher-for-longer rates or M&A regulatory friction) could force a re-rating lower. At 11.9x book value and 32.5x trailing earnings, BX is priced for perfection in a business with 1.58 beta and 41.7% annualized volatility \u2014 a market drawdown or credit-spread widening (debt/equity 72%) would hit both AUM-linked fees and realizations simultaneously, and the stock's failure to reclaim its 200dma shows the primary trend is still technically bearish.",
+  "metrics": {
+    "momentum_63d": -0.0003439288209767799,
+    "volatility_ann": 0.4173493503874667,
+    "rsi_14": 58.877193969941665,
+    "profit_margin": 0.21213,
+    "revenue_growth": 0.057,
+    "trailing_pe": 32.541027,
+    "return_on_equity": 0.29533002,
+    "beta": 1.58,
+    "market_cap": 155117273088,
+    "analyst_coverage": 20
+  }
+}

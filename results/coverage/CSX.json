@@ -1,0 +1,26 @@
+{
+  "ticker": "CSX",
+  "name": "CSX Corporation",
+  "sector": "Industrials",
+  "sub_industry": "Rail Transportation",
+  "tier": "S&P 500",
+  "price": 50.75,
+  "as_of": "2026-07-19T21:56:10.682597+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "CSX is up 41% in six months and sitting at its 52-week high with RSI at 70, but trailing revenue growth is only 1.7% while the stock trades at 31x trailing earnings and 6.9x book \u2014 momentum has run well ahead of underlying fundamentals, likely on rail M&A speculation following the UP/NS deal.",
+  "thesis": "CSX's technical picture is unambiguously strong: golden cross intact, price 25% above its 200-day SMA, positive MACD histogram, and multi-month momentum (mom_126d +41%) reflecting real operating improvement \u2014 36% operating margins, 23.7% ROE, and 26.5% earnings growth despite flat top-line. Forward PE of 22.8 (vs trailing 31) implies the Street expects margin/earnings acceleration, and sector consolidation dynamics (post UP-NS merger announcement) could make CSX a strategic asset, supporting further re-rating. With 23 analysts already at 'buy' consensus and the stock still below its 52-week high of 51.29, there's room to test new highs if the merger narrative or earnings beats continue.",
+  "bear_case": "RSI at 70.4 and price within 1% of the 52-week high signal a stock priced for perfection with little margin for disappointment; revenue growth of just 1.7% is weak for a company trading at 6.9x book and 31x trailing earnings, multiples well above historical rail sector norms, meaning the rally is largely narrative (M&A speculation, multiple expansion) rather than fundamental acceleration. Debt-to-equity of 143% leaves limited balance sheet flexibility, and if the anticipated rail-consolidation catalyst fails to materialize for CSX specifically (as opposed to UP/NS), the stock could give back a meaningful chunk of its 41% six-month gain on any earnings or volume disappointment, especially with vol_30d_ann already at 20%.",
+  "metrics": {
+    "momentum_63d": 0.19160984926688163,
+    "volatility_ann": 0.201354994916743,
+    "rsi_14": 70.40302766995677,
+    "profit_margin": 0.21553,
+    "revenue_growth": 0.017,
+    "trailing_pe": 31.13497,
+    "return_on_equity": 0.23684,
+    "beta": 1.211,
+    "market_cap": 94300545024,
+    "analyst_coverage": 23
+  }
+}

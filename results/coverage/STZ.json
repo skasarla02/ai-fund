@@ -1,0 +1,26 @@
+{
+  "ticker": "STZ",
+  "name": "Constellation Brands",
+  "sector": "Consumer Staples",
+  "sub_industry": "Distillers & Vintners",
+  "tier": "S&P 500",
+  "price": 132.8699951171875,
+  "as_of": "2026-07-19T21:52:34.757278+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "STZ is trading near its 52-week low with a forward P/E of ~10.7x despite 30.7% earnings growth and 23.7% ROE, suggesting the market has overpriced near-term beer-segment softness.",
+  "thesis": "Constellation's core Mexican beer franchise (Modelo, Corona) still generates 52.7% gross margins and 35.9% operating margins with ROE near 24%, yet the stock has been crushed\u2014down 18.6% over 63 days and 13.9% over 126 days, now sitting right at its 52-week low of $126.45 and well below both the 50-day ($141) and 200-day ($144.6) moving averages. This has pushed valuation to a trailing PE of 12.6x and forward PE of 10.7x, cheap for a staples name with 20% net margins and a 3.1% dividend yield. Earnings growth of 30.7% year-over-year and consistent free cash flow (~$2.2B) suggest the profitability engine is intact even as top-line growth stalls slightly (-3.3%). With low beta (0.38) and 23 analysts still carrying a consensus 'buy' rating, the setup looks like a fundamentals-vs-technicals disconnect that can resolve upward once the selloff exhausts itself, particularly with RSI at 42 (not yet oversold-extreme, leaving room but not stretched) and price now near a level that has historically drawn value buyers.",
+  "bear_case": "The technical picture is unambiguously bearish\u2014price is below both moving averages with no golden cross, negative MACD histogram, and momentum negative across all three windows (21d, 63d, 126d), signaling a persistent downtrend rather than a bounce setup. More fundamentally, revenue growth is already negative (-3.3%) and the beer segment\u2014Constellation's crown jewel\u2014has shown decelerating volume/depletion trends amid a weakening Hispanic consumer base (its core demographic) and margin pressure from tariffs on aluminum, glass, and agave-based inputs for its wine/spirits business. Debt-to-equity of 123% limits balance-sheet flexibility to buy back stock aggressively into weakness, and if earnings growth of 30.7% proves to be a one-off (comp-driven or cost-cutting related) rather than durable, the 'cheap' forward PE could prove to be a value trap as consensus estimates get cut further, extending the downtrend even with 23 analysts already watching closely enough that any negative surprise gets priced in fast.",
+  "metrics": {
+    "momentum_63d": -0.1856523609930555,
+    "volatility_ann": 0.3312261478690599,
+    "rsi_14": 42.290376183997594,
+    "profit_margin": 0.20143999,
+    "revenue_growth": -0.033,
+    "trailing_pe": 12.654285,
+    "return_on_equity": 0.2369,
+    "beta": 0.382,
+    "market_cap": 22694772736,
+    "analyst_coverage": 23
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "EW",
+  "name": "Edwards Lifesciences",
+  "sector": "Health Care",
+  "sub_industry": "Health Care Equipment",
+  "tier": "S&P 500",
+  "price": 85.7300033569336,
+  "as_of": "2026-07-19T22:05:09.407348+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "EW has pulled back to just below its 50-day MA (85.73 vs 86.90) with negative MACD momentum even though it remains above its 200-day MA, reflecting a stock caught between a resumed golden-cross uptrend and stalling near-term momentum after a 11% drawdown from its 52-week high of 96.29.",
+  "thesis": "Edwards' underlying business remains strong with 16.7% revenue growth, 77.9% gross margins and 31.2% operating margins, and the stock trades above its 200-day moving average with an intact golden cross, suggesting the primary trend since bottoming remains up. Forward PE of 25.5x is far more palatable than the trailing 46x, implying the sell-side (25 analysts, consensus 'buy') expects meaningful earnings acceleration from TAVR/TMTT adoption, and at 85.73 the stock sits roughly midway in its 52-week range (72.30-96.29), leaving room to retest highs if fundamentals hold.",
+  "bear_case": "Earnings growth of just 8.2% badly lags revenue growth of 16.7%, meaning margins are compressing even as the stock still commands a 46x trailing P/E and 4.79x price-to-book with modest 10.46% ROE \u2014 a valuation that assumes far more earnings torque than the company is currently delivering; combined with negative 21-day momentum (-3.2%), a bearish MACD histogram, RSI at 39.8 approaching oversold, and price now below the 50-day average, this looks like a stock rolling over from a failed rally rather than consolidating before a breakout, and any guidance disappointment could see it retest the 72.30 52-week low given the stretched multiple leaves no valuation cushion.",
+  "metrics": {
+    "momentum_63d": 0.08450347940912883,
+    "volatility_ann": 0.2679903724813057,
+    "rsi_14": 39.820316081649636,
+    "profit_margin": 0.1739,
+    "revenue_growth": 0.167,
+    "trailing_pe": 46.34054,
+    "return_on_equity": 0.1046,
+    "beta": 0.855,
+    "market_cap": 49363337216,
+    "analyst_coverage": 25
+  }
+}

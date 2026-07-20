@@ -1,0 +1,26 @@
+{
+  "ticker": "HBAN",
+  "name": "Huntington Bancshares",
+  "sector": "Financials",
+  "sub_industry": "Regional Banks",
+  "tier": "S&P 500",
+  "price": 18.25,
+  "as_of": "2026-07-19T22:32:41.931330+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "Stock is above both its 50- and 200-day moving averages with a golden cross intact, up ~11% over 3 months, while trading at just 9.6x forward earnings and 1.25x book.",
+  "thesis": "HBAN's technical picture is constructive: price is above both the 50-day ($16.78) and 200-day ($16.47) SMAs, a golden cross is in place, momentum is positive across 21/63/126-day windows, and RSI at ~62 shows strength without being overbought. Fundamentally, forward PE of 9.6x versus trailing 14x implies the Street expects EPS growth from a depressed base, revenue growth of 33.6% is robust for a regional bank, and the 3.4% dividend yield offers income support. Price-to-book of 1.25x is reasonable for a bank with 8.4% ROE, and 18 analysts collectively rate it a 'buy,' suggesting institutional consensus is aligned with the technical setup. Trading at $18.25 versus a 52-week high of $19.46, there's room to retest highs if the rate/credit environment stays benign.",
+  "bear_case": "Earnings growth is actually negative at -26.5% despite revenue growth of 33.6%, a red flag suggesting margin compression, higher provisions, or one-time charges that the low forward PE may be masking rather than signaling cheapness; ROE of 8.4% is mediocre for a bank and doesn't justify much re-rating above book value. The stock just dropped 1.67% in a single day despite the broader uptrend, and 30-day annualized volatility of 24% is elevated for a bank, hinting at sensitivity to macro/rate headlines. As a heavily-covered regional bank (18 analysts), any mispricing is likely to be arbitraged quickly, and the current price near the top of its 52-week range leaves limited margin of safety if credit quality in commercial real estate or consumer loans deteriorates, which would hit a bank trading near book value harder than one with more cushion.",
+  "metrics": {
+    "momentum_63d": 0.11133365064962719,
+    "volatility_ann": 0.2418508995531932,
+    "rsi_14": 61.75328606743471,
+    "profit_margin": 0.26597,
+    "revenue_growth": 0.336,
+    "trailing_pe": 14.038462,
+    "return_on_equity": 0.083859995,
+    "beta": 0.952,
+    "market_cap": 36995133440,
+    "analyst_coverage": 18
+  }
+}

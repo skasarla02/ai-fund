@@ -1,0 +1,26 @@
+{
+  "ticker": "GNRC",
+  "name": "Generac",
+  "sector": "Industrials",
+  "sub_industry": "Heavy Electrical Equipment",
+  "tier": "S&P 500",
+  "price": 214.91000366210938,
+  "as_of": "2026-07-19T22:24:50.373023+00:00",
+  "rating": "bearish",
+  "conviction": 0.58,
+  "key_signal": "GNRC has cratered 19% in the last month, trading nearly 20% below its 50-day moving average with RSI at 33 and a sharply negative MACD histogram, signaling active technical breakdown despite still sitting above its 200dma.",
+  "thesis": "Longer-term uptrend technically intact (above 200dma, golden cross, +34% over 126 days) and forward valuation has compressed meaningfully\u2014forward P/E of 19x versus trailing 67x reflects consensus expectations of ~70% earnings growth and 12.4% revenue growth, with gross margins near 38% and operating margins over 11%. If the recent selloff is an overreaction to a single data point (e.g., guidance or tariff cost commentary) rather than a structural demand problem, the stock is oversold (RSI 33) and sits well above its 52-week low of $134.80, offering an attractive entry for a name analysts still rate 'buy.'",
+  "bear_case": "The price action is unambiguously deteriorating: a -19% 21-day move, price now ~18% below the 50-day average, and a large negative MACD histogram (-5.3) all indicate accelerating downside momentum rather than a stable base, and with beta near 1.9 and 30-day annualized volatility near 70%, this stock will amplify any further market or sector weakness; fundamentally, free cash flow of just $115M against $4.3B of revenue (barely 2.7% FCF margin) and ROE of only 7.4% despite 4.7x price-to-book suggest the balance sheet (debt/equity of 52) and profitability quality don't yet support the premium multiple, meaning the 'cheap forward PE' thesis depends entirely on hitting an aggressive 70% earnings growth number that a slowing 21-day trend casts real doubt on.",
+  "metrics": {
+    "momentum_63d": 0.036160261643976455,
+    "volatility_ann": 0.697036887598169,
+    "rsi_14": 33.330655147418994,
+    "profit_margin": 0.04368,
+    "revenue_growth": 0.124,
+    "trailing_pe": 67.15938,
+    "return_on_equity": 0.07388,
+    "beta": 1.895,
+    "market_cap": 12651467776,
+    "analyst_coverage": 15
+  }
+}

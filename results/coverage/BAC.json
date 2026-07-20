@@ -1,0 +1,26 @@
+{
+  "ticker": "BAC",
+  "name": "Bank of America",
+  "sector": "Financials",
+  "sub_industry": "Diversified Banks",
+  "tier": "S&P 500",
+  "price": 61.27000045776367,
+  "as_of": "2026-07-19T21:31:22.281991+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "BAC is up ~18% over 6 months, trading near its 52-week high with a golden cross and RSI at 70, showing strong momentum but flashing overbought signals.",
+  "thesis": "Bank of America is firing on multiple cylinders: earnings growth of 36% YoY and revenue growth of 21.4% far outpace typical bank growth rates, while the stock still trades at a modest 14.1x trailing / 11.7x forward earnings and just 1.56x book value \u2014 cheap relative to its improving fundamentals. Price action confirms the fundamental story: shares sit above both the 50-day ($55.01) and 200-day ($52.54) moving averages, a golden cross is in place, and momentum across 21/63/126-day windows (7.8%/15.1%/18.0%) is uniformly positive, indicating a durable uptrend rather than a short squeeze. With 21 analysts rating it 'buy' and a still-reasonable valuation, the market may not have fully priced in the earnings acceleration, leaving room for further re-rating especially if rate-cut expectations support net interest margin stability and loan growth continues.",
+  "bear_case": "The technical picture is stretched \u2014 RSI at 70.3 signals overbought conditions, and the stock is within a dollar of its 52-week high ($62.12) after a ~15-18% run over the past 3-6 months, raising the risk of a near-term pullback or consolidation, especially with 30-day annualized volatility at 20.3% and a beta of 1.175 amplifying any market-wide risk-off move. More fundamentally, ROE of only 11.2% is unremarkable for a bank trading at 1.56x book, and the reported earningsGrowth of 36% likely reflects easy comps or one-time items rather than a structural re-rating in profitability \u2014 if growth normalizes back toward historical mid-single-digit bank earnings trends, the current multiple expansion could reverse quickly, particularly with heavy analyst coverage (21 opinions) meaning any disappointment gets priced in fast and efficiently.",
+  "metrics": {
+    "momentum_63d": 0.1509689233518543,
+    "volatility_ann": 0.20295911790594612,
+    "rsi_14": 70.3174709450783,
+    "profit_margin": 0.29524,
+    "revenue_growth": 0.214,
+    "trailing_pe": 14.150116,
+    "return_on_equity": 0.111990005,
+    "beta": 1.175,
+    "market_cap": 434808127488,
+    "analyst_coverage": 21
+  }
+}

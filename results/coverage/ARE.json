@@ -1,0 +1,26 @@
+{
+  "ticker": "ARE",
+  "name": "Alexandria Real Estate Equities",
+  "sector": "Real Estate",
+  "sub_industry": "Office REITs",
+  "tier": "S&P 500",
+  "price": 50.220001220703125,
+  "as_of": "2026-07-19T21:17:08.304306+00:00",
+  "rating": "bearish",
+  "conviction": 0.62,
+  "key_signal": "ARE trades near a 43% discline from its 52-week high (to $50 from $88) and at just 0.54x book value while revenue is shrinking -11.5% y/y and profit margins are deeply negative, reflecting a structural life-science/lab-space oversupply problem, not just a cyclical dip.",
+  "thesis": "The stock is statistically cheap (0.545x price-to-book, 5.7% dividend yield) and momentum over the last 63 days has been modestly positive (+6.1%), suggesting some stabilization after the brutal drawdown from $88 to $50. If life-science leasing demand stabilizes in ARE's core clusters (Cambridge, SF, San Diego), the market may be over-discounting a portfolio of high-quality, hard-to-replicate lab campuses, and a mean-reversion trade back toward book value is plausible for patient holders collecting the dividend.",
+  "bear_case": "The fundamentals confirm the price action isn't just sentiment: revenue growth is -11.5%, profit margins are -36%, ROE is -4.1%, and forward P/E is negative, meaning consensus expects continued losses \u2014 this isn't a cheap-but-profitable REIT, it's a REIT actively destroying book value amid a well-documented lab-space glut from pandemic-era overbuilding. Debt-to-equity of 66.5 is a real liability in a higher-for-longer rate environment where cap rates for lab/office assets keep resetting higher, pressuring both refinancing costs and asset valuations further. Price is below the 200-day SMA with no golden cross and a negative MACD histogram, and the 5.73% dividend yield may not be sustainable given negative earnings, raising real risk of a dividend cut that would remove the main reason bulls are holding on; with only 14 analysts covering and a 'hold' consensus, there's no strong institutional conviction pushing back against further downside re-rating.",
+  "metrics": {
+    "momentum_63d": 0.061084141123225466,
+    "volatility_ann": 0.4211992039280291,
+    "rsi_14": 51.44660834449055,
+    "profit_margin": -0.36141,
+    "revenue_growth": -0.115,
+    "trailing_pe": null,
+    "return_on_equity": -0.04144,
+    "beta": 1.183,
+    "market_cap": 8751812608,
+    "analyst_coverage": 14
+  }
+}

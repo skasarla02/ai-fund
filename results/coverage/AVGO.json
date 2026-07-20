@@ -1,0 +1,26 @@
+{
+  "ticker": "AVGO",
+  "name": "Broadcom",
+  "sector": "Information Technology",
+  "sub_industry": "Semiconductors",
+  "tier": "S&P 500",
+  "price": 370.8299865722656,
+  "as_of": "2026-07-19T21:35:48.480208+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "AVGO has pulled back ~25% from its 52-week high and now trades below its 50-day SMA (402.5) while still above its 200-day SMA (362.5) with a golden cross intact, setting up a potential buy-the-dip in a name still growing revenue 48% and earnings 85% YoY.",
+  "thesis": "Broadcom's fundamentals remain exceptional for a mega-cap semi: 47.9% revenue growth, 85.4% earnings growth, 76% gross margins, 49% operating margins, and 37% ROE, driven by AI networking/custom silicon and software (VMware) cross-sell. The forward PE of 19.1x versus trailing 61.7x signals the market expects earnings to catch up rapidly to the AI capex cycle, and at $370 the stock is 25% off its 52-week high of $495 despite the 200-day trend remaining intact (above_200dma=1, golden_cross=1) and 126-day momentum still positive (+9.5%). The 45-analyst consensus is 'strong buy,' and with $27.2B of free cash flow and a dividend yield, the balance sheet can support continued AI infrastructure investment. A pullback to a level still above the 200dma with MACD histogram turning positive (0.84) suggests the recent 21d/63d weakness (-1.4%/-6.8%) may be stabilizing, offering entry into a structural AI-networking winner at a more reasonable forward multiple.",
+  "bear_case": "The valuation is still stretched on an absolute basis \u2014 trailing PE of 61.7x and price-to-book of 20.1x leave no room for error if hyperscaler AI capex growth decelerates or custom-silicon customer concentration (a handful of large cloud players) results in lumpy order patterns; the stock's 64% annualized volatility and 1.46 beta mean any disappointment could be amplified. The price is currently below its 50-day SMA and has broken a clear short-term downtrend (-6.8% over 63 days), and RSI at 43.9 shows no strong buying momentum yet \u2014 this could be a topping pattern within a broader distribution rather than a dip-buy opportunity, especially with debt-to-equity at 74x limiting flexibility if rates stay elevated or AI capex spending normalizes faster than the forward-PE implies.",
+  "metrics": {
+    "momentum_63d": -0.06789249789417084,
+    "volatility_ann": 0.6439098015044713,
+    "rsi_14": 43.89577010043027,
+    "profit_margin": 0.38848,
+    "revenue_growth": 0.479,
+    "trailing_pe": 61.701332,
+    "return_on_equity": 0.37280998,
+    "beta": 1.462,
+    "market_cap": 1764229775360,
+    "analyst_coverage": 45
+  }
+}

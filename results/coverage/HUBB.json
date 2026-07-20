@@ -1,0 +1,26 @@
+{
+  "ticker": "HUBB",
+  "name": "Hubbell Incorporated",
+  "sector": "Industrials",
+  "sub_industry": "Industrial Machinery & Supplies & Components",
+  "tier": "S&P 500",
+  "price": 488.6700134277344,
+  "as_of": "2026-07-19T22:32:09.184072+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "HUBB trades right at its 50-day SMA (488.65 vs 488.15) with a golden cross intact and price still above the 200-day (475.7), even as it sits 14% below its 52-week high after a 6% pullback over the last quarter.",
+  "thesis": "Hubbell remains a high-quality electrical equipment compounder\u201425.8% ROE, 17.7% operating margin, and 35.7% gross margin\u2014growing revenue 11.1% and earnings 12.5% while trading at a forward P/E of just 21.8x versus a trailing 28.9x, implying the market already expects the earnings acceleration to materialize and is pricing it cheaply relative to growth. The stock has held its 200-day moving average and just reclaimed its 50-day, with a golden cross still active, suggesting the multi-month uptrend structure is intact despite the recent 6% three-month drawdown. With only 10 analysts covering a $25.8B industrial name, there's room for the stock to re-rate as consensus catches up to the margin durability and grid/electrification capex tailwinds that support double-digit earnings growth, and a beta of 0.89 offers relative stability versus cyclical peers.",
+  "bear_case": "The technical picture is more fragile than the headline golden cross suggests: momentum has turned negative across 21-day (-2.8%) and 63-day (-6.1%) windows, MACD histogram is solidly negative (-1.98), and RSI at 48.6 shows no buying conviction\u2014this looks like a stock stalling right at resistance (50-day SMA) rather than breaking out. At 6.85x price-to-book and 28.9x trailing earnings, HUBB is priced for perfection in a mid-cycle industrial with 72.5% debt-to-equity, leaving little margin for error if the electrification/grid capex narrative slows or rates stay elevated, which would compress the premium multiple further; a re-test of the 200-day at 475.7 (just 2.6% below current price) is a live risk given the deteriorating short-term trend.",
+  "metrics": {
+    "momentum_63d": -0.06051528933174344,
+    "volatility_ann": 0.4029360146658004,
+    "rsi_14": 48.5873996445697,
+    "profit_margin": 0.15105,
+    "revenue_growth": 0.111,
+    "trailing_pe": 28.898287,
+    "return_on_equity": 0.25822002,
+    "beta": 0.892,
+    "market_cap": 25822191616,
+    "analyst_coverage": 10
+  }
+}

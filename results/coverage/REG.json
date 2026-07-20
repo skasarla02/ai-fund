@@ -1,0 +1,26 @@
+{
+  "ticker": "REG",
+  "name": "Regency Centers",
+  "sector": "Real Estate",
+  "sub_industry": "Retail REITs",
+  "tier": "S&P 500",
+  "price": 82.41000366210938,
+  "as_of": "2026-07-20T16:00:15.806703+00:00",
+  "rating": "bullish",
+  "conviction": 0.6,
+  "key_signal": "REG is trading just below its 52-week high with a golden cross, up 20% over the past 6 months and roughly 12% above its 200-day average, reflecting strong institutional accumulation in a low-beta retail REIT.",
+  "thesis": "Regency's grocery-anchored shopping center portfolio is showing durable fundamentals: 10% revenue growth and 17.2% earnings growth alongside a 40.7% operating margin, evidence that leasing spreads and occupancy remain healthy in this cycle. The technical picture corroborates this\u2014price sits above both the 50-day ($78.51) and 200-day ($73.57) moving averages, RSI at 62.6 shows bullish momentum without being overbought, and MACD histogram is solidly positive. A 0.825 beta and 3.65% dividend yield make REG a defensive holding that can still participate in upside, which is attractive if investors rotate toward income-generating real estate as rate-cut expectations firm up. With the stock only about 1.5% off its 52-week high, continued momentum could push it to fresh highs on any incremental rate relief.",
+  "bear_case": "Valuation has become stretched relative to the REIT's actual profitability: forward P/E of 32.7 is higher than the trailing P/E of 28.3, implying the market expects margin expansion or accelerating growth that may not materialize, while ROE of just 8% is unimpressive for a REIT trading at 2.26x book value. Debt-to-equity of 73% leaves Regency exposed to refinancing risk and cap-rate expansion if long rates rise again, which would be especially punishing for a stock already priced for continued multiple expansion near its 52-week high of $83.66\u2014leaving very little margin of safety and asymmetric downside if the rate/momentum tailwind reverses.",
+  "metrics": {
+    "momentum_63d": 0.02790538200714221,
+    "volatility_ann": 0.19970991252285356,
+    "rsi_14": 62.60553069127894,
+    "profit_margin": 0.33106998,
+    "revenue_growth": 0.1,
+    "trailing_pe": 28.319588,
+    "return_on_equity": 0.08003,
+    "beta": 0.825,
+    "market_cap": null,
+    "analyst_coverage": null
+  }
+}

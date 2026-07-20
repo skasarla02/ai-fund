@@ -1,0 +1,26 @@
+{
+  "ticker": "KO",
+  "name": "Coca-Cola Company (The)",
+  "sector": "Consumer Staples",
+  "sub_industry": "Soft Drinks & Non-alcoholic Beverages",
+  "tier": "S&P 500",
+  "price": 81.55999755859375,
+  "as_of": "2026-07-19T21:49:54.462238+00:00",
+  "rating": "bearish",
+  "conviction": 0.55,
+  "key_signal": "A sharp single-day drop of nearly 4% (unusual for a beta-0.35 staple) coincided with a negative MACD histogram, signaling the recent uptrend is stalling right near its 52-week high.",
+  "thesis": "KO's medium-term technicals remain constructive\u2014price is above both the 50-day (80.78) and 200-day (74.37) moving averages with an active golden cross, and 126-day momentum is a healthy +15.7%. Fundamentally, the business is firing on most cylinders: 12.1% revenue growth, 18.2% earnings growth, 61.7% gross margins, 35% operating margins, and a stunning 43% ROE, all underpinning consensus 'buy' ratings from 24 analysts. The 2.6% dividend yield and beta of 0.35 make it a classic defensive holding investors rotate into during volatility.",
+  "bear_case": "The stock just suffered an outsized single-day loss of ~4%, an anomaly for a low-beta staple that typically doesn't move like this without a real catalyst (likely earnings/guidance disappointment or FX/tariff headwinds), and the negative MACD histogram confirms momentum is already rolling over even though price sits above trend lines. Valuation is stretched for a low-single-digit organic grower: 25.6x trailing and 23.4x forward earnings, and a lofty 10.4x price-to-book, leave little room for error, especially with RSI sitting neutral at 48.6 rather than oversold, meaning there's no clear technical support for a snapback. Layer on debt-to-equity of 125%, and any further deceleration in earnings growth or margin pressure could trigger a valuation de-rating from a stock still trading near its 52-week high (85.68) despite the shock.dropoff.",
+  "metrics": {
+    "momentum_63d": 0.09186713501200772,
+    "volatility_ann": 0.28437411107792354,
+    "rsi_14": 48.57683466855935,
+    "profit_margin": 0.278,
+    "revenue_growth": 0.121,
+    "trailing_pe": 25.647797,
+    "return_on_equity": 0.43372002,
+    "beta": 0.349,
+    "market_cap": 350910447616,
+    "analyst_coverage": 24
+  }
+}

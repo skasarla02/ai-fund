@@ -1,0 +1,26 @@
+{
+  "ticker": "ALB",
+  "name": "Albemarle Corporation",
+  "sector": "Materials",
+  "sub_industry": "Specialty Chemicals",
+  "tier": "S&P 500",
+  "price": 120.77999877929688,
+  "as_of": "2026-07-19T21:16:49.156938+00:00",
+  "rating": "bearish",
+  "conviction": 0.56,
+  "key_signal": "ALB has cratered nearly 44% over the last 63 trading days (RSI 28.6, price 20% below both its 50- and 200-day moving averages) as lithium price weakness continues to crush profitability, evidenced by negative trailing profit margins (-4.2%) and negative ROE (-1.8%) despite 32.7% revenue growth.",
+  "thesis": "The stock's forward P/E of 9.5x and price-to-book of 1.87x already price in a severe lithium downcycle, and with operating margins still positive at 24.8% and FCF of $717M, Albemarle retains structural cost advantages as a low-cost, large-scale lithium producer; a stabilization or rebound in lithium prices could trigger a sharp mean-reversion rally from deeply oversold levels (RSI 28.6), and the 20-analyst consensus still rates it a 'buy'.",
+  "bear_case": "The severity and persistence of the drawdown (-27% in one month, -44% in three months, price collapsing through both moving averages with a still-negative MACD histogram) signals the market is pricing in a structural deterioration in lithium fundamentals, not just cyclical noise, and negative GAAP profit margins and ROE alongside elevated 53% annualized volatility suggest downside earnings risk (including potential dividend sustainability concerns given the -1.34% dividend yield against negative net income) that could force further capital discipline, asset write-downs, or even a dividend cut, extending the downtrend before any bottom forms.",
+  "metrics": {
+    "momentum_63d": -0.43841797439810115,
+    "volatility_ann": 0.5343837974681227,
+    "rsi_14": 28.567802142066697,
+    "profit_margin": -0.042379998,
+    "revenue_growth": 0.327,
+    "trailing_pe": null,
+    "return_on_equity": -0.0182,
+    "beta": 1.346,
+    "market_cap": 14244146176,
+    "analyst_coverage": 20
+  }
+}

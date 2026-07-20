@@ -1,0 +1,26 @@
+{
+  "ticker": "GEN",
+  "name": "Gen Digital",
+  "sector": "Information Technology",
+  "sub_industry": "Systems Software",
+  "tier": "S&P 500",
+  "price": 26.739999771118164,
+  "as_of": "2026-07-19T22:24:32.256187+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "GEN trades at just 8.1x forward earnings despite a golden cross, 36% 63-day momentum, and 78% gross margins, suggesting the market hasn't caught up to post-Avast-merger earnings power.",
+  "thesis": "Gen Digital's technicals are unambiguously strong: price is above both the 50-day (24.77) and 200-day (24.13) moving averages with a confirmed golden cross, 63-day momentum of +36%, and a still-constructive RSI of 61 (not yet overbought). Fundamentally, the stock screens cheap on a forward basis (8.1x forward PE vs 17x trailing), implying the Street expects a step-change in earnings \u2014 consistent with reported revenue growth of 27% and extraordinary earnings growth (265%, likely reflecting Avast integration synergies annualizing). Margins are excellent for a consumer cybersecurity franchise (78% gross, 63% operating margin, ROE near 40%), and the 10-analyst 'buy' consensus with room for upward revisions in a thinly-covered large-cap suggests the re-rating may not be fully priced in. A 1.87% dividend yield adds a income cushion while the momentum trade plays out.",
+  "bear_case": "The eye-catching cheap forward PE and 265% earnings growth are almost certainly artifacts of merger accounting and a depressed prior-year base from the NortonLifeLock/Avast combination, not organic, repeatable earnings power \u2014 once comps normalize, the growth narrative could evaporate and the multiple re-rate higher, not lower. More concerning is the balance sheet: debt-to-equity of 316% is extremely high for a 'buy'-rated large cap, leaving little room for error if free cash flow ($1.4B) needs to service that leverage amid a 35% annualized volatility regime and a beta above 1.2. The stock is also still 17% below its 52-week high of $32.22, meaning the current bounce could simply be a relief rally within a longer downtrend in a mature, commoditized consumer antivirus market facing structural pressure from free/bundled security offerings from OS vendors \u2014 a risk that 10 sell-side analysts, a light coverage base for a $16B company, may not be pricing correctly in either direction.",
+  "metrics": {
+    "momentum_63d": 0.35911534669874,
+    "volatility_ann": 0.3550874078074166,
+    "rsi_14": 61.39975578185692,
+    "profit_margin": 0.19459999,
+    "revenue_growth": 0.27,
+    "trailing_pe": 17.031847,
+    "return_on_equity": 0.39876997,
+    "beta": 1.207,
+    "market_cap": 16109081600,
+    "analyst_coverage": 10
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "BEN",
+  "name": "Franklin Resources",
+  "sector": "Financials",
+  "sub_industry": "Asset Management & Custody Banks",
+  "tier": "S&P 500",
+  "price": 32.630001068115234,
+  "as_of": "2026-07-19T22:22:04.278583+00:00",
+  "rating": "bullish",
+  "conviction": 0.56,
+  "key_signal": "BEN trades at a 10.5x forward P/E despite 87% projected earnings growth and a 4.05% dividend yield, even as the stock sits comfortably above both its 50- and 200-day moving averages with a golden cross intact.",
+  "thesis": "BEN has rallied 24% over 63 days and 30% over 126 days, decisively reclaiming its 200-day moving average (26.06 vs. current 32.63) with a golden cross confirming the uptrend. The market is pricing a cheap forward multiple (10.5x) versus trailing (24.9x), implying consensus expects a sharp earnings inflection\u2014consistent with the 87.2% earningsGrowth figure\u2014likely reflecting stabilizing flows/margins after prior AUM outflow pressures. Revenue growth of 8.7% and a 4.05% dividend yield offer income support while the stock still trades ~7% below its 52-week high of $34.92, leaving room to re-rate if the earnings recovery materializes. With only 11 analysts covering the name and a 'hold' consensus, any confirmation of the earnings inflection could catch sell-side estimates still lagging, extending the mispricing longer than in heavily-covered peers.",
+  "bear_case": "The near-term technicals are cracking: 21-day momentum has turned negative (-0.67%), the stock fell 2.1% on the latest session, and MACD histogram is negative (-0.198), suggesting the powerful multi-month rally is losing steam right as shares approach 52-week highs\u2014classic exhaustion setup. Fundamentally, ROE is weak at 6.7%, profit margins are thin at 8.1%, debt-to-equity is elevated at 23.5x, and free cash flow is negative (-$242M), raising questions about whether the dividend and balance sheet can comfortably absorb further AUM volatility in an active-management industry still bleeding share to passive strategies. The 87% earningsGrowth figure may reflect an easy comp off a depressed base or one-time items rather than a durable structural improvement, and if the anticipated earnings inflection disappoints, the stock's premium to book (1.4x) and trailing PE (24.9x) leave little valuation cushion for a beta-1.58 name in a volatility regime already running at 29.4% annualized.",
+  "metrics": {
+    "momentum_63d": 0.24133680967741755,
+    "volatility_ann": 0.2942336631258641,
+    "rsi_14": 48.307267529613576,
+    "profit_margin": 0.08124,
+    "revenue_growth": 0.087,
+    "trailing_pe": 24.9084,
+    "return_on_equity": 0.06704,
+    "beta": 1.576,
+    "market_cap": 16955760640,
+    "analyst_coverage": 11
+  }
+}

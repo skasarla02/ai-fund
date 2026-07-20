@@ -1,0 +1,26 @@
+{
+  "ticker": "DVN",
+  "name": "Devon Energy",
+  "sector": "Energy",
+  "sub_industry": "Oil & Gas Exploration & Production",
+  "tier": "S&P 500",
+  "price": 43.83000183105469,
+  "as_of": "2026-07-19T21:59:43.560457+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "Devon trades at an 8.3x forward P/E with a golden cross and price back above both the 50- and 200-day moving averages after a 17% 126-day rally, signaling technical and valuation support despite a steep reported earnings decline.",
+  "thesis": "DVN's forward P/E of 8.3x (vs trailing 12.2x) implies the market expects earnings to stabilize or improve, and the stock is confirming that with a golden cross, price above both the 50-day (44.34) and 200-day (40.91) moving averages, and a strong 126-day momentum of +17%. Free cash flow of $1.6B on $16B revenue funds a 2.37% dividend, and ROE of 15% with a modest 0.43 beta suggests the business is generating solid returns with less volatility exposure than typical E&Ps, likely aided by hedging. With 26 analysts already rating it 'strong buy,' the sell-side consensus corroborates the improving setup, and a rebound in oil prices or continued capital discipline could re-rate the stock toward its 52-week high of $52.71 (20% upside from $43.83).",
+  "bear_case": "The -75% earnings growth figure is a glaring red flag that can't be dismissed as noise \u2014 it signals either commodity price compression, higher costs, or a prior-year one-time gain that won't repeat, and revenue growth is already flat to slightly negative (-0.8%), meaning there's no top-line offset. Debt-to-equity of 56% is not trivial for a cyclical E&P facing potential oil price weakness, and the recent 63-day momentum of -3.6% shows the rally has stalled just below the 50-day moving average (44.34), with price now pulling back from a test near that level. High annualized volatility (38%) means any disappointment in oil prices or production guidance could quickly erase the recent technical gains, and with 26 analysts already bullish, much of the good news may already be priced in, leaving limited room for further upside surprise.",
+  "metrics": {
+    "momentum_63d": -0.035785245559908585,
+    "volatility_ann": 0.37950399068195434,
+    "rsi_14": 53.56912854041688,
+    "profit_margin": 0.14172,
+    "revenue_growth": -0.008,
+    "trailing_pe": 12.208915,
+    "return_on_equity": 0.15178001,
+    "beta": 0.432,
+    "market_cap": 50553663488,
+    "analyst_coverage": 26
+  }
+}

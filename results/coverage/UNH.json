@@ -1,0 +1,26 @@
+{
+  "ticker": "UNH",
+  "name": "UnitedHealth Group",
+  "sector": "Health Care",
+  "sub_industry": "Managed Health Care",
+  "tier": "S&P 500",
+  "price": 426.0899963378906,
+  "as_of": "2026-07-19T21:04:59.084728+00:00",
+  "rating": "neutral",
+  "conviction": 0.577,
+  "key_signal": "63d momentum +35.4%, margin 3.1%, 26 analysts covering it.",
+  "thesis": "[mock] Trades above its 200-day average with +35.4% momentum; profit margin 3.1% \u2014 26 analysts covering it.",
+  "bear_case": "[mock] Valuation at 32.1x trailing earnings leaves little room for a growth miss.",
+  "metrics": {
+    "momentum_63d": 0.3543729525005346,
+    "volatility_ann": 0.2721734097125674,
+    "rsi_14": 58.11835415079261,
+    "profit_margin": 0.03137,
+    "revenue_growth": 0.004,
+    "trailing_pe": 32.060947,
+    "return_on_equity": 0.14152999,
+    "beta": 0.633,
+    "market_cap": 386951249920,
+    "analyst_coverage": 26
+  }
+}

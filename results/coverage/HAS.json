@@ -1,0 +1,26 @@
+{
+  "ticker": "HAS",
+  "name": "Hasbro",
+  "sector": "Consumer Discretionary",
+  "sub_industry": "Leisure Products",
+  "tier": "S&P 500",
+  "price": 81.55000305175781,
+  "as_of": "2026-07-19T22:28:29.018041+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "Hasbro trades at a forward P/E of just 12.8x with 98.6% projected earnings growth and a 'strong buy' consensus from all 14 covering analysts, even as the stock sits ~24% below its 52-week high and just under both its 50- and 200-day moving averages.",
+  "thesis": "After a brutal drawdown (mom_63d -11.9%, price 81.55 vs 52-wk high 106.98), Hasbro's technicals are stabilizing \u2014 RSI is neutral at 48.7, MACD histogram has turned positive, and the stock is consolidating just below its flattening 50/200-day SMAs (both ~85.5), suggesting the downtrend is losing momentum. Fundamentally, the operating business remains highly profitable (63.7% gross margin, 27.6% operating margin) with revenue growing 12.7% and forward earnings expected to nearly double, likely reflecting normalization after prior-year impairments/restructuring charges that depressed trailing profitability (net margin -4.6%, ROE -23.3%). At 12.8x forward earnings with a 3.43% dividend yield and positive free cash flow (~$548M), the stock is priced for continued weakness that unanimous 'strong buy' sell-side sentiment (14/14 analysts) suggests is overdone. Low beta (0.48) also makes this a lower-volatility way to play a discretionary-sector recovery.",
+  "bear_case": "The balance sheet is genuinely stretched \u2014 debt-to-equity of 574% combined with negative ROE (-23.3%) and negative trailing net margin signals real financial fragility, not just a temporary earnings blip, and the sky-high price-to-book (17.8x) implies equity value is now almost entirely a function of intangible brand/IP value that could be impaired further if toy/entertainment demand keeps softening. Price is still below both the 50-day and 200-day moving averages with no golden cross, and 21-day momentum remains negative (-4.0%), meaning the 'stabilization' could just be a dead-cat bounce within a longer downtrend exacerbated by tariff/input-cost pressures common to toy makers. If revenue growth or the earnings-growth rebound disappoints (e.g., holiday-quarter execution or licensing losses), the stock's premium P/B multiple leaves little cushion, and with 14 analysts already crowding into 'strong buy,' any disappointment has more room to surprise negatively than positively.",
+  "metrics": {
+    "momentum_63d": -0.11925123696294448,
+    "volatility_ann": 0.24371423299899445,
+    "rsi_14": 48.72397220525651,
+    "profit_margin": -0.046240002,
+    "revenue_growth": 0.127,
+    "trailing_pe": null,
+    "return_on_equity": -0.23316,
+    "beta": 0.482,
+    "market_cap": 11538566144,
+    "analyst_coverage": 14
+  }
+}

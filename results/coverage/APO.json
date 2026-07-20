@@ -1,0 +1,26 @@
+{
+  "ticker": "APO",
+  "name": "Apollo Global Management",
+  "sector": "Financials",
+  "sub_industry": "Asset Management & Custody Banks",
+  "tier": "S&P 500",
+  "price": 120.47000122070312,
+  "as_of": "2026-07-19T21:23:24.301767+00:00",
+  "rating": "bearish",
+  "conviction": 0.58,
+  "key_signal": "APO trades below its 200-day moving average with -13% 1-month and -15.7% 6-month momentum despite a golden cross, signaling a fragile technical bounce inside a broader downtrend.",
+  "thesis": "The forward P/E of 11.3x versus a trailing P/E of 75.8x implies the market expects a sharp earnings normalization, and if Apollo's retirement services (Athene) and credit origination businesses stabilize, the stock could re-rate sharply higher from a beaten-down price near the lower third of its 52-week range ($99.56-$153.43). The golden cross (50dma above 200dma) and positive MACD histogram suggest some underlying momentum is turning, and a 1.87% dividend yield offers some downside cushion while investors wait.",
+  "bear_case": "Revenue growth is already negative (-9.2%), profit margins are thin at 3.66%, and debt-to-equity above 100% reflects Apollo's heavily levered insurance/annuity balance sheet, all of which make it vulnerable to a credit cycle turn or rate shock that a 1.5 beta and 35.7% annualized volatility would amplify. The stock is down over 21%, 63-day momentum is barely positive (0.14%) and 126-day momentum is -15.7%, with price still below both the 50dma ($127.49) and 200dma ($126.39) despite the golden cross \u2014 a classic 'dead cat bounce' pattern where trend-following buy signals fail in a deteriorating fundamental backdrop, and the low ROE (8.49%) suggests the cheap forward multiple may simply reflect deteriorating quality of earnings rather than unrecognized value.",
+  "metrics": {
+    "momentum_63d": 0.0013908907941446724,
+    "volatility_ann": 0.35705938281984667,
+    "rsi_14": 44.624878428097084,
+    "profit_margin": 0.03656,
+    "revenue_growth": -0.092,
+    "trailing_pe": 75.767296,
+    "return_on_equity": 0.08492,
+    "beta": 1.499,
+    "market_cap": 69453062144,
+    "analyst_coverage": 17
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "PG",
+  "name": "Procter & Gamble",
+  "sector": "Consumer Staples",
+  "sub_industry": "Personal Care Products",
+  "tier": "S&P 500",
+  "price": 149.97999572753906,
+  "as_of": "2026-07-20T15:55:19.054265+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "PG trades just above its 50/200-day moving averages (price 149.98 vs SMA50 146.63, SMA200 146.96) in a low-momentum consolidation, down 1.6% over 21 days but up mid-single-digits over 63-126 days, with negative MACD histogram suggesting fading upside momentum.",
+  "thesis": "P&G remains a high-quality defensive compounder: 51% gross margin, 23% operating margin, 31% ROE, and 19.2% net margin dwarf typical staples peers, supported by 7.4% revenue growth and durable pricing power across its brand portfolio. The stock sits comfortably above its 200-day moving average with low beta (0.38), making it a reasonable ballast holding, and its 2.9% dividend yield plus $12.7B free cash flow generation support continued buybacks and dividend growth. Sell-side sentiment remains a 'buy' across 23 analysts, and RSI at 53 shows no overbought extreme, leaving room for a re-rating toward the 52-week high of 167.25 if consumer spending stays resilient.",
+  "bear_case": "Valuation is stretched for the growth on offer \u2014 a 21.8x trailing P/E and 21.2x forward P/E imply premium multiples for only 5.8% earnings growth, a gap that leaves little margin for disappointment given elevated debt-to-equity of 67.6%. Technical momentum is deteriorating: negative MACD histogram, a 1.6% pullback over the past month, and price sitting only marginally above both moving averages (no golden cross) suggest the recent 63-126 day rally is losing steam, and a break below the 146-147 support zone could trigger a swift retest of the 137.62 52-week low, especially with 26% annualized volatility indicating the market is already pricing meaningful uncertainty into this supposedly low-beta name.'",
+  "metrics": {
+    "momentum_63d": 0.05589647688919319,
+    "volatility_ann": 0.2605957640086309,
+    "rsi_14": 53.162330171772645,
+    "profit_margin": 0.19162,
+    "revenue_growth": 0.074,
+    "trailing_pe": 21.846489,
+    "return_on_equity": 0.31112,
+    "beta": 0.38,
+    "market_cap": null,
+    "analyst_coverage": 23
+  }
+}

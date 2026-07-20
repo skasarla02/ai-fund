@@ -1,0 +1,26 @@
+{
+  "ticker": "IRM",
+  "name": "Iron Mountain",
+  "sector": "Real Estate",
+  "sub_industry": "Other Specialized REITs",
+  "tier": "S&P 500",
+  "price": 123.81999969482422,
+  "as_of": "2026-07-19T22:38:38.120496+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "IRM trades just below its 52-week high with a golden cross and 37% six-month momentum, but has stalled over the last month (-3.4%) while trading at a nosebleed 134x trailing P/E and burning free cash flow (-$499M).",
+  "thesis": "Iron Mountain's data-center and digital transformation pivot has driven a powerful 6-month rally (+37%), with the stock holding above both its 50- and 200-day moving averages and a golden cross intact\u2014technical hallmarks of a durable uptrend. Revenue growth of 21.6% and operating margins near 21% show the business is scaling, and consensus among the 11 covering analysts is 'buy,' suggesting sell-side confidence hasn't wavered even as the stock approaches its 52-week high of $134.68. The 2.79% dividend yield still offers income support while the growth narrative plays out.",
+  "bear_case": "The valuation is genuinely difficult to justify on fundamentals alone: a 134x trailing P/E, 46x forward P/E, and a deeply negative price-to-book (-30x, implying negative shareholder equity) leave essentially no margin of safety if sentiment shifts. More concerning, free cash flow is negative (-$499M) despite $7.2B in revenue, meaning the dividend and growth capex are being funded by debt or equity issuance\u2014a fragile setup for a REIT if rates back up or capital markets tighten. The 1-month momentum has already turned negative (-3.4%) and price sits below its 50-day SMA (125.30 vs. spot of 123.82), a possible early warning that the golden-cross uptrend is losing steam right as the stock sits near all-time highs with no valuation cushion.",
+  "metrics": {
+    "momentum_63d": 0.058918886295312056,
+    "volatility_ann": 0.3279722867392779,
+    "rsi_14": 50.97935485842372,
+    "profit_margin": 0.03758,
+    "revenue_growth": 0.216,
+    "trailing_pe": 134.58696,
+    "return_on_equity": null,
+    "beta": 1.219,
+    "market_cap": 36839505920,
+    "analyst_coverage": 11
+  }
+}

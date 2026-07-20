@@ -1,0 +1,26 @@
+{
+  "ticker": "AON",
+  "name": "Aon plc",
+  "sector": "Financials",
+  "sub_industry": "Insurance Brokers",
+  "tier": "S&P 500",
+  "price": 367.2099914550781,
+  "as_of": "2026-07-19T21:22:48.165144+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "AON is up ~11% over the past month and trading above both its 50- and 200-day moving averages with strong MACD momentum, just 4% off its 52-week high, while earnings growth (27.1%) is outpacing revenue growth (6.5%), signaling margin expansion.",
+  "thesis": "Aon's technical picture is constructive: price is above both key moving averages, momentum (mom_21d +10.8%, mom_63d +9.8%) is accelerating, and MACD histogram is strongly positive, all consistent with an uptrend resuming after a period of underperformance versus its 50/200-day averages. Fundamentally, the company is firing on operating leverage - 35.8% operating margin, 46.4% ROE, and 27.1% earnings growth versus only 6.5% revenue growth shows real margin expansion, likely from NFP integration synergies and pricing power in a hardening-then-normalizing insurance brokerage market. Forward PE of 17.2x is not demanding for a company growing EPS at 27% with a low beta (0.705) that provides ballast in volatile markets, and consensus already rates it a buy. Free cash flow of $3.3B against an $78B market cap supports the ~0.89% dividend and buybacks, and analyst coverage (19) with buy consensus suggests sell-side is aligned with the improving fundamental trend rather than fighting it.",
+  "bear_case": "The stock is trading near its 52-week high ($367 vs $381) with RSI at 65 approaching overbought territory, and the 50-day SMA ($330.8) is still below the 200-day SMA ($335.8) - a technically unresolved death-cross setup where price has outrun both averages, raising risk of a mean-reversion pullback especially with 30-day annualized volatility at a high 31.5%. Valuation is far from cheap on a book basis (price/book 7.98x) and trailing PE of 20.2x for a company with only 6.5% revenue growth means most of the earnings growth is margin/leverage-driven and could decelerate once cost synergies are fully realized. Debt-to-equity of 155 is elevated and in a higher-for-longer rate environment refinancing costs could pressure the bottom line, while insurance brokerage commission growth is tied to a property-casualty pricing cycle that shows signs of softening after several hard-market years, which would directly hit the revenue growth line that is already the weakest fundamental metric here.",
+  "metrics": {
+    "momentum_63d": 0.09792664981615506,
+    "volatility_ann": 0.31543910326563507,
+    "rsi_14": 65.37026969797968,
+    "profit_margin": 0.22544001,
+    "revenue_growth": 0.065,
+    "trailing_pe": 20.165295,
+    "return_on_equity": 0.46447,
+    "beta": 0.705,
+    "market_cap": 78427586560,
+    "analyst_coverage": 19
+  }
+}

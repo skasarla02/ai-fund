@@ -1,0 +1,26 @@
+{
+  "ticker": "INVH",
+  "name": "Invitation Homes",
+  "sector": "Real Estate",
+  "sub_industry": "Single-Family Residential REITs",
+  "tier": "S&P 500",
+  "price": 30.1200008392334,
+  "as_of": "2026-07-19T22:38:05.659611+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "Strong price uptrend (above both 50/200 DMA with golden cross, +15.8% over 3 months) despite decelerating earnings growth (-3.7%) and a rich forward P/E of 45x.",
+  "thesis": "INVH has staged a durable technical recovery, trading above its rising 50-day ($29.19) and 200-day ($27.10) SMAs with a golden cross intact and momentum accelerating (+4.9% 1M, +15.8% 3M). The stock still sits ~8% below its 52-week high, leaving room to run, and RSI at 55 shows no overbought exhaustion. Fundamentally, revenue growth of 9.2%, strong gross margins (57%) and operating margins (24%) reflect the pricing power and cost efficiency embedded in the single-family rental model, and a 3.98% dividend yield offers income support in a lower-beta (0.84) name that's attractive amid rate-cut expectations, which historically favor rate-sensitive REITs. Analyst consensus is 'buy' across 23 covering analysts, and the shares' resilience to broader volatility (beta <1) makes this a lower-risk way to play continued housing supply constraints and rental demand.",
+  "bear_case": "Valuation is stretched on every metric that matters here: a 31.7x trailing P/E and eye-watering 45.2x forward P/E imply the market is pricing sustained double-digit growth, yet earningsGrowth is actually negative (-3.7%) and ROE is a mediocre 6.2%, well below what such multiples should demand for a capital-intensive, low-growth real estate business. Debt-to-equity of 97% leaves the balance sheet exposed to any reacceleration in rates, which would also pressure the premium multiple further. The negative MACD histogram (-0.024) suggests short-term momentum is already fading even as price sits near 52-week highs, a classic setup for a pullback if forward earnings disappoint against the priced-in 45x multiple. With 23 analysts already covering the name, any fundamental miss will be quickly repriced, leaving little room for multiple expansion and real downside risk if the growth-to-valuation gap doesn't close via earnings acceleration.",
+  "metrics": {
+    "momentum_63d": 0.1582784586628827,
+    "volatility_ann": 0.22209783512311831,
+    "rsi_14": 55.40853857794709,
+    "profit_margin": 0.20964001,
+    "revenue_growth": 0.092,
+    "trailing_pe": 31.705265,
+    "return_on_equity": 0.061929997,
+    "beta": 0.843,
+    "market_cap": 17892544512,
+    "analyst_coverage": 23
+  }
+}

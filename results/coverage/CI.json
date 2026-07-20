@@ -1,0 +1,26 @@
+{
+  "ticker": "CI",
+  "name": "Cigna",
+  "sector": "Health Care",
+  "sub_industry": "Health Care Services",
+  "tier": "S&P 500",
+  "price": 281.45001220703125,
+  "as_of": "2026-07-19T21:47:20.176351+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "Cigna trades at just 11.9x trailing and 8.4x forward earnings with 29% earnings growth, a valuation disconnect versus its own price trend which sits above both the 50- and 200-day moving averages (golden cross intact).",
+  "thesis": "Despite a recent pullback (-3.6% over 21 days, RSI 44.9 signaling neutral-to-oversold conditions), Cigna remains in a technical uptrend (price above 200dma, golden cross active, 126-day momentum +5%) while trading at a deep valuation discount: 11.9x trailing PE, 8.4x forward PE, and 1.76x book value versus a 16.3% ROE. Earnings growth of 29% far outpaces revenue growth of 4.6%, suggesting margin expansion and capital discipline are working even as the low absolute net margin (2.3%) reflects the low-margin, high-volume nature of managed care/PBM businesses like Cigna's Evernorth. Free cash flow of $6.9B against a $74.5B market cap (~9.3% FCF yield) supports the 2.22% dividend and buybacks. A low beta of 0.30 makes this a defensive holding within Healthcare Plans, an industry that has been volatile industry-wide on utilization/reimbursement fears, and 24 analysts still rate it a 'buy' consensus, suggesting sell-side conviction hasn't broken despite the stock being ~11% off its 52-week high.",
+  "bear_case": "The negative MACD histogram (-0.105) and price below the 50-day SMA ($286 vs $281 spot) show short-term technical deterioration, and 30-day annualized volatility of 31.6% is elevated for a supposedly low-beta defensive name, hinting the market is pricing real uncertainty\u2014likely tied to medical cost trend/utilization pressures that have hammered managed care peers all year. Cigna's debt-to-equity of 72.8 is high, and with net margins as thin as 2.3%, any acceleration in medical loss ratios or PBM/Evernorth reimbursement pressure (a sector-wide risk given political scrutiny of PBM practices) could disproportionately hit earnings given operating leverage. The cheap multiple may not be a mispricing but a correct discount for structurally impaired managed-care economics and regulatory overhang, and the stock's failure to hold above its 50dma despite a golden cross suggests momentum is stalling right as sentiment risk builds into next earnings.",
+  "metrics": {
+    "momentum_63d": 0.024283341824089977,
+    "volatility_ann": 0.3164682016701762,
+    "rsi_14": 44.91728226313195,
+    "profit_margin": 0.02263,
+    "revenue_growth": 0.046,
+    "trailing_pe": 11.930903,
+    "return_on_equity": 0.16268998,
+    "beta": 0.303,
+    "market_cap": 74452647936,
+    "analyst_coverage": 24
+  }
+}

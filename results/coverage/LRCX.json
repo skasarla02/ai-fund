@@ -1,0 +1,26 @@
+{
+  "ticker": "LRCX",
+  "name": "Lam Research",
+  "sector": "Information Technology",
+  "sub_industry": "Semiconductor Materials & Equipment",
+  "tier": "S&P 500",
+  "price": 313.29998779296875,
+  "as_of": "2026-07-19T22:44:44.390284+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "Despite a sharp 15% one-month pullback that pushed price below the 50-day average, LRCX remains firmly above its 200-day SMA (232.9) with a golden cross intact and 40.8% earnings growth backing the AI/memory capex upcycle.",
+  "thesis": "Lam Research is riding a powerful semiconductor capex upcycle driven by AI-related HBM and leading-edge logic/memory investment, evidenced by 23.8% revenue growth, 40.8% earnings growth, and a remarkable 66.8% ROE with 35% operating margins. The stock's 126-day momentum of +50% and 63-day momentum of +20% show the underlying uptrend is intact even after the recent 15% one-month drawdown, and price remains 34% above its 200dma with a golden cross confirming the longer-term trend. With 31 analysts rating it strong_buy and forward PE compressing to 38.8x from a trailing 59.2x on expected earnings growth, the market is pricing in continued execution. The pullback from the 52-week high of $438.50 to $313.30 looks more like a healthy digestion of a huge run than a fundamental deterioration, especially since fundamentals (margins, ROE, cash generation with $4.35B FCF) show no cracks.",
+  "bear_case": "The technical picture has clearly deteriorated near-term: price is below the 50-day SMA (336 vs 313), RSI at 42 signals fading momentum, MACD histogram is deeply negative (-8.4), and the stock just dropped 15% in a month with extremely high annualized volatility (96.5%), suggesting the market may be pricing in a memory/AI capex digestion pause or renewed China export-control risk (a persistent overhang for semi-equipment names). At 59x trailing earnings and 37x book value, LRCX has essentially zero margin for a growth disappointment\u2014any hint of a capex air-pocket in NAND/DRAM spending, which is historically cyclical and lumpy, could trigger a much sharper multiple correction than the fundamentals alone would suggest, and a beta of 1.8 means downside moves get amplified in a risk-off tape.",
+  "metrics": {
+    "momentum_63d": 0.201412783299189,
+    "volatility_ann": 0.965353202324493,
+    "rsi_14": 42.121069539639876,
+    "profit_margin": 0.30938998,
+    "revenue_growth": 0.238,
+    "trailing_pe": 59.224953,
+    "return_on_equity": 0.66762,
+    "beta": 1.805,
+    "market_cap": 391803895808,
+    "analyst_coverage": 31
+  }
+}

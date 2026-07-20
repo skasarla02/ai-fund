@@ -1,0 +1,26 @@
+{
+  "ticker": "BR",
+  "name": "Broadridge Financial Solutions",
+  "sector": "Industrials",
+  "sub_industry": "Data Processing & Outsourced Services",
+  "tier": "S&P 500",
+  "price": 149.91000366210938,
+  "as_of": "2026-07-19T21:36:06.924529+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "BR has cratered from a 52-week high of $271.91 to $149.91 (mom_126d -31%) and sits well below both its 50- and 200-day moving averages despite fundamentals (15% earnings growth, 42% ROE, 14.4x forward P/E) that look inconsistent with such a collapse.",
+  "thesis": "After a violent ~45% drawdown, BR now trades at a forward P/E of 14.4x versus historical premium multiples typical for this steady, recurring-revenue proxy/data-processing business, with revenue growth of 7.8%, operating margins of 18.4%, and ROE of 42% still intact. Short-term technicals are stabilizing \u2014 mom_21d is positive (+4.2%), MACD histogram is firmly positive, RSI is a neutral 55.8, and price (149.91) is already back above the 50-day SMA (146.13) \u2014 suggesting the freefall has paused and a base may be forming near the 52-week low of 133.83. The 2.6% dividend yield and consensus 'buy' rating from all 8 covering analysts provide some downside support while the market digests whatever caused the derating.",
+  "bear_case": "A drop of this magnitude (down nearly 45% from highs, -31% over six months) in a supposedly stable outsourced-services name is not typical noise \u2014 it signals the market has repriced either the growth trajectory, a major client/contract risk, or leverage concerns (debt-to-equity of 121% is elevated), and cheap-looking multiples can stay cheap or get cheaper if the underlying growth story is broken. The stock remains below its 200-day SMA with no golden cross, 30-day annualized volatility of 31% signals continued instability, and with only 8 analysts covering the name, there is limited independent verification that the recent bounce is anything more than a technical dead-cat rally within a structurally impaired downtrend.",
+  "metrics": {
+    "momentum_63d": -0.07076820577951881,
+    "volatility_ann": 0.3070218236712087,
+    "rsi_14": 55.78943946803265,
+    "profit_margin": 0.15028,
+    "revenue_growth": 0.078,
+    "trailing_pe": 16.033155,
+    "return_on_equity": 0.42314,
+    "beta": 0.903,
+    "market_cap": 17338335232,
+    "analyst_coverage": 8
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "WMT",
+  "name": "Walmart",
+  "sector": "Consumer Staples",
+  "sub_industry": "Consumer Staples Merchandise Retail",
+  "tier": "S&P 500",
+  "price": 114.23999786376953,
+  "as_of": "2026-07-19T21:04:59.294745+00:00",
+  "rating": "bearish",
+  "conviction": 0.358,
+  "key_signal": "63d momentum -8.3%, margin 3.1%, 41 analysts covering it.",
+  "thesis": "[mock] Trades below its 200-day average with -8.3% momentum; profit margin 3.1% \u2014 41 analysts covering it.",
+  "bear_case": "[mock] Valuation at 40.2x trailing earnings leaves little room for a growth miss.",
+  "metrics": {
+    "momentum_63d": -0.08301541700277126,
+    "volatility_ann": 0.23198043343674948,
+    "rsi_14": 46.444594291645785,
+    "profit_margin": 0.03135,
+    "revenue_growth": 0.073,
+    "trailing_pe": 40.225353,
+    "return_on_equity": 0.24132,
+    "beta": 0.603,
+    "market_cap": 909130924032,
+    "analyst_coverage": 41
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "AMD",
+  "name": "Advanced Micro Devices",
+  "sector": "Information Technology",
+  "sub_industry": "Semiconductors",
+  "tier": "S&P 500",
+  "price": 495.760009765625,
+  "as_of": "2026-07-19T21:14:42.871731+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "AMD's price has stalled just below its 50-day SMA (495.76 vs 499.08) with a negative MACD histogram and RSI near 46, signaling short-term momentum exhaustion after a +122% six-month run.",
+  "thesis": "AMD remains structurally strong: revenue growth of 37.8% and earnings growth of 91% reflect accelerating AI GPU/MI300-series adoption, gross margins over 53%, and a golden cross with price still 67% above the 200-day SMA confirm the primary uptrend is intact. Forward PE of 36.8x is demanding but not absurd for a company compounding earnings at this rate, and 47 analysts rate it strong buy, reflecting broad institutional conviction in the AI infrastructure buildout narrative that has driven the stock from $149 to near $500 over the past year.",
+  "bear_case": "The technical picture shows genuine fatigue \u2014 21-day momentum has turned negative (-2.3%), MACD histogram is deeply negative (-7.9), and price has slipped below its 50-day moving average after a parabolic 122% six-month advance, which is exactly the setup that precedes multi-month consolidation or a sharper drawdown, especially with 30-day annualized volatility above 82% and beta of 2.47 amplifying any market-wide risk-off move. Fundamentally, trailing PE of 164x and price-to-book of 12.5x price in years of flawless execution, while ROE of just 8% and debt-to-equity of 6.0x reveal a balance sheet and profitability profile that doesn't yet justify the multiple if AI capex growth decelerates or Nvidia/hyperscaler custom silicon competition erodes AMD's data-center GPU share gains \u2014 with 47 analysts already at strong buy, most of the good news is arguably already priced in, leaving asymmetric downside risk to any guidance disappointment.",
+  "metrics": {
+    "momentum_63d": 0.7816430402025702,
+    "volatility_ann": 0.8215178447613671,
+    "rsi_14": 46.07181224516254,
+    "profit_margin": 0.13374,
+    "revenue_growth": 0.378,
+    "trailing_pe": 164.15895,
+    "return_on_equity": 0.08063,
+    "beta": 2.469,
+    "market_cap": 808386560000,
+    "analyst_coverage": 47
+  }
+}

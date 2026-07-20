@@ -1,0 +1,26 @@
+{
+  "ticker": "DG",
+  "name": "Dollar General",
+  "sector": "Consumer Staples",
+  "sub_industry": "Consumer Staples Merchandise Retail",
+  "tier": "S&P 500",
+  "price": 125.75,
+  "as_of": "2026-07-19T22:00:47.987250+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "DG has surged 11% in the last month and is now trading above both its 50- and 200-day moving averages after a prolonged 16% six-month drawdown, suggesting a fundamental re-rating is underway.",
+  "thesis": "Dollar General's price action shows a decisive short-term reversal (mom_21d +11.1%, MACD histogram strongly positive at 0.89, RSI 64) breaking out above the 200-day SMA (120.9) after months of underperformance (mom_126d -15.9%), likely driven by improving fundamentals: earnings growth of 12.4% is outpacing revenue growth of 3.4%, indicating margin recovery traction even though operating margins remain thin at 5.9%. Valuation is still reasonable at 15.7x forward earnings versus a low-beta (0.247) defensive profile that should hold up well in a slowing-growth environment, and the 1.88% dividend yield adds a support floor. With 29 analysts already rating it 'buy' on consensus, the stock is regaining favor after a deep drawdown from its 158 high, and the current setup (price well above both moving averages, momentum accelerating) suggests the market is starting to price in a turnaround in low-income consumer spending and merchandising execution.",
+  "bear_case": "The stock's 126-day momentum of -15.9% reveals this was a beaten-down name until very recently, and the current 11% one-month pop could be a short-covering or single-catalyst (earnings) spike rather than a durable trend reversal \u2014 30-day annualized volatility of 37.7% is unusually high for a consumer staples name and signals the market remains uncertain about the story. The balance sheet is a genuine risk: debt-to-equity of 179% is elevated for a discount retailer with only 3.6% net margins, leaving little room for error if same-store sales growth (already modest at 3.4% revenue growth) stalls again amid competitive pressure from Walmart and dollar-store peers, or if consumer trade-down benefits fade as inflation cools. Additionally, the lack of a golden cross (50-day SMA of 111.6 still below the 200-day SMA of 120.9) means the longer-term trend structure hasn't technically confirmed the reversal, and with 29 analysts already covering the name, much of any genuine fundamental improvement may already be priced in, limiting further upside from here.",
+  "metrics": {
+    "momentum_63d": 0.023660454574616407,
+    "volatility_ann": 0.37742310089275805,
+    "rsi_14": 64.27787033401711,
+    "profit_margin": 0.03632,
+    "revenue_growth": 0.034,
+    "trailing_pe": 17.78642,
+    "return_on_equity": 0.1891,
+    "beta": 0.247,
+    "market_cap": 27738769408,
+    "analyst_coverage": 29
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "COHR",
+  "name": "Coherent Corp.",
+  "sector": "Information Technology",
+  "sub_industry": "Electronic Components",
+  "tier": "S&P 500",
+  "price": 277.6000061035156,
+  "as_of": "2026-07-19T21:50:41.341825+00:00",
+  "rating": "bearish",
+  "conviction": 0.58,
+  "key_signal": "COHR has crashed 27% in the last month and sits ~24% below its 50-day SMA with MACD deeply negative (-8.4), a sharp reversal from its prior 50% six-month rally.",
+  "thesis": "Coherent remains a leveraged play on AI-datacenter optics and laser demand, with revenue growth of 20.5% and operating margins expanding to 13.6% from a low base, and 22 analysts still rate it a consensus 'buy' with forward PE of just 33.7x versus a growth rate that could justify a premium if execution stabilizes. The stock is still above its 200-day SMA (246.9) and has a golden cross intact, so long-term trend followers could view this pullback as a buyable dip within a structurally intact uptrend, especially with RSI at 33 flagging oversold conditions that historically precede short-term bounces.",
+  "bear_case": "The magnitude and speed of the drawdown\u2014down 27% in a month and 15% over three months after a 51% six-month run\u2014suggests a genuine fundamental disappointment (likely guidance or margin/FCF concerns) rather than routine profit-taking, and negative free cash flow of -$198M alongside a trailing PE of 131x and ROE of just 4.7% show the market may have been pricing perfection that is now unwinding; with beta over 2.0 and 91% annualized volatility, any continuation of the current downtrend (price now decisively below the 50-day SMA at 365 with accelerating negative MACD) could easily overshoot toward the 200-day SMA near 247 or lower before finding support, and a broken 50-day/price relationship after a golden cross often precedes further mean reversion rather than immediate recovery.",
+  "metrics": {
+    "momentum_63d": -0.15365851797708652,
+    "volatility_ann": 0.9150489824892397,
+    "rsi_14": 33.26682031716332,
+    "profit_margin": 0.07102,
+    "revenue_growth": 0.205,
+    "trailing_pe": 131.564,
+    "return_on_equity": 0.04718,
+    "beta": 2.037,
+    "market_cap": 54309478400,
+    "analyst_coverage": 22
+  }
+}

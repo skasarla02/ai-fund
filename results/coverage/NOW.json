@@ -1,0 +1,26 @@
+{
+  "ticker": "NOW",
+  "name": "ServiceNow",
+  "sector": "Information Technology",
+  "sub_industry": "Systems Software",
+  "tier": "S&P 500",
+  "price": 103.36000061035156,
+  "as_of": "2026-07-20T16:06:27.615266+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "NOW has round-tripped to within a few points of its 52-week low (down ~51% from the $210 high) while forward P/E has compressed to 20.5x against 22% revenue growth and 76.6% gross margins, and short-term momentum (21d +8.3%, 63d +6.9%) is turning up even though price still sits below both the 50- and 200-day moving averages.",
+  "thesis": "The valuation reset is the story here: trailing P/E of 61.5x looks rich, but forward P/E of just 20.5x implies the Street expects a sharp earnings inflection, consistent with the 'strong_buy' consensus from all 46 covering analysts. Revenue growth of 22.1% alongside 76.6% gross margins and ~$5.1B of free cash flow on $14B revenue (36.6% FCF margin) shows the underlying business model remains highly cash-generative and largely intact despite the stock's collapse from $210 to $103. Debt/equity of just 20.7 gives balance-sheet flexibility, and RSI at 48.7 with a fresh positive 21d/63d momentum turn suggests the six-month downtrend (mom_126d -21.2%) may be exhausting itself near the 52-week low, offering an attractive entry for a name the sell-side broadly still endorses.",
+  "bear_case": "The technical picture remains genuinely bearish: price is below both the 50-day (103.6) and 200-day (128.4) moving averages with no golden cross, MACD histogram is still negative (-0.19), and 30-day annualized volatility of 56.9% signals the market has not found a stable floor. More importantly, earnings growth of only 2.3% badly lags the 22.1% revenue growth, meaning the anticipated jump to a 20.5x forward multiple depends on margin expansion or estimate upgrades that haven't shown up yet in trailing profitability (12.6% net margin), and a 9.1x price-to-book on a stock still down over 50% from its high suggests further multiple compression is possible if growth decelerates further; with 46 analysts already covering the name, any incremental negative data point gets priced in fast, limiting the edge in simply buying the dip.",
+  "metrics": {
+    "momentum_63d": 0.06931509098285482,
+    "volatility_ann": 0.5685740045169796,
+    "rsi_14": 48.69124324194988,
+    "profit_margin": 0.12586,
+    "revenue_growth": 0.221,
+    "trailing_pe": 61.52381,
+    "return_on_equity": 0.1607,
+    "beta": 0.959,
+    "market_cap": 106595999744,
+    "analyst_coverage": 46
+  }
+}

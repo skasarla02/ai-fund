@@ -1,0 +1,26 @@
+{
+  "ticker": "APH",
+  "name": "Amphenol",
+  "sector": "Information Technology",
+  "sub_industry": "Electronic Components",
+  "tier": "S&P 500",
+  "price": 151.1999969482422,
+  "as_of": "2026-07-19T21:22:11.356820+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "Despite a sharp pullback from its 52-week high of $178.52 (now $151.20) and negative short-term momentum (-4.6% over 21d, MACD hist -2.3), APH remains above both its 50-day ($148.45) and 200-day ($140.21) moving averages with a golden cross intact, while revenue growth of 58.4% and 36.8% ROE point to fundamentally strong underlying momentum.",
+  "thesis": "Amphenol's fundamentals remain exceptional: 58.4% revenue growth (likely boosted by AI/data-center connector demand and recent acquisitions), 27.3% operating margins, and 36.8% ROE are best-in-class for an electronic components supplier. The stock trades above both key moving averages with a golden cross signal intact, and the recent pullback (-4.6% over 21 days, RSI 43.7 near neutral) looks like a healthy consolidation after a run to 52-week highs rather than a trend reversal, especially with the stock still up 3.4% over 126 days and comfortably above its 200-day SMA ($140.21 vs $151.20 price). Forward PE of 25.9x versus trailing PE of 43.4x implies the market expects earnings to catch up to the recent revenue surge, and with 18 analysts maintaining a 'buy' consensus, sentiment remains supportive. As a key beneficiary of AI infrastructure buildout (connectors/cable assemblies for data centers), APH has structural tailwinds that could sustain premium valuation through continued beat-and-raise quarters.",
+  "bear_case": "The valuation is stretched even after the pullback \u2014 trailing PE of 43.4x and price-to-book of 13.3x leave little room for error, and the stock is priced for perfection in a market environment where high-multiple growth names have been punished on any deceleration signs. The negative MACD histogram (-2.3) and 21-day momentum of -4.6% suggest the recent uptrend is losing steam, and with 48.2% annualized volatility, a break below the 50-day SMA ($148.45) could trigger further technical selling toward the 200-day ($140.21). Debt-to-equity of 133% is elevated, and earnings growth of 24.1% lags well behind revenue growth of 58.4%, hinting at margin dilution from recent large acquisitions (e.g., CommScope's connectivity business) or one-time revenue contributions that may not be sustainable \u2014 if AI-driven demand normalizes or acquisition synergies disappoint, the multiple compression risk is significant given how far the stock has already run from its 52-week low of $95.19.",
+  "metrics": {
+    "momentum_63d": 0.01656890350865048,
+    "volatility_ann": 0.4821572759150963,
+    "rsi_14": 43.713950468635964,
+    "profit_margin": 0.17239,
+    "revenue_growth": 0.584,
+    "trailing_pe": 43.448277,
+    "return_on_equity": 0.36825,
+    "beta": 1.243,
+    "market_cap": 186011451392,
+    "analyst_coverage": 18
+  }
+}

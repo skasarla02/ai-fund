@@ -1,0 +1,26 @@
+{
+  "ticker": "FE",
+  "name": "FirstEnergy",
+  "sector": "Utilities",
+  "sub_industry": "Electric Utilities",
+  "tier": "S&P 500",
+  "price": 48.529998779296875,
+  "as_of": "2026-07-19T22:19:39.606357+00:00",
+  "rating": "bullish",
+  "conviction": 0.6,
+  "key_signal": "FE trades above both its 50- and 200-day moving averages with a positive MACD histogram while forward P/E (16.5x) is well below trailing P/E (26.4x), signaling analysts expect a sharp earnings acceleration (12.9% EPS growth) that the market hasn't fully priced in.",
+  "thesis": "FirstEnergy is a low-beta (0.454) regulated electric utility trading near but not at its 52-week high, with 11.6% revenue growth and 12.9% earnings growth well above typical regulated-utility peers, reflecting rate-base expansion and transmission investment. The stock's technical posture is constructive: price is above both the 50-day ($46.6) and 200-day ($46.7) SMAs, momentum over the past 126 days is +7.3%, and MACD is turning positive after a mild 63-day pullback (-3.1%), suggesting the recent dip is consolidation rather than a trend break. A 3.83% dividend yield plus a 'buy' consensus from all 13 covering analysts supports a favorable risk/reward for income-oriented capital rotating into defensives, especially as forward earnings visibility (16.5x forward vs 26.4x trailing P/E) implies the market is under-pricing 2025 EPS growth.",
+  "bear_case": "The balance sheet is stretched \u2014 debt-to-equity of ~199% and negative free cash flow of -$1.84B indicate FirstEnergy is funding heavy capex/rate-base growth almost entirely with debt and equity issuance, which is a real risk in a higher-for-longer rate environment since utility valuations are inversely sensitive to rates and refinancing costs could compress the ROE (currently modest at 9.5%) further. Additionally, price-to-book of 2.22x is elevated for a utility with sub-10% ROE, and the golden_cross reading of 0 combined with the 50/200-day SMAs converging within 25 cents of each other suggests the medium-term trend lacks strong conviction \u2014 a failure to break decisively above the 52-week high of $52.34 could trigger a reversion toward the $46 support zone, especially if a hawkish rate surprise pressures the sector broadly.",
+  "metrics": {
+    "momentum_63d": -0.030634066769552826,
+    "volatility_ann": 0.2070532960240883,
+    "rsi_14": 55.27537898382218,
+    "profit_margin": 0.06944,
+    "revenue_growth": 0.116,
+    "trailing_pe": 26.374998,
+    "return_on_equity": 0.094610006,
+    "beta": 0.454,
+    "market_cap": 28071264256,
+    "analyst_coverage": 13
+  }
+}

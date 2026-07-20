@@ -1,0 +1,26 @@
+{
+  "ticker": "DE",
+  "name": "Deere & Company",
+  "sector": "Industrials",
+  "sub_industry": "Agricultural & Farm Machinery",
+  "tier": "S&P 500",
+  "price": 597.239990234375,
+  "as_of": "2026-07-19T21:58:51.290718+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "Deere trades at a rich 26x forward earnings and 5.9x book value even as revenue (-11%) and earnings (-8.5%) are actively contracting, while price momentum is decelerating (MACD histogram negative despite the golden cross).",
+  "thesis": "DE remains in a technical uptrend\u2014above both the 50- and 200-day moving averages with a golden cross intact and 126-day momentum of +17%\u2014reflecting investor confidence that the ag equipment downcycle is bottoming and that the forward PE discount (26x vs 34x trailing) will be earned via a 2025-26 recovery. Margins remain robust (17.5% operating, 26% gross) and ROE of 18.3% shows the business still generates strong returns on equity even mid-cycle, supported by a diversified precision-ag and construction equipment portfolio and a sell-side consensus 'buy' rating from 23 analysts.",
+  "bear_case": "The stock is pricing in a cyclical recovery that hasn't yet shown up in the numbers: revenue is down 11% and earnings down 8.5% year-over-year, yet the market still pays 33.8x trailing earnings and 5.9x book value\u2014multiples that leave no margin of safety if farm income and equipment replacement demand stay weak longer than expected. Debt-to-equity of 376% is elevated for a cyclical industrial, and short-term momentum is already rolling over (21d/63d returns of only ~2.3-2.5% vs 126d of 17%, plus a negative MACD histogram), suggesting the easy re-rating trade off the 52-week low ($433) is largely done with the stock still 11% below its high; a re-acceleration of the revenue decline or capex pullback in ag/construction could trigger a sharp multiple compression given how much good news is already embedded in the forward PE.",
+  "metrics": {
+    "momentum_63d": 0.02498841213517866,
+    "volatility_ann": 0.30395334391926443,
+    "rsi_14": 51.213626760007635,
+    "profit_margin": 0.10104,
+    "revenue_growth": -0.111,
+    "trailing_pe": 33.78054,
+    "return_on_equity": 0.18349001,
+    "beta": 0.897,
+    "market_cap": 161217429504,
+    "analyst_coverage": 23
+  }
+}

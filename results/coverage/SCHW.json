@@ -1,0 +1,26 @@
+{
+  "ticker": "SCHW",
+  "name": "Charles Schwab Corporation",
+  "sector": "Financials",
+  "sub_industry": "Investment Banking & Brokerage",
+  "tier": "S&P 500",
+  "price": 101.55999755859375,
+  "as_of": "2026-07-19T21:45:16.531231+00:00",
+  "rating": "bullish",
+  "conviction": 0.63,
+  "key_signal": "Price is up 8-10% over the past 1-3 months and trading well above both the 50-day ($92.6) and 200-day ($94.6) moving averages, confirming strong momentum with earnings growth of 38.6% and revenue growth of 15.8%.",
+  "thesis": "SCHW is showing durable positive momentum (mom_21d +8.4%, mom_63d +10%) with price sitting comfortably above both key moving averages and near its 52-week high of $107.5, suggesting the market is rewarding fundamental improvement. Earnings growth of 38.6% far outpaces revenue growth of 15.8%, indicating margin expansion and operating leverage as net interest margin pressures ease and client cash sorting stabilizes post-2023 crisis. Forward PE of 13.5x is meaningfully below trailing PE of 20.2x, implying consensus expects continued earnings acceleration, and ROE of 19% with 49% operating margins reflects a high-quality franchise. A 'buy' consensus across 19 analysts with a low beta of 0.76 offers a relatively defensive way to play a recovering brokerage/wealth franchise, and RSI at 64 with positive MACD histogram shows momentum without being deeply overbought.",
+  "bear_case": "Debt-to-equity of 120.8 is elevated for what's framed as a wealth/brokerage franchise, reflecting Schwab's bank-model reliance on client deposits and borrowings that remain sensitive to any renewed deposit outflows or rate volatility, the same dynamic that crushed the stock in 2023's regional-bank crisis. Price-to-book of 4.16x is rich relative to historical brokerage multiples and leaves little room for error if net interest revenue normalization stalls or if the Fed cuts more aggressively than expected, compressing NIM further. The stock is already up significantly and sitting near its 52-week high with 26% annualized volatility, so much of the 'recovery' narrative may already be priced in, and a lack of golden cross confirmation (golden_cross=0) suggests the longer-term trend structure isn't yet fully bullish despite the recent run.",
+  "metrics": {
+    "momentum_63d": 0.10045795125261181,
+    "volatility_ann": 0.25961263888954333,
+    "rsi_14": 64.15405967296601,
+    "profit_margin": 0.37986,
+    "revenue_growth": 0.158,
+    "trailing_pe": 20.190853,
+    "return_on_equity": 0.19083,
+    "beta": 0.762,
+    "market_cap": 176626597888,
+    "analyst_coverage": 19
+  }
+}

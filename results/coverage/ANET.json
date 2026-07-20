@@ -1,0 +1,26 @@
+{
+  "ticker": "ANET",
+  "name": "Arista Networks",
+  "sector": "Information Technology",
+  "sub_industry": "Communications Equipment",
+  "tier": "S&P 500",
+  "price": 168.61000061035156,
+  "as_of": "2026-07-19T21:25:48.805715+00:00",
+  "rating": "bullish",
+  "conviction": 0.63,
+  "key_signal": "Price sits above both the 50- and 200-day moving averages (golden cross intact) with 34.8% six-month momentum, yet trades ~11% below its 52-week high, suggesting a consolidation within an uptrend rather than a breakdown.",
+  "thesis": "Arista continues to post best-in-class fundamentals for a hardware company: 35.1% revenue growth, 63.5% gross margins, 42.7% operating margins, and 31.5% ROE, all funding a strong FCF base ($4.36B) without net debt drag. The stock's 126-day momentum of +34.8% and its position above both the 50-day ($160.66) and 200-day ($144.73) moving averages with a golden cross confirm an intact uptrend, even as short-term momentum has flattened (21d +0.36%, RSI 49.5 neutral) \u2014 a healthy pause after a big move rather than trend exhaustion. Sell-side consensus is a 'strong buy' across 27 analysts, and forward P/E of 37.7x (down from trailing 57.7x) reflects expected earnings growth of 25% that could re-rate the multiple lower if execution continues. As hyperscaler and AI-driven networking capex remains robust, Arista's high-margin switching/routing franchise is well positioned to keep compounding.",
+  "bear_case": "At 15.7x book value and 37.7x forward earnings, ANET is priced for flawless execution, and the negative MACD histogram (-0.74) alongside stalled 21-day momentum signals the recent rally is losing steam just below the 52-week high of $189.82 \u2014 a failure to reclaim that level could trigger a momentum-driven de-rating given the stock's high beta (1.6) and elevated 30-day annualized volatility (65%). Customer concentration risk is real: Arista's growth has historically leaned heavily on a small number of cloud titans (Microsoft, Meta) whose capex cycles are lumpy, and any pause or in-sourcing of switching silicon by hyperscalers could compress the 35% revenue growth rate quickly, which at this valuation would be punished disproportionately.",
+  "metrics": {
+    "momentum_63d": 0.04720207665861986,
+    "volatility_ann": 0.6497633727191996,
+    "rsi_14": 49.491922676062075,
+    "profit_margin": 0.38317,
+    "revenue_growth": 0.351,
+    "trailing_pe": 57.74315,
+    "return_on_equity": 0.31520998,
+    "beta": 1.601,
+    "market_cap": 212308557824,
+    "analyst_coverage": 27
+  }
+}

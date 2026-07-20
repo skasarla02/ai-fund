@@ -1,0 +1,26 @@
+{
+  "ticker": "SBAC",
+  "name": "SBA Communications",
+  "sector": "Real Estate",
+  "sub_industry": "Telecom Tower REITs",
+  "tier": "S&P 500",
+  "price": 184.7100067138672,
+  "as_of": "2026-07-20T16:05:01.888855+00:00",
+  "rating": "bearish",
+  "conviction": 0.58,
+  "key_signal": "SBAC trades near 52-week lows (down ~24% from its $243 high, -16.7% over 3 months) while forward PE (22.9x) is rising above trailing PE (19.4x) despite consensus earnings growth of -14.7%, a classic multiple-expansion-into-earnings-decline red flag.",
+  "thesis": "SBAC still generates best-in-class tower economics (74% gross margin, 52% operating margin, 35.6% net margin) and throws off ~$708M FCF on $2.85B revenue, supporting a 2.69% dividend even as the stock has been beaten down to the bottom of its 52-week range. The recent golden cross (50dma crossing above 200dma) and positive MACD histogram (1.01) suggest a short-term basing pattern, and with 20 analysts still rating it a consensus 'buy,' a stabilization in carrier capex or rate cuts could catalyze a re-rating back toward the $195-243 range.",
+  "bear_case": "The market is pricing in a real earnings problem: earnings growth is expected to contract -14.7% even as forward PE expands to 22.9x from a 19.4x trailing multiple, meaning investors are paying more for shrinking profits \u2014 a setup that historically underperforms. Price remains below both the 50dma ($195.8) and 200dma ($193.1) despite the golden cross, and momentum is broadly negative across all horizons (-3.6% 1M, -16.7% 3M, -2.5% 6M), with 31% annualized volatility signaling continued instability. Structurally, priceToBook of -4.12 confirms negative shareholder equity, reflecting SBAC's heavily levered, debt-financed buyback/dividend model \u2014 a balance sheet posture that becomes increasingly risky if rates stay elevated or carrier tower churn (from ongoing Sprint/T-Mobile network consolidation) pressures the top line further, leaving little margin for error if the earnings decline proves deeper or more persistent than currently modeled.",
+  "metrics": {
+    "momentum_63d": -0.1672206418765082,
+    "volatility_ann": 0.3119038007428884,
+    "rsi_14": 44.4312287401161,
+    "profit_margin": 0.35656,
+    "revenue_growth": 0.059,
+    "trailing_pe": 19.44316,
+    "return_on_equity": null,
+    "beta": 0.997,
+    "market_cap": 19590899712,
+    "analyst_coverage": 20
+  }
+}

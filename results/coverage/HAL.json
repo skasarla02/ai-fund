@@ -1,0 +1,26 @@
+{
+  "ticker": "HAL",
+  "name": "Halliburton",
+  "sector": "Energy",
+  "sub_industry": "Oil & Gas Equipment & Services",
+  "tier": "S&P 500",
+  "price": 35.220001220703125,
+  "as_of": "2026-07-19T22:27:55.408791+00:00",
+  "rating": "neutral",
+  "conviction": 0.56,
+  "key_signal": "HAL trades above its 200-day average with a golden cross intact, but 21- and 63-day momentum are both solidly negative (-5.3%/-7.3%), reflecting a stock caught between a long-term uptrend and short-term oilfield-services demand jitters.",
+  "thesis": "HAL's forward P/E of 11.97x is roughly 40% below its trailing P/E of 19.46x, implying the Street expects a meaningful earnings inflection, and the 25-analyst consensus is 'buy.' The stock sits comfortably above its 200-day moving average (33.07) with a golden cross still in place, ROE of 14.6% and operating margins of 12.6% remain healthy for an oilfield services name, and free cash flow of ~$2.0B against a $29.4B market cap (~6.9% FCF yield) supports the 1.93% dividend and ongoing buybacks. At $35.22, the stock trades well below its 52-week high of $43.59, offering a favorable entry point if activity levels stabilize into 2025.",
+  "bear_case": "Revenue growth is essentially flat (-0.3%) and 21/63-day momentum is decisively negative, signaling that North American completions activity and international pricing are softening faster than the market has priced in \u2014 the stock is also trading below its 50-day moving average (37.85), a shorter-term bearish signal that often precedes further downside before longer-term trends reassert. Debt-to-equity of 74.7% leaves HAL more exposed to a prolonged downturn in E&P capex than lower-levered peers, and with 25 analysts already covering the name, any earnings disappointment (especially if the 133% earnings-growth figure reflects a low prior-year base rather than durable improvement) would likely be repriced quickly and efficiently, limiting the margin of safety implied by the cheap forward multiple.",
+  "metrics": {
+    "momentum_63d": -0.07287455409628907,
+    "volatility_ann": 0.3383139721777216,
+    "rsi_14": 46.71756175404126,
+    "profit_margin": 0.06947,
+    "revenue_growth": -0.003,
+    "trailing_pe": 19.458565,
+    "return_on_equity": 0.14626999,
+    "beta": 0.725,
+    "market_cap": 29422710784,
+    "analyst_coverage": 25
+  }
+}

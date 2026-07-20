@@ -1,0 +1,26 @@
+{
+  "ticker": "EQT",
+  "name": "EQT Corporation",
+  "sector": "Energy",
+  "sub_industry": "Oil & Gas Exploration & Production",
+  "tier": "S&P 500",
+  "price": 49.560001373291016,
+  "as_of": "2026-07-19T22:06:58.426037+00:00",
+  "rating": "bearish",
+  "conviction": 0.58,
+  "key_signal": "EQT is trading near its 52-week low, below both the 50- and 200-day moving averages with negative momentum across all timeframes (mom_63d -14.9%) and a negative MACD histogram, signaling a persistent downtrend likely tied to weak natural gas price realizations.",
+  "thesis": "EQT screens statistically cheap (9.4x trailing earnings, 1.23x book) with exceptional profitability for an E&P (57% operating margin, 35% net margin) and generates ~$2.5B in free cash flow against a $31B market cap, while carrying conservative leverage (debt/equity ~21%) after integrating the Equitrans midstream assets, which should support continued deleveraging and the 1.3% dividend even in a soft gas tape. If Appalachian gas prices firm on rising LNG export demand and data-center-driven power load growth, EQT's low-cost basin position and now-integrated midstream footprint give it operating leverage to a recovery, and the stock is already down ~27% from its 52-week high, offering an attractive entry for the 25 analysts who collectively rate it a 'buy'.",
+  "bear_case": "The technical picture is unambiguously deteriorating \u2014 price is below both the 50-day ($53.45) and 200-day ($56.33) moving averages with no golden cross, 3-month momentum of -14.9%, and a negative MACD histogram \u2014 and forward P/E (11.9x) sitting above trailing P/E (9.4x) signals the market expects earnings to shrink, not grow, likely reflecting normalization of the 2024 gas price spike and oversupply from associated gas growth in the Permian; with 25 analysts already covering the name and consensus already at 'buy', any incremental repricing has to come from actual gas price/production data surprising to the upside, and until natural gas fundamentals inflect, momentum sellers and tax-loss-adjacent flows near the 52-week low ($47.94) could keep pressuring the stock lower before any value case plays out.",
+  "metrics": {
+    "momentum_63d": -0.14883274084442988,
+    "volatility_ann": 0.23443862864559667,
+    "rsi_14": 37.21704808358209,
+    "profit_margin": 0.35074002,
+    "revenue_growth": 0.499,
+    "trailing_pe": 9.404175,
+    "return_on_equity": 0.13402,
+    "beta": 0.55,
+    "market_cap": 30998691840,
+    "analyst_coverage": 25
+  }
+}

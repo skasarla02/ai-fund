@@ -1,0 +1,26 @@
+{
+  "ticker": "CHEF",
+  "name": "Chefs' Warehouse, Inc.",
+  "sector": "Consumer Staples",
+  "sub_industry": "Food Distributors",
+  "tier": "S&P 600",
+  "price": 97.08999633789062,
+  "as_of": "2026-07-19T21:04:59.530848+00:00",
+  "rating": "bullish",
+  "conviction": 0.691,
+  "key_signal": "63d momentum +54.2%, margin 1.9%, 9 analysts covering it.",
+  "thesis": "[mock] Trades above its 200-day average with +54.2% momentum; profit margin 1.9% \u2014 9 analysts covering it.",
+  "bear_case": "[mock] Valuation at 53.1x trailing earnings leaves little room for a growth miss.",
+  "metrics": {
+    "momentum_63d": 0.541600461155594,
+    "volatility_ann": 0.36545715892089475,
+    "rsi_14": 57.28389171677984,
+    "profit_margin": 0.018660001,
+    "revenue_growth": 0.114,
+    "trailing_pe": 53.05191,
+    "return_on_equity": 0.13812,
+    "beta": 1.392,
+    "market_cap": 3958895872,
+    "analyst_coverage": 9
+  }
+}

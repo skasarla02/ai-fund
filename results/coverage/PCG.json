@@ -1,0 +1,26 @@
+{
+  "ticker": "PCG",
+  "name": "PG&E Corporation",
+  "sector": "Utilities",
+  "sub_industry": "Multi-Utilities",
+  "tier": "S&P 500",
+  "price": 17.340499877929688,
+  "as_of": "2026-07-20T15:53:22.495283+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "PCG trades at just 9.6x forward earnings with 39.8% earnings growth and a golden cross intact, while price sits above both 50- and 200-day moving averages with positive momentum across 21/63/126-day windows.",
+  "thesis": "PG&E's valuation (13.4x trailing, 9.6x forward P/E, 1.2x price-to-book) is cheap relative to its growth profile, with 15% revenue growth and nearly 40% earnings growth reflecting the post-bankruptcy turnaround and rate-base expansion under California's regulatory framework. Technicals confirm the fundamental improvement: price is above both the 50-day ($16.72) and 200-day ($16.55) SMAs, a golden cross is in place, MACD histogram is positive, and RSI at 56 shows room to run before overbought. A low beta of 0.268 makes this an attractive defensive holding for a low-vol allocation while still delivering double-digit 126-day momentum (10.5%), a rare combination. Sell-side sentiment is a consensus 'buy' across 16 analysts, and the stock trades meaningfully below its 52-week high of $19.16, suggesting room to re-rate upward as wildfire liability overhang continues to fade and capex-driven rate base growth flows through to EPS.",
+  "bear_case": "The balance sheet remains highly leveraged with debt-to-equity of 188% and negative free cash flow of -$5.57B, meaning PG&E is still funding massive infrastructure and wildfire-mitigation capex externally, which could pressure equity value through dilution or refinancing risk if rates stay elevated. ROE of just 8.8% is mediocre for a regulated utility carrying this much risk, and the low profit margin (11%) reflects the drag of ongoing wildfire settlement costs and regulatory scrutiny that could resurface at any point given California's wildfire history. The stock's 23% annualized volatility is unusually high for a utility, signaling the market still prices in tail risk from potential new wildfire liabilities or adverse CPUC rate decisions, and any negative surprise could quickly erase the recent momentum gains, especially with the stock already up meaningfully from its 52-week low of $13.32.",
+  "metrics": {
+    "momentum_63d": 0.007586197265954553,
+    "volatility_ann": 0.23366415996015732,
+    "rsi_14": 56.43069256650577,
+    "profit_margin": 0.110089995,
+    "revenue_growth": 0.15,
+    "trailing_pe": 13.442248,
+    "return_on_equity": 0.08826999,
+    "beta": 0.268,
+    "market_cap": 38187675648,
+    "analyst_coverage": 16
+  }
+}

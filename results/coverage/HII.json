@@ -1,0 +1,26 @@
+{
+  "ticker": "HII",
+  "name": "Huntington Ingalls Industries",
+  "sector": "Industrials",
+  "sub_industry": "Aerospace & Defense",
+  "tier": "S&P 500",
+  "price": 269.1300048828125,
+  "as_of": "2026-07-19T22:33:04.702903+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "HII has cratered from a 52-week high of $460 to $269 (down ~41%), trading well below both its 50-day ($299) and 200-day ($345) moving averages, yet now trades at just 13.3x forward earnings for a top-tier Navy shipbuilder.",
+  "thesis": "After a brutal 6-month drawdown (mom_126d -34.7%) likely tied to shipbuilding execution/cost overrun concerns at Newport News and submarine programs, HII now screens as deeply undervalued relative to defense peers: 13.3x forward PE, 2.06x book, 2.05% dividend yield, and 13.4% revenue growth with ROE over 12%. RSI at 31 signals oversold conditions, and the low beta (0.25) plus consensus 'buy' rating from all 11 covering analysts suggest institutional support at these levels. As the sole builder of U.S. Navy aircraft carriers and one of two nuclear submarine builders, HII has a structurally protected backlog tied to Navy shipbuilding budgets that isn't going away, making this look like a valuation dislocation rather than a broken business.",
+  "bear_case": "The technical picture is unambiguously deteriorating \u2014 price is below both the 50-day and 200-day moving averages with no golden cross, negative MACD histogram, and momentum negative across all three lookback windows (21d, 63d, 126d), meaning every recent buyer is underwater and there's no confirmed reversal yet. More importantly, the fundamentals corroborate the selloff rather than contradict it: earningsGrowth is flat at 0.0% despite 13.4% revenue growth, implying margin compression is eating into the topline gains, and operating margins are already thin at 6.55% with gross margins of just 12.4% \u2014 this is a low-margin, capital-intensive shipbuilder where cost overruns on fixed-price Navy contracts can wipe out already-slim profitability. Debt/equity of 57% limits flexibility if program delays continue, and a stock down 42% from highs with a still-negative MACD can easily fall further before any 'cheap valuation' thesis is validated \u2014 value traps in defense primes with execution problems (see historical examples) can persist for multiple quarters.",
+  "metrics": {
+    "momentum_63d": -0.31773639720399516,
+    "volatility_ann": 0.29669109947658756,
+    "rsi_14": 31.114474130323075,
+    "profit_margin": 0.04709,
+    "revenue_growth": 0.134,
+    "trailing_pe": 17.48733,
+    "return_on_equity": 0.12198,
+    "beta": 0.248,
+    "market_cap": 10604806144,
+    "analyst_coverage": 11
+  }
+}

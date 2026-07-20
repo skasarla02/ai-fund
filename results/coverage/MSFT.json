@@ -1,0 +1,26 @@
+{
+  "ticker": "MSFT",
+  "name": "Microsoft",
+  "sector": "Information Technology",
+  "sub_industry": "Systems Software",
+  "tier": "S&P 500",
+  "price": 393.82000732421875,
+  "as_of": "2026-07-19T21:04:58.204100+00:00",
+  "rating": "neutral",
+  "conviction": 0.67,
+  "key_signal": "63d momentum -6.1%, margin 39.3%, 55 analysts covering it.",
+  "thesis": "[mock] Trades below its 200-day average with -6.1% momentum; profit margin 39.3% \u2014 55 analysts covering it.",
+  "bear_case": "[mock] Valuation at 23.5x trailing earnings leaves little room for a growth miss.",
+  "metrics": {
+    "momentum_63d": -0.06088382497224798,
+    "volatility_ann": 0.3445012006353347,
+    "rsi_14": 51.886158231185036,
+    "profit_margin": 0.39341998,
+    "revenue_growth": 0.183,
+    "trailing_pe": 23.469606,
+    "return_on_equity": 0.34013999,
+    "beta": 1.13,
+    "market_cap": 2925466222592,
+    "analyst_coverage": 55
+  }
+}

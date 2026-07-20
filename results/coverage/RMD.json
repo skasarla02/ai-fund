@@ -1,0 +1,26 @@
+{
+  "ticker": "RMD",
+  "name": "ResMed",
+  "sector": "Health Care",
+  "sub_industry": "Health Care Equipment",
+  "tier": "S&P 500",
+  "price": 196.99000549316406,
+  "as_of": "2026-07-20T16:01:25.703647+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "RMD trades at just 17x forward earnings with 27% ROE and double-digit revenue growth, yet the stock is down 24% over six months and sits 33% below its 52-week high, pricing in a valuation reset despite intact fundamentals.",
+  "thesis": "ResMed's fundamentals remain strong: 10.8% revenue growth, 27.4% net margins, 62% gross margins, 35% operating margins, and 25% ROE, all while carrying minimal leverage (debt/equity ~13%) and generating $1.45B in free cash flow. The stock has been de-rated to 19x trailing / 16.4x forward P/E, cheap for a med-tech compounder with these margins, and well below its own historical multiple and its 52-week high of $293.81. Price is currently trading near the 50-day SMA ($199) after a sharp 24% pullback over six months, and RSI at 47 suggests the stock is neither overbought nor oversold, with momentum turning slightly positive over the last 21 days (+5.7%). Low beta (0.775) and sell-side consensus of 'buy' across 15 analysts suggest the market still sees this as a quality holding despite recent weakness, likely driven by sector-wide GLP-1 fears rather than company-specific deterioration in fundamentals. A rebound toward the 200-day SMA ($234) would represent meaningful upside from current levels near $197.",
+  "bear_case": "The stock is in a well-established downtrend: it trades below both its 50-day and 200-day moving averages with no golden cross, momentum over 63 and 126 days is sharply negative (-13.4% and -24%), and MACD histogram is deeply negative at -0.72, all technical evidence of sustained selling pressure that a single quarter's fundamentals may not overcome. The 24% six-month decline likely reflects structural concerns\u2014GLP-1 drugs reducing the addressable sleep apnea/obesity-linked patient population\u2014that could compress ResMed's long-term growth algorithm below the 10.8% revenue growth currently priced, making the 'cheap' 16x forward multiple a value trap rather than a bargain. High 30-day annualized volatility (38.5%) signals continued uncertainty, and until the stock reclaims its 200-day SMA (still 19% above current price), momentum-driven capital will likely continue rotating out of the name regardless of fundamental quality.",
+  "metrics": {
+    "momentum_63d": -0.1338953358057131,
+    "volatility_ann": 0.38455529316377207,
+    "rsi_14": 46.7507534606303,
+    "profit_margin": 0.2744,
+    "revenue_growth": 0.108,
+    "trailing_pe": 18.996143,
+    "return_on_equity": 0.25246,
+    "beta": 0.775,
+    "market_cap": 28574658560,
+    "analyst_coverage": 15
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "HD",
+  "name": "Home Depot (The)",
+  "sector": "Consumer Discretionary",
+  "sub_industry": "Home Improvement Retail",
+  "tier": "S&P 500",
+  "price": 338.8699951171875,
+  "as_of": "2026-07-19T22:30:30.019179+00:00",
+  "rating": "bearish",
+  "conviction": 0.58,
+  "key_signal": "HD trades below its 200-day moving average with negative earnings growth (-4.3%) despite still-rich valuation (24x trailing, 21x forward PE), signaling the market hasn't fully repriced a deceleration in profitability.",
+  "thesis": "Home Depot remains the dominant home-improvement retailer with strong brand equity, a resilient Pro customer base, and a 2.75% dividend yield, and the stock has already pulled back ~20% from its 52-week high of $426.75, potentially offering a better entry point. Forward PE of 21x versus trailing 24x implies analysts expect an earnings inflection, and revenue growth of 4.8% shows the top line is still expanding even as the housing/renovation cycle has been sluggish.",
+  "bear_case": "Earnings growth is actually negative (-4.3%) even as revenue grows, meaning margins are compressing \u2014 a red flag for a stock still priced at 24x trailing earnings and 24x book value. Technicals confirm the deterioration: price is below both the 200-day SMA (347.7) and has negative 126-day momentum (-8.6%), a negative MACD histogram, and no golden cross, suggesting the medium-term trend is still down despite a recent bounce off the 50-day SMA. With extreme leverage (debt-to-equity of 459%) and elevated 30-day annualized volatility (31%), any further softening in existing home sales or consumer discretionary spending \u2014 which has been the macro backdrop pressuring big-ticket renovation spend \u2014 could pressure both earnings and the multiple simultaneously, and 32 analysts already cover the name so any incremental negative catalyst gets priced quickly.",
+  "metrics": {
+    "momentum_63d": 0.012640482867922964,
+    "volatility_ann": 0.30950054204657834,
+    "rsi_14": 51.07442404183304,
+    "profit_margin": 0.08411,
+    "revenue_growth": 0.048,
+    "trailing_pe": 24.101706,
+    "return_on_equity": 1.2838,
+    "beta": 0.951,
+    "market_cap": 337892933632,
+    "analyst_coverage": 32
+  }
+}

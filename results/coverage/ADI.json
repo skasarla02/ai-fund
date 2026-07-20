@@ -1,0 +1,26 @@
+{
+  "ticker": "ADI",
+  "name": "Analog Devices",
+  "sector": "Information Technology",
+  "sub_industry": "Semiconductors",
+  "tier": "S&P 500",
+  "price": 375.3599853515625,
+  "as_of": "2026-07-19T21:22:31.393884+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "ADI's earnings are reaccelerating hard (revenue growth 37%, earnings growth 110%) even as the stock has pulled back ~16% from its 52-week high and slipped below its 50-day average.",
+  "thesis": "ADI is in the early-mid stage of a cyclical recovery in analog/industrial semis, evidenced by 37.2% revenue growth and 110.5% earnings growth against 64.5% gross margins and 38% operating margins \u2014 a business getting real operating leverage back. The stock remains in a structural uptrend (above the 200dma, golden cross intact, mom_126d +26.7%) and the recent -9.8% one-month pullback and RSI of 41.6 look more like a digestion of a big prior run (from 218 low to 445 high) than a trend reversal. Forward PE of 25 is far more palatable than the trailing 55.9x, implying the market already expects the earnings ramp to continue, and a 30-analyst 'buy' consensus reflects Street conviction in the cycle turn. Low debt/equity (25.8) and consistent FCF generation (~$3.9B) support the balance sheet through this capex-heavy cycle.",
+  "bear_case": "The technical picture is deteriorating in a way that matters: price is below the 50dma by nearly 8%, MACD histogram is solidly negative (-1.41), and 30-day annualized volatility of 51.7% shows the market is genuinely repricing risk, not just noise. A stock trading at 55.9x trailing earnings and 5.4x book with ROE of only 9.6% is priced for a flawless recovery \u2014 any wobble in semis end-demand (auto, industrial) or guidance disappointment could trigger a much larger de-rating given how far multiple compression could go before hitting a 'normal' semiconductor multiple. With 30 analysts already covering the name and a consensus buy rating, there's little informational edge left to exploit, meaning the stock is efficiently priced and downside from a growth deceleration surprise is symmetric or worse given the current momentum breakdown (mom_21d -9.8%, RSI under 50).",
+  "metrics": {
+    "momentum_63d": 0.06384443949128715,
+    "volatility_ann": 0.5171084774522061,
+    "rsi_14": 41.55571284776947,
+    "profit_margin": 0.26007998,
+    "revenue_growth": 0.372,
+    "trailing_pe": 55.857143,
+    "return_on_equity": 0.09639,
+    "beta": 1.188,
+    "market_cap": 182832988160,
+    "analyst_coverage": 30
+  }
+}

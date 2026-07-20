@@ -1,0 +1,26 @@
+{
+  "ticker": "EG",
+  "name": "Everest Group",
+  "sector": "Financials",
+  "sub_industry": "Reinsurance",
+  "tier": "S&P 500",
+  "price": 382.57000732421875,
+  "as_of": "2026-07-19T22:08:49.077843+00:00",
+  "rating": "bullish",
+  "conviction": 0.64,
+  "key_signal": "EG trades at just 6.3x forward earnings and ~1.0x book value while breaking out to near 52-week highs with a golden cross and accelerating momentum (mom_126d +18.8%).",
+  "thesis": "Everest Group combines rare value with strong technical momentum: trailing P/E of 7.8x and forward P/E of 6.3x are well below historical reinsurance multiples, and price-to-book near 1.0x suggests the market isn't yet crediting improved underwriting discipline. Earnings growth of 230%+ (rebound from prior cat-loss years) is driving a 'buy' consensus among all 15 covering analysts, and the stock is confirming this with price action\u2014above both the 50- and 200-day moving averages, a golden cross intact, MACD histogram strongly positive, and 21-day momentum of 13.3%. A low beta (0.29) makes this a defensive compounder that's also re-rating higher, and the 2.09% dividend yield adds a total-return cushion while the market prices in continued hard reinsurance pricing and disciplined capital deployment (13.8% ROE, 20%+ operating margins).",
+  "bear_case": "The rally has pushed RSI to 68.4 and price to within 1% of the 52-week high ($385.69), leaving little room for disappointment after a 13% one-month and 19% six-month run\u2014any soft-market pricing commentary in reinsurance renewals (January 1 treaty season) could trigger a sharp pullback given how extended the technicals are. More fundamentally, revenue growth is already negative (-4.7%), signaling that reinsurance rates may be past peak and premium volumes are softening as capacity returns to the market post-2023/2024 hard market; the eye-popping 230% earnings growth is a low-base comparison against a bad prior year for cat losses, not a repeatable structural improvement, so multiple expansion from here is a bet on a rate cycle that consensus already believes is turning against underwriters.",
+  "metrics": {
+    "momentum_63d": 0.11744465682179817,
+    "volatility_ann": 0.24656300306833046,
+    "rsi_14": 68.4170157089006,
+    "profit_margin": 0.11732,
+    "revenue_growth": -0.047,
+    "trailing_pe": 7.7884774,
+    "return_on_equity": 0.13822,
+    "beta": 0.287,
+    "market_cap": 15138907136,
+    "analyst_coverage": 15
+  }
+}

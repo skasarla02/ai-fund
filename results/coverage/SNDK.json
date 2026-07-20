@@ -1,0 +1,26 @@
+{
+  "ticker": "SNDK",
+  "name": "Sandisk",
+  "sector": "Information Technology",
+  "sub_industry": "Technology Hardware, Storage & Peripherals",
+  "tier": "S&P 500",
+  "price": 1433.3399658203125,
+  "as_of": "2026-07-20T16:04:39.628880+00:00",
+  "rating": "bearish",
+  "conviction": 0.56,
+  "key_signal": "After a 250%+ six-month run to a 52-week high of $2,354, SNDK has broken down technically -26.8% in the last month, now trading below its 50-day SMA with a negative MACD histogram and RSI under 42.",
+  "thesis": "SanDisk is riding an historic NAND flash upcycle where AI-driven memory scarcity has pushed pricing and margins to extraordinary levels (70% operating margin, 56% gross margin, 39% ROE), and the forward P/E of 6.7x versus a trailing 49x implies the Street expects earnings to inflect dramatically higher as pricing gains flow through. The stock remains above its 200-day SMA with an intact golden cross, so the primary uptrend from the spinoff lows is technically undamaged, and a 'buy' consensus from 22 analysts suggests the Street still sees upside once the current air pocket clears.",
+  "bear_case": "The magnitude of the pullback (-26.8% in 21 days, now ~39% off the 52-week high) after a parabolic 250% six-month move is a classic sign that a momentum-driven, commodity-cycle stock has entered a distribution phase \u2014 NAND pricing cycles are notoriously volatile and prone to sharp reversals once hyperscaler buying pauses or supply catches up, and the 146% annualized volatility means this could easily be the start of a much deeper drawdown rather than a pause. With price-to-book at 15.4x and debt/equity at 1.5x against a cyclical, capital-intensive commodity memory business, any disappointment on NAND ASPs or a sequential margin deceleration would crush the 6.7x forward multiple's implied earnings assumption, and the stock trading below its 50-day average with negative MACD momentum signals that near-term sentiment has already begun to price that risk in.",
+  "metrics": {
+    "momentum_63d": 0.5563035223168429,
+    "volatility_ann": 1.4627632912483102,
+    "rsi_14": 41.308847561776574,
+    "profit_margin": 0.34185,
+    "revenue_growth": 2.51,
+    "trailing_pe": 48.98633,
+    "return_on_equity": 0.39297,
+    "beta": null,
+    "market_cap": 212262977536,
+    "analyst_coverage": 22
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "MMM",
+  "name": "3M",
+  "sector": "Industrials",
+  "sub_industry": "Industrial Conglomerates",
+  "tier": "S&P 500",
+  "price": 159.83999633789062,
+  "as_of": "2026-07-19T21:12:56.827617+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "Trailing PE of 30.8x is being priced down to a much cheaper 16.8x forward multiple, implying the market expects a sharp earnings rebound after -39.7% trailing earnings growth, but near-term technicals (negative MACD histogram, no golden cross, 5% negative 126-day momentum) suggest that rebound isn't yet showing up in price action.",
+  "thesis": "3M's forward P/E of ~16.8x versus a 30.8x trailing multiple signals consensus expects a meaningful earnings recovery from the depressed trailing base (earnings growth -39.7% likely reflects litigation charges/one-offs now largely behind the company). Operating margins remain healthy at 23.3%, gross margins near 40%, and free cash flow of $2.3B supports the 1.95% dividend. The stock trades above both its 50-day ($155.08) and 200-day ($157.05) moving averages, and 63-day momentum is a solid +6.7%, showing underlying strength since spring lows. With 17 analysts already covering the name and a 'buy' consensus, the setup favors a name that has de-risked its balance sheet/legal overhang and is being re-rated on a normalized earnings basis.",
+  "bear_case": "The balance sheet carries extreme leverage (debt-to-equity of ~396%), and the eye-popping ROE (71.5%) and price-to-book (25.5x) are artifacts of a thin/negative equity base post-spinoffs and buybacks, not evidence of superior returns on invested capital \u2014 a red flag for a conglomerate with only 1.3% revenue growth. Short-term technicals are deteriorating: MACD histogram is negative (-0.31), 21-day momentum is -1.1%, 126-day momentum is -5.1%, and the lack of a golden cross (50dma just barely above/near 200dma) suggests the recent uptrend has stalled. The stock is already ~10% off its 52-week high of $177.41 despite the 'buy' consensus from 17 analysts, meaning any disappointment on the anticipated earnings recovery (which the cheap forward PE is betting on) could trigger a re-rating back toward trailing-multiple territory, especially given revenue growth is essentially flat and margins offer little room for further expansion.",
+  "metrics": {
+    "momentum_63d": 0.06719788469083299,
+    "volatility_ann": 0.2017145445162413,
+    "rsi_14": 53.29322138754245,
+    "profit_margin": 0.11137,
+    "revenue_growth": 0.013,
+    "trailing_pe": 30.797688,
+    "return_on_equity": 0.71458,
+    "beta": 1.081,
+    "market_cap": 83367313408,
+    "analyst_coverage": 17
+  }
+}

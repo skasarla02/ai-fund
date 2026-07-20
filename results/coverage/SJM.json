@@ -1,0 +1,26 @@
+{
+  "ticker": "SJM",
+  "name": "J.M. Smucker Company (The)",
+  "sector": "Consumer Staples",
+  "sub_industry": "Packaged Foods & Meats",
+  "tier": "S&P 500",
+  "price": 111.87000274658203,
+  "as_of": "2026-07-20T16:07:39.318135+00:00",
+  "rating": "bullish",
+  "conviction": 0.6,
+  "key_signal": "SJM trades at a deeply discounted forward P/E of ~10.4x while sitting above both its 50- and 200-day moving averages (golden cross intact) after a ~18% 3-month rally, signaling the market is starting to look past the Hostess-related impairment charges that dragged trailing profitability negative.",
+  "thesis": "The stock's technicals show a durable uptrend (price $111.87 vs SMA50 $107.77 and SMA200 $102.37, golden cross active) with momentum still positive over 3- and 6-month windows (mom_63d +18.4%, mom_126d +9.0%) even as it pulled back modestly over the last month. Fundamentally, SJM screens cheap on a forward basis (forward PE 10.45, P/B 2.15) despite the trailing net margin (-1.5%) and ROE (-2.4%) being distorted by non-cash impairments tied to the Hostess Brands acquisition rather than a deterioration in the core coffee/pet food/snacking franchise, evidenced by still-healthy gross margins (34.3%) and operating margins (18.5%). Revenue growth of 5.8% and consensus 'buy' rating from all 16 covering analysts support a base case that earnings normalize as one-time charges roll off, while the 3.93% dividend yield offers a floor of total return support in a low-beta (0.247) defensive name that should hold up if broader market volatility rises.",
+  "bear_case": "The negative GAAP profit margin and negative ROE are not merely optics \u2014 debt-to-equity of 128.6% means the balance sheet is stretched, likely from debt-funded M&A (Hostess), and if further impairments or integration costs recur, the deleveraging story could stall, capping the re-rating that bulls expect from the low forward multiple. The MACD histogram is meaningfully negative (-0.49) and 21-day momentum has turned slightly negative (-0.96%) even as the stock sits near its 52-week high ($119.39), suggesting the sharp 3-month rally may be running out of steam right as the stock approaches resistance; a packaged-foods name with 45% annualized 30-day volatility is unusually turbulent for a 'defensive' staple, implying the market still prices meaningful uncertainty around the turnaround narrative rather than confidence in it.",
+  "metrics": {
+    "momentum_63d": 0.18441618551271577,
+    "volatility_ann": 0.4499778753417215,
+    "rsi_14": 52.2606548288553,
+    "profit_margin": -0.015319999,
+    "revenue_growth": 0.058,
+    "trailing_pe": null,
+    "return_on_equity": -0.02386,
+    "beta": 0.247,
+    "market_cap": 11956743168,
+    "analyst_coverage": 16
+  }
+}

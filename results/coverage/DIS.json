@@ -1,0 +1,26 @@
+{
+  "ticker": "DIS",
+  "name": "Walt Disney Company (The)",
+  "sector": "Communication Services",
+  "sub_industry": "Movies & Entertainment",
+  "tier": "S&P 500",
+  "price": 97.66999816894531,
+  "as_of": "2026-07-19T21:04:59.509415+00:00",
+  "rating": "bearish",
+  "conviction": 0.374,
+  "key_signal": "63d momentum -5.3%, margin 11.5%, 30 analysts covering it.",
+  "thesis": "[mock] Trades below its 200-day average with -5.3% momentum; profit margin 11.5% \u2014 30 analysts covering it.",
+  "bear_case": "[mock] Valuation at 15.6x trailing earnings leaves little room for a growth miss.",
+  "metrics": {
+    "momentum_63d": -0.05275851169057033,
+    "volatility_ann": 0.2512290402239986,
+    "rsi_14": 47.9341679136548,
+    "profit_margin": 0.1154,
+    "revenue_growth": 0.065,
+    "trailing_pe": 15.6272,
+    "return_on_equity": 0.1101,
+    "beta": 1.398,
+    "market_cap": 169605070848,
+    "analyst_coverage": 30
+  }
+}

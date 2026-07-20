@@ -1,0 +1,26 @@
+{
+  "ticker": "IBKR",
+  "name": "Interactive Brokers",
+  "sector": "Financials",
+  "sub_industry": "Investment Banking & Brokerage",
+  "tier": "S&P 500",
+  "price": 90.52999877929688,
+  "as_of": "2026-07-19T22:35:50.310494+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "IBKR trades 7.5% below its 52-week high with negative 21-day momentum and a negative MACD histogram, even though it remains above both its 50- and 200-day moving averages in a long-term uptrend.",
+  "thesis": "IBKR's fundamentals remain exceptional for a broker: 16.8% revenue growth, 22.9% earnings growth, 76.8% operating margins, and 23.6% ROE, reflecting its scale advantages in low-cost multi-asset brokerage and rising net interest income. The stock is still above its 200-day SMA with an active golden cross, and 126-day momentum of +27% shows the underlying trend is intact after a powerful multi-quarter rally from the 52-week low of $58.95. A 'buy' consensus from 12 analysts and continued client account/margin balance growth support a constructive medium-term view once the current consolidation resolves.",
+  "bear_case": "The stock is priced for perfection at 38.9x trailing earnings and 7.2x book value\u2014rich multiples for a brokerage business with beta of 1.33\u2014leaving little room for error if trading volumes or net interest income normalize. Short-term technicals are deteriorating: 21-day momentum is negative (-2.8%), RSI at 47.6 shows fading strength, and MACD histogram is meaningfully negative, all consistent with a stock rolling over after an extended run rather than digesting gains before another leg up. With realized volatility already elevated at 42% annualized, a valuation-driven correction toward the 50-day SMA (~$89) or lower is a live risk over the next quarter, especially if rate cuts compress the interest income that has been a key earnings driver.",
+  "metrics": {
+    "momentum_63d": 0.14161878712911058,
+    "volatility_ann": 0.4239776248748338,
+    "rsi_14": 47.571833315979625,
+    "profit_margin": 0.16106,
+    "revenue_growth": 0.168,
+    "trailing_pe": 38.854076,
+    "return_on_equity": 0.2356,
+    "beta": 1.329,
+    "market_cap": 153558990848,
+    "analyst_coverage": 12
+  }
+}

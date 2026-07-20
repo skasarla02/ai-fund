@@ -1,0 +1,26 @@
+{
+  "ticker": "SPG",
+  "name": "Simon Property Group",
+  "sector": "Real Estate",
+  "sub_industry": "Retail REITs",
+  "tier": "S&P 500",
+  "price": 228.0749969482422,
+  "as_of": "2026-07-20T16:07:05.919037+00:00",
+  "rating": "bullish",
+  "conviction": 0.6,
+  "key_signal": "SPG is trading just 1.5% below its 52-week high with a golden cross and price 19% above its 200-day moving average, confirming a durable uptrend in a retail REIT sector many wrote off two years ago.",
+  "thesis": "SPG's price action shows a textbook institutional accumulation pattern: above both the 50- and 200-day moving averages, a confirmed golden cross, and 27.9% six-month momentum, all while trading near its 52-week high of $231.53. Fundamentally, the mall operator is firing on all cylinders \u2014 19.3% revenue growth, 16.4% earnings growth, 81.6% gross margins and 43.4% operating margins reflect pricing power and occupancy strength post-pandemic. A 3.85% dividend yield paid by a well-covered, well-capitalized landlord gives income investors a reason to hold through volatility, and the trailing P/E of 15.8x looks reasonable versus REIT peers even as the market prices in growth via a higher forward multiple.",
+  "bear_case": "The valuation math is flashing a warning: forward P/E of 33.8x versus trailing P/E of 15.8x implies the market expects a meaningful step-down in normalized earnings or that trailing figures were inflated by gains on asset sales/JV income, not sustainable core FFO growth \u2014 a red flag for a REIT trading near all-time highs. Layer on debt-to-equity of 457% (extremely high leverage even for a REIT) and a beta of 1.33, and SPG is acutely exposed if long-term rates stay elevated or retail traffic softens; the MACD histogram is already negative even as price sits near the 52-week high, a classic momentum-divergence signal that often precedes a pullback. With 19 analysts already covering the name, any disappointment on the earnings-normalization story could trigger a fast multiple compression from these stretched levels.",
+  "metrics": {
+    "momentum_63d": 0.11805834500601464,
+    "volatility_ann": 0.24202950987440722,
+    "rsi_14": 64.00288023654723,
+    "profit_margin": 0.70594,
+    "revenue_growth": 0.193,
+    "trailing_pe": 15.849547,
+    "return_on_equity": 1.1359,
+    "beta": 1.327,
+    "market_cap": null,
+    "analyst_coverage": 19
+  }
+}

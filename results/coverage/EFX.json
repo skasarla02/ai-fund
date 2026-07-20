@@ -1,0 +1,26 @@
+{
+  "ticker": "EFX",
+  "name": "Equifax",
+  "sector": "Industrials",
+  "sub_industry": "Research & Consulting Services",
+  "tier": "S&P 500",
+  "price": 177.0800018310547,
+  "as_of": "2026-07-19T22:07:16.409217+00:00",
+  "rating": "bullish",
+  "conviction": 0.6,
+  "key_signal": "EFX has rebounded 5.95% over the last month with MACD turning strongly positive off a 35% drawdown from its 52-week high, while forward P/E (17.2x) sits far below trailing P/E (31.2x) on expected 34% earnings growth.",
+  "thesis": "Equifax's stock has been cut nearly in half from its $271.84 high to $177, driven by mortgage/hiring-market headwinds pressuring its USIS and Workforce Solutions segments, but the technical picture is now inflecting: price is back above the 50-day SMA ($165.43), RSI at 59.6 shows building momentum without being overbought, and MACD histogram (+1.65) confirms a fresh bullish crossover with 21-day momentum at +5.95%. Fundamentally, the valuation reset is stark \u2014 forward P/E of 17.2x versus trailing 31.2x reflects consensus expectations for a sharp earnings recovery (34% earnings growth, 14.3% revenue growth), and margins remain structurally strong (56% gross, 17.4% operating). With 21 analysts already carrying a 'buy' consensus and the stock still 35% off highs, this looks like a quality compounder (mortgage/data-analytics moat, recurring revenue model) bottoming out and beginning a technical and fundamental re-rating as growth reaccelerates.",
+  "bear_case": "The stock remains below its 200-day SMA ($194.04) and the 126-day momentum is still deeply negative (-18.9%), meaning the broader trend over the past two quarters is still bearish and this could be a dead-cat bounce within a larger downtrend \u2014 golden_cross is 0 and above_200dma is 0, both classic markers of an unconfirmed reversal. Balance sheet leverage is elevated with debt-to-equity at 113%, which is a real risk if the anticipated earnings growth doesn't materialize (e.g., if mortgage origination volumes and hiring stay weak, which directly hit Equifax's core segments). Trailing P/E of 31x and price-to-book of 4.65x still price in a lot of the forward earnings growth priced into the 17.2x forward multiple, so any disappointment in the 34% earnings growth assumption would leave the stock vulnerable to a sharp re-rating lower, especially given its high beta of 1.32 amplifies any macro-driven equity selloff or disappointing guidance.",
+  "metrics": {
+    "momentum_63d": -0.06665572347096715,
+    "volatility_ann": 0.46476380672638756,
+    "rsi_14": 59.57908545651917,
+    "profit_margin": 0.11123,
+    "revenue_growth": 0.143,
+    "trailing_pe": 31.176058,
+    "return_on_equity": 0.1437,
+    "beta": 1.316,
+    "market_cap": 21361975296,
+    "analyst_coverage": 21
+  }
+}

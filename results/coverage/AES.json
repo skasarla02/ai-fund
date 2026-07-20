@@ -1,0 +1,26 @@
+{
+  "ticker": "AES",
+  "name": "AES Corporation",
+  "sector": "Utilities",
+  "sub_industry": "Independent Power Producers & Energy Traders",
+  "tier": "S&P 500",
+  "price": 14.770000457763672,
+  "as_of": "2026-07-19T21:14:56.560891+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "AES trades at just 6.2x forward earnings with a 4.8% dividend yield while trending above both its 50- and 200-day moving averages (golden cross intact), suggesting the market hasn't caught up to the technical turn despite thin 8-analyst coverage.",
+  "thesis": "AES's price action has quietly turned constructive \u2014 it's above both the 50-day ($14.63) and 200-day ($14.29) SMAs with a golden cross, positive MACD histogram, and 8% momentum over 126 days, yet the stock still sits ~16% below its 52-week high of $17.65. Valuation is depressed relative to peers (7.7x trailing, 6.2x forward P/E, 2.4x book) for a company growing revenue 8.7% with 18.7% operating margins, and the 4.77% dividend yield offers a real income cushion while the renewables/data-center power buildout matures. With only 8 analysts covering it, any re-rating toward fair utility multiples as leverage concerns ease could take longer to be arbitraged away, giving patient investors an edge.",
+  "bear_case": "AES carries dangerously high leverage (debt/equity of ~260%) and negative free cash flow of nearly -$3B, meaning the dividend and growth capex are being funded by continued debt issuance in a higher-for-longer rate environment \u2014 a combination that can unravel quickly if credit spreads widen or a project stumbles. ROE of just 5.3% despite that leverage signals weak underlying profitability relative to risk taken, and the reported 'earningsGrowth' of 9.5x is almost certainly a low-base/one-off distortion rather than a genuine trend, meaning the cheap P/E may be a value trap rather than a mispricing, consistent with the sell-side's cautious 'hold' consensus.",
+  "metrics": {
+    "momentum_63d": 0.03118043054859787,
+    "volatility_ann": 0.040528838936902054,
+    "rsi_14": 60.228751356714575,
+    "profit_margin": 0.10819,
+    "revenue_growth": 0.087,
+    "trailing_pe": 7.692709,
+    "return_on_equity": 0.052600004,
+    "beta": 0.942,
+    "market_cap": 10533339136,
+    "analyst_coverage": 8
+  }
+}

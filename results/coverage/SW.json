@@ -1,0 +1,26 @@
+{
+  "ticker": "SW",
+  "name": "Smurfit Westrock",
+  "sector": "Materials",
+  "sub_industry": "Paper & Plastic Packaging Products & Materials",
+  "tier": "S&P 500",
+  "price": 43.29999923706055,
+  "as_of": "2026-07-20T16:07:58.361435+00:00",
+  "rating": "bullish",
+  "conviction": 0.6,
+  "key_signal": "Forward P/E of ~12.9x vs trailing P/E of 60x signals the market and sell-side (14 analysts, 'strong buy' consensus) expect a sharp earnings recovery as WestRock-Smurfit Kappa merger synergies materialize.",
+  "thesis": "SW trades above both its 50-day ($42.31) and 200-day ($40.51) moving averages with a golden cross intact, reflecting a durable uptrend since the 2024 merger closed, even as the stock sits well off its 52-week high of $52.65, leaving room to re-rate. The trailing PE of 60x and -83.6% earnings growth reflect one-time merger integration costs and restructuring charges, not a structural profitability problem \u2014 forward PE of 12.9x implies the Street expects operating margins (currently 6.8%) to normalize toward historical packaging-sector levels as cost synergies from combining Smurfit Kappa and WestRock flow through. A 4.08% dividend yield provides income support while the market waits, and free cash flow of $1.36B against a $22.7B market cap (~6% FCF yield) suggests the balance sheet can service its debt (D/E 78.8) and fund the payout even during the integration period. Analyst sentiment is uniformly positive ('strong_buy' across all 14 covering analysts), and price-to-book of 1.26x is not demanding for a newly-merged industry leader with scale advantages in containerboard.",
+  "bear_case": "The reported numbers are genuinely weak on a standalone basis: net margin of just 1.2%, ROE of 2.1%, revenue growth essentially flat at 0.7%, and earnings down 83.6% \u2014 this isn't purely accounting noise, it reflects real pricing/volume softness in containerboard and packaging end-markets plus high leverage (D/E 78.8) that amplifies the risk if merger synergies disappoint or take longer than the market prices into that 12.9x forward multiple. Near-term technicals are already flashing caution \u2014 21-day momentum is slightly negative, MACD histogram is negative, and RSI sits at a neutral-to-weak 48, suggesting the golden-cross uptrend is losing steam. Annualized volatility of 49% is elevated for a supposedly defensive packaging name, and if the anticipated earnings recovery is delayed by a soft industrial/consumer demand backdrop, the stock could easily round-trip back toward its 52-week low of $32.73, especially since a 60x trailing PE offers no valuation cushion if forward estimates get cut.",
+  "metrics": {
+    "momentum_63d": 0.03680468064152209,
+    "volatility_ann": 0.48964731741300005,
+    "rsi_14": 47.98459147254324,
+    "profit_margin": 0.01217,
+    "revenue_growth": 0.007,
+    "trailing_pe": 60.138885,
+    "return_on_equity": 0.02113,
+    "beta": 0.935,
+    "market_cap": 22709293056,
+    "analyst_coverage": 14
+  }
+}

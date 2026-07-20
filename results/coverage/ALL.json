@@ -1,0 +1,26 @@
+{
+  "ticker": "ALL",
+  "name": "Allstate",
+  "sector": "Financials",
+  "sub_industry": "Property & Casualty Insurance",
+  "tier": "S&P 500",
+  "price": 249.89999389648438,
+  "as_of": "2026-07-19T21:18:13.558803+00:00",
+  "rating": "bullish",
+  "conviction": 0.63,
+  "key_signal": "ALL trades at a trailing P/E of 5.5x and forward P/E of 9.4x despite ROE of 45% and strong price momentum (up ~29% over 126 days), reflecting a post-catastrophe earnings normalization the market hasn't fully re-rated.",
+  "thesis": "Allstate's fundamentals show a business firing on all cylinders: 45% ROE, 19% operating margins, and earnings growth reported at 338% (off a depressed prior-year base from elevated catastrophe losses), yet the stock still trades at a trailing P/E under 6x and only 9.4x forward earnings \u2014 a steep discount to typical P&C insurer multiples when underwriting is this profitable. Price action confirms the market is beginning to recognize this: shares are up 12% in the last month, 17.5% over three months, and nearly 29% over six months, sit above both the 50-day ($226) and 200-day ($210) moving averages with a golden cross intact, and just posted a 3.3% single-day pop near the 52-week high of $257.67. RSI at 60.6 shows room before overbought territory. Sell-side sentiment is a consensus 'buy' across 22 analysts, and the low beta (0.166) suggests this re-rating has been relatively uncorrelated with broader market swings \u2014 attractive for investors seeking idiosyncratic upside. A 1.73% dividend yield and $12.4B free cash flow provide a cushion while the re-rating plays out.",
+  "bear_case": "The trailing P/E of 5.5x is likely an artifact of a cyclically depressed prior-year comparison (auto/home insurance combined ratios recovering from 2022-2023 catastrophe and inflation shocks), and the much higher forward P/E of 9.4x signals that consensus already expects earnings to normalize downward from this peak \u2014 meaning the 'cheap' valuation is largely a mirage of trailing-twelve-month math rather than a durable mispricing. Revenue growth of just 3% shows the top line isn't expanding meaningfully, so further upside depends entirely on underwriting margin and pricing discipline staying elevated, which is inherently volatile in P&C insurance given catastrophe exposure (hurricanes, wildfires) and reinsurance cost cycles. The negative MACD histogram (-0.86) hints at weakening short-term momentum even as price sits near 52-week highs, and 30-day annualized volatility of 33% is elevated for a supposedly low-beta name, suggesting the market is still pricing meaningful earnings uncertainty. If a large catastrophe quarter hits or claims inflation resurfaces, the stock could reprice sharply lower from a price already up nearly 30% in six months and just 3% off its 52-week high, leaving little margin of safety for disappointment.",
+  "metrics": {
+    "momentum_63d": 0.17462236420936983,
+    "volatility_ann": 0.328945405405865,
+    "rsi_14": 60.64744010255944,
+    "profit_margin": 0.17813,
+    "revenue_growth": 0.03,
+    "trailing_pe": 5.5275383,
+    "return_on_equity": 0.45221,
+    "beta": 0.166,
+    "market_cap": 64329486336,
+    "analyst_coverage": 22
+  }
+}

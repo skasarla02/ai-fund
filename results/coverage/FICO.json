@@ -1,0 +1,26 @@
+{
+  "ticker": "FICO",
+  "name": "Fair Isaac",
+  "sector": "Information Technology",
+  "sub_industry": "Application Software",
+  "tier": "S&P 500",
+  "price": 1257.1099853515625,
+  "as_of": "2026-07-19T22:17:51.717983+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "FICO's price has rebounded sharply off its lows (mom_21d +6%, mom_63d +17.5%) even though it remains below its 200-day average, suggesting a momentum inflection point after a brutal ~37% drawdown from the 52-week high of $1998.",
+  "thesis": "FICO retains best-in-class software economics\u201484% gross margin, 58% operating margin, 38.7% revenue growth and 69% earnings growth\u2014metrics that justify a premium multiple even after the recent de-rating. The stock's forward P/E of 23x is far cheaper than its trailing P/E of 40x, implying the market already expects continued strong earnings growth, and the negative price-to-book (from aggressive buybacks against a small equity base) signals management confidence and capital return discipline. Technically, the stock has clawed back over 44% from its 52-week low of $870, with RSI at a healthy 56 (not overbought) and strong 63-day momentum (+17.5%), suggesting the market is beginning to re-accept the name after the pricing/regulatory overhang that likely drove the 126-day -22% decline. With only 20 analysts covering a $29B software franchise and a consensus 'buy' rating, there's room for re-rating as sentiment stabilizes and fundamentals continue to outperform peers.",
+  "bear_case": "The stock remains below both its 50-day and 200-day moving averages were it not for the recent bounce (golden_cross=0, above_200dma=0), and the deeply negative 126-day momentum (-22%) reflects a real structural concern\u2014likely regulatory/pricing scrutiny on FICO's mortgage credit scoring model that could cap future pricing power, the core driver of its extraordinary margins. A trailing P/E of ~40x and elevated 30-day annualized volatility of 42% leave little room for disappointment, and the negative price-to-book combined with unknown debt-to-equity and ROE data obscures balance sheet risk from the buyback-heavy capital structure. If regulatory or competitive pressure on FICO's scoring monopoly resumes, the recent bounce could easily prove a dead-cat rally within a longer downtrend that took the stock from ~$1998 to under $900.",
+  "metrics": {
+    "momentum_63d": 0.17494595183246942,
+    "volatility_ann": 0.42012362800404884,
+    "rsi_14": 56.21579700169296,
+    "profit_margin": 0.33675,
+    "revenue_growth": 0.387,
+    "trailing_pe": 39.84501,
+    "return_on_equity": null,
+    "beta": 1.29,
+    "market_cap": 29153519616,
+    "analyst_coverage": 20
+  }
+}

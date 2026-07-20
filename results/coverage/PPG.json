@@ -1,0 +1,26 @@
+{
+  "ticker": "PPG",
+  "name": "PPG Industries",
+  "sector": "Materials",
+  "sub_industry": "Specialty Chemicals",
+  "tier": "S&P 500",
+  "price": 115.91500091552734,
+  "as_of": "2026-07-20T15:54:45.114465+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "PPG trades above both its 50- and 200-day moving averages (golden cross intact) yet forward P/E of 13.4x is well below its trailing 16.6x, implying the market is pricing in margin/earnings improvement that the analyst consensus (Buy, 20 analysts) also expects.",
+  "thesis": "PPG's long-term trend remains constructive (price above 50d/200d SMA, golden cross active) even as short-term momentum has cooled (mom_21d -1%, MACD hist negative). Fundamentally, the stock looks statistically cheap relative to its own growth: forward PE of 13.4x vs trailing 16.6x signals expected earnings acceleration, consistent with revenue growth of 6.7% and a strong 20.7% ROE. Operating margins of 13.7% and gross margins near 42% show pricing power typical of a leading specialty chemicals franchise, and the 2.52% dividend yield adds a income cushion while the stock trades ~13% below its 52-week high of $133.43, giving room for mean reversion if cyclical demand (auto OEM, industrial coatings) stabilizes. A 20-analyst Buy consensus with mostly favorable coverage supports the case that current weakness is a pause within an uptrend rather than a trend reversal.",
+  "bear_case": "The near-term technical picture is deteriorating \u2014 momentum over 21 days is negative, RSI sits at a listless 47.6, and MACD histogram is meaningfully negative (-0.71), suggesting the golden cross is lagging a shift in trend rather than confirming strength, and volatility is elevated at 34% annualized. More importantly, free cash flow of just $729M against ~$16.1B revenue and roughly $1.6B net income (9.8% margin) implies weak cash conversion, which is concerning given debt-to-equity of nearly 94% \u2014 a highly levered balance sheet in a business showing only 4.2% earnings growth despite 6.7% revenue growth, meaning margins are compressing even as sales grow. If input costs stay elevated or auto/construction demand softens further, the combination of high leverage and soft FCF could force PPG to prioritize debt service over the dividend or buybacks, undermining the 'cheap forward multiple' thesis and pushing shares back toward the 52-week low of $93.39.",
+  "metrics": {
+    "momentum_63d": 0.015853187483455766,
+    "volatility_ann": 0.34047677506744584,
+    "rsi_14": 47.64235002828757,
+    "profit_margin": 0.09832,
+    "revenue_growth": 0.067,
+    "trailing_pe": 16.6053,
+    "return_on_equity": 0.20748,
+    "beta": 1.045,
+    "market_cap": null,
+    "analyst_coverage": 20
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "CAH",
+  "name": "Cardinal Health",
+  "sector": "Health Care",
+  "sub_industry": "Health Care Distributors",
+  "tier": "S&P 500",
+  "price": 228.52000427246094,
+  "as_of": "2026-07-19T21:38:51.808757+00:00",
+  "rating": "bullish",
+  "conviction": 0.6,
+  "key_signal": "CAH trades in a confirmed uptrend (golden cross, price 12% above the 200-day SMA) yet forward P/E of ~19 is nearly half trailing P/E of ~35, implying the Street expects a sharp earnings rebound after this year's -19.5% earnings growth dip.",
+  "thesis": "Cardinal Health remains in a durable technical uptrend (above both 50- and 200-day moving averages, golden cross intact, momentum positive over 63/126 days) while trading ~6% off its 52-week high, giving room to re-test highs. Revenue growth of 11% shows the distribution business is scaling, and the collapse in forward P/E to ~19 from a trailing 34.8 signals consensus (strong buy from all 15 covering analysts) expects a meaningful earnings recovery, likely driven by specialty pharma and GMPD segment normalization. Low beta (0.49) and a low-margin but high-volume distribution model provide defensive ballast in a volatile macro tape, and free cash flow of ~$4.85B gives support for the dividend and continued buybacks that likely explain the negative book value.",
+  "bear_case": "The negative price-to-book (-18.96) is a red flag for balance sheet quality \u2014 it implies either aggressive buybacks funded by debt or accumulated losses have pushed equity negative, and with debt-to-equity and ROE both undisclosed, investors are flying blind on leverage risk in a business with razor-thin 1.4% operating margins where any disruption (e.g., renewed opioid litigation, reimbursement pressure, or a large customer loss) could swing profitability sharply. The reported -19.5% earnings growth is not a one-off footnote but the headline number, and the recent negative MACD histogram alongside flat 21-day momentum (0.57%) suggests the stock's strong multi-month run (7.5% over 63 and 126 days) is losing steam right at a valuation (34.8x trailing) that is rich for a distributor, leaving little margin for error if the anticipated earnings rebound disappoints.",
+  "metrics": {
+    "momentum_63d": 0.07469473219509437,
+    "volatility_ann": 0.24126500828568914,
+    "rsi_14": 52.09298788135795,
+    "profit_margin": 0.0062,
+    "revenue_growth": 0.11,
+    "trailing_pe": 34.835365,
+    "return_on_equity": null,
+    "beta": 0.493,
+    "market_cap": 53520723968,
+    "analyst_coverage": 15
+  }
+}

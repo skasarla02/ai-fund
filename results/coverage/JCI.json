@@ -1,0 +1,26 @@
+{
+  "ticker": "JCI",
+  "name": "Johnson Controls",
+  "sector": "Industrials",
+  "sub_industry": "Building Products",
+  "tier": "S&P 500",
+  "price": 140.4600067138672,
+  "as_of": "2026-07-19T22:40:23.908641+00:00",
+  "rating": "bullish",
+  "conviction": 0.6,
+  "key_signal": "JCI trades just below its 50-day SMA after a sharp -3.2% one-month pullback, but remains firmly above its rising 200-day SMA (+9%) with a golden cross intact, suggesting a pause within a strong uptrend rather than a trend reversal.",
+  "thesis": "JCI has delivered a 26% run over the past six months and sits comfortably above both moving averages with a confirmed golden cross, reflecting the market's re-rating of the company around data-center and building-electrification driven HVAC demand. Earnings growth of 38.9% far outpaces revenue growth of 8.2%, indicating margin expansion and operating leverage are flowing through (operating margin 14%, gross margin 36.6%), which supports the premium forward multiple of 24.4x versus the trailing 43x \u2014 a meaningful compression that signals the market expects continued earnings acceleration. With 19 analysts covering the name and a consensus 'buy' rating, this is a well-followed large-cap where fundamentals (ROE 13.4%, FCF ~$2.9B) still justify holding through the recent 3-week dip, which looks more like digestion after touching within 7% of the 52-week high than a fundamental breakdown.",
+  "bear_case": "The stock is expensive on every conventional metric \u2014 43x trailing earnings, 6.3x book value \u2014 leaving little room for error, and the recent price action (price now below the 50-day SMA, negative MACD histogram, RSI at a neutral-to-weak 46.8) suggests momentum is actually rolling over just as valuation is most stretched. High beta (1.32) and elevated 30-day annualized volatility (37%) mean any disappointment on the upcoming quarter, especially if the 38.9% earnings growth proves partly comp-driven or non-recurring (e.g., divestiture-related), could trigger an outsized drawdown from these levels. Debt-to-equity of 70% also leaves less flexibility if higher-for-longer rates pressure the building products capex cycle that has been the core bull narrative.",
+  "metrics": {
+    "momentum_63d": 0.02398159562570168,
+    "volatility_ann": 0.3673711498266723,
+    "rsi_14": 46.820059670858804,
+    "profit_margin": 0.14452,
+    "revenue_growth": 0.082,
+    "trailing_pe": 42.954132,
+    "return_on_equity": 0.13449,
+    "beta": 1.319,
+    "market_cap": 85696839680,
+    "analyst_coverage": 19
+  }
+}

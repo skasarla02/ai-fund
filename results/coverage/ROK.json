@@ -1,0 +1,26 @@
+{
+  "ticker": "ROK",
+  "name": "Rockwell Automation",
+  "sector": "Industrials",
+  "sub_industry": "Electrical Components & Equipment",
+  "tier": "S&P 500",
+  "price": 462.1700134277344,
+  "as_of": "2026-07-20T16:02:22.881554+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "ROK trades near its 50-day SMA with a negative MACD histogram despite being well above its 200-day SMA, signaling stalling short-term momentum after a strong multi-month run (63d mom +11.5%) even as the stock sits at a rich 47.9x trailing / 31.6x forward P/E.",
+  "thesis": "Rockwell's fundamentals justify sustained strength: 39.6% earnings growth outpacing 11.9% revenue growth points to real margin expansion (operating margin already 20.7%, gross margin 48.9%), ROE of 27% is elite for an industrial, and the stock remains in a confirmed uptrend with a golden cross and price above both the 50- and 200-day moving averages (460 and 404 respectively). Automation capex tied to reshoring, data center buildout, and factory modernization gives ROK multi-year tailwinds, and 25 analysts still rate it a 'buy,' suggesting sell-side conviction in the growth trajectory even after the run from the 305 52-week low.",
+  "bear_case": "The stock is priced for perfection at nearly 48x trailing earnings and 14.6x book value, leaving no room for disappointment, and the recent price action\u2014flat 21-day momentum (+0.76%) alongside a deeply negative MACD histogram (-2.49) while sitting 7% below the 497 52-week high\u2014looks like a stalling rally rather than fresh strength. With debt/equity at 113%, a beta of 1.54, and 37% annualized volatility, ROK is highly levered to both the balance sheet and the macro cycle; any softening in industrial capex or a delayed automation upcycle could trigger disproportionate multiple compression given how much good news is already priced in, and heavy analyst coverage (25 names) means there's little informational edge to exploit before consensus re-rates the stock lower.",
+  "metrics": {
+    "momentum_63d": 0.11513652378621009,
+    "volatility_ann": 0.3730663912186327,
+    "rsi_14": 48.57966422117305,
+    "profit_margin": 0.12358,
+    "revenue_growth": 0.119,
+    "trailing_pe": 47.904663,
+    "return_on_equity": 0.27183,
+    "beta": 1.54,
+    "market_cap": 51439722496,
+    "analyst_coverage": 25
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "D",
+  "name": "Dominion Energy",
+  "sector": "Utilities",
+  "sub_industry": "Multi-Utilities",
+  "tier": "S&P 500",
+  "price": 71.04000091552734,
+  "as_of": "2026-07-19T22:01:23.687298+00:00",
+  "rating": "neutral",
+  "conviction": 0.56,
+  "key_signal": "Dominion trades just 2% below its 52-week high on a golden-cross uptrend, but trailing earnings growth is actually negative (-10.2%) and free cash flow remains deeply negative (-$9.9B) even as leverage stays elevated (D/E ~155%).",
+  "thesis": "Dominion has been re-rated by the market as a prime beneficiary of Virginia's data-center power demand boom, evidenced by price momentum (+20% over 6 months, +15% over 3 months) and a clean technical setup \u2014 above both the 50- and 200-day moving averages with a golden cross and MACD confirming the uptrend. Revenue growth of 23% shows the top-line is already responding to load growth, and a low beta (0.64) with a 3.76% dividend yield makes this an attractive holding for income/defensive rotation as rates stabilize. Forward PE of 18.6x is not excessive for a regulated utility with a structural demand tailwind that most peers lack.",
+  "bear_case": "The fundamentals underneath the rally are shakier than the chart suggests: earnings growth is negative (-10.2%), ROE is a mediocre 9.8%, free cash flow is deeply negative at nearly $10B (reflecting the massive capex needed to serve data-center load, which brings execution and regulatory-lag risk), and debt-to-equity is elevated at 155% \u2014 all while the stock sits within 3% of its 52-week high and 12 covering analysts collectively rate it just 'hold.' With RSI at 62 and price already extended well above both moving averages, much of the data-center optionism appears priced in, leaving the stock vulnerable to any capex overrun, rate-case disappointment, or pause in the AI/data-center capex narrative that has driven utility re-ratings sector-wide.\n",
+  "metrics": {
+    "momentum_63d": 0.14838892208920385,
+    "volatility_ann": 0.16163821406308307,
+    "rsi_14": 62.34392000234182,
+    "profit_margin": 0.16929,
+    "revenue_growth": 0.231,
+    "trailing_pe": 20.955751,
+    "return_on_equity": 0.09787,
+    "beta": 0.636,
+    "market_cap": 62480568320,
+    "analyst_coverage": 12
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "EOG",
+  "name": "EOG Resources",
+  "sector": "Energy",
+  "sub_industry": "Oil & Gas Exploration & Production",
+  "tier": "S&P 500",
+  "price": 139.88999938964844,
+  "as_of": "2026-07-19T22:06:34.476055+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "Strong uptrend (126d momentum +29.5%, above both 50/200 DMA with golden cross) paired with a cheap forward multiple (9.6x) and 39.6% earnings growth suggests the market hasn't fully priced EOG's improving profile.",
+  "thesis": "EOG combines low leverage (debt/equity 26.9%), high profitability (37.9% operating margin, 18.2% ROE), and robust FCF generation with a trailing PE of 13.8x and forward PE of just 9.6x, indicating the stock is inexpensive relative to its earnings growth trajectory (+39.6% earnings growth, +15.6% revenue growth). Technicals confirm the fundamental strength: price is above both the 50-day ($134.79) and 200-day ($120.35) moving averages, a golden cross is in place, momentum over 126 days is strong (+29.5%), and MACD histogram is solidly positive (0.99), all suggesting institutional accumulation. RSI at 59.7 shows room to run before overbought conditions. A 2.92% dividend yield adds downside cushion and total-return support, while low beta (0.261) suggests less sensitivity to broad market swings, appealing to investors seeking energy exposure with defensive characteristics. With 27 analysts already covering the name at a 'buy' consensus, the setup reflects a well-covered but still undervalued quality operator riding a favorable commodity and momentum backdrop.",
+  "bear_case": "EOG's 30-day annualized volatility of 31% flags that this is still a commodity-price-driven equity, and the entire bull case rests on continued strength in oil/gas prices that could reverse sharply given global supply dynamics (OPEC+ decisions, US shale output growth) independent of company execution; the stock is already up significantly (126-day momentum +29.5%) and sits only ~8% below its 52-week high ($151.87), meaning much of the re-rating may already be priced in, and any pullback in crude prices or a growth deceleration from the current 39.6% earnings growth pace (which is likely unsustainable at this magnitude) could trigger multiple compression back toward historical E&P averages, especially since 27 analysts already cover the stock, limiting the informational edge available to any investor at this point.",
+  "metrics": {
+    "momentum_63d": 0.05115376801085669,
+    "volatility_ann": 0.3096624263799639,
+    "rsi_14": 59.65900221915813,
+    "profit_margin": 0.23322001,
+    "revenue_growth": 0.156,
+    "trailing_pe": 13.755162,
+    "return_on_equity": 0.18195,
+    "beta": 0.261,
+    "market_cap": 74509410304,
+    "analyst_coverage": 27
+  }
+}

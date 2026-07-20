@@ -1,0 +1,26 @@
+{
+  "ticker": "BALL",
+  "name": "Ball Corporation",
+  "sector": "Materials",
+  "sub_industry": "Metal, Glass & Plastic Containers",
+  "tier": "S&P 500",
+  "price": 62.709999084472656,
+  "as_of": "2026-07-19T21:31:11.681098+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "BALL trades above both its 50- and 200-day moving averages with a golden cross intact and forward P/E of just 13.9x despite 16%+ revenue growth and 22% earnings growth guidance.",
+  "thesis": "Ball's technical picture is constructive: price is above the 50-day ($58.03) and 200-day ($56.19) SMAs, a golden cross is in place, and 126-day momentum is up nearly 13%, all while the stock still sits ~8% below its 52-week high, leaving room to run without being overbought (RSI 61, not extreme). Fundamentally, the valuation gap between trailing (18.3x) and forward (13.9x) P/E signals the market expects a meaningful earnings step-up, consistent with the reported 16.3% revenue growth and 21.9% earnings growth. ROE of 16.8% and operating margins near 9.4% show the aluminum can/packaging franchise is monetizing well, and a low beta of 0.99 with 1.28% dividend yield makes this a relatively defensive way to play a cyclical recovery in beverage packaging volumes. With only 14 analysts covering a $16.7B market-cap S&P 500 name, there's room for the re-rating toward a mid-teens forward multiple to still surprise consensus if earnings momentum continues.",
+  "bear_case": "The balance sheet and cash generation numbers are the crack in this story: debt-to-equity of 145.5% is elevated for a low-margin commodity packager, and free cash flow of just $403.5M against $13.7B of revenue and a $16.7B market cap implies a FCF yield of only ~2.4%, well below what the growth narrative would suggest \u2014 meaning any capex overrun, aluminum cost inflation, or working-capital drag could quickly strain leverage capacity. Momentum is also already decelerating under the surface: 63-day momentum is slightly negative (-0.7%) and MACD histogram is negative, hinting the recent 21-day pop (+7.8%) may be losing steam rather than accelerating, which is exactly the kind of setup that reverses sharply if Q3/Q4 volume growth in North American/European can shipments disappoints against a market already pricing in a forward re-rating to 13.9x.",
+  "metrics": {
+    "momentum_63d": -0.00678152456125336,
+    "volatility_ann": 0.2559175042330175,
+    "rsi_14": 61.03826927325232,
+    "profit_margin": 0.06863,
+    "revenue_growth": 0.163,
+    "trailing_pe": 18.282799,
+    "return_on_equity": 0.16785999,
+    "beta": 0.986,
+    "market_cap": 16696318976,
+    "analyst_coverage": 14
+  }
+}

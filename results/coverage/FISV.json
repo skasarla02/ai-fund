@@ -1,0 +1,26 @@
+{
+  "ticker": "FISV",
+  "name": "Fiserv",
+  "sector": "Financials",
+  "sub_industry": "Transaction & Payment Processing Services",
+  "tier": "S&P 500",
+  "price": 50.630001068115234,
+  "as_of": "2026-07-19T22:19:57.835095+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "Shares have crashed roughly 70% from the 52-week high (167 to 50) with trailing/forward P/E now at 8.6x/5.7x, yet price action is just starting to stabilize (positive MACD histogram, 21d momentum +1.6%) while still trading below both the 50- and 200-day moving averages.",
+  "thesis": "After a brutal multi-quarter decline (-19% over 63 days, -25% over 126 days) that has pushed Fiserv to trade near book value (P/B ~1.03) and at a forward P/E of just 5.7x \u2014 a massive discount to typical payments-processor multiples of 15-20x \u2014 the stock appears to have priced in significant guidance disappointment already. The recent flattening of RSI near 48 and a turning-positive MACD histogram suggest selling pressure may be exhausting itself near the 52-week low of $47, and any stabilization in Clover/merchant-acquiring growth commentary could trigger a sharp re-rating given how cheap the multiple already is.",
+  "bear_case": "The stock is below both its 50-day ($52.76) and 200-day ($67.03) moving averages with no golden cross, and a decline of this magnitude (down two-thirds from highs) over multiple quarters typically reflects a structural deterioration \u2014 likely tied to repeated guidance cuts and slowing Clover/organic growth \u2014 rather than a temporary dislocation, meaning the low multiple could be a value trap; with fundamentals like margins, revenue growth, and debt/equity all undisclosed here, there's no visible evidence of a turnaround, and 27 analysts still rate it just 'hold,' implying the sell-side sees no near-term catalyst to reverse the trend.",
+  "metrics": {
+    "momentum_63d": -0.1891415409727759,
+    "volatility_ann": 0.49356181860093384,
+    "rsi_14": 47.873029706729405,
+    "profit_margin": null,
+    "revenue_growth": null,
+    "trailing_pe": 8.581356,
+    "return_on_equity": null,
+    "beta": null,
+    "market_cap": 26998648832,
+    "analyst_coverage": 27
+  }
+}

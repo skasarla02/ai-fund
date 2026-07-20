@@ -1,0 +1,26 @@
+{
+  "ticker": "HSIC",
+  "name": "Henry Schein",
+  "sector": "Health Care",
+  "sub_industry": "Health Care Distributors",
+  "tier": "S&P 500",
+  "price": 87.81999969482422,
+  "as_of": "2026-07-19T22:29:22.747546+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "HSIC is trading near its 52-week high with a golden cross and RSI at 67, confirming a strong multi-month uptrend (mom_126d +15%) backed by a cheap forward P/E of 14.9x versus trailing 26.5x.",
+  "thesis": "Henry Schein has broken decisively above both its 50-day (78.97) and 200-day (75.26) moving averages, with a golden cross intact and positive MACD histogram confirming sustained institutional buying. The stock is up over 15% in the last six months and sits just below its 52-week high of $89.34, yet the forward P/E of 14.9x is roughly half the trailing P/E of 26.5x, implying the market expects meaningful earnings recovery/growth even as revenue grows a steady 6.3%. Low beta (0.81) and 'buy' consensus from 16 analysts suggest this is viewed as a defensive healthcare compounder with room to re-rate as margins normalize, and the technical setup (above both SMAs, positive momentum across 21/63/126-day windows) supports continuation into the next quarter.",
+  "bear_case": "The rally has pushed RSI to 67, near overbought territory, right as the stock sits within 2% of its 52-week high, leaving little margin for disappointment; more importantly, the fundamentals are underwhelming for a stock re-rating this fast \u2014 net profit margin is a razor-thin 2.95%, operating margin only 5.85%, ROE is a mediocre 8.76%, and debt-to-equity is elevated at 77.7%, meaning any softness in distribution volumes or gross margin (already thin at 31.2%) could disproportionately hit the bottom line. Earnings growth of just 4.5% versus the stock's 15%+ price appreciation over six months suggests the technical move has outrun the fundamental improvement, and a reversion toward the 50-day MA (a ~10% pullback) would be a normal correction after such an extended run, especially with 16 analysts already covering the name limiting the duration of any mispricing.",
+  "metrics": {
+    "momentum_63d": 0.13741744250953225,
+    "volatility_ann": 0.2374723584230637,
+    "rsi_14": 67.13568757358857,
+    "profit_margin": 0.029509999,
+    "revenue_growth": 0.063,
+    "trailing_pe": 26.531723,
+    "return_on_equity": 0.08762,
+    "beta": 0.806,
+    "market_cap": 10004169728,
+    "analyst_coverage": 16
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "PEG",
+  "name": "Public Service Enterprise Group",
+  "sector": "Utilities",
+  "sub_industry": "Electric Utilities",
+  "tier": "S&P 500",
+  "price": 77.80999755859375,
+  "as_of": "2026-07-20T15:56:45.483127+00:00",
+  "rating": "bearish",
+  "conviction": 0.56,
+  "key_signal": "PEG has broken below both its 50- and 200-day moving averages with negative MACD momentum and sits just $1.76 above its 52-week low despite reporting 19.4% revenue growth and 25.4% earnings growth.",
+  "thesis": "If you believe this is a straightforward mean-reversion setup, PEG's low beta (0.527), 3.4% dividend yield, and reasonable 17.2x trailing P/E make it a defensive value trade near a well-defined technical floor (76.05 52-week low) \u2014 a bounce off support with the data-center demand tailwind (25% earnings growth) driving multiple expansion is plausible.",
+  "bear_case": "The technical picture is genuinely deteriorating, not just noisy: price is below both moving averages, momentum is negative across 21d/63d/126d windows, RSI at 38.7 shows room to fall further before technically oversold, and MACD histogram is accelerating downward \u2014 this looks like a stock being re-rated lower by the market, likely due to rate-sensitivity (utilities as bond proxies) combined with a negative free cash flow of -$172M signaling heavy, dilutive capex spend that isn't yet being offset by regulated returns; with debt-to-equity at 141% and no clear technical reversal signal (no golden cross), the safer read is that this downtrend has further to run before valuation support outweighs momentum, especially with 19 analysts already pricing in most of the known growth catalysts.,",
+  "metrics": {
+    "momentum_63d": -0.03792071050415735,
+    "volatility_ann": 0.18475715551135516,
+    "rsi_14": 38.69315079640742,
+    "profit_margin": 0.17688,
+    "revenue_growth": 0.194,
+    "trailing_pe": 17.214602,
+    "return_on_equity": 0.13441,
+    "beta": 0.527,
+    "market_cap": 38774386688,
+    "analyst_coverage": 19
+  }
+}

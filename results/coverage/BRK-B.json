@@ -1,0 +1,26 @@
+{
+  "ticker": "BRK-B",
+  "name": "Berkshire Hathaway",
+  "sector": "Financials",
+  "sub_industry": "Multi-Sector Holdings",
+  "tier": "S&P 500",
+  "price": 490.9100036621094,
+  "as_of": "2026-07-19T21:32:24.366509+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "Price is pinned almost exactly between the 50-day ($487.6) and 200-day ($490.3) moving averages with negative MACD momentum, reflecting a stock that's basically rangebound after pulling back ~5% from its 52-week high of $516.85.",
+  "thesis": "Berkshire remains a fortress balance sheet trading at a still-reasonable trailing P/E of 14.6x with a low beta (0.61) that makes it a defensive holding in choppy markets, backed by $61B in free cash flow and diversified operating businesses growing revenue ~4.4%. The stock has held above its 200-day average and stayed within a tight, low-volatility band (30d vol 15%), consistent with its history of grinding higher rather than making sharp moves, and its massive cash hoard gives it optionality to deploy capital opportunistically if volatility spikes elsewhere in the market.",
+  "bear_case": "The explosive 119.6% trailing earnings growth figure is almost certainly a one-off (likely insurance underwriting or investment gains), and the forward P/E of 22.8x versus trailing 14.6x signals the market/analysts expect earnings to normalize sharply lower, which would remove the 'cheap' valuation narrative; combined with a bearish MACD histogram (-1.58), a sub-50 RSI, and the 50-day average sitting just below the 200-day (no golden cross), the technical setup shows genuine loss of upward momentum rather than mere consolidation, and with only 3 analysts covering a $1T+ company, any negative surprise (e.g., from the CEO succession or a soft insurance quarter) could reprice the stock with little analyst buffer to cushion sentiment.",
+  "metrics": {
+    "momentum_63d": 0.03323372770499233,
+    "volatility_ann": 0.15143306610502122,
+    "rsi_14": 48.191581038583934,
+    "profit_margin": 0.19305,
+    "revenue_growth": 0.044,
+    "trailing_pe": 14.619118,
+    "return_on_equity": 0.10499,
+    "beta": 0.607,
+    "market_cap": 1058821111808,
+    "analyst_coverage": 3
+  }
+}

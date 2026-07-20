@@ -1,0 +1,26 @@
+{
+  "ticker": "AMCR",
+  "name": "Amcor",
+  "sector": "Materials",
+  "sub_industry": "Paper & Plastic Packaging Products & Materials",
+  "tier": "S&P 500",
+  "price": 43.939998626708984,
+  "as_of": "2026-07-19T21:19:37.494984+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "Forward P/E of 10.3 vs trailing 35.4 signals the market expects a sharp earnings re-rating post-Berry Global integration, while the stock trades above both its 50- and 200-day moving averages with a 6% 21-day and 11% 63-day momentum.",
+  "thesis": "AMCR's revenue growth of 77% (driven by the Berry Global merger) combined with a forward P/E under 11x versus a trailing P/E of 35x suggests the Street expects meaningful synergy realization and margin expansion over the next few quarters. The stock is in a healthy uptrend\u2014above both the 50-day (40.35) and 200-day (40.97) moving averages, RSI at 58.6 (not overbought), and 12 analysts collectively rate it a 'buy'. A low beta of 0.61 and a rich dividend yield (~5.9%) make this an attractive defensive holding in a volatile tape, and 30-day annualized volatility of 32.5% has created room for a re-rating if integration costs from the Berry deal roll off as guided.",
+  "bear_case": "The balance sheet is stretched\u2014debt-to-equity of 143.7% post-Berry acquisition\u2014while trailing earnings growth is actually negative (-11.7%) and net margins are razor-thin at 3.05%, meaning any slippage in synergy execution could crush the forward-PE thesis entirely. Free cash flow of just $149.5M against a $20.3B market cap (a FCF yield under 1%) is alarmingly low for a name paying out a near-6% dividend, raising real questions about dividend sustainability or further deleveraging capacity; combined with a negative MACD histogram and no golden cross confirming the trend, this looks like a leveraged bet on flawless integration rather than a clean value story.",
+  "metrics": {
+    "momentum_63d": 0.11179580404622924,
+    "volatility_ann": 0.3254642806360786,
+    "rsi_14": 58.587079708196725,
+    "profit_margin": 0.030550001,
+    "revenue_growth": 0.774,
+    "trailing_pe": 35.435482,
+    "return_on_equity": 0.08737001,
+    "beta": 0.614,
+    "market_cap": 20315469824,
+    "analyst_coverage": 12
+  }
+}

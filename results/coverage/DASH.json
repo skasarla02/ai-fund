@@ -1,0 +1,26 @@
+{
+  "ticker": "DASH",
+  "name": "DoorDash",
+  "sector": "Consumer Discretionary",
+  "sub_industry": "Specialized Consumer Services",
+  "tier": "S&P 500",
+  "price": 184.13999938964844,
+  "as_of": "2026-07-19T22:02:06.794680+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "DASH trades below its 200-day SMA ($195.4) with a still-negative MACD histogram (-1.04) even as 21-day momentum has turned positive (+8.3%), reflecting a stock caught between a broken long-term uptrend and a short-term bounce off the 52-week low ($143.3).",
+  "thesis": "Revenue growth of 33% remains robust and gross margins (51.8%) are healthy, while the collapse in trailing P/E (86.9x) to forward P/E (23.7x) signals the market expects a sharp earnings inflection as DoorDash scales its newer verticals (grocery, international, advertising) and operating leverage kicks in (operating margin already positive at 5.3%, FCF of $2.3B). The stock is down ~35% from its 52-week high of $285.5 and has bounced off $143.3, with 21-day (+8.3%) and 63-day (+2.7%) momentum both positive and RSI at a neutral 53.7 \u2014 consistent with a name that has been de-risked on valuation while consensus among all 42 covering analysts remains a 'buy.' A reclaim of the 200-day SMA (~$195, roughly 6% above spot) would confirm trend repair.",
+  "bear_case": "Earnings growth is actually negative (-6.1%) despite the 33% top-line growth, meaning DoorDash is buying growth at the expense of near-term profitability just as its stock trades below its 200-day moving average with a negative MACD histogram \u2014 a technical setup consistent with a name still in a downtrend, not a completed bottom. With 42 analysts already covering the stock and a 'buy' consensus baked in, there is limited room for a positive surprise to move the stock further than sentiment already reflects, while a beta of 1.78 and 49% annualized volatility mean any disappointment on the margin-expansion narrative (the entire bull case behind the 23.7x forward multiple) could quickly reprice the stock back toward its $143 low, especially since the 126-day momentum of -13.6% shows the broader trend is still deteriorating.",
+  "metrics": {
+    "momentum_63d": 0.026822046001679034,
+    "volatility_ann": 0.4938215622311197,
+    "rsi_14": 53.699472011203625,
+    "profit_margin": 0.0629,
+    "revenue_growth": 0.331,
+    "trailing_pe": 86.8585,
+    "return_on_equity": 0.09922,
+    "beta": 1.779,
+    "market_cap": 80233242624,
+    "analyst_coverage": 42
+  }
+}

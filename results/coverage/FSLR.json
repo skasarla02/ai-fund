@@ -1,0 +1,26 @@
+{
+  "ticker": "FSLR",
+  "name": "First Solar",
+  "sector": "Information Technology",
+  "sub_industry": "Semiconductors",
+  "tier": "S&P 500",
+  "price": 211.99000549316406,
+  "as_of": "2026-07-19T22:19:23.359917+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "FSLR trades at just 9x forward earnings despite 65% earnings growth and 33% operating margins, a valuation dislocation created by a 20% one-month price drop to $211.99 from a $320.95 high.",
+  "thesis": "First Solar's fundamentals remain exceptional for a stock now priced at 13.7x trailing and 9x forward earnings: 23.6% revenue growth, 65% earnings growth, 41.7% gross margins, 33% operating margins, and 18.4% ROE. The stock has been beaten down 34% off its 52-week high and sits well below both its 50-day ($249.47) and 200-day ($235.38) moving averages, but RSI at 34 signals it's approaching oversold territory, and the golden cross (50dma still above 200dma) suggests the underlying trend hasn't fully broken down technically. With 28 analysts covering the name and a consensus 'buy' rating, this looks like a domestic-manufacturing solar leader (protected by US content requirements and 45X tax credits) being sold off on macro/policy fear rather than deteriorating fundamentals \u2014 a classic setup where cheap valuation plus strong FCF ($1.15B) eventually reasserts itself once volatility (57% annualized) subsides.",
+  "bear_case": "The technical picture is genuinely ugly and momentum-driven: price is down nearly 20% in 21 days and 10% over 126 days, trading below both key moving averages with a strongly negative MACD histogram, and beta of 1.73 means this stock will amplify any broader market or policy-driven drawdown. First Solar's economics are heavily dependent on US industrial policy (IRA 45X manufacturing credits, tariffs on Southeast Asian imports) that remains politically contested, and any legislative rollback or trade policy shift could impair the margin structure that currently looks so attractive; the reported debt-to-equity of ~5.9 (versus typical low-single-digit levels) also raises questions about balance sheet leverage that could constrain flexibility if end-market demand or credit availability softens. In a stock this volatile with high analyst coverage already pricing in a 'buy' consensus, the cheap multiple may simply reflect the market's correct anticipation of policy-driven earnings risk rather than a mispricing waiting to be corrected within three months.",
+  "metrics": {
+    "momentum_63d": 0.10613103179990668,
+    "volatility_ann": 0.5707442665464528,
+    "rsi_14": 34.35448281141497,
+    "profit_margin": 0.30731001,
+    "revenue_growth": 0.236,
+    "trailing_pe": 13.694446,
+    "return_on_equity": 0.18436001,
+    "beta": 1.73,
+    "market_cap": 22779037696,
+    "analyst_coverage": 28
+  }
+}

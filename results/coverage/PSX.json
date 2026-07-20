@@ -1,0 +1,26 @@
+{
+  "ticker": "PSX",
+  "name": "Phillips 66",
+  "sector": "Energy",
+  "sub_industry": "Oil & Gas Refining & Marketing",
+  "tier": "S&P 500",
+  "price": 209.25999450683594,
+  "as_of": "2026-07-20T15:53:59.893062+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "PSX is sitting at its 52-week high with RSI at 74 after a 52% run in 126 days, but trailing earnings growth is -56.8% and operating margins are just 0.64%, showing a disconnect between price action and current profitability.",
+  "thesis": "Refining margins and forward earnings expectations appear to be inflecting positively \u2014 forward P/E of 11.6 versus trailing P/E of 20.7 implies the Street expects a sharp earnings recovery, and the stock's golden cross, price above both the 50- and 200-day moving averages, and strong MACD confirm an intact uptrend with an 18-analyst 'buy' consensus. A low beta (0.68) and 2.46% dividend yield also give it defensive appeal within energy for investors rotating into cyclical value plays as crack spreads normalize.",
+  "bear_case": "The technical setup is stretched to an extreme (RSI 74, +25% in just one month, sitting exactly at the 52-week high) while the fundamental picture underneath is weak: operating margins of 0.64%, net margins of 3%, negative free cash flow of -$1.13B, and trailing earnings down 56.8% y/y \u2014 this is a low-margin refiner where the rally looks driven by momentum/sector rotation rather than improving core economics, and debt-to-equity of 91% leaves little room for error if refining margins don't recover as fast as forward estimates imply, setting up a sharp mean-reversion risk after such an overbought run.",
+  "metrics": {
+    "momentum_63d": 0.34795180381837976,
+    "volatility_ann": 0.3462995167343357,
+    "rsi_14": 74.23595649153478,
+    "profit_margin": 0.03066,
+    "revenue_growth": 0.069,
+    "trailing_pe": 20.677866,
+    "return_on_equity": 0.14547,
+    "beta": 0.681,
+    "market_cap": 83899654144,
+    "analyst_coverage": 18
+  }
+}

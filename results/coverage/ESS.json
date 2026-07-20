@@ -1,0 +1,26 @@
+{
+  "ticker": "ESS",
+  "name": "Essex Property Trust",
+  "sector": "Real Estate",
+  "sub_industry": "Multi-Family Residential REITs",
+  "tier": "S&P 500",
+  "price": 292.92999267578125,
+  "as_of": "2026-07-19T22:08:18.017956+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "Forward PE of 47.9 vs trailing PE of 33 signals the market is pricing in continued earnings deceleration even as trailing earnings growth already collapsed -47.8% YoY.",
+  "thesis": "ESS trades in a firm uptrend, above both its 50-day ($280) and 200-day ($257.5) moving averages with a golden cross intact and 3-month momentum of +19%, reflecting strength in West Coast/Seattle apartment fundamentals and its low-beta (0.72) defensive profile that appeals to income investors amid rate-cut expectations. High margins (69% gross, 35% operating) and a 3.54% dividend yield support the stock as a durable income vehicle, and shares remain below their 52-week high of $303.35, leaving some room to re-test that level if the broader REIT rally continues.",
+  "bear_case": "The earnings picture is deteriorating sharply: earningsGrowth of -47.8% alongside a forward P/E (47.9) that is 45% richer than the trailing P/E (33) implies consensus expects further margin/earnings pressure even as the stock sits near 52-week highs \u2014 a valuation-earnings mismatch that historically precedes multiple compression. Debt-to-equity of 122% is elevated for a REIT facing a higher-for-longer rate environment, ROE of just 10.6% is mediocre for a 3.5x price-to-book multiple, and the negative MACD histogram alongside yesterday's -1.5% move suggests momentum is already stalling just below the 52-week high; with 24 analysts already on a 'hold' consensus, any earnings disappointment has little room to surprise positively and is more likely to trigger a re-rating lower.",
+  "metrics": {
+    "momentum_63d": 0.19159822036087615,
+    "volatility_ann": 0.21103849017011939,
+    "rsi_14": 55.88669767567475,
+    "profit_margin": 0.29132,
+    "revenue_growth": 0.064,
+    "trailing_pe": 32.98761,
+    "return_on_equity": 0.105579995,
+    "beta": 0.715,
+    "market_cap": 20190547968,
+    "analyst_coverage": 24
+  }
+}

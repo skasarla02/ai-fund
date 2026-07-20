@@ -1,0 +1,26 @@
+{
+  "ticker": "EVRG",
+  "name": "Evergy",
+  "sector": "Utilities",
+  "sub_industry": "Electric Utilities",
+  "tier": "S&P 500",
+  "price": 85.58999633789062,
+  "as_of": "2026-07-19T22:09:01.143830+00:00",
+  "rating": "bullish",
+  "conviction": 0.6,
+  "key_signal": "EVRG trades near its 52-week high with strong positive momentum (126d +15.6%) and remains above both 50/200-day moving averages in a golden cross, while earnings growth (18.5%) is outpacing revenue growth (5%), signaling margin/rate-case leverage.",
+  "thesis": "Evergy is a low-beta (0.52) regulated electric utility benefiting from a durable uptrend\u2014price is up 15.6% over 126 days, sits comfortably above its 50-day ($83.78) and 200-day ($78.59) moving averages, and is within 3.4% of its 52-week high, with a golden cross confirming intermediate-term bullish structure. Earnings growth of 18.5% well outpacing 5% revenue growth suggests improving operating leverage, likely from constructive rate case outcomes typical for regulated utilities. A 3.25% dividend yield combined with a forward P/E of 18.8 (below trailing P/E of 22.8) implies the market expects continued earnings growth, and analyst sentiment ('buy' consensus across 12 analysts) supports the constructive setup. RSI at 51.6 shows the stock isn't overbought despite the run-up, leaving room for further appreciation, and the low beta makes this a reasonable holding in a volatile macro environment given utilities' defensive characteristics.",
+  "bear_case": "The valuation is stretched relative to utility peers historically (P/E 22.8x, P/B 1.94x) while ROE is a modest 8.9%, meaning investors are paying a premium for subpar equity returns; debt-to-equity of 155.6% is elevated and combined with deeply negative free cash flow (-$1.1B), signals heavy capex/financing needs that could pressure the balance sheet if rates stay elevated or access to capital markets tightens. The negative MACD histogram (-0.196) and a down day (-1.12%) hint at fading short-term momentum just as the stock approaches resistance at its 52-week high of $88.62, raising risk of a pullback or consolidation. With only 12 analysts covering and a 'buy' consensus already priced in, there's limited room for positive surprise to re-rate the stock further, while any negative regulatory outcome or rate case disappointment\u2014given the capital intensity implied by the FCF deficit\u2014could quickly reverse sentiment in a stock trading near cycle highs.",
+  "metrics": {
+    "momentum_63d": 0.052525255178772934,
+    "volatility_ann": 0.18102985949519917,
+    "rsi_14": 51.594619721338105,
+    "profit_margin": 0.14626999,
+    "revenue_growth": 0.05,
+    "trailing_pe": 22.763296,
+    "return_on_equity": 0.08866999,
+    "beta": 0.524,
+    "market_cap": 19729608704,
+    "analyst_coverage": 12
+  }
+}

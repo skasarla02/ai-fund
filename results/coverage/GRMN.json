@@ -1,0 +1,26 @@
+{
+  "ticker": "GRMN",
+  "name": "Garmin",
+  "sector": "Consumer Discretionary",
+  "sub_industry": "Consumer Electronics",
+  "tier": "S&P 500",
+  "price": 249.55999755859375,
+  "as_of": "2026-07-19T22:22:55.727880+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "Garmin is in a confirmed uptrend (golden cross, above both 50/200 DMA) with double-digit revenue (14.2%) and earnings growth (21.5%) that most consumer electronics peers can't match.",
+  "thesis": "Garmin's fundamentals are unusually strong for a hardware name: 59% gross margin, 24.6% operating margin, 20% ROE, and 14%/21.5% revenue/earnings growth, all while trading at a still-reasonable 24x forward earnings. Technicals confirm the fundamental strength \u2014 price sits above both the 50-day ($237.7) and 200-day ($227.5) moving averages with a golden cross intact, RSI at 61 shows room to run before overbought, and MACD histogram is solidly positive. The 126-day momentum of +19% shows the underlying trend is intact despite a recent 63-day dip of -5.2%, which looks more like a healthy pullback (price is still ~9% below the 52-week high of $273.32, not a breakdown) than a trend reversal. With only 7 analysts covering the name and a consensus 'hold', there's room for re-rating if execution continues, especially with wearables/fitness and aviation segments driving growth.",
+  "bear_case": "The stock trades at 5.2x book and nearly 28x trailing earnings for a company whose core products (fitness/outdoor wearables, auto/marine electronics) are discretionary and cyclical, leaving little margin for a growth deceleration \u2014 and the 63-day momentum of -5.2% combined with a 5-day pullback (-0.57% on the day) could be the start of exactly that. Debt-to-equity of 2.33 is notably elevated for a company historically known for a fortress balance sheet, and if this reflects real leverage increase rather than a data artifact, it changes the risk profile materially. Consensus among the 7 covering analysts is only 'hold', suggesting sell-side skepticism about further upside at current multiples, and consumer discretionary names with 24% annualized volatility are vulnerable to sharp drawdowns if a slowing consumer or FX headwinds hit the next print.",
+  "metrics": {
+    "momentum_63d": -0.05180276257437233,
+    "volatility_ann": 0.24322501189353082,
+    "rsi_14": 61.079904769231355,
+    "profit_margin": 0.23261,
+    "revenue_growth": 0.142,
+    "trailing_pe": 27.852678,
+    "return_on_equity": 0.19899,
+    "beta": 0.914,
+    "market_cap": 48129196032,
+    "analyst_coverage": 7
+  }
+}

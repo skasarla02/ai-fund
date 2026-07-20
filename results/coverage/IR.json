@@ -1,0 +1,26 @@
+{
+  "ticker": "IR",
+  "name": "Ingersoll Rand",
+  "sector": "Industrials",
+  "sub_industry": "Industrial Machinery & Supplies & Components",
+  "tier": "S&P 500",
+  "price": 82.23999786376953,
+  "as_of": "2026-07-19T22:34:56.520174+00:00",
+  "rating": "neutral",
+  "conviction": 0.56,
+  "key_signal": "Despite trading above its 200-day average, IR's 50-day SMA (75.53) sits below its 200-day SMA (81.35) \u2014 a death-cross structure \u2014 while medium-term momentum (63d/126d) remains negative even after a sharp -3% single-day drop.",
+  "thesis": "IR trades 19% below its 52-week high with RSI at a healthy 59.5 and positive MACD histogram, suggesting the recent 21-day bounce (+4.7%) could extend if industrial demand stabilizes; forward P/E of 21.3x versus a trailing 55.6x implies the market is pricing meaningful margin/earnings recovery, and 7.6% revenue growth plus a 43% gross margin and $1.03B of FCF on $7.8B revenue show the underlying business generates real cash even as reported profitability (7.5% net margin, 5.7% ROE) lags peers of similar valuation. With 13 analysts still rating it 'buy' and coverage moderate for a $32B industrial name, there's room for sentiment to catch up if execution improves.",
+  "bear_case": "The technical structure is genuinely deteriorating \u2014 a death cross (50dma below 200dma) combined with negative 63-day and 126-day momentum and a violent -3% single-day move suggests the recent 21-day rally is a bounce within a downtrend, not a reversal; annualized volatility of 38.6% is elevated for an industrial name, signaling market uncertainty about the earnings path. More fundamentally, a 55.6x trailing P/E and 3.16x price-to-book are hard to justify against just 6.5% earnings growth and a 5.7% ROE \u2014 if the forward-PE-implied margin expansion (from 7.5% net margin today) doesn't materialize, the stock has significant room to reprice toward its 52-week low of 68.07, especially with debt-to-equity at 48% limiting flexibility in a slower demand environment.'",
+  "metrics": {
+    "momentum_63d": -0.016815548588335227,
+    "volatility_ann": 0.38625908499960804,
+    "rsi_14": 59.50530876178578,
+    "profit_margin": 0.075440004,
+    "revenue_growth": 0.076,
+    "trailing_pe": 55.567566,
+    "return_on_equity": 0.057150003,
+    "beta": 1.168,
+    "market_cap": 32183539712,
+    "analyst_coverage": 13
+  }
+}

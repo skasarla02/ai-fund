@@ -1,0 +1,26 @@
+{
+  "ticker": "ECHO",
+  "name": "EchoStar",
+  "sector": "Communication Services",
+  "sub_industry": "Wireless Telecommunication Services",
+  "tier": "S&P 500",
+  "price": 92.0,
+  "as_of": "2026-07-19T22:04:19.728450+00:00",
+  "rating": "bearish",
+  "conviction": 0.6,
+  "key_signal": "Revenue is shrinking (-5.2% YoY) while EchoStar burns cash (-$458M FCF) and carries extreme leverage (515% debt-to-equity), yet the stock still trades at a $26.7B cap on pure spectrum-value speculation.",
+  "thesis": "The bull case rests entirely on optionality: EchoStar's wireless spectrum portfolio (a legacy of the Dish/EchoStar merger) is viewed by the sell-side (unanimous 'strong buy' among the 6 covering analysts) as deeply undervalued relative to the ~$26.7B market cap, and the stock is technically oversold (RSI 34, price 37% below the 52-week high of $147) with a golden cross (50dma > 200dma) still intact, setting up for a mean-reversion bounce if any positive catalyst (spectrum sale, partnership, refinancing) emerges.",
+  "bear_case": "The fundamentals are genuinely dire and worsening: profit margins of -97.6%, ROE of -112%, negative free cash flow, declining revenue, and debt-to-equity above 500% mean the company is burning capital it can't easily replace, and forward EPS estimates imply massive continued losses (forward P/E of -807). Price action confirms the market is pricing distress, not undervaluation \u2014 momentum is sharply negative across 1/3/6-month windows (-24%/-31%/-30%), the stock trades below both moving averages despite the golden cross, and 30-day annualized volatility of 64% signals the market sees real solvency/refinancing risk, not just cyclical weakness that a thin 6-analyst 'strong buy' consensus can override.",
+  "metrics": {
+    "momentum_63d": -0.3056603773584906,
+    "volatility_ann": 0.6439317800382663,
+    "rsi_14": 34.44384950849873,
+    "profit_margin": -0.97559,
+    "revenue_growth": -0.052,
+    "trailing_pe": null,
+    "return_on_equity": -1.1228399,
+    "beta": 1.004,
+    "market_cap": 26662842368,
+    "analyst_coverage": 6
+  }
+}

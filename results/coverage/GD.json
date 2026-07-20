@@ -1,0 +1,26 @@
+{
+  "ticker": "GD",
+  "name": "General Dynamics",
+  "sector": "Industrials",
+  "sub_industry": "Aerospace & Defense",
+  "tier": "S&P 500",
+  "price": 368.5799865722656,
+  "as_of": "2026-07-19T22:25:01.498199+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "GD trades above both its 50-day (351.0) and 200-day (344.4) moving averages with a golden cross intact, and momentum has re-accelerated (+10.5% over 63 days) even as the stock sits just 3% below its 52-week high, backed by 10.3% revenue growth and 12% earnings growth.",
+  "thesis": "General Dynamics is a low-beta (0.34) defense/aerospace franchise showing genuine fundamental acceleration \u2014 10.3% revenue growth, 12% earnings growth, and 18% ROE \u2014 that supports its premium 23.2x trailing / 20.2x forward P/E versus its own history. Technicals confirm the trend: price above both the 50- and 200-day moving averages, a golden cross, and RSI at 58 (not overbought), leaving room to run toward the 52-week high of 380.71. With 21 analysts rating it a 'buy' and defense budgets structurally supported by geopolitical tensions (Gulfstream demand, Abrams/combat systems backlog, submarine programs), GD offers a rare combination of growth acceleration and defensive ballast \u2014 a name institutions can own through volatility given its low beta and steady 1.73% dividend yield.",
+  "bear_case": "The MACD histogram is negative (-0.33) despite price strength, signaling fading upside momentum and a potential near-term stall right below the 52-week high \u2014 a classic setup for a pullback toward the 50-day average. More structurally, GD's margins are unremarkable for the sector (10.5% operating margin, 8.1% net margin) versus peers like L3Harris or Lockheed, and at 3.8x book value and 20x forward earnings, much of the growth is already priced in; any disappointment in Gulfstream deliveries, combat systems margin execution, or a slower-than-expected defense budget cycle post-election could compress the multiple quickly, especially with 21 analysts already closely tracking every data point, leaving little room for a positive surprise to move the stock further.",
+  "metrics": {
+    "momentum_63d": 0.10534495271617716,
+    "volatility_ann": 0.2711464082535276,
+    "rsi_14": 58.374446571419085,
+    "profit_margin": 0.08068,
+    "revenue_growth": 0.103,
+    "trailing_pe": 23.195719,
+    "return_on_equity": 0.17974001,
+    "beta": 0.338,
+    "market_cap": 99675152384,
+    "analyst_coverage": 21
+  }
+}

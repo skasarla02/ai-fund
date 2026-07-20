@@ -1,0 +1,26 @@
+{
+  "ticker": "AOS",
+  "name": "A. O. Smith",
+  "sector": "Industrials",
+  "sub_industry": "Building Products",
+  "tier": "S&P 500",
+  "price": 58.849998474121094,
+  "as_of": "2026-07-19T21:13:11.924208+00:00",
+  "rating": "bearish",
+  "conviction": 0.58,
+  "key_signal": "AOS is trading right at its 52-week low, below both the 50- and 200-day moving averages, with negative momentum across all timeframes (21d/63d/126d) and declining earnings (-10.5% YoY).",
+  "thesis": "Despite the technical breakdown, AOS remains a high-quality, low-leverage industrial (ROE 28%, D/E ~35%, operating margin 17%) trading at only 14x forward earnings with a 2.45% dividend yield, so if China water-heater demand and North American housing stabilize, the stock offers a favorable risk/reward from depressed levels near its 52-week low of $54.16.",
+  "bear_case": "The negative earnings growth (-10.5%) and revenue contraction (-1.9%) are not yet reflected in a truly cheap multiple (15.7x trailing, 4.3x book), and the price is currently sitting exactly at its 50-day SMA ($58.89) after breaking well below the 200-day SMA ($65.93) with a negative MACD histogram and no golden cross \u2014 this is a textbook downtrend continuation setup where a 'cheap' multiple can get cheaper if China residential demand and U.S. new-construction/water-heater replacement volumes keep softening, and the 32% annualized volatility means a break of the 52-week low ($54.16) could trigger further momentum-driven selling before any fundamental stabilization is confirmed.",
+  "metrics": {
+    "momentum_63d": -0.06471893717573285,
+    "volatility_ann": 0.3206861561410697,
+    "rsi_14": 45.10539678790134,
+    "profit_margin": 0.13841,
+    "revenue_growth": -0.019,
+    "trailing_pe": 15.693333,
+    "return_on_equity": 0.28267,
+    "beta": 1.153,
+    "market_cap": 8111214080,
+    "analyst_coverage": 11
+  }
+}

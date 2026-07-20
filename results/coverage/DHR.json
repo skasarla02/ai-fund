@@ -1,0 +1,26 @@
+{
+  "ticker": "DHR",
+  "name": "Danaher Corporation",
+  "sector": "Health Care",
+  "sub_industry": "Life Sciences Tools & Services",
+  "tier": "S&P 500",
+  "price": 203.8300018310547,
+  "as_of": "2026-07-19T21:57:08.310837+00:00",
+  "rating": "bullish",
+  "conviction": 0.6,
+  "key_signal": "DHR has surged 12.6% in the last month (MACD strongly positive, RSI at 66) to reclaim its 200-day average, while forward P/E has compressed to 22x from a 39.5x trailing multiple, signaling the Street expects a bioprocessing/life-sciences demand inflection.",
+  "thesis": "Danaher's fundamentals show classic reacceleration setup: gross margins near 59% and operating margins near 23% remain intact despite a soft 3.7% revenue growth print, while earnings growth of 9.8% and a sharp drop from trailing (39.5x) to forward (22x) P/E suggest analysts expect a meaningful earnings step-up as bioprocessing and life-sciences tools demand normalizes after the post-COVID destocking cycle. The stock's price action confirms this narrative shift \u2014 21-day momentum of +12.6% and a positive MACD histogram show the market re-rating the stock higher, and it has reclaimed both its 50-day (182.4) and 200-day (203.7) moving averages after a rough 126-day stretch (-14%). With 23 analysts covering the name at a 'strong buy' consensus and free cash flow of $4.57B supporting a strong balance sheet (D/E of 37%), the setup favors continued re-rating toward the 52-week high of $242.80, still ~19% above current levels.",
+  "bear_case": "The rally looks stretched on a short-term basis \u2014 RSI at 66 and a 12.6% one-month gain against still-negative 126-day momentum (-14%) suggest this could be a bounce within a longer downtrend rather than a durable trend reversal, and the stock sits almost exactly at its 200-day moving average (203.83 vs 203.68) with no golden cross confirming the 50-day is even above the 200-day, meaning the intermediate trend structure is still bearish. Fundamentally, revenue growth of just 3.7% and ROE of only 7.1% are weak for a stock trading at 39.5x trailing earnings and 2.7x book value, so the bull case depends entirely on the forward earnings acceleration materializing; if bioprocessing demand disappoints again (as it has multiple times in this cycle), the multiple has significant room to compress back toward the 160.93 52-week low, especially with 31% annualized volatility amplifying any guidance miss with 23 analysts already priced for a strong-buy consensus.",
+  "metrics": {
+    "momentum_63d": 0.05404515044810054,
+    "volatility_ann": 0.314658444758403,
+    "rsi_14": 66.18101776177708,
+    "profit_margin": 0.14887999,
+    "revenue_growth": 0.037,
+    "trailing_pe": 39.501938,
+    "return_on_equity": 0.0708,
+    "beta": 0.823,
+    "market_cap": 144264888320,
+    "analyst_coverage": 23
+  }
+}

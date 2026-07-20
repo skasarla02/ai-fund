@@ -1,0 +1,26 @@
+{
+  "ticker": "CRL",
+  "name": "Charles River Laboratories",
+  "sector": "Health Care",
+  "sub_industry": "Life Sciences Tools & Services",
+  "tier": "S&P 500",
+  "price": 224.35000610351562,
+  "as_of": "2026-07-19T21:45:05.352462+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "CRL is up ~27% over the past 63 trading days and sits just below its 52-week high of $237.86, but the rally is losing momentum (MACD histogram negative, -2.1% today) even as the stock trades on weak underlying profitability (profit margin -4.6%, ROE -5.9%).",
+  "thesis": "CRL has staged a powerful technical recovery \u2014 golden cross intact, price above both the 50- and 200-day moving averages, and momentum strongly positive over 1-3 month windows \u2014 likely reflecting renewed investor interest tied to takeover/activist speculation (Elliott Management has previously built a stake) and stabilization in CRO/biotech-funding demand after a rough 2023-2024. Operating margins remain healthy at 15.9%, forward P/E of 18.2x is reasonable for a life sciences tools name, and free cash flow of ~$510M gives the company flexibility to buy back stock or delever. With 15 analysts holding a consensus 'buy' and the stock still 6% below its 52-week high, there's room for further re-rating if revenue growth (currently just 1.2%) inflects positively as biotech funding recovers.",
+  "bear_case": "The fundamentals have not caught up to the price action: trailing profitability is negative (-4.6% margin, -5.9% ROE), revenue growth is essentially flat, and debt-to-equity is elevated at over 100%, meaning the balance sheet offers little cushion if the CRO end-market softens again. The recent 27% three-month surge looks far more like speculative positioning around M&A/activist rumors than a fundamental re-rating, and today's -2.1% move alongside a deeply negative MACD histogram (-1.36) suggests the uptrend is already cracking \u2014 a classic momentum exhaustion pattern near a 52-week high. If takeover chatter fades without a deal materializing, or if biotech/pharma R&D budgets remain constrained (as they have for two years), the stock could give back a large chunk of this run given its elevated beta of 1.4 and 40% annualized volatility.\u201d",
+  "metrics": {
+    "momentum_63d": 0.26794395279727223,
+    "volatility_ann": 0.40441705005929046,
+    "rsi_14": 60.791081109842814,
+    "profit_margin": -0.04585,
+    "revenue_growth": 0.012,
+    "trailing_pe": null,
+    "return_on_equity": -0.0587,
+    "beta": 1.399,
+    "market_cap": 10806429696,
+    "analyst_coverage": 15
+  }
+}

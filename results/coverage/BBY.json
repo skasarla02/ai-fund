@@ -1,0 +1,26 @@
+{
+  "ticker": "BBY",
+  "name": "Best Buy",
+  "sector": "Consumer Discretionary",
+  "sub_industry": "Computer & Electronics Retail",
+  "tier": "S&P 500",
+  "price": 85.41000366210938,
+  "as_of": "2026-07-19T21:32:37.086059+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "BBY has rallied 34% over 63 days and now trades near its 52-week high with RSI at 72.6, a classic overbought setup after a strong momentum run.",
+  "thesis": "Best Buy's stock has staged a powerful technical breakout \u2014 golden cross intact, price above both the 50- and 200-day moving averages, and strong 21/63/126-day momentum \u2014 reflecting improving earnings growth (37.9% trailing) and a cheap forward multiple (12.1x) versus its own history. Revenue growth has stabilized (+1.9%) after years of post-pandemic declines, ROE is robust at 39%, and the 4.5% dividend yield offers a durable income cushion while investors wait for a consumer electronics upgrade cycle (AI PCs, aging TVs) to materialize. With only modest revenue growth needed to sustain the current multiple, a hold-to-buy sell-side stance (20 analysts, 'hold' consensus) could flip more constructive if holiday-quarter results confirm margin recovery.",
+  "bear_case": "The technical picture is stretched to the point of being a contrarian red flag: RSI above 72, price just below the 52-week high after a 34% three-month run, and elevated 30-day annualized volatility (~30%) suggest the easy re-rating has already happened and downside risk from any earnings disappointment is asymmetric. Fundamentally, Best Buy still carries razor-thin net margins (2.7%) and high leverage (debt/equity 134%), meaning even small misses on the thin 1.9% revenue growth line could disproportionately hit earnings; the 37.9% earnings growth figure is also likely flattered by easy prior-year comps rather than structural improvement. Consumer discretionary spending on big-ticket electronics remains vulnerable to a slowing labor market and tariff-driven cost pressure, and with the stock already priced for a recovery (5.8x price-to-book, near cycle-high valuation), any guidance softness could trigger a sharp mean-reversion given how overbought the technicals currently are.",
+  "metrics": {
+    "momentum_63d": 0.3382804703944331,
+    "volatility_ann": 0.2983899639356321,
+    "rsi_14": 72.56134553422501,
+    "profit_margin": 0.027309999,
+    "revenue_growth": 0.019,
+    "trailing_pe": 15.816667,
+    "return_on_equity": 0.39104,
+    "beta": 1.33,
+    "market_cap": 18001620992,
+    "analyst_coverage": 20
+  }
+}

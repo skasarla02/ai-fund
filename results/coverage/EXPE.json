@@ -1,0 +1,26 @@
+{
+  "ticker": "EXPE",
+  "name": "Expedia Group",
+  "sector": "Consumer Discretionary",
+  "sub_industry": "Hotels, Resorts & Cruise Lines",
+  "tier": "S&P 500",
+  "price": 268.7699890136719,
+  "as_of": "2026-07-19T22:10:15.815608+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "Stock trades well above its 50/200-day moving averages with strong 21-day momentum (+10.3%) yet forward PE of just 11.7x versus trailing 23.7x implies the market is pricing sharp earnings growth that recent revenue trends (14.7% growth, 90% gross margins) support.",
+  "thesis": "EXPE is showing a technical breakout with price at $268.77, well above both the 50-day ($240.22) and 200-day ($243.94) SMAs, and above the 200-day average for the full lookback period, signaling a durable uptrend. Momentum over 21 and 63 days is positive (+10.3% and +5.9%), and RSI at 59.8 suggests room to run before overbought territory. The forward PE of 11.7x is roughly half the trailing PE of 23.7x, implying analysts expect a significant earnings acceleration, consistent with 14.7% revenue growth and a 71.5% ROE. Free cash flow of $3.48B against a $32.3B market cap represents a robust ~10.8% FCF yield, and the sell-side consensus is 'buy' from a well-covered analyst base of 35, reducing single-analyst noise risk. With margins expanding (90.3% gross, 7.1% operating) and the stock still ~11.5% below its 52-week high of $303.8, there's room for further re-rating if travel demand holds.",
+  "bear_case": "The bear case centers on balance sheet fragility and momentum deterioration risk: debt-to-equity of 256.5% is extremely elevated, and priceToBook of 56x is a statistical outlier suggesting the equity base is thin relative to liabilities, making EXPE highly sensitive to any travel-demand shock or refinancing stress, especially with a beta of 1.232 and 44.5% annualized volatility. The MACD histogram is negative (-0.355) despite the price being above key moving averages, and there's no golden cross (50-day still below 200-day historically until recently), meaning the medium-term trend structure hasn't fully confirmed the recent bounce. Momentum over 126 days is actually negative (-7.2%), indicating this is a sharp short-term rally within a choppier intermediate downtrend, and travel/hotel booking stocks are notoriously cyclical and macro-sensitive \u2014 any softening in consumer discretionary spending or a repeat of last year's high-volatility swings (44% annualized vol) could quickly erase the recent gains, especially with the stock still 11.5% off its highs after a period of underperformance.",
+  "metrics": {
+    "momentum_63d": 0.058604073310428495,
+    "volatility_ann": 0.44479347862901547,
+    "rsi_14": 59.79079827002324,
+    "profit_margin": 0.098079994,
+    "revenue_growth": 0.147,
+    "trailing_pe": 23.742933,
+    "return_on_equity": 0.71494,
+    "beta": 1.232,
+    "market_cap": 32258332672,
+    "analyst_coverage": 35
+  }
+}

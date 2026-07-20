@@ -1,0 +1,26 @@
+{
+  "ticker": "ES",
+  "name": "Eversource Energy",
+  "sector": "Utilities",
+  "sub_industry": "Electric Utilities",
+  "tier": "S&P 500",
+  "price": 74.62000274658203,
+  "as_of": "2026-07-19T22:09:26.405813+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "ES trades near 52-week highs with a golden cross and price above both the 50- and 200-day moving averages, while still valued at only 16x trailing earnings versus historical utility premiums.",
+  "thesis": "Eversource has recovered strongly from its offshore wind divestiture overhang, with 21/63/126-day momentum all positive (+6.9%/+9.1%/+9.1%) and price sitting just below its 52-week high of $76.41, confirming a durable uptrend (golden cross, above both moving averages). Fundamentals support the move: 9.4% revenue growth and 7.4% earnings growth are solid for a regulated utility, and a 4.22% dividend yield combined with a forward P/E of 15.2x (below the broader utility sector average) leaves room for multiple re-rating as the market gains confidence in the simplified, pure-play T&D/regulated business post-divestiture. Low beta (0.71) and RSI at 59.8 suggest room to run before overbought conditions, and with only 12 analysts covering the name and a consensus 'hold' rating, there's potential for upgrades to drive further re-rating if execution continues to de-risk the balance sheet.",
+  "bear_case": "Debt-to-equity of 182% is elevated even for a capital-intensive utility, and with ROE of only 10.9% and profit margins of 12.5% \u2014 well below the industry's typical high-teens levels \u2014 the company's returns on its regulated asset base are mediocre, meaning further capex-driven equity needs could dilute shareholders and cap upside; additionally, the MACD histogram has turned slightly negative (-0.0026) signaling fading short-term momentum just as the stock approaches its 52-week high, and with 30-day annualized volatility at 23% versus a low beta of 0.71, any disappointment in a rate case or continued execution risk from its recent portfolio restructuring could trigger a sharp pullback from these elevated valuation levels.",
+  "metrics": {
+    "momentum_63d": 0.09143969240675198,
+    "volatility_ann": 0.23016608909697575,
+    "rsi_14": 59.773862071584844,
+    "profit_margin": 0.12549,
+    "revenue_growth": 0.094,
+    "trailing_pe": 15.978587,
+    "return_on_equity": 0.10912,
+    "beta": 0.714,
+    "market_cap": 28063092736,
+    "analyst_coverage": 12
+  }
+}

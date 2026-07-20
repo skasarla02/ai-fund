@@ -1,0 +1,26 @@
+{
+  "ticker": "ATO",
+  "name": "Atmos Energy",
+  "sector": "Utilities",
+  "sub_industry": "Gas Utilities",
+  "tier": "S&P 500",
+  "price": 177.67999267578125,
+  "as_of": "2026-07-19T21:26:46.276309+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "ATO trades just above both its 50- and 200-day moving averages (no golden cross) with positive momentum but negative free cash flow of -$2.2B, reflecting heavy capex-funded growth typical of a regulated gas utility.",
+  "thesis": "Atmos Energy remains a low-beta (0.60), high-quality regulated gas utility with strong margins (39% operating margin, 28% net margin) and double-digit earnings growth (14.5%) despite flat revenue growth (0.6%), consistent with a rate-base-driven growth model. The stock is above its 200-day SMA, showing 6-month momentum of +6.5% and 21-day momentum of +4.7%, with a constructive MACD histogram (+0.42) and RSI at 55 signaling room to run before overbought. Trading ~8% below its 52-week high of $192.51, it offers a reasonable entry point with a 2.25% dividend yield for income-oriented utility investors, and its defensive characteristics (low beta, regulated revenue) make it attractive in a higher-volatility macro backdrop.",
+  "bear_case": "The negative free cash flow of -$2.2B against total revenue of just $4.9B signals Atmos is funding an aggressive, multi-year capex/infrastructure modernization program almost entirely through debt and equity issuance, and with debt-to-equity already at 64.6% and ROE a modest 9.6%, further leverage could pressure credit metrics or dilute EPS via equity raises, capping upside even as earnings grow; simultaneously, the stock's forward P/E of 19.7x and price-to-book near 2x leave little margin of safety if rates stay elevated (compressing utility valuations) or if the recent 63-day momentum drawdown of -4.9% resumes, and a 'hold' consensus among all 12 covering analysts suggests the market already sees this as fairly valued with limited near-term catalysts.",
+  "metrics": {
+    "momentum_63d": -0.04944714245644877,
+    "volatility_ann": 0.17763563400811747,
+    "rsi_14": 55.4746857681792,
+    "profit_margin": 0.27579,
+    "revenue_growth": 0.006,
+    "trailing_pe": 21.881773,
+    "return_on_equity": 0.096,
+    "beta": 0.598,
+    "market_cap": 29658312704,
+    "analyst_coverage": 12
+  }
+}

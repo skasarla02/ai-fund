@@ -1,0 +1,26 @@
+{
+  "ticker": "PM",
+  "name": "Philip Morris International",
+  "sector": "Consumer Staples",
+  "sub_industry": "Tobacco",
+  "tier": "S&P 500",
+  "price": 191.6699981689453,
+  "as_of": "2026-07-20T15:53:40.309804+00:00",
+  "rating": "bullish",
+  "conviction": 0.6,
+  "key_signal": "PM is trading near its 52-week high with a golden cross, RSI at 61, and 63-day momentum of +22%, yet forward PE of 21x sits below trailing PE of 27x, implying the market expects earnings growth to reaccelerate from the current -9.3% dip.",
+  "thesis": "PM's technical setup is unusually strong for a low-beta (0.41) consumer staple: price is above both the 50- and 200-day moving averages, a golden cross is in place, and MACD histogram is firmly positive, confirming an established uptrend (+7.7% in 21 days, +22.5% in 63 days) rather than a blow-off spike. Fundamentally, the smoke-free transition (IQOS/ZYN) is driving 9.1% revenue growth with best-in-class margins (67% gross, 36% operating), and the forward P/E compression to ~21x from a trailing 27x signals sell-side expectations that the recent earnings dip reverses. A 3.05% dividend yield adds a defensive income cushion, and 14 analysts rate it 'buy' consensus, providing a supportive but not yet exhausted narrative. In a volatile macro tape, low-beta defensives with genuine growth drivers (heated tobacco/nicotine pouches) tend to keep attracting rotation flows, and PM's momentum suggests that continues into the next quarter.",
+  "bear_case": "The stock is priced at 27x trailing earnings for a tobacco company posting negative earnings growth (-9.3%), which is a valuation disconnect that leaves little margin for disappointment \u2014 any guidance miss on smoke-free volume or currency headwinds (PM has heavy international/FX exposure) could trigger a sharp de-rating given it's already within 1.7% of its 52-week high with RSI at 61 flirting with overbought. Annualized volatility of 31.5% is elevated for a 'defensive' staple, suggesting the market is already pricing in binary event risk (regulatory action on ZYN/vaping, excise tax hikes) that a low-beta assumption understates. Additionally, the forward PE improvement to ~21x relies entirely on an earnings recovery that hasn't materialized yet (current earningsGrowth is still -9.3%), so the bull case is a forecast, not a trailing fact \u2014 if that recovery slips, the stock likely round-trips back toward the 50-day SMA near $181, an 5-6% drawdown from current levels.",
+  "metrics": {
+    "momentum_63d": 0.22478645945971776,
+    "volatility_ann": 0.31504966570415144,
+    "rsi_14": 61.486455859884614,
+    "profit_margin": 0.26742,
+    "revenue_growth": 0.091,
+    "trailing_pe": 26.995775,
+    "return_on_equity": null,
+    "beta": 0.405,
+    "market_cap": null,
+    "analyst_coverage": 14
+  }
+}

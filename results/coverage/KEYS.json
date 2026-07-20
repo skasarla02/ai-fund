@@ -1,0 +1,26 @@
+{
+  "ticker": "KEYS",
+  "name": "Keysight Technologies",
+  "sector": "Information Technology",
+  "sub_industry": "Electronic Equipment & Instruments",
+  "tier": "S&P 500",
+  "price": 315.8999938964844,
+  "as_of": "2026-07-19T22:41:42.442714+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "KEYS trades 15.7% below its 52-week high and has fallen below its 50-day SMA even as it remains firmly above a rising 200-day SMA with an intact golden cross, while forward PE (26.6x) implies analysts expect a sharp earnings re-acceleration versus trailing PE (50.8x).",
+  "thesis": "Keysight's fundamentals point to a business inflecting higher: revenue growth of 31.5% and earnings growth of 35.6% YoY, 62% gross margins, and 18.8% operating margins are exceptional for a test-and-measurement instrument maker, and the halving of trailing-to-forward PE signals the Street expects that growth to persist into next year, not just be a one-off comp effect. The stock is still up ~51% over the last 126 trading days and remains above its 200-day moving average with a golden cross in place, indicating the primary trend is intact despite a recent 9.8% one-month pullback that looks more like digestion after a big run than a trend reversal. With 13 analysts holding a consensus 'buy' and a market cap near $54B, this is a name institutions watch closely, but the sharp recent underperformance relative to the medium-term uptrend could offer a tactical entry point for a company riding AI/data-center-driven demand for electronic test equipment.",
+  "bear_case": "The technical picture has genuinely deteriorated: price is below the 50-day SMA, MACD histogram is decisively negative, RSI sits at 42.8 (below neutral), and 1-month momentum is -9.8% with 3-month momentum also negative (-4.3%) \u2014 this is a stock in a short/medium-term downtrend, not just noise. Valuation remains demanding at 8.5x price-to-book and 50.8x trailing earnings, leaving no margin for error if the anticipated earnings inflection disappoints or macro capex (semiconductor/aerospace-defense test spending) softens. Annualized volatility of 52% and a beta of 1.214 mean this stock will amplify any broader risk-off move, and a name that has already run up 51% over six months priced for perfection is vulnerable to multiple compression even on merely in-line results.",
+  "metrics": {
+    "momentum_63d": -0.04261121930750178,
+    "volatility_ann": 0.5228745771393052,
+    "rsi_14": 42.79466131853826,
+    "profit_margin": 0.17312999,
+    "revenue_growth": 0.315,
+    "trailing_pe": 50.78778,
+    "return_on_equity": 0.18174,
+    "beta": 1.214,
+    "market_cap": 53985841152,
+    "analyst_coverage": 13
+  }
+}

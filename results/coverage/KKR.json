@@ -1,0 +1,26 @@
+{
+  "ticker": "KKR",
+  "name": "KKR & Co.",
+  "sector": "Financials",
+  "sub_industry": "Asset Management & Custody Banks",
+  "tier": "S&P 500",
+  "price": 100.94000244140625,
+  "as_of": "2026-07-19T22:42:47.907626+00:00",
+  "rating": "bullish",
+  "conviction": 0.56,
+  "key_signal": "KKR has plunged 23% over the past six months (now below its 200-day SMA at $108) but has staged a sharp technical reversal, up 2% over 21 days with a strongly positive MACD histogram and RSI at 61, while its forward P/E of 13.7x\u2014less than half its trailing P/E of 34x\u2014implies the Street expects a major earnings re-acceleration.",
+  "thesis": "The stock's forward P/E of 13.7x versus a trailing P/E of 34x signals analysts expect a substantial jump in near-term earnings, likely driven by realized performance fees and carried interest as KKR's private equity, credit, and infrastructure vintages mature\u2014a dynamic distinct from pure market-beta exposure. Price action is starting to confirm this: momentum over the last 21 days is positive (+2%), MACD histogram is strongly positive (0.997), and RSI at 61 shows building strength without being overbought, all while the stock trades near the lower third of its 52-week range ($82.67-$153.87), well below its 200-day SMA. The 19-analyst consensus rating is 'buy,' and with a high beta of 1.79, any stabilization or rally in risk assets and rate-cut expectations should provide outsized upside leverage for an alternative asset manager with $94B market cap and diversified fee-generating AUM.",
+  "bear_case": "The stock remains in a technically damaged position\u2014below its 200-day SMA, with no golden cross, and a brutal 23% six-month drawdown that dwarfs the recent 21-day bounce, suggesting the primary trend is still down and the bounce could be a bear-market rally. Fundamentally, trailing revenue growth is negative (-6.6%), ROE is a modest 7.6% for a firm carrying 69% debt-to-equity, and profit margins (11.7%) look thin relative to the premium 3.2x price-to-book multiple the market still assigns; if the anticipated performance-fee earnings surge (implied by the low forward P/E) fails to materialize on schedule\u2014which is inherently lumpy and market-dependent\u2014the stock could re-rate toward its trailing multiple, and with a beta near 1.8, any broader market or credit-spread widening would hit KKR disproportionately hard given its private capital and balance-sheet exposure to less liquid assets.",
+  "metrics": {
+    "momentum_63d": -0.008644607204211452,
+    "volatility_ann": 0.3351901893551521,
+    "rsi_14": 61.07785145469033,
+    "profit_margin": 0.116809994,
+    "revenue_growth": -0.066,
+    "trailing_pe": 34.333332,
+    "return_on_equity": 0.076630004,
+    "beta": 1.794,
+    "market_cap": 94120648704,
+    "analyst_coverage": 19
+  }
+}

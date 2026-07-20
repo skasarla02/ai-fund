@@ -1,0 +1,26 @@
+{
+  "ticker": "CMS",
+  "name": "CMS Energy",
+  "sector": "Utilities",
+  "sub_industry": "Multi-Utilities",
+  "tier": "S&P 500",
+  "price": 73.6500015258789,
+  "as_of": "2026-07-19T21:49:37.076938+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "CMS is trading essentially flat against both its 50-day (73.99) and 200-day (73.28) moving averages with a negative MACD histogram, showing indecisive momentum mid-range between its 52-week low ($68.64) and high ($80.36).",
+  "thesis": "CMS offers a classic defensive utility profile (beta 0.34) with above-average sector growth: 11.6% revenue growth and 8.9% earnings growth versus typical single-digit utility growth, driven by Michigan grid modernization and clean energy capex. Forward P/E of 17.6x is reasonable relative to trailing 20.3x, implying expected earnings acceleration, and the 3.1% dividend yield plus 'buy' consensus from all 14 covering analysts supports a total-return case. The golden cross and price still above the 200dma (73.28) keep the longer-term uptrend technically intact despite recent chop.",
+  "bear_case": "Free cash flow is deeply negative (-$2.16B) against an already stretched balance sheet (debt/equity near 190%), meaning continued capex-driven equity or debt issuance is required just as momentum stalls (mom_63d -5%, MACD histogram -0.39, RSI 43.8) \u2014 in a higher-for-longer rate environment this combination of heavy leverage and negative FCF is exactly the setup that punishes rate-sensitive utility multiples, and the stock is already down from its 52-week high with no clear technical catalyst to reverse the recent downtrend.'",
+  "metrics": {
+    "momentum_63d": -0.04977571408420656,
+    "volatility_ann": 0.21527567897212305,
+    "rsi_14": 43.8345307217209,
+    "profit_margin": 0.12548,
+    "revenue_growth": 0.116,
+    "trailing_pe": 20.345304,
+    "return_on_equity": 0.103719994,
+    "beta": 0.342,
+    "market_cap": 22751930368,
+    "analyst_coverage": 14
+  }
+}

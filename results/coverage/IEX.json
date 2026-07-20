@@ -1,0 +1,26 @@
+{
+  "ticker": "IEX",
+  "name": "IDEX Corporation",
+  "sector": "Industrials",
+  "sub_industry": "Industrial Machinery & Supplies & Components",
+  "tier": "S&P 500",
+  "price": 224.94000244140625,
+  "as_of": "2026-07-19T22:33:47.338702+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "IEX trades near its 52-week high with a confirmed golden cross and 19.3% six-month momentum, but the stock's forward P/E of 24x and trailing P/E of 33x already price in much of the 27.8% earnings growth story.",
+  "thesis": "IDEX is a high-quality diversified industrial with 44.4% gross margins, 19.9% operating margins, and accelerating earnings growth (27.8%) outpacing revenue growth (8.9%), suggesting margin expansion and operating leverage are working. The stock is above both its 50-day ($217.1) and 200-day ($193.3) moving averages with a golden cross intact, and beta of 0.97 plus 20.7% annualized vol suggest a relatively low-beta, quality compounder profile that fits well in an Industrials allocation. With only moderate leverage (debt/equity 46.9%) and solid free cash flow (~$525M), IEX has balance sheet flexibility to continue its historical playbook of niche bolt-on M&A, and sell-side consensus already sits at 'buy' across 14 analysts, indicating institutional conviction without excessive crowding.",
+  "bear_case": "The valuation is stretched at 33x trailing and 24x forward earnings with a 4.1x price-to-book, leaving little room for error if the 21-day momentum (only 0.8%) and negative MACD histogram (-0.138) are early signs that the run to within 3% of the 52-week high ($231.7) is exhausting; a -1.76% single-day move adds to that concern. IDEX's premium multiple has historically been justified by best-in-class margins, but if revenue growth of just 8.9% fails to sustain the current pace of earnings beats, the stock could see multiple compression back toward its 50-day support at $217, especially since ROE of 12.7% is unremarkable for a name priced at this premium and dividend yield of only 1.3% offers limited downside cushion.",
+  "metrics": {
+    "momentum_63d": 0.1283948959762884,
+    "volatility_ann": 0.2069343235359696,
+    "rsi_14": 55.94923125600946,
+    "profit_margin": 0.14382,
+    "revenue_growth": 0.089,
+    "trailing_pe": 33.225998,
+    "return_on_equity": 0.12748,
+    "beta": 0.974,
+    "market_cap": 16648946688,
+    "analyst_coverage": 14
+  }
+}

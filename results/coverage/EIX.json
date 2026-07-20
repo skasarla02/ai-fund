@@ -1,0 +1,26 @@
+{
+  "ticker": "EIX",
+  "name": "Edison International",
+  "sector": "Utilities",
+  "sub_industry": "Electric Utilities",
+  "tier": "S&P 500",
+  "price": 77.62999725341797,
+  "as_of": "2026-07-19T22:04:53.045068+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "EIX has rallied ~29% over 6 months to sit just below its 52-week high with a confirmed golden cross, suggesting the market is pricing in far less wildfire-liability risk than a year ago.",
+  "thesis": "EIX's technical picture is strongly constructive: price is above both the 50- and 200-day moving averages, a golden cross is in place, and 21/63/126-day momentum are all firmly positive, with the stock now trading near its 52-week high of $79.88. The trailing P/E of 8.4x looks distorted by one-off wildfire-related charges (earningsGrowth -63.2%), but forward P/E of 11.9x is reasonable for a regulated utility with an 18.9% ROE and 27.5% operating margin. A 4.52% dividend yield plus a low beta (0.65) make this an attractive defensive holding in a market rotating toward yield, and the recent price action suggests investors are gaining confidence that CPUC cost-recovery mechanisms and wildfire fund protections will limit downside from California wildfire litigation.",
+  "bear_case": "The balance sheet is stretched (debt/equity of 226%) and free cash flow is deeply negative (-$1.13B), meaning EIX is funding wildfire mitigation capex and litigation costs with more debt or equity issuance, which is dilutive and raises refinancing risk in a still-elevated-rate environment; earnings growth of -63.2% signals the wildfire liability overhang (including the Eaton fire allegations tied to EIX equipment) is not fully resolved, and with RSI at 67 and price sitting just 3% below its 52-week high, the stock is vulnerable to a sharp pullback on any adverse legal ruling, credit-rating action, or CPUC decision that reintroduces liability uncertainty the market has recently discounted away.",
+  "metrics": {
+    "momentum_63d": 0.0970885604813807,
+    "volatility_ann": 0.21907223335774162,
+    "rsi_14": 66.78806931458072,
+    "profit_margin": 0.18124,
+    "revenue_growth": 0.077,
+    "trailing_pe": 8.438044,
+    "return_on_equity": 0.18864,
+    "beta": 0.649,
+    "market_cap": 29871552512,
+    "analyst_coverage": 14
+  }
+}

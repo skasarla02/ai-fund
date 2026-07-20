@@ -1,0 +1,26 @@
+{
+  "ticker": "FLEX",
+  "name": "Flex Ltd.",
+  "sector": "Information Technology",
+  "sub_industry": "Electronic Manufacturing Services",
+  "tier": "S&P 500",
+  "price": 119.25,
+  "as_of": "2026-07-19T22:20:21.224116+00:00",
+  "rating": "bearish",
+  "conviction": 0.58,
+  "key_signal": "After an +87% 126-day run, FLEX has broken down sharply (-18.8% in 21 days), falling below its 50-day SMA with negative MACD and RSI at 37, even though it remains above its 200-day average.",
+  "thesis": "Flex's fundamentals still look constructive on a multi-quarter view: 16.9% revenue growth, 17.1% earnings growth, 17.3% ROE, and a forward P/E of just 17.2x versus a trailing 51.4x, implying the market expects a meaningful earnings step-up (likely AI/data-center infrastructure exposure driving the prior 87% 126-day rally). All 10 covering analysts rate it strong buy, and the stock remains above its 200dma with an intact golden cross, so the long-term uptrend structure hasn't broken even after this drawdown from the $166.86 52-week high.",
+  "bear_case": "The technical picture has deteriorated meaningfully and quickly: a -18.8% 21-day drop, negative and worsening MACD histogram, price now under the 50dma, and RSI at 37 signaling more room to fall before oversold \u2014 all consistent with a stock unwinding a crowded, momentum-driven rally rather than consolidating healthy gains. Flex carries high beta (1.63) and elevated realized volatility (76% annualized), so in any risk-off tape or guidance disappointment the downside can extend well past this pullback, especially with thin gross margins (9.4%) and debt/equity near 87% leaving little cushion. Given the trailing PE of 51x still embeds high expectations, any stumble versus the priced-in earnings acceleration (needed to justify the 17x forward multiple) could trigger a much sharper de-rating, and a single sell-side downgrade among only 10 analysts covering the name could move the stock disproportionately.",
+  "metrics": {
+    "momentum_63d": 0.49211715130315437,
+    "volatility_ann": 0.7589117999645317,
+    "rsi_14": 37.10435164968396,
+    "profit_margin": 0.03153,
+    "revenue_growth": 0.169,
+    "trailing_pe": 51.400864,
+    "return_on_equity": 0.17347,
+    "beta": 1.626,
+    "market_cap": 43691954176,
+    "analyst_coverage": 10
+  }
+}

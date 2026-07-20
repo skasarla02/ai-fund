@@ -1,0 +1,26 @@
+{
+  "ticker": "GE",
+  "name": "GE Aerospace",
+  "sector": "Industrials",
+  "sub_industry": "Aerospace & Defense",
+  "tier": "S&P 500",
+  "price": 348.8299865722656,
+  "as_of": "2026-07-19T22:23:34.451759+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "GE Aerospace trades above both its 50- and 200-day moving averages with a golden cross intact, but has pulled back ~9% from its 52-week high of $382.97 amid a short-term momentum stall (mom_21d -0.7%, MACD hist negative), setting up a potential re-entry into an otherwise strong uptrend.",
+  "thesis": "GE Aerospace continues to demonstrate exceptional operating performance: 21% revenue growth, 20.6% operating margins, and a remarkable 48.2% ROE reflect the high-margin, recurring nature of its aftermarket-heavy engine services business, which benefits from a global fleet backlog and airlines needing to keep aging aircraft flying longer due to OEM delivery delays. The stock is up 17% over 63 days and nearly 10% over 126 days, trading comfortably above its 50-day ($333) and 200-day ($312) moving averages with a golden cross still in effect, signaling an intact intermediate-to-long-term uptrend despite a recent one-month digestion (-0.7%) that has pushed RSI to a neutral 48 \u2014 not overbought, leaving room to run. Sell-side sentiment is a 'strong buy' consensus across 21 analysts, and with earnings growth (19.4%) tracking closely with revenue growth, the current premium valuation (41x trailing P/E) is being underwritten by genuine execution, not multiple expansion alone. The pullback from the 52-week high offers a tactical entry point within a structurally bullish trend for a wide-moat aerospace franchise with limited near-term competitive threat given the duopoly engine market.",
+  "bear_case": "Valuation is stretched to a degree that leaves little room for error: a 41x trailing P/E, 39x forward P/E, and a startling 20x price-to-book for an industrial company implies the market has already priced in years of flawless execution, and any deceleration in aftermarket parts/services growth or margin compression from supply chain costs could trigger a sharp de-rating. The balance sheet carries elevated leverage (debt-to-equity of 113%), and free cash flow of $6.6B against a $362B market cap is a yield of under 2%, meaning the stock is priced far ahead of its cash generation. Technically, the negative MACD histogram (-4.33) and stalled 21-day momentum suggest the rally is losing steam right after topping out near $383, and with a high beta of 1.35 combined with elevated 30-day annualized volatility (33%), any broader market or aerospace-sector risk-off move (e.g., renewed tariff/supply chain disruption, or a single negative commentary on 737 MAX/LEAP engine delivery timelines) could produce an outsized drawdown from these highs.",
+  "metrics": {
+    "momentum_63d": 0.17089010077443634,
+    "volatility_ann": 0.3298998553792269,
+    "rsi_14": 47.994708249493975,
+    "profit_margin": 0.17716,
+    "revenue_growth": 0.211,
+    "trailing_pe": 41.135612,
+    "return_on_equity": 0.48231998,
+    "beta": 1.348,
+    "market_cap": 361932914688,
+    "analyst_coverage": 21
+  }
+}

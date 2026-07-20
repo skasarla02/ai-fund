@@ -1,0 +1,26 @@
+{
+  "ticker": "IQV",
+  "name": "IQVIA",
+  "sector": "Health Care",
+  "sub_industry": "Life Sciences Tools & Services",
+  "tier": "S&P 500",
+  "price": 206.25999450683594,
+  "as_of": "2026-07-19T22:38:22.756754+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "Forward P/E of 14.6 vs trailing P/E of 25.7 signals the Street expects a sharp earnings acceleration (15% earnings growth) that the stock hasn't fully re-rated for, even as 21d/63d momentum (+15%/+20%) shows the market starting to agree.",
+  "thesis": "IQV has staged a powerful recovery \u2014 up 15% in the last month and 20% over three months, reclaiming and holding above both the 50- and 200-day moving averages with a positive MACD histogram \u2014 after a rough prior six months (-14.5% over 126d) that left the stock still ~16% below its 52-week high of $247. Fundamentals support the bounce: 22.5% ROE, 13.6% operating margin, 8.4% revenue growth and 15% earnings growth, with the forward P/E (14.6x) roughly 40% cheaper than trailing (25.7x), implying consensus expects meaningful margin/earnings expansion. Free cash flow of ~$2.28B against a $34.4B market cap (~6.6% FCF yield) gives balance-sheet flexibility despite leverage, and the 19-analyst 'strong buy' consensus suggests sell-side conviction is already aligned with the technical turn, reducing (though not eliminating) the odds of a negative surprise reversing sentiment.",
+  "bear_case": "The balance sheet is stretched (debt-to-equity of 253%) and net profit margin is thin at 8.3% despite a 33% gross margin, meaning any deceleration in CRO/commercial demand or cost inflation could disproportionately hit the bottom line and make the low forward P/E a value trap rather than a discount; the golden cross hasn't yet formed (50-day SMA of $184.8 still below the 200-day of $196.6), the stock just dropped 2% in a single session, and 30-day annualized volatility of ~39% with a 126-day return of -14.5% shows this is a name that has whipsawed investors before, so the recent 15-20% rally could just as easily be a bear-market bounce that stalls well short of the $247 high.",
+  "metrics": {
+    "momentum_63d": 0.19953473781637365,
+    "volatility_ann": 0.38748213240039037,
+    "rsi_14": 62.67295574471176,
+    "profit_margin": 0.08327,
+    "revenue_growth": 0.084,
+    "trailing_pe": 25.654228,
+    "return_on_equity": 0.22490999,
+    "beta": 1.2,
+    "market_cap": 34424791040,
+    "analyst_coverage": 19
+  }
+}

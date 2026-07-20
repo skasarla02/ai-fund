@@ -1,0 +1,26 @@
+{
+  "ticker": "BA",
+  "name": "Boeing",
+  "sector": "Industrials",
+  "sub_industry": "Aerospace & Defense",
+  "tier": "S&P 500",
+  "price": 214.02999877929688,
+  "as_of": "2026-07-19T21:34:34.463161+00:00",
+  "rating": "bearish",
+  "conviction": 0.6,
+  "key_signal": "Boeing trades below its 200-day moving average with negative momentum across the 21/63/126-day windows and a negative MACD histogram, despite a technical golden cross, signaling deteriorating near-term price action.",
+  "thesis": "Boeing's revenue growth of 14% YoY and modestly positive free cash flow ($2.55B) suggest the 737 MAX/787 production ramp and defense backlog are slowly translating into financial recovery, and 26 analysts still carry a consensus 'buy' rating, implying sell-side confidence that operational execution (delivery rates, FCF inflection) will improve through 2024-2025 and justify the premium valuation on a normalized earnings basis.",
+  "bear_case": "The stock is priced for a recovery that hasn't shown up in the numbers yet \u2014 profit margins of 2.5%, operating margins of 1.7%, a trailing P/E of 85x and forward P/E of 53x reflect a company still barely profitable, while debt-to-equity of 829% and negative/distorted ROE (169.9%) indicate a balance sheet with negative or near-negative book equity, leaving almost no cushion for further production snags, regulatory setbacks, or defense program charges; meanwhile price is down nearly 12% over 126 days, sits below its 200-day SMA, and MACD/RSI show momentum still rolling over, so the 'golden cross' is a lagging artifact rather than a genuine reversal signal, and any negative delivery or certification headline (a recurring pattern for BA) could quickly re-test the 52-week low of $176.77.",
+  "metrics": {
+    "momentum_63d": -0.022158287624821194,
+    "volatility_ann": 0.348569524241469,
+    "rsi_14": 42.8143625368857,
+    "profit_margin": 0.024600001,
+    "revenue_growth": 0.14,
+    "trailing_pe": 84.59684,
+    "return_on_equity": 1.69947,
+    "beta": 1.205,
+    "market_cap": 168720351232,
+    "analyst_coverage": 26
+  }
+}

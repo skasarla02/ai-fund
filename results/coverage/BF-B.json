@@ -1,0 +1,26 @@
+{
+  "ticker": "BF-B",
+  "name": "Brown\u2013Forman",
+  "sector": "Consumer Staples",
+  "sub_industry": "Distillers & Vintners",
+  "tier": "S&P 500",
+  "price": 25.579999923706055,
+  "as_of": "2026-07-19T21:36:42.257759+00:00",
+  "rating": "bearish",
+  "conviction": 0.6,
+  "key_signal": "Earnings growth has collapsed -62.7% while the stock trades below both its 50- and 200-day moving averages near 52-week lows, signaling a broken trend that fundamentals aren't yet reversing.",
+  "thesis": "Brown-Forman remains a high-quality, high-margin staple (60% gross margin, 23% operating margin, 17.8% ROE) trading at a modest 14.9x forward P/E with a well-covered 3.6% dividend yield, offering value if the earnings decline proves cyclical (e.g., destocking, tariff-related whiskey/tequila softness) rather than structural, and low beta (0.34) could attract defensive capital rotation if the broader market wobbles.",
+  "bear_case": "The technical picture is uniformly negative \u2014 price is below both the 50-day (26.17) and 200-day (26.83) moving averages, momentum is negative across 21/63/126-day windows, MACD histogram is negative, and there's no golden cross \u2014 while the -62.7% earnings growth and only 2% revenue growth suggest the fundamental deterioration (likely tied to weakening US whiskey/spirits consumption and inventory corrections) is real and ongoing, not yet fully reflected in consensus 'hold' ratings from all 17 analysts, meaning the stock could still be a value trap rather than a bottom, especially with 36% annualized volatility far above what's typical for a staple, indicating the market is still repricing risk downward.",
+  "metrics": {
+    "momentum_63d": -0.1241347660704214,
+    "volatility_ann": 0.36209989860158354,
+    "rsi_14": 45.788790236557325,
+    "profit_margin": 0.18202999,
+    "revenue_growth": 0.02,
+    "trailing_pe": 16.718954,
+    "return_on_equity": 0.17846,
+    "beta": 0.344,
+    "market_cap": 11737747456,
+    "analyst_coverage": 17
+  }
+}

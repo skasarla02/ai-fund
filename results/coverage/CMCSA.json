@@ -1,0 +1,26 @@
+{
+  "ticker": "CMCSA",
+  "name": "Comcast",
+  "sector": "Communication Services",
+  "sub_industry": "Cable & Satellite",
+  "tier": "S&P 500",
+  "price": 23.790000915527344,
+  "as_of": "2026-07-19T21:51:26.215772+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "CMCSA trades at 4.7x trailing earnings and just above book value while sitting near 52-week lows, with earnings growth at -32.6% signaling the market is pricing in structural erosion in cable/broadband, not just cheap optics.",
+  "thesis": "At 4.66x trailing PE, 0.96x price-to-book, and a 5.55% dividend yield, Comcast is priced for continued decline, yet it still generates $4B+ in free cash flow, 70% gross margins, and 20.9% ROE, giving it ample capacity to defend the dividend and buy back stock at depressed levels. Revenue is still growing modestly (+5.3%), and short-term technicals show tentative stabilization: 21-day momentum has turned positive (+1.9%), MACD histogram is positive, and RSI sits neutrally at 51.6, suggesting the sharp 63-126 day selloff (-17.8%/-14.2%) may be exhausting itself near the 50-day SMA ($23.89) which price is testing from below.",
+  "bear_case": "The stock is below both its 50-day and 200-day moving averages with no golden cross, and earnings growth of -32.6% is not a valuation quirk but a reflection of accelerating broadband subscriber losses and cord-cutting pressure on the core cable segment, which the 5.3% revenue growth cannot offset given margin compression. High leverage (debt/equity ~107%) limits flexibility to pivot capital toward streaming/content investment needed to compete with Peacock's larger rivals, and with 21 analysts already covering the name at a 'hold' consensus, any structural re-rating higher requires a fundamental inflection in subscriber trends that isn't yet visible in the data \u2014 the cheap multiple could easily stay cheap or get cheaper as the market re-prices for permanently lower cable economics, especially with price still 30% below the 52-week high and only marginally above the 52-week low of $22.13.",
+  "metrics": {
+    "momentum_63d": -0.1783937959332087,
+    "volatility_ann": 0.2944771416835725,
+    "rsi_14": 51.60607378148302,
+    "profit_margin": 0.15004,
+    "revenue_growth": 0.053,
+    "trailing_pe": 4.664706,
+    "return_on_equity": 0.20918,
+    "beta": 0.655,
+    "market_cap": 84983324672,
+    "analyst_coverage": 21
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "CAT",
+  "name": "Caterpillar Inc.",
+  "sector": "Industrials",
+  "sub_industry": "Construction Machinery & Heavy Transportation Equipment",
+  "tier": "S&P 500",
+  "price": 880.280029296875,
+  "as_of": "2026-07-19T21:40:08.204888+00:00",
+  "rating": "bearish",
+  "conviction": 0.58,
+  "key_signal": "CAT has broken below its 50-day moving average with negative MACD momentum and a 6.9% one-month drawdown, even as it trades at a stretched 43.9x trailing / 21.7x book multiple that leaves little room for cyclical disappointment.",
+  "thesis": "Long-term trend remains technically intact (above 200dma, golden cross, +38% over 6 months) and fundamentals are genuinely strong \u2014 22% revenue growth, 30% earnings growth, 51% ROE, and a 'buy' consensus from 26 analysts reflect real demand strength tied to infrastructure/data-center construction and mining capex cycles. If the current pullback is just consolidation within an uptrend, the stock could resume its climb toward the 52-week high of $1,073.",
+  "bear_case": "CAT trades at 43.9x trailing earnings and nearly 22x book value \u2014 extreme multiples for a highly cyclical, 1.57-beta heavy equipment maker with 230% debt-to-equity \u2014 leaving almost no margin for error if the 6.9% one-month decline, sub-50dma price action, and negative MACD histogram mark the start of a real momentum reversal rather than noise; RSI at 40 with price already 18% off its 52-week high suggests distribution is underway, and any slowdown in the growth/earnings momentum that currently justifies the premium (30% earnings growth) would trigger multiple compression on top of a cyclical downturn, a combination that has historically hit CAT hard given its history of sharp corrections.",
+  "metrics": {
+    "momentum_63d": 0.14145412429366022,
+    "volatility_ann": 0.5283198745407609,
+    "rsi_14": 40.11740050054016,
+    "profit_margin": 0.13328,
+    "revenue_growth": 0.222,
+    "trailing_pe": 43.86049,
+    "return_on_equity": 0.51331,
+    "beta": 1.565,
+    "market_cap": 405449900032,
+    "analyst_coverage": 26
+  }
+}

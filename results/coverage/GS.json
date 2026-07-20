@@ -1,0 +1,26 @@
+{
+  "ticker": "GS",
+  "name": "Goldman Sachs",
+  "sector": "Financials",
+  "sub_industry": "Investment Banking & Brokerage",
+  "tier": "S&P 500",
+  "price": 1065.219970703125,
+  "as_of": "2026-07-19T22:27:37.059919+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "GS trades 18% above its 200-day SMA with a golden cross intact, but just posted a sharp -2.8% daily drop and sits 8% below its 52-week high, suggesting a healthy pullback within an intact uptrend rather than a trend reversal.",
+  "thesis": "Goldman's fundamentals have inflected strongly: revenue growth of 42.5% and earnings growth of 92.3% YoY reflect a booming capital markets cycle (trading, underwriting, M&A advisory) that is finally showing through to the bottom line, with a 31% net margin and 42% operating margin. The stock's forward PE of 14.7 is undemanding for this growth trajectory, and at 2.9x book with 17% ROE, valuation is not stretched relative to peers given the earnings momentum. Price technicals confirm the fundamental story: price is above both the 50-day (1027) and 200-day (897) SMAs, a golden cross is in place, and 63-day/126-day momentum (+18.9%/+15.3%) show a strong intermediate uptrend. The 1-day -2.8% drop and slightly negative 21-day momentum look like a routine consolidation after a big run (stock hit a 52-week high of 1154 recently), not a change in trend \u2014 RSI at 51 is neutral, not overbought, leaving room to run. With only 20 analysts covering a $314B mega-cap and a 'hold' consensus, there's room for estimate revisions to catch up to the realized earnings growth, which could re-rate the stock as capital markets activity (IPOs, M&A, trading volumes) continues to normalize higher.",
+  "bear_case": "The bear case centers on leverage and cyclicality: debt-to-equity of 647% is extreme (typical for an investment bank funding a trading book, but it means GS is highly exposed to any credit-market shock or rate volatility), and the 92% earnings growth rate is coming off an unusually weak prior-year base in trading/banking activity, making it unsustainable and setting up for difficult comps in coming quarters. Beta of 1.29 combined with 46% annualized 30-day volatility means GS is a high-beta, high-vol name that will get hit hard in any risk-off equity selloff, and the -2.8% single-day drop plus negative 21-day momentum could be an early signal that the capital-markets-boom narrative is peaking \u2014 GS is already 18% above its 200dma, a level from which mean-reversion pullbacks are common. Additionally, a 'hold' consensus from 20 analysts despite spectacular earnings growth suggests the sell-side already sees limited upside from current levels, possibly pricing in normalization of trading/banking revenues once the current cycle of elevated deal activity cools.",
+  "metrics": {
+    "momentum_63d": 0.18879403698602082,
+    "volatility_ann": 0.4593217598528554,
+    "rsi_14": 51.41665116193302,
+    "profit_margin": 0.31039,
+    "revenue_growth": 0.425,
+    "trailing_pe": 16.446194,
+    "return_on_equity": 0.16951999,
+    "beta": 1.292,
+    "market_cap": 314247806976,
+    "analyst_coverage": 20
+  }
+}

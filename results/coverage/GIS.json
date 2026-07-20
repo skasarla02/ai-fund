@@ -1,0 +1,26 @@
+{
+  "ticker": "GIS",
+  "name": "General Mills",
+  "sector": "Consumer Staples",
+  "sub_industry": "Packaged Foods & Meats",
+  "tier": "S&P 500",
+  "price": 37.970001220703125,
+  "as_of": "2026-07-19T22:25:22.275975+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "GIS has staged a sharp technical reversal (+12% over 21 days, MACD turning positive, RSI 63) after falling ~26% from its 52-week high, even as it still trades below its 200-day average.",
+  "thesis": "After a brutal 126-day slide (-13.9%) that pushed shares near their 52-week low of $31.75, GIS has rebounded hard, up 12.3% in the last month with rising momentum (MACD histogram +0.23) and RSI near 63 signaling renewed buying interest without being overbought. Valuation now looks attractive on a forward basis (forward P/E of 11.75 vs. price/book of 3.67), and the trailing dividend yield of 6.43% is unusually high for a staples name, offering a strong income cushion while the market waits for earnings to stabilize. Operating margins remain healthy at 19.2% and gross margins at 33.7%, and free cash flow of $2.3B provides support for the dividend even amid near-term earnings softness. With low analyst coverage-driven mispricing less likely at 18 analysts but sentiment still 'hold,' any signs of margin stabilization could trigger a re-rating higher given how depressed sentiment already is.",
+  "bear_case": "The fundamental picture is genuinely deteriorating, not just cheap: trailing profit margins are negative (-0.48%), ROE is negative (-1.03%), earnings growth is down 14.5% year-over-year, and revenue growth is anemic at 2.2% \u2014 this isn't a temporary blip but a real erosion in profitability, likely tied to input costs, promotional spending, or category headwinds in packaged foods. Debt-to-equity of 217.6% leaves little room for error if free cash flow weakens further, especially with the dividend yield already elevated to 6.43%, a level markets often price in as a warning sign of potential dividend risk rather than a value opportunity. Critically, the stock remains below both its 50-day (34.15) and 200-day (40.21) moving averages with no golden cross, meaning the recent bounce could easily be a bear-market rally within a larger downtrend, and 30-day annualized volatility of 40% suggests this name is trading anything but 'defensively' right now.",
+  "metrics": {
+    "momentum_63d": 0.0936369883167194,
+    "volatility_ann": 0.401320091567655,
+    "rsi_14": 62.75750330761902,
+    "profit_margin": -0.00475,
+    "revenue_growth": 0.022,
+    "trailing_pe": null,
+    "return_on_equity": -0.01028,
+    "beta": -0.047,
+    "market_cap": 20264908800,
+    "analyst_coverage": 18
+  }
+}

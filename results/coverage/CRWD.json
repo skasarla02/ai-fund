@@ -1,0 +1,26 @@
+{
+  "ticker": "CRWD",
+  "name": "CrowdStrike",
+  "sector": "Information Technology",
+  "sub_industry": "Systems Software",
+  "tier": "S&P 500",
+  "price": 203.0800018310547,
+  "as_of": "2026-07-19T21:55:32.685859+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "CRWD is up ~94% over the past 63 trading days and sits just 7% below its 52-week high with a golden cross and positive MACD, signaling powerful institutional accumulation despite negative GAAP profitability.",
+  "thesis": "The technical picture is about as strong as it gets: price is above both the 50- and 200-day moving averages, a golden cross is in place, momentum over 21/63/126 days is exceptionally strong (19.5%/94%/76%), RSI at 62.8 shows room before overbought, and MACD histogram is firmly positive. Fundamentally, 25.6% revenue growth alongside 75% gross margins and positive free cash flow ($1.93B) shows the underlying subscription business is scaling well even while GAAP net margin (-0.6%) and operating margin (-2.2%) remain slightly negative, likely driven by stock-based comp and reinvestment rather than a broken model. With 49 analysts already carrying a 'buy' consensus and the stock trading near all-time highs, the market is rewarding CrowdStrike's post-outage recovery and continued platform consolidation (Falcon modules) in a security software category still seeing durable double-digit growth.",
+  "bear_case": "Valuation is priced for flawless execution: a forward P/E of 130x, price-to-book of 44.6x, and negative trailing earnings and ROE (-0.25%) leave zero margin for error, especially with 30-day annualized volatility near 58% and a beta above 1.2 that will amplify any risk-off move or growth deceleration. Revenue growth of 25.6% is decelerating from CrowdStrike's historical 30%+ pace, and with the stock only 7% off its 52-week high after a near-doubling in six months, any guidance softness, renewed fallout from last year's outage, or broader multiple compression in high-growth software could trigger an outsized pullback given how much good news is already embedded in the price and how widely covered (49 analysts) this name is, limiting the chance of further multiple expansion surprise.",
+  "metrics": {
+    "momentum_63d": 0.9424198556026755,
+    "volatility_ann": 0.5852081438341252,
+    "rsi_14": 62.8165677191293,
+    "profit_margin": -0.00598,
+    "revenue_growth": 0.256,
+    "trailing_pe": null,
+    "return_on_equity": -0.0024899999,
+    "beta": 1.237,
+    "market_cap": 206788100096,
+    "analyst_coverage": 49
+  }
+}

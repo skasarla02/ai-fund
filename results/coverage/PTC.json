@@ -1,0 +1,26 @@
+{
+  "ticker": "PTC",
+  "name": "PTC Inc.",
+  "sector": "Information Technology",
+  "sub_industry": "Application Software",
+  "tier": "S&P 500",
+  "price": 124.8499984741211,
+  "as_of": "2026-07-20T15:57:09.463117+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "PTC trades 43% below its 52-week high and below both its 50- and 200-day moving averages, yet momentum has just turned positive (mom_21d +6.8%, MACD histogram +1.23) while trading at a forward PE of only 14.5x against 21.7% revenue growth and 34% ROE.",
+  "thesis": "PTC's fundamentals remain best-in-class for application software: 84.7% gross margin, 41.6% operating margin, 21.7% revenue growth and a 33% FCF margin ($986M FCF on $3.0B revenue). The stock has been beaten down from $219.69 to $124.85 (a 43% drawdown) alongside broader software multiple compression, pushing the forward PE to just 14.5x for a company growing earnings and revenue at a double-digit clip \u2014 a PEG well below 1. Technicals are starting to inflect: 21-day momentum has turned positive (+6.8%) after a brutal 126-day slide (-25.2%), RSI is neutral at 50.8 rather than oversold-then-bounced, and the MACD histogram is solidly positive (+1.23), suggesting a bottoming process is underway even though price remains below both moving averages. With 20 analysts already rating this a 'buy' and a market cap of $14.4B, this is a liquid, well-scrutinized name where the recent momentum inflection combined with a genuinely cheap multiple relative to growth offers an attractive entry for a reversal trade.",
+  "bear_case": "The technical picture is still structurally negative: price sits below both the 50-day ($130.4) and 200-day ($157.6) moving averages with no golden cross, and the 126-day momentum of -25% shows the primary trend remains down \u2014 a single month of bounce doesn't override a six-month downtrend, especially with 30-day annualized volatility near 49% meaning this 'bounce' could easily reverse just as fast. The trailing PE of 12x looks anomalously cheap next to a forward PE of 14.5x and an implausible reported earningsGrowth of 269%, strongly suggesting trailing earnings were inflated by a one-time gain (e.g., a divestiture) rather than reflecting sustainable earnings power \u2014 meaning the 'cheap' valuation is partly an illusion and the more honest forward multiple of 14.5x is much less of a bargain for a stock that's fallen 43% from its highs, often a sign the market is pricing in decelerating ARR/bookings growth in its core CAD/PLM franchise rather than a temporary dislocation.",
+  "metrics": {
+    "momentum_63d": -0.10655507681206844,
+    "volatility_ann": 0.4867835084301328,
+    "rsi_14": 50.83954356671165,
+    "profit_margin": 0.41575,
+    "revenue_growth": 0.217,
+    "trailing_pe": 11.993276,
+    "return_on_equity": 0.344,
+    "beta": 0.994,
+    "market_cap": 14420897792,
+    "analyst_coverage": 20
+  }
+}

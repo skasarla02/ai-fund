@@ -1,0 +1,26 @@
+{
+  "ticker": "CSGP",
+  "name": "CoStar Group",
+  "sector": "Real Estate",
+  "sub_industry": "Real Estate Services",
+  "tier": "S&P 500",
+  "price": 29.780000686645508,
+  "as_of": "2026-07-19T21:54:44.010226+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "CSGP has collapsed 69% from its 52-week high (from $97.43 to $29.78) amid margin destruction from Homes.com marketing spend, yet forward PE of 16.8 vs trailing PE of 425 implies the Street expects a sharp earnings recovery.",
+  "thesis": "Revenue growth remains robust at 22.5% with 78.6% gross margins, and free cash flow is still positive ($202M), suggesting the core business (CoStar, LoopNet, Apartments.com) remains structurally sound even as CoStar burns cash building Homes.com against Zillow. The stock is down over 50% on 126-day momentum and trades at just 1.53x book, a level rarely seen for this franchise; MACD histogram has turned positive and RSI sits at a neutral 48, hinting at stabilization after a brutal drawdown. The 20-analyst consensus remains 'buy,' and a forward PE of ~17x versus a trailing PE north of 400x signals the market is pricing in material margin recovery as Homes.com spend normalizes, which could re-rate the stock sharply if execution improves.",
+  "bear_case": "The fundamentals show the growth story funding its own destruction: operating margin of just 0.33% and ROE of 0.3% reveal that CoStar is burning enormous sums (well beyond what's visible in FCF) to buy market share in residential listings against Zillow's entrenched network effects, with no proof yet that Homes.com spend generates durable returns. Price remains below both the 50-day ($31.57) and 200-day ($51.38) SMAs with no golden cross, and the stock is still down 25.6% over 63 days and 53% over 126 days \u2014 this is a confirmed structural downtrend, not a completed bottom. Annualized volatility of ~50% signals the market still views this as a high-risk, high-uncertainty situation, and if Homes.com spend doesn't inflect toward profitability within the next few quarters, the 'forward PE recovery' story could unravel, sending the stock toward new lows given it's already sitting just $3 above its 52-week low of $26.68.",
+  "metrics": {
+    "momentum_63d": -0.2562437561009908,
+    "volatility_ann": 0.4958536351591928,
+    "rsi_14": 48.14283455771625,
+    "profit_margin": 0.00733,
+    "revenue_growth": 0.225,
+    "trailing_pe": 425.4286,
+    "return_on_equity": 0.00303,
+    "beta": 0.735,
+    "market_cap": 12160833536,
+    "analyst_coverage": 20
+  }
+}

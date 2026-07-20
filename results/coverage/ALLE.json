@@ -1,0 +1,26 @@
+{
+  "ticker": "ALLE",
+  "name": "Allegion",
+  "sector": "Industrials",
+  "sub_industry": "Building Products",
+  "tier": "S&P 500",
+  "price": 137.24000549316406,
+  "as_of": "2026-07-19T21:17:43.516715+00:00",
+  "rating": "neutral",
+  "conviction": 0.56,
+  "key_signal": "ALLE trades 10% below its 200-day SMA (137 vs 152) after a 14% six-month drawdown, yet has stabilized with a positive 21-day momentum and a cheap forward P/E of 14.3x versus trailing 18.8x, signaling the market is pricing in an earnings inflection that hasn't yet shown up (earnings growth is currently -7%).",
+  "thesis": "Allegion's fundamentals remain strong for an industrial name\u201445% gross margin, 18.9% operating margin, and a standout 34% ROE\u2014while trading near the low end of its 52-week range ($125-$183) at just 14.3x forward earnings, a discount to its own trailing multiple that implies analysts expect margin/earnings recovery. Revenue is still growing at 9.7%, the stock has reclaimed its 50-day SMA and RSI sits at a neutral 53 rather than oversold, and sell-side consensus is a 'buy' across all 11 covering analysts, suggesting institutional confidence hasn't broken despite the technical damage. If the recent 21-day uptrend (+1.8%) extends and the negative MACD histogram narrows, this looks like a base-building phase after an overdone correction from the highs.",
+  "bear_case": "The stock is still below its 200-day SMA with no golden cross, momentum over both 63 and 126 days remains firmly negative (-2.6% and -14.4% respectively), and earnings growth is currently contracting (-7%) even as revenue grows\u2014a margin-compression signal that a 5.6x price-to-book and 106% debt-to-equity ratio make riskier if rates or input costs stay elevated. With only 11 analysts covering a $11.8B industrial, the 'buy' consensus may lag the deteriorating trend rather than lead it, and the recent bounce off the 52-week low could simply be a technical relief rally within a longer downtrend rather than a genuine inflection, especially since the stock has round-tripped nearly 25% from its highs without stabilizing above the 200-day average.",
+  "metrics": {
+    "momentum_63d": -0.026245431344223857,
+    "volatility_ann": 0.2902472513971759,
+    "rsi_14": 52.96360818260084,
+    "profit_margin": 0.15237,
+    "revenue_growth": 0.097,
+    "trailing_pe": 18.774282,
+    "return_on_equity": 0.34179002,
+    "beta": 0.858,
+    "market_cap": 11793838080,
+    "analyst_coverage": 11
+  }
+}

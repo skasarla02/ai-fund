@@ -1,0 +1,26 @@
+{
+  "ticker": "AMZN",
+  "name": "Amazon",
+  "sector": "Consumer Discretionary",
+  "sub_industry": "Broadline Retail",
+  "tier": "S&P 500",
+  "price": 247.22999572753906,
+  "as_of": "2026-07-19T21:19:22.520752+00:00",
+  "rating": "bullish",
+  "conviction": 0.65,
+  "key_signal": "Price sits above both the 50- and 200-day moving averages (golden cross intact) while trading ~11% below its 52-week high, with earnings growth of 74.8% far outpacing 16.6% revenue growth, signaling strong operating leverage.",
+  "thesis": "AMZN's fundamentals show a business inflecting on margin: operating margin of 13.1% and net margin of 12.2% on $742.8B revenue, with ROE of 24.3% and earnings growth of 74.8% vastly outstripping the 16.6% revenue growth rate, implying AWS and advertising mix-shift plus retail efficiency gains are driving disproportionate profit growth. Technicals corroborate a constructive setup: price is above both the 50-day ($252.1, near-term resistance now overhead after a pullback) and 200-day ($234.1) moving averages, a golden cross remains active, MACD histogram is solidly positive (1.58), and RSI at 51.3 is neutral, leaving room to run without being overbought. Momentum over 126 days is positive (+4.5%) even as shorter-term momentum has stalled (-1.0% over 63 days, +0.5% over 21 days), consistent with healthy consolidation after a strong 78-point year-over-year uptrend rather than a breakdown. At a forward P/E of 24.9x against 74.8% earnings growth, the stock's PEG-like profile looks attractive relative to its own history and megacap peers. Sell-side sentiment is a 'strong buy' consensus across 61 analysts, and with the stock ~11% off its 52-week high of $278.56, there's a credible re-rating path back toward highs if AWS growth and margin expansion continue through upcoming prints.",
+  "bear_case": "The bear case centers on valuation and macro sensitivity: a trailingPE of 29.6x and price-to-book of 6.0x are rich for a business with only 16.6% top-line growth and a beta of 1.461, meaning any deceleration in AWS growth or consumer spending softness (Amazon's core discretionary retail exposure) could trigger an outsized drawdown given 32.7% annualized volatility. The stock has already broken below its 50-day moving average ($252.1 vs. $247.2 spot) and posted a -1.06% daily move, short-term momentum (63-day: -0.99%) is negative, and free cash flow of $9.8B looks surprisingly thin relative to a $2.66T market cap, raising questions about capex intensity (AI infrastructure, fulfillment) eating into the cash conversion story that partly justifies the premium multiple. With 61 analysts already covering the name and a 'strong buy' consensus largely priced in, positive surprises may be harder to come by, while high debt-to-equity (53.3) and elevated beta leave the stock disproportionately exposed to any macro risk-off move or disappointing AWS growth number that could quickly erase the recent golden-cross-driven optimism.",
+  "metrics": {
+    "momentum_63d": -0.009891875253867588,
+    "volatility_ann": 0.32691476112373896,
+    "rsi_14": 51.323653031139735,
+    "profit_margin": 0.12224,
+    "revenue_growth": 0.166,
+    "trailing_pe": 29.572968,
+    "return_on_equity": 0.24285,
+    "beta": 1.461,
+    "market_cap": 2659480240128,
+    "analyst_coverage": 61
+  }
+}

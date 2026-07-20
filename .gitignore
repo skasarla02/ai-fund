@@ -3,7 +3,6 @@ __pycache__/
 *.pyc
 *.pyo
 data_cache/
-results/
 .env
 *.sqlite
 .DS_Store

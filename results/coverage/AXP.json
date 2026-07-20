@@ -1,0 +1,26 @@
+{
+  "ticker": "AXP",
+  "name": "American Express",
+  "sector": "Financials",
+  "sub_industry": "Consumer Finance",
+  "tier": "S&P 500",
+  "price": 355.3500061035156,
+  "as_of": "2026-07-19T21:20:22.530317+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "AXP trades well above both its 50- and 200-day moving averages with strong 21d/63d momentum (+4.6%/+9.4%) despite sitting ~8% below its 52-week high, while ROE of 34% and 17.6% earnings growth continue to justify a premium multiple.",
+  "thesis": "American Express continues to compound at a rate few consumer-finance peers can match: 34% ROE, 21% operating margins, and double-digit revenue (11.6%) and earnings (17.6%) growth, reflecting its premium closed-loop network and affluent, less credit-sensitive cardholder base. The stock is in a clear uptrend (price above both the 50- and 200-day SMAs, positive MACD histogram, RSI at 61 indicating momentum without being overbought) and has recovered from a mid-cycle pullback (126d momentum roughly flat, but 63d momentum +9.4%), suggesting the recent dip (52-week high $387 vs current $355) is being bought. A forward P/E of 17.6x versus a trailing 22.2x implies the market is pricing continued earnings growth, and with 25 analysts already on a 'buy' consensus, sentiment is aligned but not yet stretched given the stock is still ~8% off its high.",
+  "bear_case": "AXP's premium valuation (7.1x book, 22x trailing earnings) leaves little room for error if consumer credit normalizes or spending growth decelerates, and the balance sheet carries elevated leverage (debt/equity of 178%) typical of a card issuer funding its own lending book \u2014 a risk if funding costs stay elevated or credit losses tick up in a labor-market slowdown. The stock's 1-day drop of -1.7% and 30-day annualized volatility of 26.6% show it remains sensitive to macro data surprises, and momentum has clearly decelerated from the 63-day pace (+9.4%) to the 21-day pace (+4.6%), with the 126-day return essentially flat, hinting the strong short-term move may be a bounce within a broader consolidation rather than a fresh breakout \u2014 especially since price is still notably below its 52-week high and no golden cross has formed (50dma still below the recent highs' implied trend).",
+  "metrics": {
+    "momentum_63d": 0.09381971344521434,
+    "volatility_ann": 0.2656426155009839,
+    "rsi_14": 61.065455220597244,
+    "profit_margin": 0.16305,
+    "revenue_growth": 0.116,
+    "trailing_pe": 22.16781,
+    "return_on_equity": 0.34419,
+    "beta": 1.045,
+    "market_cap": 242464718848,
+    "analyst_coverage": 25
+  }
+}

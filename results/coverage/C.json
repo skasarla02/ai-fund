@@ -1,0 +1,26 @@
+{
+  "ticker": "C",
+  "name": "Citigroup",
+  "sector": "Financials",
+  "sub_industry": "Diversified Banks",
+  "tier": "S&P 500",
+  "price": 129.36000061035156,
+  "as_of": "2026-07-19T21:48:29.623003+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "Citi trades at just 10.1x forward earnings and 1.13x book value despite 61% earnings growth, even as a sharp 21-day pullback (-9.5%) pushed RSI to 37 and price below its 50dma while the longer-term uptrend (golden cross, above 200dma) remains intact.",
+  "thesis": "Citigroup's turnaround narrative is showing up in the numbers\u201461% earnings growth and 14.5% revenue growth alongside expanding operating margins (36%)\u2014yet the stock still trades at a discount to book (P/B 1.13) and a single-digit forward PE (10.1x), well below where a bank compounding ROE improvement should trade. The 126-day momentum of +16% shows the market has been rewarding the story until this month's sharp -9.5% drawdown, which looks more like a technical air-pocket (RSI 37, MACD deeply negative) than a fundamental reversal, especially with price still comfortably above the rising 200dma and a golden cross intact. With 20 analysts already at 'buy' consensus and a 1.86% dividend yield, any stabilization in rates or capital-markets sentiment could quickly reverse the oversold technical setup and re-test the $148 52-week high.",
+  "bear_case": "ROE of just 8.5% remains structurally weak for a bank trading even at 1.13x book\u2014Citi has chronically underearned its cost of capital for years, and the market may be correctly discounting the stock rather than mispricing it, meaning cheap multiples aren't a catalyst on their own. The current downtrend (price below 50dma, negative MACD histogram of -1.78, 21-day momentum of -9.5%) coincides with elevated 30-day annualized volatility (31%), suggesting institutional money is actively de-risking, possibly on credit-quality concerns, trading-revenue normalization, or macro/rate uncertainty that isn't visible in trailing fundamentals. With beta of 1.09 and heavy sell-side coverage already pricing in the buy case, a continued high-rate/recession-risk environment or a disappointing quarter could easily extend the current -12.6% drawdown from 52-week highs rather than reverse it within three months.",
+  "metrics": {
+    "momentum_63d": 0.004885783447626135,
+    "volatility_ann": 0.31347773252936106,
+    "rsi_14": 36.86049947134208,
+    "profit_margin": 0.21832001,
+    "revenue_growth": 0.145,
+    "trailing_pe": 13.939655,
+    "return_on_equity": 0.08529,
+    "beta": 1.094,
+    "market_cap": 216988467200,
+    "analyst_coverage": 20
+  }
+}

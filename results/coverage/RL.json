@@ -1,0 +1,26 @@
+{
+  "ticker": "RL",
+  "name": "Ralph Lauren Corporation",
+  "sector": "Consumer Discretionary",
+  "sub_industry": "Apparel, Accessories & Luxury Goods",
+  "tier": "S&P 500",
+  "price": 379.6700134277344,
+  "as_of": "2026-07-20T15:58:55.341550+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "RL trades above both its 50- and 200-day moving averages with a golden cross intact, even as a recent ~6% one-month pullback (RSI 46, negative MACD histogram) has pushed shares ~10% off the 52-week high of $421.60.",
+  "thesis": "Ralph Lauren is compounding at a high rate for a mature apparel brand: revenue growth of 16.6%, earnings growth of 20%, ROE of 34.7%, and gross margins near 70% reflect genuine pricing power and successful brand elevation (higher AUR, reduced promotions, direct-to-consumer mix). Forward P/E of 18.6x is reasonable for this growth/margin profile relative to its own trailing multiple (25.1x) and to luxury peers, suggesting the market is already discounting some deceleration that hasn't shown up in the numbers yet. The stock remains in a structural uptrend (price above both 50- and 200-day SMAs, golden cross active) despite a short-term momentum stall, which looks more like a consolidation after a strong run (126-day momentum still +3.4%) than a trend reversal. A ~1% dividend yield and healthy free cash flow ($656M) support the balance sheet even with elevated debt/equity (105.9%), while 16 analysts covering a $22.6B name still leaves room for estimate revisions to surprise positively if the brand-elevation narrative continues to play out in same-store sales and margin data.",
+  "bear_case": "The 1-month momentum of -5.8% and negative MACD histogram signal that institutional flow has turned cautious right as the stock sits 10% below its 52-week high, and at a price-to-book of 8x for an apparel manufacturer, any deceleration in the 16.6% revenue growth or 20% earnings growth (both unsustainable at current pace for a mature $8.1B revenue company) could trigger a sharp multiple contraction; beta of 1.35 means this stock amplifies any consumer discretionary sell-off, and elevated debt/equity of 106% leaves less balance-sheet cushion if a China/Europe luxury slowdown or U.S. tariff-driven cost inflation compresses the currently generous 69.9% gross margin faster than expected.",
+  "metrics": {
+    "momentum_63d": -0.016237463202885327,
+    "volatility_ann": 0.3826069498166124,
+    "rsi_14": 46.492924060007496,
+    "profit_margin": 0.11598,
+    "revenue_growth": 0.166,
+    "trailing_pe": 25.14371,
+    "return_on_equity": 0.34664002,
+    "beta": 1.352,
+    "market_cap": 22596571136,
+    "analyst_coverage": 16
+  }
+}

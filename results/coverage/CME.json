@@ -1,0 +1,26 @@
+{
+  "ticker": "CME",
+  "name": "CME Group",
+  "sector": "Financials",
+  "sub_industry": "Financial Exchanges & Data",
+  "tier": "S&P 500",
+  "price": 245.0500030517578,
+  "as_of": "2026-07-19T21:49:17.397771+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "CME is down ~25% from its 52-week high and trading below both its 50- and 200-day moving averages despite still-strong revenue (+14.4%) and earnings (+21.3%) growth, leaving technicals and fundamentals in direct conflict.",
+  "thesis": "CME's core business remains robust \u2014 100% gross margins, ~70% operating margins, 63% net margins, and mid-teens ROE \u2014 while forward PE of 19x is reasonable for a low-beta (0.276) monopoly-like exchange with double-digit earnings growth and a 2.1% dividend. The positive MACD histogram (2.88) alongside RSI sitting near neutral (49) suggests the sharp -16.8% three-month drawdown may be stabilizing rather than accelerating, and a name with this balance sheet quality (D/E only within cash-heavy clearing structure) and consistent buy rating from 15 analysts tends to attract mean-reversion buyers once technical damage is priced in.",
+  "bear_case": "The trend is unambiguously bearish: price is below both the 50-day (259.5) and 200-day (273.9) moving averages with no golden cross, and momentum is negative across all three horizons (21d, 63d, 126d), reflecting a market pricing in declining trading volumes/rate-driven volatility normalization that could compress CME's transaction-based revenue growth going forward; a options/futures exchange's earnings are highly sensitive to volatility regimes, and the 33% annualized 30-day volatility in the stock itself (unusually high for a historically low-beta name) signals genuine uncertainty about whether the recent growth rates (14.4% revenue, 21.3% earnings) are sustainable once rate-cut-driven volatility fades, meaning the multiple could compress further even from an already-derated 19x forward PE.",
+  "metrics": {
+    "momentum_63d": -0.1684539659372386,
+    "volatility_ann": 0.3329583893136075,
+    "rsi_14": 49.04212206929255,
+    "profit_margin": 0.63324,
+    "revenue_growth": 0.144,
+    "trailing_pe": 20.92656,
+    "return_on_equity": 0.15919,
+    "beta": 0.276,
+    "market_cap": 88542142464,
+    "analyst_coverage": 15
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "PPL",
+  "name": "PPL Corporation",
+  "sector": "Utilities",
+  "sub_industry": "Electric Utilities",
+  "tier": "S&P 500",
+  "price": 35.56999969482422,
+  "as_of": "2026-07-20T15:54:56.731126+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "PPL is trading below both its 50- and 200-day moving averages with negative 3-month momentum (-8.1%), despite solid revenue growth (10.8%) and a forward P/E discount to trailing (16.8x vs 21.8x) signaling expected earnings growth.",
+  "thesis": "PPL offers a low-beta (0.59), regulated utility earnings stream with a 3.18% dividend yield and improving forward valuation (16.8x forward vs 21.8x trailing PE) implying analyst expectations of continued earnings growth (7.3% consensus). Revenue growth of 10.8% is strong for a regulated utility, likely reflecting rate base growth and data-center-driven demand in its PA/KY service territories. The stock has pulled back from its 52-week high of $40.11 to $35.57, now near the lower half of its 52-week range, and sell-side sentiment remains a 'buy' across 15 analysts, suggesting institutional support at current levels. RSI at 45.7 is neutral, not oversold, but the stock could stabilize as a defensive holding if broader market volatility increases.",
+  "bear_case": "The technical picture is deteriorating: price is below both the 50-day ($35.73) and 200-day ($36.11) moving averages, MACD histogram is negative (-0.061), and 63-day momentum is down 8.1%, none of which support a near-term bottom. More fundamentally, negative free cash flow (-$1.6B) alongside high debt-to-equity (135%) signals PPL is funding heavy capex (likely grid modernization/data-center interconnection investment) with debt in a persistently higher-rate environment, which could pressure ROE (already modest at 8.3%) and dividend coverage if capital costs stay elevated longer than the market currently prices in. Utilities are also rate-sensitive, and any hawkish repricing of rate expectations could disproportionately hit a stock already showing relative weakness versus its own moving averages.",
+  "metrics": {
+    "momentum_63d": -0.08109071217361441,
+    "volatility_ann": 0.22252293368544632,
+    "rsi_14": 45.73906902558462,
+    "profit_margin": 0.13091,
+    "revenue_growth": 0.108,
+    "trailing_pe": 21.822086,
+    "return_on_equity": 0.08316,
+    "beta": 0.589,
+    "market_cap": null,
+    "analyst_coverage": 15
+  }
+}

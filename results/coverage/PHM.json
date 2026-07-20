@@ -1,0 +1,26 @@
+{
+  "ticker": "PHM",
+  "name": "PulteGroup",
+  "sector": "Consumer Discretionary",
+  "sub_industry": "Homebuilding",
+  "tier": "S&P 500",
+  "price": 123.58000183105469,
+  "as_of": "2026-07-20T15:57:42.639255+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "PHM trades right at its 200-day moving average (123.58 vs 123.77) after a -30% YoY earnings decline, reflecting a homebuilder caught between cheap valuation (11.9x trailing P/E) and deteriorating fundamentals (revenue -12.4%, earnings -30.4%).",
+  "thesis": "PulteGroup remains a highly profitable homebuilder (13.1% operating margin, 16.2% ROE, low 18.9% debt-to-equity) trading at just 11.1x forward earnings, well below market multiples, with a still-solid $1.48B free cash flow base and buy-rated consensus from 13 analysts. The stock has already priced in much of the housing slowdown, down from a 52-week high of $144.50 to $123.58 (~14% off highs), and short-term momentum (mom_21d +1.4%) shows signs of stabilizing after the deeper 63/126-day declines. If mortgage rates ease or affordability improves, margins and volumes could stabilize faster than the market expects, and the low valuation offers a favorable risk/reward for a re-rating.",
+  "bear_case": "The trend is unambiguously deteriorating: revenue and earnings are both contracting double-digits, momentum is negative across the 63-day and 126-day windows (-2.1%, -6.6%), MACD histogram is decisively negative (-0.96), and the stock just lost its 200-day moving average (above_200dma=0, golden_cross=0) \u2014 all signs of a broken uptrend rather than a bottoming pattern. High annualized volatility (41.6%) and a beta of 1.19 mean this cyclical, rate-sensitive business is vulnerable to further downside if mortgage rates stay elevated or housing demand weakens further, and a cheap P/E on trailing earnings can be a value trap when forward earnings keep resetting lower \u2014 the -30% earnings growth suggests the 'cheap' multiple may not be cheap at all once normalized.",
+  "metrics": {
+    "momentum_63d": -0.021243017436604172,
+    "volatility_ann": 0.4162353453711049,
+    "rsi_14": 45.31691500341823,
+    "profit_margin": 0.121400006,
+    "revenue_growth": -0.124,
+    "trailing_pe": 11.951644,
+    "return_on_equity": 0.16178,
+    "beta": 1.186,
+    "market_cap": null,
+    "analyst_coverage": 13
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "FANG",
+  "name": "Diamondback Energy",
+  "sector": "Energy",
+  "sub_industry": "Oil & Gas Exploration & Production",
+  "tier": "S&P 500",
+  "price": 195.5399932861328,
+  "as_of": "2026-07-19T22:00:13.783293+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "FANG trades above both its 50- and 200-day moving averages with a fresh golden cross and 28.7% six-month momentum, while its forward P/E of 11.5x (vs. a distorted trailing P/E near 200x) signals the market expects a sharp earnings rebound.",
+  "thesis": "Diamondback's technicals are unambiguously constructive: price is 15% above the 200-day SMA, MACD histogram is strongly positive, RSI at 60 leaves room to run before overbought, and 126-day momentum of nearly 29% shows sustained buying pressure into a golden cross. The trailing earnings collapse (-98.4% earnings growth, ROE under 1%) looks like a one-off hit from low realized oil/gas prices or impairments rather than a structural break, since gross margins remain robust at 72% and forward P/E of 11.5x implies analysts expect a normalized earnings recovery. With low beta (0.41), a 2.25% dividend, and 28 analysts consensus at 'strong buy,' this is a well-liked, low-volatility-relative-to-sector large-cap Permian operator riding a commodity and technical upswing simultaneously.",
+  "bear_case": "The fundamentals are far weaker than the price action suggests: profit margins of under 2%, ROE near zero, and a trailing PE of ~200x indicate current-period earnings are essentially wiped out, and if the forward-PE-implied recovery doesn't materialize (e.g., oil prices stay depressed or basis differentials widen), the stock's premium to book (1.5x) and its run to within 9% of the 52-week high become hard to justify; annualized volatility of 36% also means this 'low beta' name can still swing sharply on crude price moves, and with 28 analysts already covering it at 'strong buy,' most of the good news is likely already priced in, leaving limited room for further re-rating and asymmetric downside if commodity prices disappoint.",
+  "metrics": {
+    "momentum_63d": 0.053391245192095926,
+    "volatility_ann": 0.36254728725597213,
+    "rsi_14": 59.802700897416386,
+    "profit_margin": 0.01964,
+    "revenue_growth": 0.042,
+    "trailing_pe": 199.53061,
+    "return_on_equity": 0.0047400002,
+    "beta": 0.407,
+    "market_cap": 55008002048,
+    "analyst_coverage": 28
+  }
+}

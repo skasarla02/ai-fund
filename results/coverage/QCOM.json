@@ -1,0 +1,26 @@
+{
+  "ticker": "QCOM",
+  "name": "Qualcomm",
+  "sector": "Information Technology",
+  "sub_industry": "Semiconductors",
+  "tier": "S&P 500",
+  "price": 173.63999938964844,
+  "as_of": "2026-07-20T15:58:21.056074+00:00",
+  "rating": "bearish",
+  "conviction": 0.58,
+  "key_signal": "QCOM has fallen ~18% over the past month and now trades over $30 below its 50-day moving average ($173.64 vs $206.43) with negative MACD momentum, signaling a sharp technical breakdown despite still sitting above its 200-day average.",
+  "thesis": "Valuation looks attractive on the surface\u201415.8x forward earnings, 18.7x trailing, a 2.14% dividend yield, 55% gross margins and 36% ROE\u2014and the stock remains above its 200dma with a golden cross intact, suggesting the primary uptrend hasn't fully broken. If the recent selloff (mom_21d -18.5%) is overdone relative to the still-positive 63-day (+28%) and 126-day (+8.7%) momentum, a bounce toward the 50dma is plausible, especially with 30 analysts holding a 'hold' consensus that leaves room for upside surprises on licensing or diversification (automotive/IoT) progress.",
+  "bear_case": "Revenue growth is already negative (-3.5%) and the stock's sharp one-month drop coincides with what markets read as escalating handset-diversification risk (loss of exclusivity/share with a major customer), which is a structural, not cyclical, threat to QCOM's core QCT chip and QTL licensing franchise; RSI at 39.5 and a deeply negative MACD histogram (-1.33) show momentum sellers are still in control, and at 1.64 beta with 69% annualized volatility, this stock will amplify any further negative catalyst (China smartphone weakness, Apple modem transition, or IP licensing disputes) well beyond the broader market's reaction\u2014cheap multiples can stay cheap or get cheaper when the growth narrative breaks down.",
+  "metrics": {
+    "momentum_63d": 0.2795987161363187,
+    "volatility_ann": 0.6876699097226483,
+    "rsi_14": 39.48091915704186,
+    "profit_margin": 0.22308001,
+    "revenue_growth": -0.035,
+    "trailing_pe": 18.691065,
+    "return_on_equity": 0.36083,
+    "beta": 1.638,
+    "market_cap": 183016554496,
+    "analyst_coverage": 30
+  }
+}

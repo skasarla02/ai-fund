@@ -1,0 +1,26 @@
+{
+  "ticker": "AMAT",
+  "name": "Applied Materials",
+  "sector": "Information Technology",
+  "sub_industry": "Semiconductor Materials & Equipment",
+  "tier": "S&P 500",
+  "price": 529.6599731445312,
+  "as_of": "2026-07-19T21:23:56.235507+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "AMAT just suffered a sharp -5.6% single-day drop and is down 6.8% over the past month even as it trades near its 50dma, breaking the momentum that drove a 76% six-month rally, likely reflecting fresh China/export-control jitters.",
+  "thesis": "AMAT remains fundamentally excellent \u2014 33.5% earnings growth, 39.7% ROE, 49% gross margins, and 11.4% revenue growth show the semicap upcycle (leading-edge logic, HBM/DRAM capex) is still intact, and the stock is still above both its 50- and 200-day moving averages with an active golden cross, meaning the primary trend from the 154 low to 739 high hasn't technically broken. Forward PE of 31.6x on 33.5% earnings growth is a reasonable PEG for a company this profitable, and the pullback from 739 to 530 (down ~28% from highs) has already de-risked some of the parabolic move, potentially setting up a re-entry point for a name 35 analysts rate strong buy.",
+  "bear_case": "The technical picture has clearly deteriorated: RSI at 44, a deeply negative MACD histogram (-14.5), and -6.8% momentum over 21 days signal the uptrend is losing steam right after a euphoric 76% six-month run, and trailing PE of 49.7x combined with a priceToBook of 17.6x leaves almost no room for a growth disappointment, especially given semicap's extreme cyclicality and direct exposure to China export-control headline risk (evidenced by the -5.6% single-day shock). With beta of 1.57 and 97.6% annualized 30-day volatility, any incremental negative catalyst \u2014 a China restriction update, a memory capex pause, or a soft guide \u2014 could drive an outsized drawdown from a valuation that already prices in near-flawless execution.",
+  "metrics": {
+    "momentum_63d": 0.36013958831947,
+    "volatility_ann": 0.975889789820918,
+    "rsi_14": 43.946715703854174,
+    "profit_margin": 0.29314,
+    "revenue_growth": 0.114,
+    "trailing_pe": 49.733334,
+    "return_on_equity": 0.39692003,
+    "beta": 1.567,
+    "market_cap": 420528521216,
+    "analyst_coverage": 35
+  }
+}

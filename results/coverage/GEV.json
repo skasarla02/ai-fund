@@ -1,0 +1,26 @@
+{
+  "ticker": "GEV",
+  "name": "GE Vernova",
+  "sector": "Industrials",
+  "sub_industry": "Heavy Electrical Equipment",
+  "tier": "S&P 500",
+  "price": 1057.8399658203125,
+  "as_of": "2026-07-19T22:24:11.948817+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "GEV trades above both its 50- and 200-day moving averages with a golden cross intact and 126-day momentum of +64%, reflecting powerful demand for grid/power equipment even as the forward P/E (43x) now exceeds the trailing P/E (31x), signaling the market is pricing in a deceleration in near-term earnings quality.",
+  "thesis": "GE Vernova is riding a structural power-infrastructure supercycle (grid buildout, gas turbines, electrification, AI-driven data center demand) with revenue growth of 16.3% and a stock up over 90% from its 52-week low of $530 to a recent high near $1,196, currently consolidating near $1,058 above both the 50-day ($1,036) and 200-day ($816) moving averages with a confirmed golden cross. ROE of 75.7% and a low debt-to-equity ratio (24.9%) show a capital-light, high-return business model, and with 34 analysts still rating it 'buy,' consensus remains constructive on the long-duration power equipment order backlog that underpins forward estimates.",
+  "bear_case": "The valuation is stretched to a degree rarely justified by fundamentals: a 43x forward P/E that is actually higher than the 31x trailing multiple implies the Street expects near-term earnings deceleration or margin compression, not acceleration, while a 20.4x price-to-book and thin 5.46% operating margin (versus a 23.8% net margin, suggesting non-operating or one-time gains are propping up bottom-line profitability) expose fragile earnings quality; combined with a negative MACD histogram (-8.57) signaling loss of short-term momentum and the stock already 12% off its 52-week high amid 62% annualized volatility, any disappointment in order intake, turbine delivery timing, or grid capex guidance could trigger a sharp multiple compression given how much good news is already priced in.",
+  "metrics": {
+    "momentum_63d": 0.08183465435053061,
+    "volatility_ann": 0.6230518486453742,
+    "rsi_14": 50.09192548798675,
+    "profit_margin": 0.23809999,
+    "revenue_growth": 0.163,
+    "trailing_pe": 30.95815,
+    "return_on_equity": 0.75708,
+    "beta": 0.935,
+    "market_cap": 284262760448,
+    "analyst_coverage": 34
+  }
+}

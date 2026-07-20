@@ -1,0 +1,26 @@
+{
+  "ticker": "KR",
+  "name": "Kroger",
+  "sector": "Consumer Staples",
+  "sub_industry": "Food Retail",
+  "tier": "S&P 500",
+  "price": 58.81999969482422,
+  "as_of": "2026-07-19T22:43:48.095366+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "KR trades at just 10.6x forward earnings (vs 34.4x trailing) near its 52-week low of $54.15, while MACD histogram has turned positive, hinting at a momentum inflection even though price remains below both the 50- and 200-day moving averages.",
+  "thesis": "Kroger's stock has been beaten down (-12.7% over 3 months, -8.3% over 1 month) largely on fallout from the failed Albertsons merger and cautious guidance, pushing shares to the bottom of their 52-week range. Yet the forward P/E of 10.6x versus a trailing 34.4x signals the market expects a sharp earnings normalization, consistent with the 13.2% earnings growth and 13.8% ROE still embedded in the fundamentals. Free cash flow of ~$3B on a $36B market cap supports the 2.45% dividend and ongoing buybacks, which become more accretive at depressed prices. A low beta (0.435) and 22 analysts holding a consensus 'buy' rating suggest institutional confidence that the selloff is more sentiment-driven than fundamentally justified, and the recent positive MACD histogram reading hints the downtrend may be stabilizing as shares approach the 54.15 low.",
+  "bear_case": "The technical picture is unambiguously negative: price is below both the 50-day ($61.97) and 200-day ($65.15) moving averages with no golden cross, and momentum is negative across the 21-, 63-, and 126-day windows, meaning trend-following capital has every reason to stay away. More concerning fundamentally, trailing net profit margin is a razor-thin 0.7% despite a 24% gross margin, revenue growth is anemic at 2.2%, and debt-to-equity is extremely elevated at 373%, leaving little room for error in a highly competitive grocery landscape being squeezed by Walmart and Amazon on price and e-commerce. If the 'cheap forward PE' thesis is simply a case of analysts overestimating a earnings rebound that doesn't materialize (as often happens post-merger-collapse), the stock could easily grind toward or through its 52-week low, and the high leverage limits Kroger's flexibility to weather a margin shock or defend market share via price cuts.",
+  "metrics": {
+    "momentum_63d": -0.12749212019961975,
+    "volatility_ann": 0.3905320697804011,
+    "rsi_14": 47.00005332038464,
+    "profit_margin": 0.00708,
+    "revenue_growth": 0.022,
+    "trailing_pe": 34.39766,
+    "return_on_equity": 0.13779001,
+    "beta": 0.435,
+    "market_cap": 36035915776,
+    "analyst_coverage": 22
+  }
+}

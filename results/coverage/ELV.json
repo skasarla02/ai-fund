@@ -1,0 +1,26 @@
+{
+  "ticker": "ELV",
+  "name": "Elevance Health",
+  "sector": "Health Care",
+  "sub_industry": "Managed Health Care",
+  "tier": "S&P 500",
+  "price": 373.1099853515625,
+  "as_of": "2026-07-19T22:05:44.555078+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "ELV trades near its 50-day moving average breakdown (price 373 vs 50dma 397) with negative 1-month momentum (-6.2%) and falling MACD, even though it remains above its 200dma in a longer-term uptrend.",
+  "thesis": "Elevance's forward P/E of 12.6x (vs trailing 16.5x) reflects depressed near-term earnings expectations that may already price in the sector-wide medical cost trend pressures hitting managed care in 2024-2025, and the stock still sits comfortably above its 200-day moving average with a golden cross intact, suggesting the primary trend remains up. A 1.84% dividend yield, low beta (0.68), and 11.1% ROE provide some ballast, and 21 analysts collectively rate it a 'buy,' implying the current pullback from the $436 52-week high to $373 could be a buyable dip within a longer uptrend rather than a trend reversal.",
+  "bear_case": "Earnings growth of -13.1% alongside anemic revenue growth of just 1.4% signals real deterioration in the core business \u2014 likely from elevated medical loss ratios and Medicaid redetermination headwinds common across managed care \u2014 and net margins of only 2.47% leave little cushion if cost trends worsen further. Technically, the stock has broken below its 50-day moving average with RSI at 38 and negative MACD histogram (-4.6), and the sharp -6.2% one-month momentum after a strong 63-day rally (+18.6%) suggests institutional distribution rather than a routine dip; with 21 analysts already covering the name, any further guidance cuts (a pattern seen across the managed care group) would be quickly priced in, leaving limited edge for a contrarian long.",
+  "metrics": {
+    "momentum_63d": 0.18620789220684375,
+    "volatility_ann": 0.4584501554525883,
+    "rsi_14": 38.24002078356357,
+    "profit_margin": 0.02468,
+    "revenue_growth": 0.014,
+    "trailing_pe": 16.50199,
+    "return_on_equity": 0.11133,
+    "beta": 0.683,
+    "market_cap": 80916103168,
+    "analyst_coverage": 21
+  }
+}

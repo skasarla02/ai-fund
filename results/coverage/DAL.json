@@ -1,0 +1,26 @@
+{
+  "ticker": "DAL",
+  "name": "Delta Air Lines",
+  "sector": "Industrials",
+  "sub_industry": "Passenger Airlines",
+  "tier": "S&P 500",
+  "price": 84.16999816894531,
+  "as_of": "2026-07-19T21:59:27.791298+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "DAL trades at just 9.5x forward earnings despite a golden cross, 24%+ trailing 6-month momentum, and 20% ROE, even as short-term technicals (negative MACD histogram, RSI 45) show the rally cooling off.",
+  "thesis": "Delta remains in a durable uptrend (price above both the 50-day and 200-day moving averages with a golden cross intact) and is up over 20% on both 63- and 126-day momentum, yet the stock still trades at a forward P/E of just 9.5x and trailing P/E of 14x \u2014 cheap for a company generating 18.7% revenue growth, 20% ROE, and ~$2.8B in free cash flow. A 0.92 dividend yield and strong sell-side consensus (strong_buy across 24 analysts) reinforce that institutional sentiment is aligned with the fundamentals. The pullback from the 52-week high of $95.68 to $84.17 gives room for re-rating if travel demand and premium/loyalty revenue trends (Delta's structural differentiator among network carriers) continue to outperform, and cheap forward multiples suggest the market hasn't yet priced in continued earnings normalization.",
+  "bear_case": "The steelman bear case is that earnings growth is actually negative (-25.4%), meaning the 'cheap' forward multiple is partly a function of depressed trailing comparisons and consensus forecasts that may not materialize, especially with debt-to-equity near 97% and a high beta (1.29) leaving Delta acutely exposed to any macro slowdown, fuel price spikes, or demand softening. The negative MACD histogram, cooling RSI (45), and today's -2.9% daily move suggest the powerful multi-month uptrend is losing momentum right at a point where the stock is roughly 12% off its 52-week high \u2014 a technical setup that often precedes a deeper retracement toward the 50-day SMA (~$81.6) or lower, especially given 39% annualized volatility and heavy sell-side coverage that limits how much mispricing edge remains to be captured before the next catalyst (earnings) clarifies the growth/earnings divergence.",
+  "metrics": {
+    "momentum_63d": 0.2104977474465044,
+    "volatility_ann": 0.3893079734639703,
+    "rsi_14": 45.426832528185656,
+    "profit_margin": 0.05784,
+    "revenue_growth": 0.187,
+    "trailing_pe": 13.95854,
+    "return_on_equity": 0.20125,
+    "beta": 1.288,
+    "market_cap": 55352131584,
+    "analyst_coverage": 24
+  }
+}

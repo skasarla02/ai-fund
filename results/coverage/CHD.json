@@ -1,0 +1,26 @@
+{
+  "ticker": "CHD",
+  "name": "Church & Dwight",
+  "sector": "Consumer Staples",
+  "sub_industry": "Household Products",
+  "tier": "S&P 500",
+  "price": 98.06999969482422,
+  "as_of": "2026-07-19T21:46:45.030512+00:00",
+  "rating": "neutral",
+  "conviction": 0.56,
+  "key_signal": "CHD trades at a rich 32x trailing/24x forward P/E despite essentially flat revenue growth (0.2%) and only 2.2% earnings growth, even as the stock sits in a confirmed uptrend (golden cross, above both 50/200 DMAs).",
+  "thesis": "Church & Dwight is a classic defensive staples name with low beta (0.47), strong gross margins (45.5%) and operating margins (20.2%), and a 16.8% ROE that supports a premium multiple in a market seeking safety. Technicals are constructive: price is above both the 50-day ($96.31) and 200-day ($92.14) moving averages, a golden cross is in place, MACD histogram is positive, and momentum over 63d/126d (+4.1%/+9.5%) shows a durable uptrend even as short-term momentum has flattened. With 19 analysts covering it and a consensus 'buy' rating, sentiment is aligned, and the stock's low volatility (25% annualized) makes it a plausible portfolio ballast if broader market volatility rises.",
+  "bear_case": "The valuation is simply not supported by the growth profile: revenue growth of just 0.2% and earnings growth of only 2.2% cannot justify a 32x trailing / 24x forward P/E and a 5.5x price-to-book, especially in a sector where peers with similar or better growth trade at meaningful discounts. This is a stock priced for a growth story it isn't delivering, and any disappointment on margins or a shift in capital allocation could trigger multiple compression back toward the 52-week low ($81.33), which is still 17% below current price \u2014 a much larger downside than the modest upside implied by consensus targets. Debt-to-equity of 56.8% also leaves less flexibility than the pristine balance-sheet reputation staples investors expect, and a 1.25% dividend yield offers little income cushion while investors wait for the growth/valuation gap to close.",
+  "metrics": {
+    "momentum_63d": 0.04072535974777569,
+    "volatility_ann": 0.25103251829884604,
+    "rsi_14": 52.893077125759895,
+    "profit_margin": 0.11812,
+    "revenue_growth": 0.002,
+    "trailing_pe": 32.25987,
+    "return_on_equity": 0.16779,
+    "beta": 0.467,
+    "market_cap": 23237058560,
+    "analyst_coverage": 19
+  }
+}

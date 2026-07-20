@@ -1,0 +1,26 @@
+{
+  "ticker": "MDU",
+  "name": "MDU Resources Group, Inc.",
+  "sector": "Utilities",
+  "sub_industry": "Multi-Utilities",
+  "tier": "S&P 600",
+  "price": 21.139999389648438,
+  "as_of": "2026-07-19T21:04:59.539544+00:00",
+  "rating": "bearish",
+  "conviction": 0.335,
+  "key_signal": "63d momentum -3.0%, margin 10.5%, only 8 analysts covering it.",
+  "thesis": "[mock] Trades above its 200-day average with -3.0% momentum; profit margin 10.5% \u2014 only 8 analysts covering it.",
+  "bear_case": "[mock] Valuation at 23.0x trailing earnings leaves little room for a growth miss.",
+  "metrics": {
+    "momentum_63d": -0.03003955384848178,
+    "volatility_ann": 0.18084734544125994,
+    "rsi_14": 49.95434172064385,
+    "profit_margin": 0.104779996,
+    "revenue_growth": -0.102,
+    "trailing_pe": 22.97826,
+    "return_on_equity": 0.06726,
+    "beta": 0.377,
+    "market_cap": 4418386944,
+    "analyst_coverage": 8
+  }
+}

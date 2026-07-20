@@ -1,0 +1,26 @@
+{
+  "ticker": "COIN",
+  "name": "Coinbase",
+  "sector": "Financials",
+  "sub_industry": "Financial Exchanges & Data",
+  "tier": "S&P 500",
+  "price": 157.1199951171875,
+  "as_of": "2026-07-19T21:50:57.264472+00:00",
+  "rating": "bearish",
+  "conviction": 0.58,
+  "key_signal": "COIN trades below both its 50- and 200-day moving averages with a -38.6% six-month momentum decline while revenue growth has swung to -30.8% YoY, signaling a structural business slowdown, not just a momentum blip.",
+  "thesis": "Coinbase's high beta (3.35) means it's a leveraged proxy on crypto risk appetite, and the stock has already fallen ~64% from its 52-week high, pricing in much of the bad news; a stabilizing MACD histogram (+1.17) and RSI near 46 (neither oversold nor overbought) hint the selloff's velocity may be easing, and forward PE of 33x versus trailing 58x implies the Street expects a meaningful earnings recovery. Gross margins remain exceptional at 85%, and the company still generates $2.4B of free cash flow, giving it balance-sheet flexibility to ride out a crypto-volume downturn while consensus analyst rating remains 'buy' across all 30 covering analysts.",
+  "bear_case": "The trend is unambiguously broken: price is below both the 50-day ($172) and 200-day ($223) moving averages with no golden cross, revenue is contracting -30.8% YoY (trading volumes clearly collapsing), and operating margin has flipped negative (-7.1%) even as net margin stays positive only via non-operating gains\u2014meaning the core exchange business is currently unprofitable. With beta over 3x, any renewed crypto drawdown (which historically correlates with COIN's worst moves) could easily push shares toward or below the 52-week low of $139, and a trailing P/E of 58x still leaves no margin of safety if the anticipated earnings recovery embedded in the 33x forward multiple fails to materialize amid a prolonged crypto bear market.",
+  "metrics": {
+    "momentum_63d": -0.21373170356059024,
+    "volatility_ann": 0.6155736977594287,
+    "rsi_14": 45.765993897772965,
+    "profit_margin": 0.12736,
+    "revenue_growth": -0.308,
+    "trailing_pe": 57.7647,
+    "return_on_equity": 0.06686,
+    "beta": 3.351,
+    "market_cap": 41394954240,
+    "analyst_coverage": 30
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "PRU",
+  "name": "Prudential Financial",
+  "sector": "Financials",
+  "sub_industry": "Life & Health Insurance",
+  "tier": "S&P 500",
+  "price": 118.3550033569336,
+  "as_of": "2026-07-20T15:56:18.451622+00:00",
+  "rating": "bullish",
+  "conviction": 0.6,
+  "key_signal": "PRU trades at just 8.1x forward earnings and 12.2x trailing earnings while sitting in a confirmed golden-cross uptrend just below its 52-week high, with RSI at 69 signaling the rally is stretched.",
+  "thesis": "Prudential's technical picture is unambiguously strong: price is above both the 50-day ($106.82) and 200-day ($102.89) moving averages in a golden cross, momentum has accelerated sharply (+10.6% over 21 days, +18% over 63 days), and MACD histogram remains positive. Fundamentally, the stock looks statistically cheap relative to the market and to its own history\u201412.2x trailing and just 8.1x forward earnings\u2014while paying a 4.7% dividend yield that provides a real income cushion and downside support. Revenue growth of 15.3% shows the core life/annuity business is expanding, and a low beta of 0.84 suggests the stock should be somewhat insulated in a broader equity drawdown, making it attractive to income and value rotation flows in a market chasing cheap financials with rate-sensitive tailwinds.",
+  "bear_case": "The setup has classic exhaustion signatures: RSI at 68.9 is on the edge of overbought, price is within 2% of its 52-week high ($120.53), and momentum decelerated from 126-day (+4.4%) to a sharp recent spike, suggesting the move may be a late-stage blow-off rather than a fresh breakout. More importantly, the cheap multiple may be a value trap\u2014earningsGrowth is actually negative (-14.3%) even as revenue grows 15.3%, implying margin compression, reserve charges, or one-time items eating into profitability, which is exactly the kind of divergence that precedes an earnings-driven de-rating for a life insurer with elevated leverage (debt/equity ~159) and only 10.7% ROE. The 15 covering analysts still rate this only a 'hold' despite the rally, indicating sell-side skepticism that the cheap multiple is a buying opportunity rather than a reflection of deteriorating forward earnings quality; a disappointing print here could quickly erase the recent technical gains given how overbought the stock already is.",
+  "metrics": {
+    "momentum_63d": 0.18020755883852813,
+    "volatility_ann": 0.21412601692422473,
+    "rsi_14": 68.93416660331336,
+    "profit_margin": 0.054759998,
+    "revenue_growth": 0.153,
+    "trailing_pe": 12.201547,
+    "return_on_equity": 0.10711,
+    "beta": 0.84,
+    "market_cap": null,
+    "analyst_coverage": 15
+  }
+}

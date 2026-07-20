@@ -1,0 +1,26 @@
+{
+  "ticker": "ETN",
+  "name": "Eaton Corporation",
+  "sector": "Industrials",
+  "sub_industry": "Electrical Components & Equipment",
+  "tier": "S&P 500",
+  "price": 399.989990234375,
+  "as_of": "2026-07-19T22:03:45.767700+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "Despite a golden cross and 21.5% six-month momentum keeping ETN above its 200-day average, the stock has stalled below its 50-day SMA with negative MACD and flat RSI, while trailing earnings growth has turned negative (-9.4%) even as revenue grows 16.8%.",
+  "thesis": "Eaton remains a premier electrification/data-center power play with 16.8% revenue growth, 20.8% ROE, and strong margins (37% gross, 16% operating), and the stock's long-term technical structure is intact\u2014above its 200dma with a golden cross and 21.5% 126-day momentum reflecting durable secular demand for grid and data-center infrastructure. A pullback to near the 50dma (404 vs. current 400) after a strong run could offer a better entry point for a name analysts still rate 'buy' across 25 covering firms, and the recent 1-day pop (+0.9%) suggests buyers are stepping back in near this level.",
+  "bear_case": "The valuation is stretched at 39x trailing and 25x forward earnings with a 7.9x price-to-book, pricing in flawless execution, yet trailing earnings growth is actually negative (-9.4%) despite double-digit revenue growth\u2014a margin/cost or one-time-charge divergence that could spook a market already de-rating growth-momentum industrials; combine that with high leverage (debt/equity 110%), elevated realized volatility (53% annualized, beta 1.18), negative short-term momentum (-1.9% over 21 days), a bearish MACD histogram, and price now below the 50dma, and this looks like a stock rolling over from extended gains (21.5% over 126 days) that could easily retest the 371 200dma or lower if data-center capex growth decelerates or rates stay elevated, hurting the premium multiple more than peers given its size and analyst crowding (25 analysts already largely bullish, limiting further upside surprise).",
+  "metrics": {
+    "momentum_63d": 0.021300482673799692,
+    "volatility_ann": 0.5294202316049798,
+    "rsi_14": 47.67251824492924,
+    "profit_margin": 0.13986,
+    "revenue_growth": 0.168,
+    "trailing_pe": 39.061523,
+    "return_on_equity": 0.20844999,
+    "beta": 1.181,
+    "market_cap": 155316109312,
+    "analyst_coverage": 25
+  }
+}

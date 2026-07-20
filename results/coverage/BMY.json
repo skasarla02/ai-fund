@@ -1,0 +1,26 @@
+{
+  "ticker": "BMY",
+  "name": "Bristol Myers Squibb",
+  "sector": "Health Care",
+  "sub_industry": "Pharmaceuticals",
+  "tier": "S&P 500",
+  "price": 60.7400016784668,
+  "as_of": "2026-07-19T21:35:31.084034+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "BMY trades at just 9.8x forward earnings while price sits above both its 50- and 200-day moving averages with a golden cross intact, near 52-week highs after a strong 21-day momentum surge of ~9.8%.",
+  "thesis": "BMY has re-rated meaningfully off its lows, up nearly 10% in 21 days and 4-9% over 63-126 days, confirming a technical uptrend (golden cross, above both SMAs, RSI 61.7 not yet overbought, positive MACD histogram). Fundamentally, the stock is cheap on a forward basis (9.8x forward PE vs 17x trailing), implying the market expects earnings growth as key drugs (Opdualag, Camzyos, Breyanzi) offset Revlimid/Eliquis LOE headwinds, and earnings growth is already running at 9.2% YoY with revenue growth of 2.6%. Margins remain elite for pharma (72% gross, 33% operating, 38.7% ROE) and the 4.15% dividend yield offers substantial income support with low beta (0.235), making this a defensive but re-rating name. With 24 analysts covering and a consensus 'buy' rating, institutional sentiment is aligning with the technical breakout, and shares are still ~3.4% below 52-week highs, leaving room for continuation.",
+  "bear_case": "The forward PE discount to trailing PE (9.8x vs 17x) is a red flag suggesting the market is pricing in a step-down in reported earnings quality or one-time items inflating trailing numbers rather than genuine cheapness, and revenue growth of just 2.6% is anemic for a company facing severe patent cliffs on Revlimid and Eliquis over the next few years \u2014 the current earnings growth may not be sustainable as generic erosion accelerates. Debt-to-equity of 231% is extremely elevated, a legacy of the Celgene and Karuna acquisitions, constraining capital flexibility just as R&D and M&A are needed to refill the pipeline, and priceToBook of 6.18x is rich for a company with negative or thin equity cushion. The 30-day annualized volatility of 35% is unusually high for a low-beta defensive pharma, suggesting the recent rally could be driven by short-covering or rotation rather than fundamental re-rating, and RSI at 61.7 combined with proximity to 52-week highs raises risk of near-term mean reversion if upcoming pipeline readouts or guidance disappoint.",
+  "metrics": {
+    "momentum_63d": 0.04181905881943426,
+    "volatility_ann": 0.3510228164171744,
+    "rsi_14": 61.672456830713784,
+    "profit_margin": 0.15006,
+    "revenue_growth": 0.026,
+    "trailing_pe": 17.014006,
+    "return_on_equity": 0.38731998,
+    "beta": 0.235,
+    "market_cap": 124035416064,
+    "analyst_coverage": 24
+  }
+}

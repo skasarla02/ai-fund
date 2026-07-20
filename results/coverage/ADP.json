@@ -1,0 +1,26 @@
+{
+  "ticker": "ADP",
+  "name": "Automatic Data Processing",
+  "sector": "Industrials",
+  "sub_industry": "Human Resource & Employment Services",
+  "tier": "S&P 500",
+  "price": 255.27000427246094,
+  "as_of": "2026-07-19T21:27:22.574079+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "ADP has rallied sharply (mom_63d +28%) into overbought territory (RSI 69) even though its 50-day SMA remains below its 200-day SMA (no golden cross), suggesting the recent rally may be outrunning trend confirmation.",
+  "thesis": "ADP's fundamentals remain excellent for a compounder: 30% operating margins, 71% ROE, 20% net margins, and steady 7% revenue/10.5% earnings growth support its premium quality tag. The stock trades at a reasonable forward PE of 20.9x versus its own recent history, and it's still ~19% below its 52-week high of $315.98, leaving room to re-rate higher if HR/payroll processing demand and float income hold up. A low beta (0.84) and 2.66% dividend yield make it attractive as a defensive, cash-generative holding, and the strong 21d/63d momentum plus positive MACD histogram show real buying interest that could continue if the labor market and interest-rate environment stay supportive.",
+  "bear_case": "The technical setup is stretched: RSI at 69, 30d annualized volatility of 31% (high for a supposedly low-beta industrials name), and a still-unresolved death cross (50dma at 226 below 200dma at 234) suggest the recent 15% one-month surge is a sharp bounce rather than a durable trend, increasing odds of mean reversion. Valuation is rich on an absolute basis\u201423.8x trailing earnings and 16.1x book value for a company growing revenue only 7%\u2014leaving little margin for error if payroll/employment growth softens (ADP's revenue is tied to client headcount and float income, both sensitive to a cooling labor market or lower rates). With flat 126-day momentum (+0.3%) masking the recent spike, and sell-side consensus stuck at 'hold' across 15 analysts, the stock may simply be catching up to fair value rather than beginning a new leg higher, and any disappointment on earnings growth (already decelerating from margin-driven ROE) could trigger a pullback toward the 200dma near $234.",
+  "metrics": {
+    "momentum_63d": 0.28353071136497277,
+    "volatility_ann": 0.3130416833119113,
+    "rsi_14": 69.0114584282228,
+    "profit_margin": 0.20118,
+    "revenue_growth": 0.07,
+    "trailing_pe": 23.812033,
+    "return_on_equity": 0.71208,
+    "beta": 0.841,
+    "market_cap": 102038167552,
+    "analyst_coverage": 15
+  }
+}

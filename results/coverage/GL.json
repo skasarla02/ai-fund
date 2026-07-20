@@ -1,0 +1,26 @@
+{
+  "ticker": "GL",
+  "name": "Globe Life",
+  "sector": "Financials",
+  "sub_industry": "Life & Health Insurance",
+  "tier": "S&P 500",
+  "price": 184.75999450683594,
+  "as_of": "2026-07-19T22:26:59.794543+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "RSI of 79 and a negative MACD histogram signal a stock stretched near its 52-week high after a 30% six-month run, even as valuation (12.8x trailing P/E) remains cheap relative to its 20.5% ROE.",
+  "thesis": "Globe Life trades at just 12.8x trailing and 11.1x forward earnings with a 20.5% ROE, 12.6% earnings growth, and 23.7% operating margins \u2014 metrics that look undervalued for a low-beta (0.47) insurer with steady 5.4% revenue growth. The stock is in a strong uptrend, above both its 50- and 200-day moving averages with a golden cross intact, and analysts rate it a 'buy.' If momentum persists and the multiple re-rates even modestly toward peers, there's room for further upside, especially since the stock hasn't yet closed the gap to its 52-week high of $191.55.",
+  "bear_case": "The technical picture is flashing exhaustion: RSI at 78.9 is deeply overbought (anything above 70 typically signals an overdue pullback), and the MACD histogram has already turned negative even as price grinds higher \u2014 a classic bearish divergence that often precedes consolidation or reversal. After a 30% run in 126 days on top of an already-cheap valuation, much of the good news (low PE, high ROE) may already be priced in, and any disappointment relative to the 12.6% earnings growth expectation, or a reversion in the extreme RSI, could trigger a sharp pullback toward the 50-day SMA near $165, a roughly 11% drawdown from current levels.",
+  "metrics": {
+    "momentum_63d": 0.2366276521874653,
+    "volatility_ann": 0.16650584861255918,
+    "rsi_14": 78.88826648562292,
+    "profit_margin": 0.19383,
+    "revenue_growth": 0.054,
+    "trailing_pe": 12.786159,
+    "return_on_equity": 0.20455,
+    "beta": 0.47,
+    "market_cap": 14345645056,
+    "analyst_coverage": 11
+  }
+}

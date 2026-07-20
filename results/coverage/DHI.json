@@ -1,0 +1,26 @@
+{
+  "ticker": "DHI",
+  "name": "D. R. Horton",
+  "sector": "Consumer Discretionary",
+  "sub_industry": "Homebuilding",
+  "tier": "S&P 500",
+  "price": 149.38999938964844,
+  "as_of": "2026-07-19T22:02:41.637651+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "DHI trades right at both its 50- and 200-day moving averages with negative momentum (mom_21d -4.4%, mom_126d -5.7%) while fundamentals show shrinking revenue (-2.3%) and earnings (-13.2%), reflecting a housing market stalled by high rates.",
+  "thesis": "DHI trades at a cheap 14x trailing / 12.4x forward P/E and 1.8x book with a still-healthy 11.3% operating margin and 13% ROE, suggesting the market has already priced in a housing slowdown; if rates ease into year-end, pent-up demand and DHI's low debt/equity (27%) and $2.9B FCF give it flexibility to buy back shares and defend margins better than peers, positioning it for a re-rating once the negative earnings revisions stabilize.",
+  "bear_case": "The stock is down from a 52-week high of $184.55 to $149.39 (~19% off highs) and sits exactly at both the 50- and 200-day moving average with a bearish MACD histogram (-1.12) and RSI at 44.6, indicating momentum is breaking down, not basing; revenue and earnings are already declining (-2.3%/-13.2%) even before any further affordability shock, and homebuilders are notoriously early-cycle-sensitive \u2014 if mortgage rates stay elevated or unemployment ticks up, order cancellations and incentive-driven margin compression could push earnings estimates down further, making the 'cheap' multiple a value trap rather than a floor.",
+  "metrics": {
+    "momentum_63d": 0.045287946236725496,
+    "volatility_ann": 0.40266628403419985,
+    "rsi_14": 44.573035124524274,
+    "profit_margin": 0.09513,
+    "revenue_growth": -0.023,
+    "trailing_pe": 14.02723,
+    "return_on_equity": 0.13084,
+    "beta": 1.361,
+    "market_cap": 42363957248,
+    "analyst_coverage": 13
+  }
+}

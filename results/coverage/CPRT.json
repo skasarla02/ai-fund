@@ -1,0 +1,26 @@
+{
+  "ticker": "CPRT",
+  "name": "Copart",
+  "sector": "Industrials",
+  "sub_industry": "Diversified Support Services",
+  "tier": "S&P 500",
+  "price": 27.610000610351562,
+  "as_of": "2026-07-19T21:53:31.018668+00:00",
+  "rating": "bearish",
+  "conviction": 0.6,
+  "key_signal": "CPRT is trading at its 52-week low, down over 30% in six months, sitting below both the 50- and 200-day moving averages with no golden cross and negative MACD, while revenue and earnings growth have collapsed to just ~2%.",
+  "thesis": "Copart still boasts best-in-class economics\u201447.5% gross margin, 37.5% operating margin, 33.5% net margin, and 17.6% ROE\u2014and its forward P/E has compressed to just 16.4x, a rare discount for a name that historically traded at 25-30x. If salvage volume growth reaccelerates (e.g., from a pickup in total-loss frequency or international expansion in the UK/Germany/Brazil bearing fruit), the stock could re-rate sharply given how depressed sentiment already is, and the balance sheet (FCF near $1B) gives management room to buy back stock into weakness.",
+  "bear_case": "The price action is not noise\u2014momentum is deteriorating across every timeframe (-10% 1mo, -17% 3mo, -31% 6mo) and the stock is priced at its 52-week low for a reason: revenue growth has decelerated to just 2.1% and earnings growth to 2.3%, a dramatic slowdown from Copart's historical double-digit compounding, suggesting the core U.S. salvage volume growth engine (driven by insurance total-loss frequency and ASP appreciation) may be structurally maturing just as newer international/dealer segments aren't yet scaling enough to offset it; with only 10 analysts covering a $25B name, there's limited independent scrutiny to catch a deteriorating trend early, and a value trap is entirely plausible if growth stays anemic while the multiple that once justified premium pricing keeps compressing toward the market average.",
+  "metrics": {
+    "momentum_63d": -0.17012322721779005,
+    "volatility_ann": 0.3908546738012404,
+    "rsi_14": 38.79038837358694,
+    "profit_margin": 0.33481997,
+    "revenue_growth": 0.021,
+    "trailing_pe": 17.149069,
+    "return_on_equity": 0.17607,
+    "beta": 1.023,
+    "market_cap": 25561655296,
+    "analyst_coverage": 10
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "EMR",
+  "name": "Emerson Electric",
+  "sector": "Industrials",
+  "sub_industry": "Electrical Components & Equipment",
+  "tier": "S&P 500",
+  "price": 139.5399932861328,
+  "as_of": "2026-07-19T22:06:10.292537+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "EMR trades just above its 200-day average with price stuck between the 50-day (140.3) and 200-day (138.1) SMAs after a -6.2% 1-month drawdown, signaling consolidation rather than clear trend.",
+  "thesis": "Emerson's forward PE of 19.4x (versus trailing 32.2x) implies analysts expect a substantial earnings ramp, consistent with the 27.9% earnings growth reported and strong operating margins of 24.2%. Gross margins near 53% and a golden cross with price still above the 200-day SMA suggest the underlying uptrend from prior quarters remains technically intact despite the recent pullback. Revenue growth is modest at 2.9%, but the margin profile and free cash flow generation ($3.27B) support the 1.59% dividend and give management flexibility for buybacks or bolt-on M&A, a lever Emerson has used repeatedly in its portfolio transformation toward automation. With 27 analysts already rating it 'buy' on consensus, any stabilization above the 200dma could see funds re-enter on the dip, especially since RSI at 49 shows no oversold extreme forcing forced selling.",
+  "bear_case": "The technical picture is genuinely mixed-to-negative: MACD histogram is meaningfully negative (-0.30), 1-month momentum is down over 6%, and price sits below its 50-day SMA, meaning the stock has been in a real short-term downtrend that a 'golden cross' label (a lagging signal) doesn't offset. Valuation remains rich on a trailing basis at 32x earnings and 3.85x book despite only high-single-digit ROE (12.3%) and elevated debt-to-equity of 69, so any disappointment on the anticipated earnings acceleration embedded in the 19.4x forward multiple could trigger a sharp re-rating lower. Revenue growth of just 2.9% is weak for a stock still priced at a premium multiple, and with beta of 1.24 amid 31.6% annualized volatility, Emerson is more exposed than the average industrial to a broader market or capex-cycle slowdown, particularly given its automation/process-industry customer base is sensitive to global manufacturing PMI weakness that could compress the very earnings growth the market is pricing in.",
+  "metrics": {
+    "momentum_63d": -0.0018953840968695124,
+    "volatility_ann": 0.31616738040426323,
+    "rsi_14": 49.11204476568547,
+    "profit_margin": 0.13354,
+    "revenue_growth": 0.029,
+    "trailing_pe": 32.226326,
+    "return_on_equity": 0.12328,
+    "beta": 1.244,
+    "market_cap": 78156349440,
+    "analyst_coverage": 27
+  }
+}

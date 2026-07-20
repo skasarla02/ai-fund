@@ -1,0 +1,26 @@
+{
+  "ticker": "CSCO",
+  "name": "Cisco",
+  "sector": "Information Technology",
+  "sub_industry": "Communications Equipment",
+  "tier": "S&P 500",
+  "price": 111.94000244140625,
+  "as_of": "2026-07-19T21:48:11.713170+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "CSCO is consolidating just below its 50-day MA (115.6) after a 52% six-month rally, while still holding firmly above a rising 200-day MA (86.6) with an intact golden cross.",
+  "thesis": "Cisco's re-acceleration is fundamentally supported: 12% revenue growth and 37% earnings growth (well above its historical mid-single-digit norm) reflect AI-driven networking/security demand and Splunk integration synergies, with ROE of 25% and 65% gross margins showing the business is scaling profitably. The stock's 33%/52% gains over the last 3-6 months show the market re-rating Cisco as a data-center/AI infrastructure beneficiary rather than a legacy networking stalwart, and the recent 6% pullback with RSI at 44.7 looks like healthy digestion after a steep run rather than trend reversal, especially with price still 71% above the 52-week low and above the 200dma. Consensus sell-side rating is 'buy' across 22 analysts, and forward P/E of 23x is far more reasonable than the trailing 37x, implying the market expects continued earnings growth to catch up to the price move.",
+  "bear_case": "The negative MACD histogram (-0.87) and price breaking below the 50-day SMA after such a large run-up are classic signs of momentum rolling over, and at a 9x price-to-book with 37x trailing earnings, Cisco is priced for flawless execution rather than the low-growth hardware business it has been for a decade, leaving little room for error if the AI-networking narrative cools or hyperscaler capex normalizes. With 22 analysts already covering the name and a 'buy' consensus baked in, any disappointment on the upcoming print could trigger an outsized correction back toward the 200dma (86.6), a level nearly 23% below current price, especially given elevated 41% annualized volatility and debt-to-equity of 67.5% limiting balance-sheet flexibility.",
+  "metrics": {
+    "momentum_63d": 0.3296895454675215,
+    "volatility_ann": 0.4069564660437708,
+    "rsi_14": 44.7639383963829,
+    "profit_margin": 0.19685,
+    "revenue_growth": 0.12,
+    "trailing_pe": 37.313335,
+    "return_on_equity": 0.25229,
+    "beta": 1.007,
+    "market_cap": 441204211712,
+    "analyst_coverage": 22
+  }
+}

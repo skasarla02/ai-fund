@@ -1,0 +1,26 @@
+{
+  "ticker": "ISRG",
+  "name": "Intuitive Surgical",
+  "sector": "Health Care",
+  "sub_industry": "Health Care Equipment",
+  "tier": "S&P 500",
+  "price": 345.4200134277344,
+  "as_of": "2026-07-19T22:37:38.525027+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "ISRG trades exactly at its 52-week low ($345.42 vs $344.55) after a ~43% drawdown from the 52-week high, with RSI at 30 (oversold) even as underlying revenue (+18.5%) and earnings (+26.5%) growth remain robust.",
+  "thesis": "The technical picture looks capitulatory (RSI 30, price pinned at the 52-week low, huge de-rating from 603.88 to 345.42) while the fundamental story hasn't broken: 66.8% gross margin, 33.7% operating margin, 17.4% ROE, and double-digit revenue/earnings growth persist. Forward P/E has compressed to 28.8x from a much richer historical multiple, meaning a lot of bad news (competitive/tariff/China concerns) is likely already priced in. For a quality compounder with 29 analysts still rating it 'buy,' a stock sitting at a fresh 52-week low with oversold RSI often marks a tactical bottoming zone, offering an attractive entry for a name that historically commands premium multiples.",
+  "bear_case": "The trend is unambiguously bearish and consistent, not a one-off air-pocket: price is below both the 50-day ($416.97) and 200-day ($486.56) moving averages with no golden cross, momentum is negative across all three horizons (-17.2% 1M, -24.6% 3M, -36.8% 6M), and MACD histogram is still solidly negative (-4.26), meaning the downtrend is intact and accelerating downside risk isn't exhausted just because RSI is 'oversold' \u2014 RSI can stay depressed for months in a real de-rating. With 29 analysts already covering the name and a still-rich 39.7x trailing P/E and 7.0x price-to-book, this isn't an obscure mispricing; the market may be correctly discounting a structural slowdown in procedure volume growth, rising competitive threats to da Vinci's moat, or margin pressure, and a stock with 55.6% annualized volatility and beta of 1.46 can easily overshoot further to the downside before any fundamental catalyst arrives to reverse the trend.",
+  "metrics": {
+    "momentum_63d": -0.24593952245664907,
+    "volatility_ann": 0.5555983060587837,
+    "rsi_14": 30.159662554539636,
+    "profit_margin": 0.28445998,
+    "revenue_growth": 0.185,
+    "trailing_pe": 39.70345,
+    "return_on_equity": 0.17423001,
+    "beta": 1.46,
+    "market_cap": 122334937088,
+    "analyst_coverage": 29
+  }
+}

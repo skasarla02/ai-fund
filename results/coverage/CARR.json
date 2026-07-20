@@ -1,0 +1,26 @@
+{
+  "ticker": "CARR",
+  "name": "Carrier Global",
+  "sector": "Industrials",
+  "sub_industry": "Building Products",
+  "tier": "S&P 500",
+  "price": 68.69000244140625,
+  "as_of": "2026-07-19T21:39:22.105058+00:00",
+  "rating": "neutral",
+  "conviction": 0.56,
+  "key_signal": "Carrier's strong 6-month uptrend (+24.5%) is stalling near the 50-day SMA with negative short-term momentum (-3.5% over 21d) and a bearish MACD crossover, even though it remains above its 200dma with a golden cross intact.",
+  "thesis": "Carrier trades well off its 52-week high ($81.09 vs $68.69 now) but forward PE of 21.4 (vs trailing 45.8) implies the market expects a sharp earnings rebound from the -40.7% trailing earnings growth, likely tied to portfolio simplification post-divestitures. Revenue growth is modest (2.4%) but gross margins (25%) and free cash flow (~$850M) support the dividend (1.4% yield) and ongoing buybacks/debt paydown. With 21 analysts covering and a consensus 'buy' rating, sell-side sentiment remains constructive, and the stock's medium-term momentum (+15.4% over 63d, +24.5% over 126d) plus its position above both the 50- and 200-day moving averages still reflects an intact uptrend structure that could resume if forward earnings materialize.",
+  "bear_case": "The stock's valuation is stretched on a trailing basis (PE 45.8, P/B 4.25) while actual earnings growth is deeply negative (-40.7%) and revenue growth is anemic (2.4%), meaning the entire bull case rests on a forward-looking earnings recovery that hasn't yet shown up in the numbers; meanwhile short-term technicals are deteriorating (negative MACD histogram, momentum rolling over from +24.5% to -3.5% over 21 days, RSI at a neutral 47.8) suggesting the market may be starting to reprice away from the growth-recovery narrative, and with debt-to-equity at 91% and beta of 1.3, any macro or execution disappointment could trigger an outsized drawdown from a name already 15% off its 52-week high in a highly volatile 38% annualized vol environment.",
+  "metrics": {
+    "momentum_63d": 0.1544912013242492,
+    "volatility_ann": 0.3800676419967836,
+    "rsi_14": 47.805240156890065,
+    "profit_margin": 0.059899997,
+    "revenue_growth": 0.024,
+    "trailing_pe": 45.793335,
+    "return_on_equity": 0.09907,
+    "beta": 1.309,
+    "market_cap": 57052569600,
+    "analyst_coverage": 21
+  }
+}

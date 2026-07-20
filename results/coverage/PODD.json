@@ -1,0 +1,26 @@
+{
+  "ticker": "PODD",
+  "name": "Insulet Corporation",
+  "sector": "Health Care",
+  "sub_industry": "Health Care Equipment",
+  "tier": "S&P 500",
+  "price": 164.05999755859375,
+  "as_of": "2026-07-19T22:35:13.426689+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "PODD has rebounded 11% over the last month (RSI 57.7, positive MACD histogram) after a brutal 42% six-month drawdown, while fundamentals (33.9% revenue growth, 159% earnings growth, 71% gross margin) remain intact and 23 analysts still carry a strong-buy consensus.",
+  "thesis": "Insulet's core Omnipod business continues to compound at a 33.9% revenue growth clip with 71% gross margins and 16% operating margins, translating into 23% ROE and triple-digit earnings growth\u2014metrics that don't match a stock trading 54% below its 52-week high. The forward P/E of 20.4 (vs trailing 38.3) implies the market already expects a sharp earnings inflection, and the stock's recent price action\u2014up 11% in the last month, reclaiming the 50-day moving average, with a strongly positive MACD histogram and RSI at 57.7\u2014suggests the selling pressure that drove the 420-day collapse from $354 to $138 may be exhausting itself. A strong-buy consensus from 23 sell-side analysts, despite the stock trading well below its 200-day average, indicates the Street views the fundamental growth story as durable even if the multiple has compressed hard from prior extremes.",
+  "bear_case": "The stock remains 31% below its 200-day moving average ($239.55) and the 126-day momentum of -42% reflects a genuine, unresolved deterioration in sentiment\u2014likely tied to competitive share losses in automated insulin delivery (Medtronic, Tandem, Dexcom partnerships) or pricing/reimbursement pressure that a single month of bounce doesn't undo. Priced at 8.7x book and 38x trailing earnings with debt/equity of 77.8%, PODD still carries a premium valuation that leaves no room for execution missteps, and 45% annualized volatility means the current 11% one-month pop could easily reverse; a stock that fell over 50% from highs over two quarters typically needs more than one month of technical repair before a durable bottom is confirmed, and the 50/200 death-cross setup (golden_cross=0, above_200dma=0) is a classic bearish technical regime that historically persists.",
+  "metrics": {
+    "momentum_63d": -0.1856852307313388,
+    "volatility_ann": 0.45419170394660835,
+    "rsi_14": 57.70327204470616,
+    "profit_margin": 0.10438,
+    "revenue_growth": 0.339,
+    "trailing_pe": 38.33177,
+    "return_on_equity": 0.22997999,
+    "beta": 1.111,
+    "market_cap": 11363561472,
+    "analyst_coverage": 23
+  }
+}

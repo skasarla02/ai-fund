@@ -1,0 +1,26 @@
+{
+  "ticker": "RSG",
+  "name": "Republic Services",
+  "sector": "Industrials",
+  "sub_industry": "Environmental & Facilities Services",
+  "tier": "S&P 500",
+  "price": 220.49000549316406,
+  "as_of": "2026-07-20T16:01:12.823064+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "RSG trades above its 50- and 200-day moving averages with positive multi-timeframe momentum (21d/63d/126d all +5-7%) despite still sitting ~10% below its 52-week high, suggesting room to re-test highs on a slow, steady technical uptrend.",
+  "thesis": "Republic Services is a defensive, low-beta (0.41) waste-management franchise with strong pricing power evidenced by 43% gross margins and 20% operating margins, and a 'buy' consensus from all 24 covering analysts. Momentum is broadly positive across 21/63/126-day windows, MACD histogram is positive, and price sits comfortably above both the 50- and 200-day moving averages, indicating an intact if unspectacular uptrend after a pullback from the $246 high. ROE of 18.3% and consistent free cash flow generation (~$1.8B) support the dividend and buybacks, and the stock's low beta makes it a reasonable holding in a volatile macro environment where investors reward earnings stability over growth.",
+  "bear_case": "Valuation is stretched relative to the underlying growth: a 31.6x trailing P/E (27.3x forward) is paying a premium multiple for only 2.6% revenue growth and 7.5% earnings growth, well below the multiple's implied growth expectations, leaving little margin for disappointment. The lack of a golden cross (50-day SMA of $210.3 still below the 200-day SMA of $213.7) signals the medium-term trend hasn't technically confirmed the longer-term one, and debt-to-equity of 117.6% is elevated for a utility-like business, making the stock sensitive to any rate or refinancing shock. If growth continues to decelerate or margins compress even modestly, a 31x multiple with mid-single-digit growth is vulnerable to material multiple compression, especially since the stock is already down from its 52-week high.",
+  "metrics": {
+    "momentum_63d": 0.06488345890454617,
+    "volatility_ann": 0.2539627470915323,
+    "rsi_14": 56.23666706232377,
+    "profit_margin": 0.12991999,
+    "revenue_growth": 0.026,
+    "trailing_pe": 31.588825,
+    "return_on_equity": 0.18346001,
+    "beta": 0.405,
+    "market_cap": null,
+    "analyst_coverage": 24
+  }
+}

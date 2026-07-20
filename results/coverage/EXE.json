@@ -1,0 +1,26 @@
+{
+  "ticker": "EXE",
+  "name": "Expand Energy",
+  "sector": "Energy",
+  "sub_industry": "Oil & Gas Exploration & Production",
+  "tier": "S&P 500",
+  "price": 88.12999725341797,
+  "as_of": "2026-07-19T22:10:03.525741+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "EXE trades at just 6.6x trailing earnings and 1.08x book value near its 52-week low ($88.13 vs low of $84.99), yet remains below both its 50-day ($91.53) and 200-day ($102.45) moving averages with a still-negative 6-month momentum trend (-12.1%).",
+  "thesis": "Expand Energy screens as deeply undervalued on trailing metrics (6.6x P/E, 1.08x book) with strong 34% operating margins, ~25% net margins, $1.69B of free cash flow, and a 3.62% dividend yield backed by 41% revenue growth from the Chesapeake/Southwestern merger. The stock has fallen from a $126.62 high to near its 52-week low of $84.99, and the recent MACD histogram turning positive (+0.12) alongside a neutral RSI of 44.7 suggests selling pressure may be exhausting near this support level. Low beta (0.326) means the stock isn't tracking broad market swings, so any stabilization in natural gas prices could allow this cash-generative, moderately levered (D/E 25.9%) name to re-rate toward its book value or beyond, especially with 25 analysts maintaining a consensus 'buy'.",
+  "bear_case": "The forward P/E of 10.4 versus trailing 6.6 signals the Street expects earnings to roughly decline by a third, likely reflecting normalizing natural gas prices after a strong prior period and/or fading merger synergies \u2014 meaning the 'cheap' trailing multiple is a backward-looking mirage. The stock remains in a confirmed downtrend (no golden cross, below both the 50- and 200-day moving averages, -8.9% over 3 months and -12.1% over 6 months), and 30-day annualized volatility of 23% shows real risk of a leg lower toward or through the $84.99 low if gas prices stay weak into shoulder-season demand troughs. With earningsGrowth data unavailable and revenue growth inflated by acquisition accounting rather than organic volumes, the fundamental picture is murkier than the headline margins suggest, and a commodity-driven E&P at 1.08x book can easily re-rate to a discount to book in a down-cycle.",
+  "metrics": {
+    "momentum_63d": -0.08932830860069996,
+    "volatility_ann": 0.23166143399170913,
+    "rsi_14": 44.69578183456834,
+    "profit_margin": 0.24906999,
+    "revenue_growth": 0.41,
+    "trailing_pe": 6.5572915,
+    "return_on_equity": 0.17568001,
+    "beta": 0.326,
+    "market_cap": 21083238400,
+    "analyst_coverage": 25
+  }
+}

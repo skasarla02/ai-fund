@@ -1,0 +1,26 @@
+{
+  "ticker": "CHRW",
+  "name": "C.H. Robinson",
+  "sector": "Industrials",
+  "sub_industry": "Air Freight & Logistics",
+  "tier": "S&P 500",
+  "price": 208.5,
+  "as_of": "2026-07-19T21:37:51.680768+00:00",
+  "rating": "bearish",
+  "conviction": 0.56,
+  "key_signal": "CHRW trades at a 52-week high with RSI 72 (deeply overbought) while trailing revenue is actually shrinking (-0.8%), making the 42x trailing / 28x forward P&E multiple look priced for a growth story that isn't showing up in the top line.",
+  "thesis": "The technical trend is unambiguously strong: price is above both the 50- and 200-day moving averages with a golden cross intact, momentum has accelerated (21d +10%, 63d +15%, 126d +22%), and MACD histogram is strongly positive, all consistent with continued institutional buying and a market that believes in margin recovery/self-help cost cuts (ROE 34.8%, op margin ticking up). If freight cyclicality is bottoming, CHRW could be an early beneficiary re-rating ahead of an actual volume recovery, and 25 analysts still carry a 'buy' consensus.",
+  "bear_case": "This is a name that has run up hard into a wall of overbought conditions (RSI 72.3) sitting essentially at its 52-week high (208.50 vs 208.83 high) with 30d annualized vol of 31%, meaning any disappointment triggers a fast, sharp reversal; more importantly, the fundamentals don't support the multiple \u2014 revenue growth is negative (-0.8%), gross margin is a thin 8.6%, net margin only 3.7%, and debt/equity is elevated at 96.5x, so the 42x trailing P/E and 14.5x price-to-book are being justified almost entirely by financial engineering (buybacks inflating ROE) rather than organic freight demand improvement, leaving very little room for error in a freight market that remains structurally soft.",
+  "metrics": {
+    "momentum_63d": 0.15199624461655858,
+    "volatility_ann": 0.30744441962548613,
+    "rsi_14": 72.31356375001342,
+    "profit_margin": 0.03698,
+    "revenue_growth": -0.008,
+    "trailing_pe": 42.20648,
+    "return_on_equity": 0.34838,
+    "beta": 0.915,
+    "market_cap": 24576528384,
+    "analyst_coverage": 25
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "DPZ",
+  "name": "Domino's",
+  "sector": "Consumer Discretionary",
+  "sub_industry": "Restaurants",
+  "tier": "S&P 500",
+  "price": 322.17999267578125,
+  "as_of": "2026-07-19T22:01:43.591941+00:00",
+  "rating": "bullish",
+  "conviction": 0.56,
+  "key_signal": "DPZ has carved out a bottom above its 50-day SMA with a strongly positive MACD histogram after a 35% drawdown from its 52-week high, while trading at just 15.5x forward earnings.",
+  "thesis": "After a brutal 6-month slide (mom_126d -20%, still 35% below the 52-week high of $496), DPZ's technicals are turning constructive: price is above the 50-day SMA, MACD histogram is strongly positive (+3.2), RSI sits at a healthy 57.8 (room to run before overbought), and 21-day momentum has flipped positive. Fundamentally, the business remains solid \u2014 operating margins of 19.3%, gross margins of 28.7%, and positive free cash flow of ~$525M against a $10.7B market cap \u2014 while the stock trades at a discounted 15.5x forward P/E versus its historical premium multiple. The 2.47% dividend yield adds a support level, and the sell-side consensus (28 analysts) still rates it a 'buy,' suggesting the market may be overly punishing a temporary earnings growth dip (-4.6%) on modest but positive revenue growth (+3.5%). This looks like a valuation reset in a durable franchise-model business rather than a structural breakdown.",
+  "bear_case": "The stock remains below its 200-day SMA with no golden cross, meaning the dominant multi-month trend is still bearish, and a short-term bounce off oversold conditions can easily fail \u2014 DPZ has round-tripped much of its 2024 gains already. More concerning fundamentally: priceToBook is negative (-2.76), meaning Domino's has negative shareholder equity from years of aggressive debt-funded buybacks, leaving the balance sheet more levered and fragile than peers, especially with debtToEquity data unavailable (a red flag in itself for opacity). Earnings growth is already negative (-4.6%) even before any consumer discretionary softening shows up in same-store sales, and at 40.7% annualized volatility, this is not a low-risk value play \u2014 a resumption of the prior downtrend toward the 52-week low of $282 (12% below current price) is entirely plausible if same-store sales or delivery-market-share trends disappoint again.",
+  "metrics": {
+    "momentum_63d": -0.12148571618776571,
+    "volatility_ann": 0.4069301286289002,
+    "rsi_14": 57.84953938900993,
+    "profit_margin": 0.118879996,
+    "revenue_growth": 0.035,
+    "trailing_pe": 18.54807,
+    "return_on_equity": null,
+    "beta": 0.975,
+    "market_cap": 10716309504,
+    "analyst_coverage": 28
+  }
+}

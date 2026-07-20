@@ -1,0 +1,26 @@
+{
+  "ticker": "ABBV",
+  "name": "AbbVie",
+  "sector": "Health Care",
+  "sub_industry": "Biotechnology",
+  "tier": "S&P 500",
+  "price": 254.49000549316406,
+  "as_of": "2026-07-19T21:13:50.931681+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "ABBV trades within 3% of its 52-week high with a golden cross and 22.6% 3-month momentum, while forward P/E of 15.6x (vs. trailing 124.75x) signals the market expects the Humira-driven earnings collapse (-46.2% trailing EPS growth) to reverse as Skyrizi/Rinvoq drive 12.4% revenue growth.",
+  "thesis": "AbbVie's technical setup is unambiguously bullish: price is above both the 50- and 200-day moving averages with a golden cross intact, and 21/63/126-day momentum are all strongly positive (15%, 22.6%, 17.4%), reflecting the market's confidence that the post-Humira transition is working. The huge gap between trailing PE (124.75x, distorted by one-time patent-cliff and impairment charges) and forward PE (15.63x) implies Street consensus expects a sharp earnings normalization, consistent with 12.4% revenue growth and best-in-class 72% gross / 32% operating margins that show the underlying business remains highly profitable. A low beta (0.28) and 2.72% dividend yield make this a defensive compounder that has still delivered growth-stock-like momentum, a rare combination that's attracting inflows even as 28 analysts already cover the name with a consensus 'buy' rating, suggesting institutional conviction rather than a crowded short-term trade.",
+  "bear_case": "The stock is priced for a smooth recovery narrative but sits just below its 52-week high with RSI at 65.9 (approaching overbought) and a negative MACD histogram (-0.73) despite the price uptrend \u2014 a classic bearish divergence suggesting momentum is already decelerating even as price grinds higher, which often precedes a consolidation or pullback. Trailing earnings growth of -46.2% is not a one-off comp issue but reflects real Humira biosimilar erosion, and priceToBook of -67.6 reveals negative shareholders' equity, meaning the balance sheet has been levered up (via buybacks/debt for Allergan and other deals) in a way that leaves little cushion if Skyrizi/Rinvoq growth decelerates or pricing/IRA policy pressure intensifies; with 28 analysts already fully engaged, any earnings miss versus the embedded 15.6x forward multiple recovery story could trigger a sharp multiple re-rating rather than a gentle digestion of gains.",
+  "metrics": {
+    "momentum_63d": 0.22638129193653111,
+    "volatility_ann": 0.3497714515498942,
+    "rsi_14": 65.86264781136511,
+    "profit_margin": 0.05786,
+    "revenue_growth": 0.124,
+    "trailing_pe": 124.75001,
+    "return_on_equity": null,
+    "beta": 0.283,
+    "market_cap": 449631125504,
+    "analyst_coverage": 28
+  }
+}

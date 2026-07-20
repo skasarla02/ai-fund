@@ -1,0 +1,26 @@
+{
+  "ticker": "HOOD",
+  "name": "Robinhood Markets",
+  "sector": "Financials",
+  "sub_industry": "Investment Banking & Brokerage",
+  "tier": "S&P 500",
+  "price": 101.22149658203125,
+  "as_of": "2026-07-20T16:02:03.363855+00:00",
+  "rating": "bearish",
+  "conviction": 0.58,
+  "key_signal": "HOOD just slipped below its 200-day moving average (101.22 vs 101.54) with negative MACD momentum, even as earnings growth has decelerated sharply to 2.7% despite 15% revenue growth.",
+  "thesis": "Robinhood's core franchise remains excellent\u201492% gross margins, 41% net margins, 21% ROE, and 15% revenue growth reflect a scaling, high-margin trading/crypto platform that continues to take share. The 63-day momentum of +11.5% shows the stock can still rally hard on positive catalysts (options/crypto volumes, new products), and a bounce off the 50dma (93.5) toward the 200dma suggests near-term support. Sell-side remains constructive (26 analysts, 'buy' consensus) which could sustain upgrades if trading volumes stay elevated into Q4.",
+  "bear_case": "The stock trades at 49x trailing and 33x forward earnings with a 9.8x price-to-book\u2014pricing in continued hypergrowth\u2014yet earnings growth of just 2.7% badly lags 15% revenue growth, implying margin compression or non-recurring revenue tailwinds (crypto/options volumes) that are inherently volatile and mean-reverting. Technically the stock has broken below its 200dma for the first time in the current pullback, negative MACD histogram (-1.92) and 126-day momentum of -8.3% signal a broader downtrend, and at 70% annualized volatility with a 2.34 beta, any risk-off shift or slowdown in retail trading activity (the stock is already down ~34% from its 52-week high of $153.86) could trigger an outsized drawdown from these still-elevated multiples.'",
+  "metrics": {
+    "momentum_63d": 0.1153883920884986,
+    "volatility_ann": 0.7032327439032473,
+    "rsi_14": 47.87559185258375,
+    "profit_margin": 0.41123,
+    "revenue_growth": 0.151,
+    "trailing_pe": 49.13665,
+    "return_on_equity": 0.21461001,
+    "beta": 2.336,
+    "market_cap": 91150475264,
+    "analyst_coverage": 26
+  }
+}

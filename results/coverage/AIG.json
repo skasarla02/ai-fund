@@ -1,0 +1,26 @@
+{
+  "ticker": "AIG",
+  "name": "American International Group",
+  "sector": "Financials",
+  "sub_industry": "Multi-line Insurance",
+  "tier": "S&P 500",
+  "price": 80.5,
+  "as_of": "2026-07-19T21:20:39.218721+00:00",
+  "rating": "bullish",
+  "conviction": 0.63,
+  "key_signal": "AIG is trading above both its 50- and 200-day moving averages with strong multi-timeframe momentum (21d +7%, 63d +3.6%, 126d +11.6%) while still trading at a forward P/E of just 9.1x, a steep discount to its trailing 14.2x multiple, implying the market expects a step-up in earnings.",
+  "thesis": "AIG's technical picture is constructive: price is up 3.2% on the day, sitting above both the 50-day (76.2) and 200-day (76.8) SMAs, RSI at 60 shows room before overbought, and MACD histogram is positive, all consistent with a stock in a healthy uptrend rather than a blow-off top. Fundamentally, the stock trades at only 1.06x book value and 9.1x forward earnings despite 21.6% earnings growth and a 2.48% dividend yield, making it cheap relative to both its own history and the market. Low beta (0.54) and consensus 'buy' from all 20 covering analysts suggest institutional comfort with the risk/reward, while free cash flow of $9.5B against a $42.7B market cap gives ample capacity for buybacks and dividend support, which can act as a valuation floor and continue to compress the discount to book value.",
+  "bear_case": "The rally has pushed AIG within about 8% of its 52-week high (87.29) after a big run, and revenue growth is anemic at just 1.4% with ROE of only 7.7%, meaning the cheap forward multiple may reflect structurally weak profitability rather than unrecognized value \u2014 insurers with ROE below 10% often get de-rated rather than re-rated even after earnings beats. The lack of a golden cross (50-day still fractionally below the 200-day) suggests the medium-term trend confirmation is not yet fully in place, and with 30-day annualized volatility at 26% versus a low beta of 0.54, any reserve charge, catastrophe loss, or reinsurance market disruption (multi-line insurers are structurally exposed to tail risk) could quickly erase the recent momentum gains, especially since the stock is already priced for a 'buy' consensus with little room for disappointment from all 20 analysts covering it.",
+  "metrics": {
+    "momentum_63d": 0.035987656078634966,
+    "volatility_ann": 0.2605127110439084,
+    "rsi_14": 60.462438213671064,
+    "profit_margin": 0.118389994,
+    "revenue_growth": 0.014,
+    "trailing_pe": 14.172536,
+    "return_on_equity": 0.07723,
+    "beta": 0.541,
+    "market_cap": 42681597952,
+    "analyst_coverage": 20
+  }
+}

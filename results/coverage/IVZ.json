@@ -1,0 +1,26 @@
+{
+  "ticker": "IVZ",
+  "name": "Invesco",
+  "sector": "Financials",
+  "sub_industry": "Asset Management & Custody Banks",
+  "tier": "S&P 500",
+  "price": 29.6299991607666,
+  "as_of": "2026-07-19T22:37:54.272343+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "IVZ trades at just 9.3x forward earnings while trading in a confirmed uptrend (golden cross, price above both 50- and 200-day SMAs, +24% over 63 days) and analysts still rate it a buy.",
+  "thesis": "Invesco's technical picture is unambiguously constructive: price sits above both the 50-day ($27.74) and 200-day ($25.55) moving averages, a golden cross is in place, momentum is positive across 21/63/126-day windows, and MACD histogram is strongly positive without RSI (60) yet signaling overbought exhaustion. Fundamentally, the stock is priced for distress it may not deserve\u2014forward P/E of 9.3x and price-to-book of 1.35x are inexpensive for an asset manager guided toward 35% forward earnings growth and 14% revenue growth, with operating margins still a healthy 19.1%. The trailing negative profit margin and ROE look like the residue of a one-time charge rather than a structural impairment, since operating profitability and forward earnings estimates both point higher. A near-3% dividend yield and 12-analyst 'buy' consensus provide additional support, and at $29.63 the stock still has room to the 52-week high of $31.02.",
+  "bear_case": "The trailing profit margin (-3.7%) and ROE (-1.5%) are not necessarily one-off\u2014asset managers are structurally exposed to fee compression from passive competition, and Invesco's debt-to-equity of 14.8 (likely reflecting balance-sheet leverage against a relatively small equity base after impairments) leaves limited cushion if AUM-driven revenue disappoints. With a beta of 1.6 and 42% annualized volatility, IVZ is a high-beta proxy for market sentiment; the run-up of +24% over 63 days already prices in a benign macro backdrop, and any equity-market drawdown or renewed net outflows from active strategies could hit both AUM-based fee revenue and the stock disproportionately hard, especially since 12 analysts already cover the name and the 'cheap' valuation may simply reflect the market pricing in continued margin erosion rather than mispricing.",
+  "metrics": {
+    "momentum_63d": 0.24371198877872113,
+    "volatility_ann": 0.4212445994637198,
+    "rsi_14": 60.39333179414762,
+    "profit_margin": -0.03692,
+    "revenue_growth": 0.141,
+    "trailing_pe": null,
+    "return_on_equity": -0.01535,
+    "beta": 1.597,
+    "market_cap": 13134878720,
+    "analyst_coverage": 12
+  }
+}

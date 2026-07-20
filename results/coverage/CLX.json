@@ -1,0 +1,26 @@
+{
+  "ticker": "CLX",
+  "name": "Clorox",
+  "sector": "Consumer Staples",
+  "sub_industry": "Household Products",
+  "tier": "S&P 500",
+  "price": 96.31999969482422,
+  "as_of": "2026-07-19T21:49:01.134408+00:00",
+  "rating": "neutral",
+  "conviction": 0.56,
+  "key_signal": "CLX trades 27% below its 52-week high and under its 200-day average, yet has just reclaimed its 50-day SMA (96.32 vs 94.33) with a positive MACD histogram, signaling a tentative technical stabilization inside a still-broken longer-term trend.",
+  "thesis": "After a brutal 12-month decline (mom_126d -11.5%), Clorox is cheap on an absolute basis (15.7x trailing, 16.0x forward earnings) for a low-beta (0.53) defensive staple, and its 5.15% dividend yield is unusually generous for the sector, offering income support while the stock consolidates. Short-term technicals have turned constructive \u2014 price is back above the 50dma with RSI near neutral (51) and MACD histogram positive \u2014 suggesting the worst of the selling pressure may be behind it, and any recovery toward the 200dma (103.92) would be a ~8% move from here. Gross margin (43.8%) and operating margin (17.0%) remain solid, indicating the core business is still profitable even amid tepid top-line growth.",
+  "bear_case": "The fundamentals underneath the cheap multiple are weak: revenue growth is essentially flat (0.1%), earnings growth is anemic (2.7%), and free cash flow of just $62.75M against $6.76B of revenue is a razor-thin FCF margin that raises real questions about dividend coverage at a 5.15% yield \u2014 a payout that could be at risk if FCF doesn't recover meaningfully. Debt-to-equity of ~4,876% signals either a heavily leveraged balance sheet or equity that's been shrunk to near-zero via buybacks, either of which leaves little cushion if consumer demand softens further or input costs rise. The stock remains below its 200dma with no golden cross and a still-negative 63-day and 126-day momentum trend, meaning the recent bounce could easily be a dead-cat rally within a broader deterioration that 17 analysts covering the name (consensus 'hold') have not yet priced as a buying opportunity.",
+  "metrics": {
+    "momentum_63d": -0.04733188742434968,
+    "volatility_ann": 0.36230309289956547,
+    "rsi_14": 51.39739900901234,
+    "profit_margin": 0.111829996,
+    "revenue_growth": 0.001,
+    "trailing_pe": 15.661788,
+    "return_on_equity": 5.46099,
+    "beta": 0.531,
+    "market_cap": 11647144960,
+    "analyst_coverage": 17
+  }
+}

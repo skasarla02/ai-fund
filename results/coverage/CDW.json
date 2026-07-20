@@ -1,0 +1,26 @@
+{
+  "ticker": "CDW",
+  "name": "CDW Corporation",
+  "sector": "Information Technology",
+  "sub_industry": "Technology Distributors",
+  "tier": "S&P 500",
+  "price": 133.24000549316406,
+  "as_of": "2026-07-19T21:41:31.620708+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "Forward P/E of 11.3 vs trailing 16.2 signals the Street expects meaningful earnings acceleration, yet the stock trades ~27% below its 52-week high with a still-negative MACD histogram.",
+  "thesis": "CDW's forward multiple compression (11.3x vs 16.2x trailing) combined with 9.2% revenue growth and 44% ROE suggests the market hasn't fully priced in an anticipated earnings re-acceleration in IT distribution/services spend. The stock sits above both its 50-day (125.2) and 200-day (132.6) moving averages, RSI is neutral at 49 (no overbought/oversold extreme), and 21-day momentum is positive (+2.4%), indicating the recent pullback from the 52-week high of 183.66 may be stabilizing rather than deteriorating. A 1.89% dividend yield plus consistent FCF generation ($884M) supports capital return while the company waits for enterprise IT refresh cycles (AI infrastructure, PC replacement) to materialize, and the sell-side 'buy' consensus across its 9 covering analysts corroborates the improving fundamental setup.",
+  "bear_case": "The technical picture is more fragile than the valuation story suggests: golden_cross is 0 (50-day still below/crossing near the 200-day), MACD histogram is meaningfully negative (-0.94), and 63-day momentum is essentially flat (+0.5%), all consistent with a stock that has lost trend leadership after falling ~27% from its highs \u2014 this is not a stock in a confirmed uptrend, it's one testing support. Fundamentally, CDW carries extremely high leverage (debt/equity of 240%), which inflates the eye-catching 44% ROE and makes the balance sheet vulnerable if IT spending growth disappoints or rates stay elevated; thin operating margins (6.6%) leave little cushion for a distributor facing margin compression from vendors or price competition. With only 9 analysts covering the name and earnings growth guidance (7.7%) trailing revenue growth (9.2%), any miss could quickly re-rate the stock lower given elevated 45% annualized volatility, and a 'cheap forward PE' can just as easily reflect skepticism about achieving that growth as it does undervaluation.",
+  "metrics": {
+    "momentum_63d": 0.005401315769778758,
+    "volatility_ann": 0.4541565620335719,
+    "rsi_14": 49.321827304566234,
+    "profit_margin": 0.047030002,
+    "revenue_growth": 0.092,
+    "trailing_pe": 16.22899,
+    "return_on_equity": 0.44157,
+    "beta": 0.962,
+    "market_cap": 17021870080,
+    "analyst_coverage": 9
+  }
+}

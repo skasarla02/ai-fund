@@ -1,0 +1,26 @@
+{
+  "ticker": "HCA",
+  "name": "HCA Healthcare",
+  "sector": "Health Care",
+  "sub_industry": "Health Care Facilities",
+  "tier": "S&P 500",
+  "price": 371.17999267578125,
+  "as_of": "2026-07-19T22:28:46.243042+00:00",
+  "rating": "bearish",
+  "conviction": 0.58,
+  "key_signal": "HCA has fallen ~33% from its 52-week high and is trading below both its 50- and 200-day moving averages with accelerating downside momentum (-23% over 3 months), signaling the market is pricing in structural policy risk (Medicaid/ACA reimbursement pressure) that isn't yet reflected in trailing fundamentals.",
+  "thesis": "At 12.8x trailing and 11.3x forward earnings, HCA trades at its cheapest multiple in years despite still growing revenue (4.3%) and earnings (10.9%) with healthy 15% operating margins and $5.7B of free cash flow - a valuation reset that could attract value buyers if the stock stabilizes near its 52-week low of $330, especially with sell-side consensus still at 'buy' across 20 analysts.",
+  "bear_case": "The stock is in a textbook downtrend - price below both the 50-day ($394) and 200-day ($458) moving averages, no golden cross, negative MACD histogram, and RSI at 41 showing no oversold bounce signal yet - while the -23% three-month drawdown reflects real structural fear around Medicaid work requirements and site-neutral payment cuts embedded in recent federal budget legislation that directly threatens hospital operator reimbursement economics; a cheap trailing multiple is a value trap if forward earnings estimates haven't yet been cut to reflect that policy hit, and the negative price-to-book (-13x) from heavy buyback-funded negative equity leaves no balance-sheet cushion if cash flows compress.",
+  "metrics": {
+    "momentum_63d": -0.2299234148101591,
+    "volatility_ann": 0.4168721403749085,
+    "rsi_14": 40.84698877252936,
+    "profit_margin": 0.08894,
+    "revenue_growth": 0.043,
+    "trailing_pe": 12.786083,
+    "return_on_equity": null,
+    "beta": 1.128,
+    "market_cap": 82342502400,
+    "analyst_coverage": 20
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "CRM",
+  "name": "Salesforce",
+  "sector": "Information Technology",
+  "sub_industry": "Application Software",
+  "tier": "S&P 500",
+  "price": 170.77000427246094,
+  "as_of": "2026-07-20T16:04:09.919766+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "CRM trades at just 11x forward earnings despite 52% forecast earnings growth, and short-term technicals (positive MACD, 21d momentum +5.6%) suggest the 28% six-month slide is stabilizing near the 50-day average.",
+  "thesis": "After a brutal 38% drawdown from its 52-week high, CRM now screens as one of the cheapest large-cap software names on a forward basis (11x forward PE vs 20x trailing), with 77.6% gross margins, 21.8% operating margins, and 39% FCF-to-revenue conversion ($16.6B FCF on $42.8B revenue) underpinning the durability of its cash generation. Revenue growth has decelerated to 13.3%, but earnings growth of 52% suggests margin expansion and buyback/dividend capacity (1.03% yield) are doing real work, and the sell-side consensus still carries a 'buy' rating across 53 analysts. Technically, price is right at the 50-day SMA (170.77 vs 171.36) with a positive MACD histogram (1.79) and RSI at 54 \u2014 neither overbought nor oversold \u2014 while 21-day momentum has turned positive (+5.6%) even as the 126-day trend remains deeply negative (-28.4%), consistent with a base-building bounce off the 52-week low ($146.32) rather than a name still in freefall.",
+  "bear_case": "The stock is below both its 50-day and 200-day moving averages (207.48), with no golden cross and a brutal -28.4% six-month momentum reading that signals institutional distribution, not accumulation, and the 21-day bounce could easily be a dead-cat rally within a larger downtrend. Revenue growth has structurally decelerated from Salesforce's historical 20%+ pace to just 13.3%, raising the risk that the market is correctly re-rating the multiple lower as SaaS growth matures and AI-native competitors erode seat-based pricing power; debt-to-equity of 124 (elevated by the Informatica and prior M&A) leaves less flexibility if integration costs or a slowing enterprise IT-spend environment pressure margins further. With 53 analysts already covering the name and a 'buy' consensus already in place, any cheapness in forward PE may already be efficiently priced for known risks, meaning the stock needs a genuine growth-reacceleration catalyst \u2014 not just cheap optics \u2014 to break the 200-day downtrend, and until above_200dma flips positive the primary trend remains bearish.",
+  "metrics": {
+    "momentum_63d": -0.05523254537872302,
+    "volatility_ann": 0.3863202374999908,
+    "rsi_14": 53.987486396868,
+    "profit_margin": 0.18733,
+    "revenue_growth": 0.133,
+    "trailing_pe": 19.942575,
+    "return_on_equity": 0.16908,
+    "beta": 1.178,
+    "market_cap": null,
+    "analyst_coverage": 53
+  }
+}

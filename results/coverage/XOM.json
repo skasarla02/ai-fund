@@ -1,0 +1,26 @@
+{
+  "ticker": "XOM",
+  "name": "ExxonMobil",
+  "sector": "Energy",
+  "sub_industry": "Integrated Oil & Gas",
+  "tier": "S&P 500",
+  "price": 147.36000061035156,
+  "as_of": "2026-07-19T22:11:01.806900+00:00",
+  "rating": "bullish",
+  "conviction": 0.6,
+  "key_signal": "XOM is in a confirmed uptrend (golden cross, price above both 50- and 200-day SMAs, positive MACD) while trading at a much cheaper forward P/E (13.9x) than trailing (24.8x), implying the market expects an earnings recovery.",
+  "thesis": "Technicals are constructive: price sits above both the 50-day ($145.9) and 200-day ($135.8) moving averages with a golden cross intact, 126-day momentum of +14.7% and a healthy RSI of 59 suggest the uptrend has room before overbought conditions. The 21 covering analysts rate the stock a consensus 'buy,' and the gap between trailing (24.8x) and forward (13.9x) P/E signals the Street expects earnings to normalize higher after the trailing-year earnings decline (-43.4%), likely reflecting comps against 2022-23 windfall margins rather than a structural deterioration. Balance sheet strength (debt/equity of ~18%, low beta of 0.16) gives Exxon flexibility to sustain its 2.8% dividend and buybacks through commodity cycles, and modest revenue growth (+2.6%) combined with still-solid gross margins (~30%) shows the integrated model is holding up even as spot pricing normalizes.",
+  "bear_case": "The trailing earnings growth of -43.4% is not a rounding error \u2014 it reflects a real margin compression from peak refining/cracking spreads, and free cash flow of $11.6B against a $611B market cap is a thin cushion (roughly 1.9% FCF yield) that leaves little room for error if crude prices soften further. The 63-day momentum is already negative (-2.4%), hinting the recent rally off the 200-day is losing steam even as 21-day momentum look strong \u2014 a sign of choppy, event-driven trading rather than a durable trend. Operating margins of just 6.4% are unusually low for an integrated major, and if the forward P/E re-rating higher (13.9x) doesn't materialize because oil/gas prices stay depressed, the stock could mean-revert toward its trailing multiple, especially given it's already up meaningfully from the 52-week low ($105.53) and sits well below the 52-week high ($176.41), suggesting the easy re-rating gains may be behind it.",
+  "metrics": {
+    "momentum_63d": -0.023817617544826808,
+    "volatility_ann": 0.2737785868630988,
+    "rsi_14": 59.49122230161708,
+    "profit_margin": 0.077649996,
+    "revenue_growth": 0.026,
+    "trailing_pe": 24.80808,
+    "return_on_equity": 0.09873,
+    "beta": 0.162,
+    "market_cap": 610799452160,
+    "analyst_coverage": 21
+  }
+}

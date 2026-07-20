@@ -1,0 +1,26 @@
+{
+  "ticker": "MPT",
+  "name": "Medical Properties Trust",
+  "sector": "Real Estate",
+  "sub_industry": "Health Care REITs",
+  "tier": "S&P 600",
+  "price": 4.75,
+  "as_of": "2026-07-19T21:04:59.544196+00:00",
+  "rating": "neutral",
+  "conviction": 0.466,
+  "key_signal": "63d momentum -6.9%, margin -11.5%, only 7 analysts covering it.",
+  "thesis": "[mock] Trades below its 200-day average with -6.9% momentum; profit margin -11.5% \u2014 only 7 analysts covering it.",
+  "bear_case": "[mock] Valuation at n/a trailing earnings leaves little room for a growth miss.",
+  "metrics": {
+    "momentum_63d": -0.06885848918067827,
+    "volatility_ann": 0.28116506846261635,
+    "rsi_14": 54.52650154112907,
+    "profit_margin": -0.11451,
+    "revenue_growth": 0.126,
+    "trailing_pe": null,
+    "return_on_equity": -0.026819998,
+    "beta": 1.464,
+    "market_cap": 2840974848,
+    "analyst_coverage": 7
+  }
+}

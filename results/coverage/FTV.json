@@ -1,0 +1,26 @@
+{
+  "ticker": "FTV",
+  "name": "Fortive",
+  "sector": "Industrials",
+  "sub_industry": "Industrial Machinery & Supplies & Components",
+  "tier": "S&P 500",
+  "price": 61.779998779296875,
+  "as_of": "2026-07-19T22:21:02.813712+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "FTV trades near its 52-week high with a bullish long-term trend (golden cross, above 50/200 DMA) but short-term momentum is stalling (MACD negative, 21d return flat) just as trailing earnings growth is negative (-12.4%).",
+  "thesis": "Fortive's technical structure remains constructive\u2014price sits above both the 50-day ($60.59) and 200-day ($56.18) moving averages with a golden cross intact and 126-day momentum of 11%, signaling sustained institutional accumulation over the past two quarters. Fundamentally, the business generates strong gross (63.3%) and operating (17.9%) margins with healthy free cash flow of ~$954M against $4.24B revenue, giving it flexibility to deleverage or return capital despite a modest 0.39% dividend yield. The steep gap between trailing P/E (36x) and forward P/E (19x) suggests the market and sell-side analysts expect a meaningful earnings recovery from the current -12.4% earnings growth trough, and 7.7% revenue growth supports that a cyclical bottom may be forming.",
+  "bear_case": "The forward P/E discount to trailing P/E is a promise, not a fact\u2014earnings growth is currently negative and ROE is a thin 6.8%, meaning the stock is priced for a turnaround that hasn't shown up in the numbers yet, and if it slips, the stock re-rates toward its trailing multiple's underlying weakness. Debt-to-equity of 58.8% adds leverage risk if margins compress further, and the recent price action (1-day -1.07%, negative MACD histogram, flat 21-day momentum) suggests the rally off the 200-day is losing steam right at the 52-week high ($64.34) resistance level\u2014a classic setup for a failed breakout. With 13 analysts collectively rating it just 'hold,' there's no strong sell-side catalyst to re-rate the stock higher, and at 3.1x book value for a business with sub-7% ROE, valuation offers little margin of safety if the anticipated earnings recovery disappoints.",
+  "metrics": {
+    "momentum_63d": 0.03672748299668971,
+    "volatility_ann": 0.26476807073648745,
+    "rsi_14": 52.28869098106028,
+    "profit_margin": 0.12837,
+    "revenue_growth": 0.077,
+    "trailing_pe": 36.128654,
+    "return_on_equity": 0.06814,
+    "beta": 0.977,
+    "market_cap": 18834313216,
+    "analyst_coverage": 13
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "PGR",
+  "name": "Progressive Corporation",
+  "sector": "Financials",
+  "sub_industry": "Property & Casualty Insurance",
+  "tier": "S&P 500",
+  "price": 209.61500549316406,
+  "as_of": "2026-07-20T15:55:40.662260+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "PGR trades ~18% below its 52-week high and is consolidating tightly around its converged 50/200-day moving averages (208-208 vs 209.6 price) with negative MACD momentum, despite being technically above both.",
+  "thesis": "Progressive remains one of the highest-quality underwriters in P&C insurance, generating a 35% ROE and 18% operating margin at a trailing P/E of just 10.5x, cheap relative to its earnings power. Revenue is still growing 7.3% and the stock sits above both its 50- and 200-day moving averages with a golden cross intact, suggesting the long-term uptrend structure hasn't broken even after the pullback from $254.93 highs. Low beta (0.25) and a policy of returning excess underwriting profit via variable dividends (6.68% yield) make this a defensive compounder that can be accumulated on weakness for investors willing to look past near-term growth deceleration.",
+  "bear_case": "The forward P/E (12.9x) sitting above the trailing P/E (10.5x) signals the market expects earnings deceleration, consistent with earnings growth slowing to just 5% after several years of outsized underwriting-driven profit growth, and margins normalizing from cyclically elevated combined ratios. Momentum is deteriorating on multiple fronts: RSI at 44, negative MACD histogram (-3.3), and a 21% price gap off the 52-week high with 42% annualized 30-day volatility signal the market is repricing growth expectations downward, not just consolidating. At 4x book value, PGR is priced for continued best-in-class ROE, leaving little margin of safety if a soft auto-insurance pricing cycle or elevated catastrophe losses compress margins faster than the deceleration already priced in, and with 21 analysts already at 'hold,' there's limited informational edge to front-run a re-rating either way.",
+  "metrics": {
+    "momentum_63d": 0.035186531820089684,
+    "volatility_ann": 0.42054438177863274,
+    "rsi_14": 44.17083113225663,
+    "profit_margin": 0.12849,
+    "revenue_growth": 0.073,
+    "trailing_pe": 10.522841,
+    "return_on_equity": 0.34943,
+    "beta": 0.246,
+    "market_cap": 121870163968,
+    "analyst_coverage": 21
+  }
+}

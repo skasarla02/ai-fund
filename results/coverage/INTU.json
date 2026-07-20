@@ -1,0 +1,26 @@
+{
+  "ticker": "INTU",
+  "name": "Intuit",
+  "sector": "Information Technology",
+  "sub_industry": "Application Software",
+  "tier": "S&P 500",
+  "price": 291.0899963378906,
+  "as_of": "2026-07-19T22:37:11.390023+00:00",
+  "rating": "bullish",
+  "conviction": 0.56,
+  "key_signal": "Forward P/E has collapsed to just 10.6x (from a historic premium multiple) even though revenue and earnings are still growing ~10% with 47% operating margins, while price has stabilized with a positive MACD histogram and +4% 21-day momentum after a brutal 48% six-month drawdown.",
+  "thesis": "Intuit's stock has been cut roughly in half from its 52-week high ($813.7 to $291), pricing in what looks like a severe de-rating of a business that is still growing revenue at 10.4% and earnings at 10.7%, with 80.8% gross margins, 47% operating margins, and 22.5% ROE. At a forward P/E of just 10.6x for a company with these margins and a moderate debt-to-equity of 33.4, the valuation now implies either a permanent structural impairment to the TurboTax/QuickBooks franchise or a significant overreaction. The technical picture, while still below both the 50- and 200-day moving averages, shows tentative stabilization: RSI is neutral at 52.7, MACD histogram is positive (+5.7), and 21-day momentum has turned positive (+4.1%) even as longer-term momentum remains deeply negative. Sell-side consensus is still 'buy' across 33 analysts, and free cash flow of $5.2B against a $79.6B market cap (a ~6.6% FCF yield) provides a fundamental floor if the AI-disruption narrative proves overblown.",
+  "bear_case": "The magnitude of this drawdown (-48% over six months, -64% from 52-week high, price still 40% below its 200-day SMA of $481, no golden cross) is not typical multiple compression \u2014 it signals the market has structurally repriced Intuit's moat, likely on fears that generative AI will commoditize tax prep and bookkeeping, disintermediating TurboTax and QuickBooks pricing power; if that thesis is correct, the currently 'strong' 10.4% revenue growth and 47% operating margins are trailing/lagging indicators that will decay going forward, and the stock's cheap forward P/E is a value trap rather than an opportunity, with 44.8% annualized volatility signaling the market still sees this as a high-uncertainty situation, not a bottom.",
+  "metrics": {
+    "momentum_63d": -0.24471223809431053,
+    "volatility_ann": 0.44793171572372326,
+    "rsi_14": 52.698326986330294,
+    "profit_margin": 0.21907,
+    "revenue_growth": 0.104,
+    "trailing_pe": 17.76022,
+    "return_on_equity": 0.22496,
+    "beta": 0.996,
+    "market_cap": 79623880704,
+    "analyst_coverage": 33
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "BSX",
+  "name": "Boston Scientific",
+  "sector": "Health Care",
+  "sub_industry": "Health Care Equipment",
+  "tier": "S&P 500",
+  "price": 44.029998779296875,
+  "as_of": "2026-07-19T21:35:18.389658+00:00",
+  "rating": "bullish",
+  "conviction": 0.55,
+  "key_signal": "BSX has been cut in half over the past 6 months (mom_126d -53%, now barely above its 52-week low of $42.20) yet trades at just 11.9x forward earnings versus 18.4x trailing, with 28 analysts still rating it a 'strong buy'.",
+  "thesis": "The technical damage (price 42% below its 200-day SMA, no golden cross, RSI near 42) has pushed valuation to a level that looks disconnected from the underlying business: 11.6% revenue growth, 69% gross margins, 20.6% operating margins, and forward earnings implied to nearly double per the forward P/E collapse relative to trailing P/E. A low beta of 0.58 and consistent free cash flow (~$2.8B) suggest the business itself remains stable even as the stock has been de-rated. The positive MACD histogram (0.32) hints at early stabilization/basing after a severe multi-month decline, and with 28 analysts still collectively calling this a strong buy, there's reason to believe the market has overshot to the downside relative to the fundamental growth and margin profile, setting up a mean-reversion opportunity from oversold levels.",
+  "bear_case": "A 53% drawdown over two quarters in a historically low-beta, defensive medtech name is not noise \u2014 it signals the market has priced in something structurally negative (litigation, pricing pressure, competitive share loss, or a guidance reset) that the trailing fundamentals haven't caught up to yet, and the cheap forward P/E could simply reflect analysts still lagging in cutting estimates rather than a true bargain. With momentum still deeply negative across all three windows (21d, 63d, 126d), price below both the 50-day and 200-day moving averages with no golden cross, and elevated 30-day annualized volatility (33%), the stock is in a confirmed downtrend that could easily continue or re-test the 52-week low of $42.20 before any durable reversal, especially if the next earnings report reveals the fundamental issue behind the collapse.",
+  "metrics": {
+    "momentum_63d": -0.3057395135521004,
+    "volatility_ann": 0.3267847117117364,
+    "rsi_14": 41.86545828598211,
+    "profit_margin": 0.17294,
+    "revenue_growth": 0.116,
+    "trailing_pe": 18.422592,
+    "return_on_equity": 0.14661,
+    "beta": 0.577,
+    "market_cap": 65444216832,
+    "analyst_coverage": 28
+  }
+}

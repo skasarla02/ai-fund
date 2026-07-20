@@ -1,0 +1,26 @@
+{
+  "ticker": "JKHY",
+  "name": "Jack Henry & Associates",
+  "sector": "Financials",
+  "sub_industry": "Transaction & Payment Processing Services",
+  "tier": "S&P 500",
+  "price": 151.6699981689453,
+  "as_of": "2026-07-19T22:39:29.637586+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "JKHY has staged a sharp 17% 21-day rally (RSI 64.7, positive MACD histogram) clawing back from a 126-day drawdown of -20.6%, but remains just below its 200-day SMA (151.67 vs 158.13), setting up a test of that resistance.",
+  "thesis": "Jack Henry offers a rare combination in payments/fintech: 44% gross margins, 24.4% operating margins, and a 24.9% ROE, with revenue growing 8.7% and earnings growth outpacing at 12.5%\u2014metrics that justify its 21x forward PE, which is not stretched for a mission-critical core-banking software vendor with recurring, sticky revenue. The stock has been sold off hard (down ~22% from its 193 high to a 121 low) likely on rate-sensitivity or cloud-migration cost concerns, but the recent 17.3% one-month bounce with a strongly positive MACD histogram suggests institutional buyers are stepping back in ahead of the 200dma at 158, a level that if reclaimed would flip the golden-cross signal and likely attract momentum flows. With only 14 analysts covering and a consensus 'buy' rating, there's room for re-rating as the recovery trend gains sell-side attention, especially given the low beta (0.57) that makes this an attractive defensive financial-tech holding in a choppy market.",
+  "bear_case": "The stock is still below its 200-day moving average and 126-day momentum is deeply negative (-20.6%), meaning the primary trend remains bearish and the recent 21-day pop could be a bull trap within a larger downtrend, especially with RSI already at 64.7 approaching overbought territory and vol_30d_ann elevated at 33%, indicating this is not a low-risk grind higher. Priced at over 5x book value and 21x earnings for a company growing revenue at only 8.7%, JKHY has little valuation cushion if core banking IT spending decelerates or cloud transition costs pressure margins further\u2014risks that likely drove the initial 22% decline from 52-week highs and could resume if the bounce fails at the 158 resistance level, especially since the reported debt-to-equity of 6.4 (even if partly a data/leverage-structure quirk) signals a balance sheet more levered than peers assume, raising financing-cost sensitivity risk in a still-elevated-rate environment.",
+  "metrics": {
+    "momentum_63d": -0.011665610040520358,
+    "volatility_ann": 0.33435443940196613,
+    "rsi_14": 64.72578795003852,
+    "profit_margin": 0.20637,
+    "revenue_growth": 0.087,
+    "trailing_pe": 21.18296,
+    "return_on_equity": 0.24892001,
+    "beta": 0.571,
+    "market_cap": 10776271872,
+    "analyst_coverage": 14
+  }
+}

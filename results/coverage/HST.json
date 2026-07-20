@@ -1,0 +1,26 @@
+{
+  "ticker": "HST",
+  "name": "Host Hotels & Resorts",
+  "sector": "Real Estate",
+  "sub_industry": "Hotel & Resort REITs",
+  "tier": "S&P 500",
+  "price": 23.940000534057617,
+  "as_of": "2026-07-19T22:31:17.370238+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "Stock trades near its 52-week high with a golden cross and 38% 6-month momentum, but short-term momentum has stalled (mom_21d \u2248 0%, MACD histogram negative) just as forward PE (23.9x) jumps well above trailing PE (16.3x), signaling the market expects earnings deceleration.",
+  "thesis": "HST has been in a durable uptrend\u2014above both the 50- and 200-day moving averages with a golden cross intact\u2014reflecting resilient travel demand and RevPAR strength that drove a striking 105% earnings growth figure. Trailing valuation at 16.3x earnings and a 3.34% dividend yield look reasonable for a large-cap lodging REIT, and RSI at ~60 shows room to run before overbought territory, leaving upside toward the 52-week high of $25.41 (about 6% away) plausible if summer travel demand holds.",
+  "bear_case": "The forward PE (23.9x) sitting well above trailing PE (16.3x) is a red flag that sell-side models already expect earnings to decelerate sharply from this year's unusually high 105% growth comp, while revenue growth of just 2.8% shows top-line momentum is thin rather than accelerating. Price momentum is also visibly stalling\u201421-day momentum is flat and MACD histogram has turned negative\u2014right as the stock sits within 6% of its 52-week high, a classic setup for consolidation or pullback in a cyclical, high-beta (1.12), highly levered (debt/equity 80.5%) hotel REIT that is acutely exposed to any softening in discretionary travel spend or corporate group bookings.",
+  "metrics": {
+    "momentum_63d": 0.20844443956629677,
+    "volatility_ann": 0.20681937000798226,
+    "rsi_14": 59.812379546233856,
+    "profit_margin": 0.16367,
+    "revenue_growth": 0.028,
+    "trailing_pe": 16.285715,
+    "return_on_equity": 0.1487,
+    "beta": 1.119,
+    "market_cap": 16608764928,
+    "analyst_coverage": 20
+  }
+}

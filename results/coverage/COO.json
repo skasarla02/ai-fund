@@ -1,0 +1,26 @@
+{
+  "ticker": "COO",
+  "name": "Cooper Companies (The)",
+  "sector": "Health Care",
+  "sub_industry": "Health Care Supplies",
+  "tier": "S&P 500",
+  "price": 71.70999908447266,
+  "as_of": "2026-07-19T21:53:10.055327+00:00",
+  "rating": "bullish",
+  "conviction": 0.6,
+  "key_signal": "Forward P/E of 14.3 versus a trailing P/E of 60.8 signals the market expects a sharp earnings normalization from Cooper's current margin compression.",
+  "thesis": "Cooper's core contact lens and consumer medical business retains a 65.6% gross margin and 7.9% revenue growth, and the stock has already reset sharply from its 52-week high of $89.83 to $71.71, a ~20% drawdown that has produced a technical bounce (mom_21d +6.5%, price now above the 50-day SMA of $65.83). The negative operating margin (-2.9%) looks like a transitory hit (likely restructuring, FX, or one-time charges) rather than a structural problem, given gross margins remain intact and FCF is still positive at $424M. The consensus 'buy' rating from all 13 covering analysts and the collapse in forward P/E to 14.3x suggest sell-side models already bake in a snapback in profitability next fiscal year, which would make the stock cheap on a forward basis relative to its historical multiple and medical-supplies peers. Low beta (0.84) and RSI at 56.5 (neither overbought nor oversold) suggest the recent rally has room to continue without being extended.",
+  "bear_case": "The stock remains below its 200-day SMA ($72.98) with no golden cross, the 126-day momentum is deeply negative (-12.2%), and MACD histogram is still negative, all technical signs that the primary trend remains down despite the recent 21-day bounce \u2014 this could be a bear-market rally rather than a reversal. More fundamentally, an operating margin of -2.9% on a company with 65.6% gross margins is not a minor blip; it implies SG&A/R&D or impairment costs are overwhelming a business that used to be a reliable double-digit operating-margin compounder, and ROE of just 2.85% confirms capital is currently earning far below cost of capital. If the anticipated earnings recovery implied by the 14.3x forward P/E doesn't materialize on schedule, the trailing 60.8x multiple leaves no valuation cushion, and 41% annualized volatility means downside moves could be violent \u2014 a disappointing guide could easily retest the 52-week low of $58.89.",
+  "metrics": {
+    "momentum_63d": 0.033583192898438696,
+    "volatility_ann": 0.4083399472675717,
+    "rsi_14": 56.531895452007355,
+    "profit_margin": 0.05573,
+    "revenue_growth": 0.079,
+    "trailing_pe": 60.771187,
+    "return_on_equity": 0.02853,
+    "beta": 0.84,
+    "market_cap": 13985645568,
+    "analyst_coverage": 13
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "IP",
+  "name": "International Paper",
+  "sector": "Materials",
+  "sub_industry": "Paper & Plastic Packaging Products & Materials",
+  "tier": "S&P 500",
+  "price": 37.560001373291016,
+  "as_of": "2026-07-19T22:36:44.659610+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "IP trades near multi-year lows (37.56 vs 56.13 52-wk high) below its 200-day SMA despite consensus 'buy' ratings and a 13.4x forward P/E that assumes a sharp earnings turnaround from the current -13.8% net margin.",
+  "thesis": "International Paper offers a 4.93% dividend yield and trades at just 1.34x book value, with 13.4% revenue growth suggesting the DS Smith integration and pricing actions are gaining traction. Short-term momentum has turned positive (21d +3.9%, 63d +5.3%) and the stock has reclaimed its 50-day SMA (34.77), while the forward P/E of 13.4x implies the market expects operating margins (currently a thin 3.72%) to expand meaningfully as the company works through integration costs. With 11 analysts still rating it a consensus 'buy,' there's room for a re-rating if margin recovery materializes in coming quarters.",
+  "bear_case": "The fundamentals are genuinely weak right now: -13.77% net margin, -16% ROE, and elevated leverage (65.9x debt/equity) show a company still losing money on a trailing basis, and the stock remains below its 200-day SMA (38.18) with negative 126-day momentum (-10.1%) and a negative MACD histogram signaling deteriorating trend strength beneath the recent bounce. At 45.8% annualized volatility, this is a high-risk name where the 'buy' consensus and cheap forward multiple could simply reflect optimistic analyst assumptions about DS Smith synergies that have yet to show up in actual margins \u2014 if integration costs or a soft packaging demand environment persist, the stock could retest its 29.26 52-week low, and the rich dividend yield itself may be flagged as at-risk given the negative trailing profitability.",
+  "metrics": {
+    "momentum_63d": 0.05333815884122761,
+    "volatility_ann": 0.4580998949532537,
+    "rsi_14": 54.982330093587464,
+    "profit_margin": -0.13767,
+    "revenue_growth": 0.134,
+    "trailing_pe": null,
+    "return_on_equity": -0.16036,
+    "beta": 0.898,
+    "market_cap": 19888658432,
+    "analyst_coverage": 11
+  }
+}

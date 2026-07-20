@@ -1,0 +1,26 @@
+{
+  "ticker": "AMT",
+  "name": "American Tower",
+  "sector": "Real Estate",
+  "sub_industry": "Telecom Tower REITs",
+  "tier": "S&P 500",
+  "price": 170.05999755859375,
+  "as_of": "2026-07-19T21:20:58.104201+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "AMT trades near its 52-week low, below both 50- and 200-day moving averages, yet a fresh golden cross and rising MACD histogram hint at an early stabilization after a ~-8% one-month drawdown.",
+  "thesis": "American Tower's core tower-leasing business remains highly profitable (74% gross margin, 46% operating margin, 30% ROE) with 6.8% revenue growth and a striking 77% earnings growth figure, suggesting margin expansion or easier comps are flowing through. The stock has fallen from $234 to $170, a re-rating that has pushed the dividend yield to 4.1%, historically an attractive entry point for tower REITs, and the forward P/E of 24.75x is a discount to trailing 27.4x, implying expected earnings growth. The recent golden cross (50dma just crossing above 200dma) plus a strongly positive MACD histogram suggest downside momentum may be exhausting near the $160 52-week low, and beta of 0.91 indicates below-market volatility exposure despite the REIT-typical high leverage.",
+  "bear_case": "Debt-to-equity of 444% makes AMT acutely sensitive to any re-acceleration in long-term rates, and with the stock still below both its 50- and 200-day moving averages despite the golden cross, the technical signal may be a lagging artifact of two flattening averages rather than genuine trend reversal \u2014 note price is still 3-8% below where it traded 1-6 months ago on every momentum window (mom_21d -7.8%, mom_63d -3.9%, mom_126d -2.3%). A price-to-book of 22.5x is extremely rich for a REIT facing structural pressure from carrier capex slowdowns and potential 5G-related tower consolidation, and with 23 analysts already covering the name, any incremental information is likely already priced in, limiting near-term mean-reversion upside; a break below the $160.06 52-week low would confirm the downtrend rather than a base.",
+  "metrics": {
+    "momentum_63d": -0.03872716858300762,
+    "volatility_ann": 0.35269620445913147,
+    "rsi_14": 46.57342834287959,
+    "profit_margin": 0.26806998,
+    "revenue_growth": 0.068,
+    "trailing_pe": 27.384863,
+    "return_on_equity": 0.29952,
+    "beta": 0.909,
+    "market_cap": 79229771776,
+    "analyst_coverage": 23
+  }
+}

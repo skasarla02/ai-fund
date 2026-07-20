@@ -1,0 +1,26 @@
+{
+  "ticker": "ROP",
+  "name": "Roper Technologies",
+  "sector": "Information Technology",
+  "sub_industry": "Electronic Equipment & Instruments",
+  "tier": "S&P 500",
+  "price": 363.6199951171875,
+  "as_of": "2026-07-20T16:02:56.969897+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "ROP trades 36% below its 52-week high with forward P/E collapsed to 15.2x (vs. trailing 22.7x), pricing in far less growth than the 59% trailing earnings growth and 11.3% revenue growth would suggest, while a fresh 21-day momentum surge (+10.5%) and positive MACD hint the derating is stabilizing.",
+  "thesis": "Roper's high-margin, recurring-revenue software/industrial model (69% gross margin, 27% operating margin) continues to grow revenue at 11%+ with earnings growth of nearly 60%, yet the stock has been repriced from a premium multiple down to a forward P/E of just 15x \u2014 cheap for a serial compounder with this margin profile. The stock is below its 200-day average and golden-cross is negative, but the 21-day momentum (+10.5%) and rising MACD histogram (0.89) suggest the multiple compression is finding a floor and buyers are stepping back in. With only 16 analysts covering a $36.7B large-cap, mispricing from macro-driven multiple compression (rather than fundamental deterioration, given margins and growth are intact) can persist long enough to offer a reasonable entry, and low beta (0.75) suggests the drawdown was sentiment/rate-driven rather than earnings-driven.",
+  "bear_case": "The 36% drawdown from the 52-week high and persistent negative 126-day momentum (-11.8%) despite the recent bounce could reflect a genuine deceleration in Roper's core software/vertical-market businesses (e.g., insurance software, network software segments) rather than mere multiple compression, and ROE of just 9% alongside elevated debt-to-equity of 55.6% suggests the M&A-driven growth engine is becoming less efficient and more balance-sheet dependent; if forward earnings estimates (justifying the 15x forward P/E) get revised down as growth normalizes from the unusually high 59% earnings growth print, the stock could re-rate lower rather than recover toward its prior premium multiple, especially with price still below both the 50-day (337) and 200-day (388) moving averages on a longer-term basis.",
+  "metrics": {
+    "momentum_63d": 0.005771807106488502,
+    "volatility_ann": 0.2770072222065874,
+    "rsi_14": 62.20770879678187,
+    "profit_margin": 0.21123,
+    "revenue_growth": 0.113,
+    "trailing_pe": 22.712055,
+    "return_on_equity": 0.09012,
+    "beta": 0.752,
+    "market_cap": 36695568384,
+    "analyst_coverage": 16
+  }
+}

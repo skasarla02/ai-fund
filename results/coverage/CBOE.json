@@ -1,0 +1,26 @@
+{
+  "ticker": "CBOE",
+  "name": "Cboe Global Markets",
+  "sector": "Financials",
+  "sub_industry": "Financial Exchanges & Data",
+  "tier": "S&P 500",
+  "price": 273.4100036621094,
+  "as_of": "2026-07-19T21:40:58.361285+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "CBOE trades near its 200-day SMA after a 26% pullback from 52-week highs, yet forward PE of 18.2x looks cheap against 54% trailing earnings growth and 25% ROE.",
+  "thesis": "Cboe's fundamentals remain exceptional for an exchange operator: 39.7% operating margins, 25% ROE, and earnings growth of 54% far outpace its 6.5% revenue growth, implying strong operating leverage and buyback/capital efficiency. The stock has corrected sharply from $371 to $273 (a 26% drawdown), compressing the forward multiple to 18.2x versus a trailing 23.4x, which is attractive for a low-beta (0.44) financial-data franchise with recurring, high-margin revenue streams tied to options/derivatives volumes. Technically, the golden cross (50dma > 200dma) remains intact, MACD histogram is positive (+5.2) signaling building upward momentum, and 21-day momentum has turned positive (+3.1%) after the deeper 63-day drawdown (-11.4%), suggesting the selloff may be stabilizing near the 200dma support ($275.7) with price essentially testing that level. RSI at 51 is neutral, leaving room to run either direction without overbought/oversold extremes. With only 14 analysts covering the name (thin for a mega-cap S&P 500 component), there's a reasonable chance the market is under-appreciating the earnings growth reacceleration relative to the price damage.",
+  "bear_case": "The stock is still below its 50-day SMA ($297) by roughly 8%, and 63-day momentum of -11.4% reflects a real, not just technical, deterioration in sentiment \u2014 likely tied to volatility in options/futures volumes or fee/rebate pressure that could impair the very operating leverage the bull case depends on. Annualized volatility of 48% is elevated for an exchange operator, suggesting the market sees genuine uncertainty in Cboe's near-term revenue mix (e.g., VIX/SPX options volumes are lumpy and sentiment-driven, not purely structural growth). A priceToBook of 5.3x and trailing PE of 23.4x are still rich versus the broader financials sector, so if earnings growth decelerates back toward the 6.5% revenue growth trend (i.e., margin expansion was a one-time or cyclical event, not durable), the forward multiple re-rates lower rather than higher. The 'hold' consensus from all 14 covering analysts is itself a signal that the sell-side sees limited near-term upside catalysts, and being below the 200dma (0.0 flag) despite the golden cross is a mixed technical signal that could just as easily resolve into a failed bounce back toward the 52-week low of $227.15.",
+  "metrics": {
+    "momentum_63d": -0.11441250780897849,
+    "volatility_ann": 0.4815864886140571,
+    "rsi_14": 50.9476477704866,
+    "profit_margin": 0.25774,
+    "revenue_growth": 0.065,
+    "trailing_pe": 23.368378,
+    "return_on_equity": 0.2514,
+    "beta": 0.443,
+    "market_cap": 28613392384,
+    "analyst_coverage": 14
+  }
+}

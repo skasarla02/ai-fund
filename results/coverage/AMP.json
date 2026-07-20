@@ -1,0 +1,26 @@
+{
+  "ticker": "AMP",
+  "name": "Ameriprise Financial",
+  "sector": "Financials",
+  "sub_industry": "Asset Management & Custody Banks",
+  "tier": "S&P 500",
+  "price": 527.8699951171875,
+  "as_of": "2026-07-19T21:21:27.476280+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "AMP trades at just 10.6x forward earnings despite 66% trailing earnings growth and a 67% ROE, while price sits near its 52-week high with strong momentum (mom_63d +15.4%).",
+  "thesis": "Ameriprise combines rare valuation discipline with elite profitability: a 13.2x trailing P/E and 10.6x forward P/E are cheap for a business generating 66.9% ROE, 37% operating margins, and 66% earnings growth alongside 9% revenue growth. The stock is above both its 50- and 200-day moving averages, with strong 1-month (+12%) and 3-month (+15.4%) momentum and a positive MACD histogram (4.56) confirming trend strength, all while trading near its 52-week high of $550 versus current $527.87 \u2014 a market that continues to reward capital-light asset/wealth management economics. With only 11 analysts covering a $47B market cap financial, there's room for the market to further re-rate the multiple higher as growth persists, especially given the 'buy' consensus recommendation already in place.",
+  "bear_case": "RSI at 70.2 signals the stock is technically overbought after an aggressive 1-month rally (+12%), and 30-day annualized volatility of 28% with a beta of 1.16 means any market-wide risk-off event or equity drawdown will hit AMP's AUM-linked revenue and fee income disproportionately hard, unlike the cheap-P/E narrative suggests; the lack of a golden cross (50-day SMA still marginally below the 200-day at 470.3 vs 471.7) despite the price surge hints the medium-term trend confirmation is not yet fully validated, and a price-to-book of 7.65 is stretched for an asset manager, leaving the stock vulnerable to multiple compression if the 66% earnings growth (likely boosted by easy comps or one-time items) decelerates toward the more modest 9% revenue growth rate.",
+  "metrics": {
+    "momentum_63d": 0.15429389000962956,
+    "volatility_ann": 0.28320507404935913,
+    "rsi_14": 70.20489621185757,
+    "profit_margin": 0.20165001,
+    "revenue_growth": 0.09,
+    "trailing_pe": 13.157278,
+    "return_on_equity": 0.66936,
+    "beta": 1.159,
+    "market_cap": 47453974528,
+    "analyst_coverage": 11
+  }
+}

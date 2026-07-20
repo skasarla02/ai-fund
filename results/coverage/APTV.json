@@ -1,0 +1,26 @@
+{
+  "ticker": "APTV",
+  "name": "Aptiv",
+  "sector": "Consumer Discretionary",
+  "sub_industry": "Automotive Parts & Equipment",
+  "tier": "S&P 500",
+  "price": 57.470001220703125,
+  "as_of": "2026-07-19T21:24:37.624664+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "APTV has cratered 30% over the past 6 months to just above its 52-week low of $51.68, trading below both its 50- and 200-day moving averages, yet sell-side consensus remains 'strong buy' with a forward P/E of just 8.5x versus a trailing 34x.",
+  "thesis": "The stock's forward P/E of 8.47 versus trailing 34.2x implies the market and analysts expect a sharp earnings inflection, and the 18-analyst strong-buy consensus suggests conviction that current weakness is cyclical rather than structural. Free cash flow of ~$1.09B against a $12.2B market cap gives a ~9% FCF yield, and price-to-book of 1.32 is undemanding for a company generating $20.7B in revenue with 5.4% growth. RSI at 40 and price sitting right at the 52-week low ($51.68 vs $57.47 current) could mark a bottoming zone if auto production stabilizes, offering an attractive entry for a name whose fundamentals (operating margin near 9.9%) are better than its 1.77% net margin suggests once one-time items roll off.",
+  "bear_case": "Every momentum window is negative (-12.5% 1mo, -30.7% 6mo) with price below both the 50-day ($61.41) and 200-day ($72.14) moving averages and no golden cross, indicating a durable downtrend rather than a dip; MACD histogram is still negative and 30-day annualized volatility of 40% with a 1.34 beta means this is a high-risk cyclical bet into a weakening auto-production and tariff-exposed environment. Debt-to-equity of 103.8% combined with ROE of only 4.1% and razor-thin 1.77% net margins leaves little cushion if OEM volumes or pricing deteriorate further, and the wide gap between trailing (34x) and forward (8.5x) P/E is a bet on an earnings recovery that hasn't yet shown up in the price action or margin trend, making the 'cheap forward multiple' thesis speculative rather than confirmed.",
+  "metrics": {
+    "momentum_63d": -0.0008692495942739242,
+    "volatility_ann": 0.4047527931553779,
+    "rsi_14": 40.361228871078936,
+    "profit_margin": 0.01767,
+    "revenue_growth": 0.054,
+    "trailing_pe": 34.208336,
+    "return_on_equity": 0.040799998,
+    "beta": 1.344,
+    "market_cap": 12161831936,
+    "analyst_coverage": 18
+  }
+}

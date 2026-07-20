@@ -1,0 +1,26 @@
+{
+  "ticker": "ARES",
+  "name": "Ares Management",
+  "sector": "Financials",
+  "sub_industry": "Asset Management & Custody Banks",
+  "tier": "S&P 500",
+  "price": 125.68000030517578,
+  "as_of": "2026-07-19T21:25:33.545574+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "ARES trades 36% below its 52-week high and below its 200-day SMA, yet forward P/E has compressed to 17x versus a 58x trailing multiple, with 28% revenue growth and a fresh positive MACD crossover signaling a potential base.",
+  "thesis": "Ares has been beaten down hard (mom_126d -24%, still below both 50- and 200-day SMAs), but the picture is turning: MACD histogram is positive, 63-day momentum is +9%, and RSI at 57 shows building strength off the lows. The fundamental story remains intact \u2014 28.3% revenue growth, 18.4% operating margins, and a forward P/E of just 17.2x that is a fraction of the distorted trailing multiple, implying the market expects a sharp earnings normalization. A 4.3% dividend yield offers income support while the stock consolidates, and consensus sits at 'buy' across all 17 covering analysts, suggesting the sell-side sees the pullback as a valuation reset rather than a broken thesis in a business (alternative asset management, private credit) still gathering AUM and fee-related earnings.",
+  "bear_case": "The stock's technical damage is real and not yet reversed: it's still under both moving averages with no golden cross, 30-day annualized volatility of 46% and a beta of 1.54 mean any risk-off move in credit or rate expectations will hit ARES disproportionately. Debt-to-equity of 169% and a price-to-book of 11x leave little room for error if private credit/BDC marks come under pressure or fundraising slows, and the trailing P/E of 58x versus ROE of only 14% suggests the earnings base the market is 'looking through' to reach that 17x forward multiple may not materialize on schedule \u2014 if AUM growth or fee income disappoints, the stock could retest the 52-week low near $96 rather than the highs near $195.",
+  "metrics": {
+    "momentum_63d": 0.09229122153644842,
+    "volatility_ann": 0.46062389181830315,
+    "rsi_14": 56.9637031701761,
+    "profit_margin": 0.10539,
+    "revenue_growth": 0.283,
+    "trailing_pe": 57.91705,
+    "return_on_equity": 0.14182,
+    "beta": 1.536,
+    "market_cap": 41455124480,
+    "analyst_coverage": 17
+  }
+}

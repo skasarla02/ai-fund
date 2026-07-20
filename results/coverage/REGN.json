@@ -1,0 +1,26 @@
+{
+  "ticker": "REGN",
+  "name": "Regeneron Pharmaceuticals",
+  "sector": "Health Care",
+  "sub_industry": "Biotechnology",
+  "tier": "S&P 500",
+  "price": 677.6500244140625,
+  "as_of": "2026-07-20T16:00:42.616779+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "Stock trades at just 12.4x forward earnings\u2014a multi-year low multiple\u2014while 21-day momentum has surged +11.5%, signaling a valuation-driven bounce off the 541 fifty-two-week low even though price remains below the 200-day average.",
+  "thesis": "Regeneron's forward PE of 12.4 and trailing PE of 16.6 are unusually cheap for a biotech generating 44% gross margins, 21% operating margins, and $3.3B in free cash flow on ~$15B revenue, reflecting market overreaction to Eylea biosimilar and HD launch concerns already priced into the -8.4% 126-day momentum. The stock has staged a sharp reversal, up 11.5% over the last 21 days with a positive MACD histogram (4.15) and RSI at 62 (not yet overbought), suggesting the selloff from the 821 high to the 541 low has found a floor and buyers are stepping back in. Revenue growth remains healthy at 19% even as earnings growth dipped -7.2%, indicating the core franchise (Dupixent, Libtayo, pipeline) is still expanding despite Eylea headwinds. With a beta of just 0.236 and 26 analysts holding a consensus 'buy,' this is a lower-volatility way to own a profitable, cash-generative large-cap biotech at a trough multiple, with room to re-rate toward historical biotech averages (typically 18-20x forward) if Eylea HD execution stabilizes.",
+  "bear_case": "The negative earnings growth (-7.2%) despite 19% revenue growth signals margin compression that could persist as Eylea faces accelerating biosimilar erosion (Amgen's Pavblu, Samsung Bioepis, and others already launched) and Eylea HD has not yet demonstrated it can fully offset the loss of the legacy franchise's pricing power\u2014this is a structural, multi-year headwind, not a one-quarter blip. The stock is still below its 200-day moving average (703.5 vs. current 677.65) with no golden cross, and the 63-day and 126-day momentum are both firmly negative (-9.6% and -8.4%), meaning the recent 21-day pop could just be a bear-market rally within a longer downtrend that began well before the 52-week high of 821. A cheap multiple is not automatically a buy signal in biotech if the market is correctly pricing in a permanent step-down in Eylea-driven earnings power that the pipeline (Dupixent, Libtayo, itepekimab) cannot fully backfill in the next 2-3 years, and elevated 27% annualized volatility means further disappointments could quickly retest the 541 low.",
+  "metrics": {
+    "momentum_63d": -0.095804307826721,
+    "volatility_ann": 0.26965151298798173,
+    "rsi_14": 62.32173088057949,
+    "profit_margin": 0.29648,
+    "revenue_growth": 0.19,
+    "trailing_pe": 16.552273,
+    "return_on_equity": 0.14548,
+    "beta": 0.236,
+    "market_cap": 71044169728,
+    "analyst_coverage": 26
+  }
+}

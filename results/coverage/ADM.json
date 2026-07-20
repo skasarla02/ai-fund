@@ -1,0 +1,26 @@
+{
+  "ticker": "ADM",
+  "name": "Archer Daniels Midland",
+  "sector": "Consumer Staples",
+  "sub_industry": "Agricultural Products & Services",
+  "tier": "S&P 500",
+  "price": 85.9000015258789,
+  "as_of": "2026-07-19T21:25:13.322744+00:00",
+  "rating": "bearish",
+  "conviction": 0.58,
+  "key_signal": "ADM is at a 52-week high with RSI at 73 (deeply overbought) after a 35% six-month rally, while trailing fundamentals show thin 1.3% net margins and just 1.6% revenue growth.",
+  "thesis": "The stock has staged a powerful technical breakout - golden cross intact, price 8% above its 50-day and 27% above its 200-day moving average, with strong MACD momentum - suggesting the market believes ADM's earnings trough (following its 2024 accounting/margin issues) is behind it. The forward P/E of 15.9x versus trailing 38.3x implies the market is pricing a sharp earnings recovery, and low beta (0.6) plus a 2.4% dividend yield offer some defensive ballast if the recovery thesis plays out.",
+  "bear_case": "This is a classic overextended rally: RSI of 73, a 3.5% one-day pop right at the 52-week high, and price up ~35% over six months have pushed the stock well ahead of fundamentals that still show operating margins of only 1.27%, ROE under 5%, revenue growth of just 1.6%, and earnings growth near zero (0.9%) - none of which justifies a re-rating, and the sell-side consensus remains a tepid 'hold' from all 10 covering analysts. With only 10 analysts covering a $41B name, there's limited institutional pushback to correct the move, but the combination of overbought technicals, an all-time momentum extreme relative to trend, and a forward P/E that already prices in a large earnings jump leaves the stock vulnerable to a sharp mean-reversion pullback if Q3/Q4 results merely meet rather than beat depressed expectations.'",
+  "metrics": {
+    "momentum_63d": 0.25897427525382244,
+    "volatility_ann": 0.25599599488238667,
+    "rsi_14": 73.08577716457634,
+    "profit_margin": 0.013409999,
+    "revenue_growth": 0.016,
+    "trailing_pe": 38.348213,
+    "return_on_equity": 0.047659997,
+    "beta": 0.609,
+    "market_cap": 41400066048,
+    "analyst_coverage": 10
+  }
+}

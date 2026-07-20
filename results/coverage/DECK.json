@@ -1,0 +1,26 @@
+{
+  "ticker": "DECK",
+  "name": "Deckers Brands",
+  "sector": "Consumer Discretionary",
+  "sub_industry": "Footwear",
+  "tier": "S&P 500",
+  "price": 106.48999786376953,
+  "as_of": "2026-07-19T21:58:35.416526+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "Deckers trades at just 12.8x forward earnings despite a 40.9% ROE and 57.7% gross margin, while technicals remain constructive with a golden cross and price above both the 50- and 200-day moving averages.",
+  "thesis": "DECK's valuation has compressed sharply from its historical premium multiple even as the business fundamentals remain elite: 18.7% net margin, 14% operating margin, and revenue growth of 9.6% with minimal leverage (debt/equity of 15). At 15.2x trailing and 12.8x forward earnings, the stock is priced more like a mature footwear name than the HOKA/UGG growth story that has driven its historic re-rating, leaving room for multiple expansion if growth stabilizes. Technically, the stock sits above both its 50-day ($105.30) and 200-day ($102.18) moving averages with a golden cross intact and positive MACD histogram, suggesting the underlying uptrend from the 52-week low ($78.91) remains in force even after a short-term pullback. Consensus sell-side sentiment ('buy' across 21 analysts) supports the view that the recent drawdown to $106.49 from the 52-week high of $126.50 is a valuation reset rather than a fundamental breakdown.",
+  "bear_case": "Earnings growth has turned negative (-4.8%) even as revenue still grows 9.6%, signaling margin pressure or decelerating unit economics in the HOKA/UGG franchises that justified DECK's premium multiple for years \u2014 and the market may be correctly re-rating the stock lower rather than mispricing it. The stock's 1-month momentum is negative (-3.3%) and it just fell over 2% in a single session, with 36.5% annualized volatility, indicating elevated uncertainty around near-term demand as consumer discretionary spending faces macro headwinds; a beta of 1.167 amplifies downside if broader risk sentiment sours. With 21 analysts already covering the name, any information edge here is limited, and the 'buy' consensus itself could already be priced in, leaving the stock vulnerable to disappointment if the next earnings print confirms the growth deceleration implied by negative earnings growth against still-positive revenue growth \u2014 a classic sign of margin compression that historically compresses multiples further, not less.",
+  "metrics": {
+    "momentum_63d": -0.016985174339373854,
+    "volatility_ann": 0.3650223739237925,
+    "rsi_14": 51.03416433068878,
+    "profit_margin": 0.18714,
+    "revenue_growth": 0.096,
+    "trailing_pe": 15.169516,
+    "return_on_equity": 0.40859002,
+    "beta": 1.167,
+    "market_cap": 14789433344,
+    "analyst_coverage": 21
+  }
+}

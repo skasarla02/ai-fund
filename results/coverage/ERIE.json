@@ -1,0 +1,26 @@
+{
+  "ticker": "ERIE",
+  "name": "Erie Indemnity",
+  "sector": "Financials",
+  "sub_industry": "Insurance Brokers",
+  "tier": "S&P 500",
+  "price": 227.30999755859375,
+  "as_of": "2026-07-19T22:08:03.111467+00:00",
+  "rating": "neutral",
+  "conviction": 0.56,
+  "key_signal": "ERIE has round-tripped from its $380 52-week high to $227 (-19% over 126 days) and now trades below its 200dma with a still-negative MACD histogram, even as forward P/E has compressed from historical premium levels to ~16x.",
+  "thesis": "After a brutal derating, Erie Indemnity's forward multiple (16.2x) is now much closer to normalized levels for a low-beta (0.286), high-ROE (25.9%) fee-based insurance manager with 17-19% margins and a 2.6% yield. Price is consolidating just above its 50dma (227.3 vs 225.8) with RSI at a neutral 46, suggesting the sharpest leg of selling may be exhausted, and any resolution of the overhang that drove the decline (likely concerns over the management-fee agreement with Erie Insurance Exchange policyholders) could allow a mean-reversion bounce given the stock is still 40% off its highs.",
+  "bear_case": "The 126-day decline of nearly 19% and the loss of the 200dma (golden_cross=0, above_200dma=0) reflect a structural, not cyclical, repricing risk specific to Erie's unique management-fee business model \u2014 its revenue growth has already decelerated to just 2.3% and earnings growth to 8.7%, far below the historical growth investors paid a premium multiple for, and with debt/equity at 2.1x and price-to-book still elevated at 5.05x, there is little valuation cushion if the fee-rate or reciprocal-exchange relationship faces further scrutiny or adverse legal/regulatory outcomes; the still-negative MACD histogram (-3.19) shows downside momentum has not yet technically reversed, so buying here risks catching a falling knife before the fundamental catalyst is resolved.",
+  "metrics": {
+    "momentum_63d": -0.05246933800520115,
+    "volatility_ann": 0.5793205189199262,
+    "rsi_14": 46.14047837388289,
+    "profit_margin": 0.13971,
+    "revenue_growth": 0.023,
+    "trailing_pe": 20.835014,
+    "return_on_equity": 0.2585,
+    "beta": 0.286,
+    "market_cap": 11886009344,
+    "analyst_coverage": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "ABT",
+  "name": "Abbott Laboratories",
+  "sector": "Health Care",
+  "sub_industry": "Health Care Equipment",
+  "tier": "S&P 500",
+  "price": 100.68000030517578,
+  "as_of": "2026-07-19T21:13:34.120239+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "ABT has surged +11.9% over the past month (RSI 67, MACD positive) off a 52-week-low-adjacent base, even though it still sits ~7% below its 200-day average, suggesting an oversold snapback with room to close the trend gap.",
+  "thesis": "Abbott trades at just 16.6x forward earnings versus 28.2x trailing, implying the Street expects a sharp earnings recovery after this year's -47.5% earnings growth dip, likely tied to one-off items (e.g., NEC litigation reserves) rather than a structural deterioration\u2014revenue is still growing 13% with 56.8% gross margins intact. The stock's low beta (0.61), 2.5% dividend yield, and consensus 'buy' rating from all 24 covering analysts support a defensive quality name that's oversold relative to its own history (down ~27% from the 52-week high of $137.49) and now showing strong short-term momentum (mom_21d +11.9%, mom_63d +6.2%) with a bullish MACD crossover. A name this heavily covered rarely stays this cheap on forward multiples without a catalyst-driven re-rating as diagnostics/device normalization continues.",
+  "bear_case": "The stock remains below both its 50-day recovery point relative to its 200-day SMA ($108.30 vs. $100.68 price), and the -17.96% six-month momentum shows this is a small bounce within a larger downtrend, not a confirmed reversal\u201430-day annualized volatility of 42% is unusually high for a supposedly low-beta staple, indicating the market is still pricing real uncertainty, likely from ongoing NEC/infant-formula litigation risk and margin pressure (11.6% net margin is thin for a company with 56.8% gross margins, pointing to elevated SG&A/legal costs). A -47.5% earnings growth print is not obviously one-off until confirmed, and if litigation costs or guidance cuts persist, the 'cheap' forward PE could prove to be an earnings-estimate trap rather than a value opportunity, especially with the stock still needing a ~7.5% rally just to reclaim its 200-day average.",
+  "metrics": {
+    "momentum_63d": 0.06209366634188673,
+    "volatility_ann": 0.42493074981731005,
+    "rsi_14": 67.33236228156808,
+    "profit_margin": 0.116450004,
+    "revenue_growth": 0.13,
+    "trailing_pe": 28.201681,
+    "return_on_equity": null,
+    "beta": 0.607,
+    "market_cap": 175365750784,
+    "analyst_coverage": 24
+  }
+}

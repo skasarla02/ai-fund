@@ -1,0 +1,26 @@
+{
+  "ticker": "ROST",
+  "name": "Ross Stores",
+  "sector": "Consumer Discretionary",
+  "sub_industry": "Apparel Retail",
+  "tier": "S&P 500",
+  "price": 235.39999389648438,
+  "as_of": "2026-07-20T16:03:10.551063+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "ROST is up ~22% over 6 months, trading above both its 50- and 200-day moving averages with a golden cross intact, just 3% off its 52-week high, while earnings growth (37.4%) is far outpacing revenue growth (20.6%), signaling strong operating leverage.",
+  "thesis": "Ross's price action confirms a durable uptrend: price is above both the 50-day ($224) and 200-day ($198) SMAs, RSI at 63 shows momentum without being extremely overbought, and MACD histogram is solidly positive. Fundamentally, the off-price retail model is firing on all cylinders\u2014revenue growth of 20.6% paired with 37.4% earnings growth and a 39% ROE shows the company is converting top-line strength into disproportionate profit gains, likely via margin expansion (operating margin 13.4%) as it leans into value-conscious consumer trends. A beta of 0.879 suggests relative defensiveness versus the broader discretionary sector even as it participates in the rally, and the stock trades near its 52-week high ($242.81) with room to make new highs. With only 17 analysts covering a $75B market-cap S&P 500 name, there's less crowding than in mega-cap retail, leaving room for continued re-rating if earnings momentum persists into upcoming quarters.",
+  "bear_case": "Valuation is stretched at 32.8x trailing earnings and nearly 12x book value for a low-single-digit-margin apparel retailer (net margin 9.7%), leaving little room for disappointment, especially with the stock already up 22% in six months and sitting just 3% below its 52-week high\u2014much of the good news may already be priced in. The forward P/E of 27.5x still implies a premium multiple for a discount retailer, and debt-to-equity of 75% adds leverage risk if consumer spending softens or cotton/import costs rise, given gross margins are already thin at 32.7%. High annualized volatility (30%) reflects a stock prone to sharp drawdowns on any earnings miss, and the current earnings growth rate of 37% is unlikely to be sustainable long-term without revenue growth reaccelerating beyond 20.6%, meaning any deceleration\u2014easily triggered by consumer pullback in apparel discretionary spend\u2014could trigger a valuation reset given the stock is priced for continued outperformance.",
+  "metrics": {
+    "momentum_63d": 0.035297634143082623,
+    "volatility_ann": 0.29898616940192446,
+    "rsi_14": 63.25566664628274,
+    "profit_margin": 0.097399995,
+    "revenue_growth": 0.206,
+    "trailing_pe": 32.83124,
+    "return_on_equity": 0.38981998,
+    "beta": 0.879,
+    "market_cap": 75511865344,
+    "analyst_coverage": 17
+  }
+}

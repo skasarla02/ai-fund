@@ -1,0 +1,26 @@
+{
+  "ticker": "JBHT",
+  "name": "J.B. Hunt",
+  "sector": "Industrials",
+  "sub_industry": "Cargo Ground Transportation",
+  "tier": "S&P 500",
+  "price": 291.4100036621094,
+  "as_of": "2026-07-19T22:38:48.783277+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "Massive momentum surge (+42% over 126 days, golden cross intact) has pushed JBHT to within 3% of its 52-week high, signaling a durable trend reversal after a prolonged freight-recession slump.",
+  "thesis": "JBHT has broken out decisively from a multi-year freight downturn, trading above both its 50-day ($272.6) and 200-day ($216.7) moving averages with a golden cross confirmed and RSI at a healthy 58 (not yet overbought). Revenue growth of 19.4% and earnings growth of 45.6% suggest the freight cycle is inflecting positively, with operating leverage kicking in as volumes recover. ROE of 18.4% and manageable debt/equity (39.5) show balance sheet discipline through the downturn. As a well-covered, high-quality intermodal/dedicated trucking leader, JBHT is positioned to capture share as freight rates and volumes normalize, and the stock's proximity to 52-week highs with strong MACD histogram (+0.48) reflects institutional accumulation rather than late-cycle euphoria.",
+  "bear_case": "Valuation has run far ahead of fundamentals \u2014 a trailing P/E of 41.5x and price-to-book of 7.5x are stretched for a company with only 5.3% net margins and 7.4% operating margins, meaning any freight-cycle disappointment could trigger a sharp multiple compression. The stock is already up 42% in six months and sits just below its 52-week high with elevated 30-day annualized volatility (36.7%) and a -2.3% single-day drop, hinting at momentum exhaustion or profit-taking after an extended run; a beta of 1.29 means any broader industrial slowdown or renewed freight rate weakness (which has plagued trucking for two years) could hit JBHT disproportionately hard, and at 28.9x forward earnings the market has already priced in a robust recovery that leaves little room for error.",
+  "metrics": {
+    "momentum_63d": 0.22504387562926897,
+    "volatility_ann": 0.36741583100617864,
+    "rsi_14": 58.312413722825355,
+    "profit_margin": 0.05311,
+    "revenue_growth": 0.194,
+    "trailing_pe": 41.5114,
+    "return_on_equity": 0.18448,
+    "beta": 1.294,
+    "market_cap": 27363399680,
+    "analyst_coverage": 22
+  }
+}

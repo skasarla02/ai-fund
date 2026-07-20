@@ -1,0 +1,26 @@
+{
+  "ticker": "HLT",
+  "name": "Hilton Worldwide",
+  "sector": "Consumer Discretionary",
+  "sub_industry": "Hotels, Resorts & Cruise Lines",
+  "tier": "S&P 500",
+  "price": 321.32000732421875,
+  "as_of": "2026-07-19T22:30:14.079366+00:00",
+  "rating": "neutral",
+  "conviction": 0.56,
+  "key_signal": "HLT has pulled back sharply (-8.3% in 21 days, now below its 50-day SMA with negative MACD) even while remaining above its 200-day SMA and a golden cross, reflecting a tension between strong fundamentals and deteriorating near-term momentum at a rich valuation (49x trailing, 31x forward P/E).",
+  "thesis": "Hilton's asset-light franchise model generates exceptional margins (78.5% gross, 57.4% operating) and 30% net margins on 11% revenue growth and 35% earnings growth, underpinning consistent free cash flow (~$1.7B) that funds buybacks and a growing dividend. The stock remains above its 200-day moving average with an intact golden cross, and the recent 8% pullback from its 52-week high of $358 (now at $321) could represent a buyable dip within a still-positive longer-term trend (mom_126d +7.2%), especially with 24 analysts collectively rating it a buy.",
+  "bear_case": "The technical picture has clearly deteriorated\u2014momentum is negative across the 21d and 63d windows, RSI at 38.6 and falling MACD histogram signal building downside pressure, and the stock trading below its 50-day SMA suggests the golden cross may be a lagging signal rather than a leading one. More importantly, valuation is stretched at 49x trailing earnings with a negative price-to-book (reflecting negative equity from aggressive buybacks/leverage), leaving no margin of safety if travel demand growth decelerates from current 11% revenue growth pace or if a broader consumer discretionary slowdown hits leisure/business travel; at this multiple, any earnings growth deceleration from the current 35% pace could trigger a much sharper de-rating than the current 10% drawdown from highs.",
+  "metrics": {
+    "momentum_63d": -0.0269707743219324,
+    "volatility_ann": 0.21397833467194952,
+    "rsi_14": 38.58541473676802,
+    "profit_margin": 0.30408,
+    "revenue_growth": 0.11,
+    "trailing_pe": 49.056488,
+    "return_on_equity": null,
+    "beta": 1.052,
+    "market_cap": 73147973632,
+    "analyst_coverage": 24
+  }
+}

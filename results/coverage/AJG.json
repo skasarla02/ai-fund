@@ -1,0 +1,26 @@
+{
+  "ticker": "AJG",
+  "name": "Arthur J. Gallagher & Co.",
+  "sector": "Financials",
+  "sub_industry": "Insurance Brokers",
+  "tier": "S&P 500",
+  "price": 253.89999389648438,
+  "as_of": "2026-07-19T21:26:07.994074+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "AJG has surged 17.6% over the past month and sits above both its 50- and 200-day moving averages, while forward PE (17x) is less than half trailing PE (41x), implying the market expects a sharp earnings inflection likely tied to the AssuredPartners integration.",
+  "thesis": "AJG's price action shows a strong momentum reversal (21d +17.6%, MACD histogram solidly positive, RSI 63.6 without being extreme) after a multi-month drawdown that left the stock ~20% off its 52-week high of $315.48 \u2014 giving room to re-rate toward highs. Revenue growth of 34.6% (well above organic brokerage growth, reflecting M&A contribution) combined with 28.4% operating margins and 42.9% gross margins shows the business scaling profitably even as it digests acquisitions. The steep gap between trailing PE (41x) and forward PE (17x) suggests consensus expects earnings to normalize sharply higher as deal costs roll off, and 18 analysts still rate it a consensus 'buy.' A low beta (0.51) makes this a relatively defensive way to play continued growth in commercial insurance brokerage, a sector benefiting from persistent hard-market pricing dynamics.",
+  "bear_case": "The bull case rests entirely on forward estimates materializing \u2014 ROE of just 7% and debt-to-equity of 56 (likely inflated by AssuredPartners financing) show the current profitability profile is underwhelming for a stock still trading at 2.74x book and 41x trailing earnings, so any integration hiccup or slower-than-expected margin recovery would leave the stock overvalued on trailing fundamentals with no cushion. The 126-day momentum is actually flat-to-negative (-0.6%), meaning the recent 21-day pop could be a short-term bounce within a longer consolidation rather than a durable trend change, and 30-day annualized volatility of 35.9% is unusually high for a beta-0.51 name, hinting at event-driven (M&A-related) noise rather than fundamental re-rating. If forward earnings growth disappoints even modestly, the stock could quickly round-trip back toward its 200-day average near $236.",
+  "metrics": {
+    "momentum_63d": 0.1368489705387621,
+    "volatility_ann": 0.3585913855307126,
+    "rsi_14": 63.642254831335556,
+    "profit_margin": 0.11354,
+    "revenue_growth": 0.346,
+    "trailing_pe": 41.150726,
+    "return_on_equity": 0.07007,
+    "beta": 0.508,
+    "market_cap": 65237573632,
+    "analyst_coverage": 18
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "CRH",
+  "name": "CRH plc",
+  "sector": "Materials",
+  "sub_industry": "Construction Materials",
+  "tier": "S&P 500",
+  "price": 102.91999816894531,
+  "as_of": "2026-07-19T21:55:16.169495+00:00",
+  "rating": "bearish",
+  "conviction": 0.58,
+  "key_signal": "CRH trades below both its 50- and 200-day moving averages with negative momentum across 21/63/126-day windows and a negative MACD histogram, signaling a confirmed downtrend despite still-solid fundamentals.",
+  "thesis": "CRH's forward valuation (15.4x forward PE, 2.98x price-to-book) with 9.1% revenue growth, 15.8% ROE and a 'strong buy' consensus from 22 analysts suggests the ~22% pullback from its 52-week high of $131.55 to $102.92 has priced in more risk than the fundamentals warrant, and the stock sits close to its 52-week low of $93.58, which could act as a support level and set up for mean reversion once macro sentiment (rates, infrastructure spend) stabilizes.",
+  "bear_case": "The technical picture is unambiguously deteriorating \u2014 price is below both the 50-day ($106.67) and 200-day ($114.37) SMAs with no golden cross, momentum is negative at every horizon (-8.8% 1M, -9.7% 3M, -15% 6M), RSI at 42.6 shows no oversold bounce signal yet, and annualized volatility of 34.6% with a -2.5% single-day move suggests continued distribution; combined with an oddly near-zero operating margin (-0.04%) and elevated debt-to-equity of 83%, this looks like a cyclical materials name facing genuine demand/margin pressure (likely from softening construction/infrastructure activity or cost inflation) rather than a simple overreaction, and with 22 analysts already covering the stock any fundamental mispricing should already be reflected in price, meaning the trend-following signal is more informative than the static 'strong buy' rating which analysts are slow to revise downward.",
+  "metrics": {
+    "momentum_63d": -0.09676205931016502,
+    "volatility_ann": 0.34625550392768817,
+    "rsi_14": 42.57486117410526,
+    "profit_margin": 0.09645,
+    "revenue_growth": 0.091,
+    "trailing_pe": 19.09462,
+    "return_on_equity": 0.15812,
+    "beta": 1.189,
+    "market_cap": 68771160064,
+    "analyst_coverage": 22
+  }
+}

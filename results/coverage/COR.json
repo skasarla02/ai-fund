@@ -1,0 +1,26 @@
+{
+  "ticker": "COR",
+  "name": "Cencora",
+  "sector": "Health Care",
+  "sub_industry": "Health Care Distributors",
+  "tier": "S&P 500",
+  "price": 307.8999938964844,
+  "as_of": "2026-07-19T21:43:51.880304+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "COR has ripped +9.4% over the past month with a strongly positive MACD histogram, yet the stock still sits below its 200-day average (323.6 vs 307.9), setting up a potential trend-confirmation trade if the bounce holds.",
+  "thesis": "Cencora's forward P/E of 15.5x (vs trailing 23.6x) signals the market expects a meaningful earnings recovery, consistent with the reported 128% earnings growth and steady 3.8% revenue growth in a business with over $328B in trailing revenue. The 21-day momentum surge (+9.4%) paired with a strongly positive MACD histogram (0.92) and RSI at 63.7 (room before overbought) suggests fresh buying interest is building after a multi-month drawdown (-11.7% over 126 days) that likely reflected opioid-litigation or margin-compression fears now working through the model. Sell-side consensus is 'buy' across 12 analysts, and the stock's low beta (0.58) plus modest dividend (0.78% yield) offer downside ballast typical of a distributor with recession-resistant volumes. If the stock reclaims its 200-day average (323.6, ~5% above current price), it would confirm the momentum thesis technically as well as fundamentally.",
+  "bear_case": "The balance sheet and cash generation tell a more precarious story than the headline earnings-growth number: free cash flow is negative (-$318M), debt-to-equity is extreme at 421%, and net margins are razor-thin at 0.78%, meaning Cencora operates with almost no room for execution error in a low-margin distribution business. The stock remains below its 200-day moving average with no golden cross and 126-day momentum still deeply negative (-11.7%), so the recent 21-day pop could easily be a bear-market bounce rather than a durable reversal \u2014 the stock is still 18% below its 52-week high of 377.54. A priceToBook of 17.6x and ROE over 100% are artifacts of a thin/negative equity base rather than genuine profitability strength, and any reacceleration of opioid-related liabilities, distribution-margin pressure, or a stall in the EPS recovery implied by the forward P/E could quickly reprice the stock back toward its 52-week low territory.",
+  "metrics": {
+    "momentum_63d": -0.042686566569381745,
+    "volatility_ann": 0.25452803085637316,
+    "rsi_14": 63.72624718940458,
+    "profit_margin": 0.00775,
+    "revenue_growth": 0.038,
+    "trailing_pe": 23.593868,
+    "return_on_equity": 1.0713401,
+    "beta": 0.581,
+    "market_cap": 59905347584,
+    "analyst_coverage": 12
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "GPC",
+  "name": "Genuine Parts Company",
+  "sector": "Consumer Discretionary",
+  "sub_industry": "Distributors",
+  "tier": "S&P 500",
+  "price": 124.81999969482422,
+  "as_of": "2026-07-19T22:25:58.820216+00:00",
+  "rating": "bullish",
+  "conviction": 0.56,
+  "key_signal": "GPC's trailing P/E of 284x masks a forward P/E near 15x, implying analysts expect a sharp earnings margin recovery after a one-off profit collapse (net margin just 0.24%, ROE 1.3%).",
+  "thesis": "After a severe earnings air-pocket (earnings growth -2.1%, net margin near zero) the stock has already staged a strong recovery rally (+16% over 21 days, +13% over 63 days) and sits comfortably above both its 50- and 200-day moving averages, signaling the market is starting to look through the trough. Forward PE of ~15x versus a trailing PE of 284x tells you consensus expects a meaningful margin normalization, consistent with 6.8% revenue growth and 37.5% gross margins that haven't structurally eroded. A 3.4% dividend yield on a low-beta (0.64) defensive distributor adds a valuation floor while investors wait for the earnings recovery to show up, and with only 8 analysts covering the name, any re-rating toward the sector's normal multiple as EPS normalizes could happen before the broader market fully re-prices it.",
+  "bear_case": "The medium-term trend is actually rolling over beneath the surface: 126-day momentum is negative (-4.8%), MACD histogram is negative even as price sits above the 200dma, and the 21-63 day momentum spike looks like a bounce off oversold lows (down from a 52-week high of $151.57) rather than a durable trend change \u2014 RSI at 63 leaves little room before overbought signals kick in. More importantly, the balance sheet is stretched (debt/equity near 150%) while profitability has essentially collapsed (ROE 1.3%, net margin 0.24%), so the 'cheap forward PE' thesis is entirely dependent on an earnings recovery that hasn't materialized yet (trailing earnings growth is still -2.1%), and if margin pressure from tariffs, freight, or wage costs persists in the auto parts distribution business, the forward estimate itself could get cut, collapsing the valuation support simultaneously with the price.",
+  "metrics": {
+    "momentum_63d": 0.1349156364522781,
+    "volatility_ann": 0.47977855286410986,
+    "rsi_14": 62.82613889191505,
+    "profit_margin": 0.00243,
+    "revenue_growth": 0.068,
+    "trailing_pe": 283.68182,
+    "return_on_equity": 0.01342,
+    "beta": 0.642,
+    "market_cap": 17365221376,
+    "analyst_coverage": 8
+  }
+}

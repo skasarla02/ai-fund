@@ -1,0 +1,26 @@
+{
+  "ticker": "GOOG",
+  "name": "Alphabet Inc. (Class C)",
+  "sector": "Communication Services",
+  "sub_industry": "Interactive Media & Services",
+  "tier": "S&P 500",
+  "price": 346.1199951171875,
+  "as_of": "2026-07-19T21:18:43.947045+00:00",
+  "rating": "bullish",
+  "conviction": 0.66,
+  "key_signal": "Alphabet trades below its 50-day SMA after a pullback despite 82% earnings growth, 21.8% revenue growth, and 38.9% ROE \u2014 a rare combination of hyper-growth and value multiples (23.6x forward P/E) for a mega-cap.",
+  "thesis": "GOOG has pulled back ~14% from its 52-week high of $404 and sits below its 50-day SMA ($367.87) with negative 1-month momentum (-6.7%), but remains firmly above its 200-day SMA ($320.63) with a golden cross intact \u2014 this looks like a healthy consolidation within an uptrend rather than a trend reversal. Fundamentally, the business is firing on all cylinders: 82% earnings growth, 21.8% revenue growth, 60.4% gross margins, 36% operating margins, and 38.9% ROE are exceptional for a $4.2T company, yet the stock trades at just 23.6x forward earnings \u2014 a discount to many mega-cap peers growing far slower. Low leverage (debt/equity of 20) and strong FCF generation ($27.9B) provide balance sheet flexibility. The 13 covering analysts rate it 'strong buy,' and RSI at 43 suggests the stock is neither overbought nor deeply oversold, leaving room to rebound toward the 50-day average as sentiment normalizes. The combination of decelerating short-term momentum but strong medium/long-term trend, paired with cheap growth-adjusted valuation, sets up an attractive risk/reward for a 3-month horizon.",
+  "bear_case": "The 1-month momentum of -6.7% and a 2.2% single-day drop signal that something specific \u2014 likely AI capex concerns, search disruption fears from LLM competitors, or regulatory/antitrust overhang (DOJ remedies) \u2014 is actively repricing the stock lower, and a break below the 200-day SMA at $320.63 (an 8% further decline) would flip the technical picture bearish and trigger momentum-driven selling given the stock's high 36% annualized volatility and 1.25 beta. Priced at 8.76x book value and 26x trailing earnings, Alphabet is not statistically cheap in absolute terms, and any deceleration in the 82% earnings growth rate (which is likely unsustainable and partly comp-driven) could compress the multiple further. Massive capex needs for AI infrastructure could pressure the FCF conversion despite strong margins, and with only 13 analysts covering a $4.2T company, the stock is efficiently priced with little informational edge, meaning the current weakness may reflect real fundamental concerns (e.g., search query cannibalization by AI chatbots) rather than a temporary dislocation.",
+  "metrics": {
+    "momentum_63d": 0.04074383756935451,
+    "volatility_ann": 0.3602914483469954,
+    "rsi_14": 43.27031229303415,
+    "profit_margin": 0.37919,
+    "revenue_growth": 0.218,
+    "trailing_pe": 26.381098,
+    "return_on_equity": 0.38884997,
+    "beta": 1.247,
+    "market_cap": 4223554551808,
+    "analyst_coverage": 13
+  }
+}

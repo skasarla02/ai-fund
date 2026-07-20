@@ -1,0 +1,26 @@
+{
+  "ticker": "TSLA",
+  "name": "Tesla, Inc.",
+  "sector": "Consumer Discretionary",
+  "sub_industry": "Automobile Manufacturers",
+  "tier": "S&P 500",
+  "price": 380.8399963378906,
+  "as_of": "2026-07-19T21:04:58.841622+00:00",
+  "rating": "bearish",
+  "conviction": 0.41,
+  "key_signal": "63d momentum -2.1%, margin 3.9%, 39 analysts covering it.",
+  "thesis": "[mock] Trades below its 200-day average with -2.1% momentum; profit margin 3.9% \u2014 39 analysts covering it.",
+  "bear_case": "[mock] Valuation at 346.2x trailing earnings leaves little room for a growth miss.",
+  "metrics": {
+    "momentum_63d": -0.020725116186911308,
+    "volatility_ann": 0.57944216090045,
+    "rsi_14": 42.624192198030244,
+    "profit_margin": 0.03946,
+    "revenue_growth": 0.158,
+    "trailing_pe": 346.21817,
+    "return_on_equity": 0.04901,
+    "beta": 1.802,
+    "market_cap": 1430329884672,
+    "analyst_coverage": 39
+  }
+}

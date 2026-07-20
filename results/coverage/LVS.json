@@ -1,0 +1,26 @@
+{
+  "ticker": "LVS",
+  "name": "Las Vegas Sands",
+  "sector": "Consumer Discretionary",
+  "sub_industry": "Casinos & Gaming",
+  "tier": "S&P 500",
+  "price": 45.36000061035156,
+  "as_of": "2026-07-19T22:45:12.004981+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "LVS trades near its 52-week low with price below both the 50- and 200-day moving averages despite a forward P/E of just 12.4x and 73% earnings growth, creating a tug-of-war between deteriorating technical momentum and compelling valuation.",
+  "thesis": "At $45.36, LVS sits barely above its 52-week low of $44.22 and trades at a forward P/E of 12.4x versus a trailing 16.7x, implying the market is under-pricing forecasted earnings growth of 73% and revenue growth of 25.3%. Margins remain elite (80% gross, 25% operating) and ROE is an extraordinary 90%, reflecting the capital efficiency of its Macau/Singapore integrated resort model as visitation normalizes post-pandemic. With 19 analysts still rating it a consensus 'buy' and a 2.43% dividend yield, there's institutional support for a mean-reversion trade off oversold RSI (37) and a slightly positive MACD histogram hinting at momentum stabilization after a brutal 23% drawdown over six months.",
+  "bear_case": "The technical picture is unambiguously bearish: price is below both the 50-day ($49.11) and 200-day ($55.65) moving averages with no golden cross, and momentum is negative across all three horizons (-7.3% 1mo, -19.5% 3mo, -23.4% 6mo), meaning trend-following capital has been consistently exiting for half a year with no confirmed reversal yet. Debt-to-equity of 981% is extreme even for a leveraged resort operator, leaving LVS acutely exposed to any softening in Macau/Singapore gaming demand, a Chinese consumer slowdown, or rate-driven refinancing pressure \u2014 risks the market may be correctly pricing in given China-linked discretionary spending headwinds that a simple forward-PE screen doesn't capture. A 'cheap' multiple on a structurally over-levered, China-exposed cyclical can stay cheap or get cheaper if regional gaming revenue disappoints again.",
+  "metrics": {
+    "momentum_63d": -0.19548709393953578,
+    "volatility_ann": 0.21204011759415922,
+    "rsi_14": 37.082767721885844,
+    "profit_margin": 0.13406,
+    "revenue_growth": 0.253,
+    "trailing_pe": 16.738007,
+    "return_on_equity": 0.90455,
+    "beta": 0.824,
+    "market_cap": 30057228288,
+    "analyst_coverage": 19
+  }
+}

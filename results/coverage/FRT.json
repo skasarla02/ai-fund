@@ -1,0 +1,26 @@
+{
+  "ticker": "FRT",
+  "name": "Federal Realty Investment Trust",
+  "sector": "Real Estate",
+  "sub_industry": "Retail REITs",
+  "tier": "S&P 500",
+  "price": 126.0199966430664,
+  "as_of": "2026-07-19T22:18:18.085880+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "FRT is trading near its 52-week high ($126.02 vs $126.86) with strong momentum (26% over 126d) and a golden cross intact, while still yielding 3.59% and posting double-digit revenue growth.",
+  "thesis": "Federal Realty's price action shows a durable uptrend: price is above both the 50-day ($119.76) and 200-day ($105.34) moving averages, momentum is accelerating (3.1% 1-month, 15.6% 3-month, 26% 6-month), and MACD histogram is positive, confirming bullish technical structure. Fundamentally, the REIT shows healthy 10.3% revenue growth, strong operating margins (34%), and high profitability (38.6% net margin) for a retail REIT, with reported earnings growth of 152.5% (likely reflecting comparisons against a depressed prior period or one-time gains). RSI at 65.9 shows strength without being deeply overbought. A 3.59% dividend yield remains attractive relative to REIT peers, and analyst consensus is 'buy' across 20 covering analysts, suggesting institutional conviction. Beta of 0.93 signals below-market volatility, appealing for income-oriented allocators rotating into quality retail real estate as rate-cut expectations firm up, which typically benefits REIT valuations via lower cap-rate discount rates.",
+  "bear_case": "Valuation is stretched on a forward basis \u2014 forward P/E of 40.6x versus trailing P/E of 21.8x implies the market is pricing in a significant earnings deceleration or margin normalization from an unsustainably high current earnings growth figure, and price-to-book at 3.45x is rich for a retail landlord with debt-to-equity of 138%. Being just 0.7% off the 52-week high with RSI near 66 leaves little room for disappointment, and any pause in the Fed's rate-cut trajectory could quickly reverse the tailwind that's been inflating REIT multiples broadly, given the sector's rate-sensitivity. The forward PE explosion also suggests consensus estimates already anticipate earnings growth normalizing sharply lower, meaning the 'buy' rating from sell-side analysts may already be priced in given how tightly covered (20 analysts) and well-known this quality-REIT story is \u2014 leaving less room for multiple expansion and more downside risk if same-store NOI growth or leasing spreads disappoint in upcoming quarters.",
+  "metrics": {
+    "momentum_63d": 0.15580034608879778,
+    "volatility_ann": 0.18161493894618377,
+    "rsi_14": 65.87515682333444,
+    "profit_margin": 0.38574,
+    "revenue_growth": 0.103,
+    "trailing_pe": 21.840553,
+    "return_on_equity": 0.14783,
+    "beta": 0.932,
+    "market_cap": 10953456640,
+    "analyst_coverage": 20
+  }
+}

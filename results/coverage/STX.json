@@ -1,0 +1,26 @@
+{
+  "ticker": "STX",
+  "name": "Seagate Technology",
+  "sector": "Information Technology",
+  "sub_industry": "Technology Hardware, Storage & Peripherals",
+  "tier": "S&P 500",
+  "price": 813.4299926757812,
+  "as_of": "2026-07-20T16:05:45.080731+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "STX has rallied 154% over 6 months on AI-driven exabyte demand but just pulled back 23% in the past month and is now trading below its 50-day SMA (879.8) while still well above its 200-day (490.1), suggesting a mid-uptrend consolidation rather than a trend reversal.",
+  "thesis": "Seagate's fundamentals are inflecting sharply higher \u2014 revenue growth of 44% and earnings growth over 100% reflect the nearline/HDD upcycle driven by hyperscaler and AI storage buildouts, with gross margins at 41.6% and operating margins at 35.7% showing real operating leverage as volumes recover. The stock remains in a firm long-term uptrend (golden cross intact, price 66% above the 200-day SMA of 490) and a 23-analyst sell-side consensus of 'strong buy' confirms institutional conviction in the story. The forward P/E of 28.6 versus a trailing P/E of 77 signals the market expects earnings to roughly triple, and at $813 the stock is still 29% below its 52-week high of $1,145, offering room to re-rate if the current pullback (mom_21d -23.6%) proves to be a digestion of gains rather than a fundamental break. This looks like a healthy correction within a powerful structural upcycle in exabyte shipments tied to AI data infrastructure.",
+  "bear_case": "The technical picture has clearly deteriorated near-term: MACD histogram is sharply negative (-17.7), RSI at 44.7 shows no momentum support, and the stock has broken below its 50-day moving average after a parabolic 154% six-month run \u2014 exactly the kind of setup that precedes deeper mean-reversion in a beta-2.07, 93%-annualized-volatility name. Balance sheet risk is real and underappreciated: debt-to-equity of 381% is extreme for a hardware company, and free cash flow of $1.61B against $11B revenue leaves limited cushion if the HDD upcycle stalls or hyperscaler capex normalizes faster than expected. Trailing P/E of 77x prices in near-flawless execution of the anticipated earnings tripling implied by the forward multiple, so any guidance miss or evidence that AI-driven storage demand is being pulled forward (rather than structurally higher) could trigger a much larger drawdown than the current 23% pullback, especially given how far and fast the stock has already run from its 52-week low of $138.",
+  "metrics": {
+    "momentum_63d": 0.4860975907292888,
+    "volatility_ann": 0.9331323213486002,
+    "rsi_14": 44.67570075372743,
+    "profit_margin": 0.21599,
+    "revenue_growth": 0.441,
+    "trailing_pe": 77.102844,
+    "return_on_equity": 17.8797,
+    "beta": 2.067,
+    "market_cap": null,
+    "analyst_coverage": 23
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "AME",
+  "name": "Ametek",
+  "sector": "Industrials",
+  "sub_industry": "Electrical Components & Equipment",
+  "tier": "S&P 500",
+  "price": 237.0,
+  "as_of": "2026-07-19T21:21:41.126544+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "AME is trading near its 52-week high ($237 vs $244.71 high) with a golden cross intact and price above both the 50- and 200-day moving averages, confirming a durable uptrend backed by 11.3% revenue growth and 14.5% earnings growth.",
+  "thesis": "AMETEK's technical picture is strongly constructive: price sits above both the 50-day ($231) and 200-day ($216) moving averages, a golden cross is in place, and 126-day momentum of +12.6% shows sustained institutional accumulation. Fundamentally, the company backs this up with 26.3% operating margins, 20.1% net margins, and 36.7% gross margins \u2014 best-in-class profitability for a diversified industrial. Revenue growth of 11.3% and earnings growth of 14.5% suggest the business is compounding faster than its stock multiple expansion alone would imply, and ROE of 14.6% with a low debt-to-equity of 22.5 indicates a conservatively financed balance sheet with room to lever into further M&A, historically AMETEK's core growth engine. Free cash flow of $1.39B against $7.6B revenue (18% FCF margin) gives management ample dry powder for its serial-acquirer playbook. With RSI at 55 (not overbought) and shares only ~3% off the 52-week high, there's room to run without technical exhaustion, and 18 analysts rating it a consensus 'buy' provides validation without the stock being over-picked-over like mega-cap tech.",
+  "bear_case": "Valuation is the crux of the bear case: a trailing P/E of 35.9x and forward P/E of 26.9x, alongside a price-to-book of nearly 5x, leave little room for error for a company growing revenue at only 11.3% \u2014 this is a premium multiple for a business that, while high-quality, is not hyper-growth. The negative MACD histogram (-0.159) signals fading short-term momentum even as the stock sits near all-time highs, a classic setup for a pullback if upcoming earnings or guidance disappoint. Additionally, AMETEK's growth model relies heavily on acquisitions in a period of elevated deal prices and tighter credit conditions, and any slowdown in industrial capex (a real risk given the current rate environment and cautious manufacturing PMI readings) could compress the multiple further. With the stock already pricing in near-perfection and trading within 3% of its 52-week high, the risk/reward skews toward disappointment rather than further re-rating, especially since dividend yield is minimal (0.57%) and offers little downside cushion.",
+  "metrics": {
+    "momentum_63d": 0.030903957277176763,
+    "volatility_ann": 0.2460832099669409,
+    "rsi_14": 55.12318318093551,
+    "profit_margin": 0.20108,
+    "revenue_growth": 0.113,
+    "trailing_pe": 35.854763,
+    "return_on_equity": 0.14626999,
+    "beta": 0.99,
+    "market_cap": 54321111040,
+    "analyst_coverage": 18
+  }
+}

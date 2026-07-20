@@ -1,0 +1,230 @@
+{
+  "as_of": "2025-01-06 00:00:00+00:00",
+  "model": "claude-opus-4-8",
+  "mock": true,
+  "prompt_sha256": "c342f0ef16b08a8ddd28b35fb237bf218f29668dbfd6a0593a6d300e046b40ab",
+  "cost_usd": 0.0,
+  "market_view": "[mock desk] trend-following read of the snapshot.",
+  "assets": [
+    {
+      "symbol": "AAPL",
+      "stance": "long",
+      "conviction": 0.565,
+      "thesis": "AAPL: 63d momentum +8.1%, above the 200d MA, RSI 48.",
+      "bear_case": "Momentum can reverse; RSI 48 is neutral."
+    },
+    {
+      "symbol": "MSFT",
+      "stance": "long",
+      "conviction": 0.524,
+      "thesis": "MSFT: 63d momentum +3.0%, above the 200d MA, RSI 46.",
+      "bear_case": "Momentum can reverse; RSI 46 is neutral."
+    },
+    {
+      "symbol": "NVDA",
+      "stance": "long",
+      "conviction": 0.657,
+      "thesis": "NVDA: 63d momentum +19.6%, above the 200d MA, RSI 64.",
+      "bear_case": "Momentum can reverse; RSI 64 is neutral."
+    },
+    {
+      "symbol": "AMZN",
+      "stance": "long",
+      "conviction": 0.676,
+      "thesis": "AMZN: 63d momentum +22.0%, above the 200d MA, RSI 59.",
+      "bear_case": "Momentum can reverse; RSI 59 is neutral."
+    },
+    {
+      "symbol": "GOOGL",
+      "stance": "long",
+      "conviction": 0.644,
+      "thesis": "GOOGL: 63d momentum +18.0%, above the 200d MA, RSI 64.",
+      "bear_case": "Momentum can reverse; RSI 64 is neutral."
+    },
+    {
+      "symbol": "META",
+      "stance": "long",
+      "conviction": 0.547,
+      "thesis": "META: 63d momentum +5.8%, above the 200d MA, RSI 62.",
+      "bear_case": "Momentum can reverse; RSI 62 is neutral."
+    },
+    {
+      "symbol": "JPM",
+      "stance": "long",
+      "conviction": 0.617,
+      "thesis": "JPM: 63d momentum +14.6%, above the 200d MA, RSI 54.",
+      "bear_case": "Momentum can reverse; RSI 54 is neutral."
+    },
+    {
+      "symbol": "XOM",
+      "stance": "avoid",
+      "conviction": 0.396,
+      "thesis": "XOM: 63d momentum -13.0%, below the 200d MA, RSI 37.",
+      "bear_case": "Momentum can reverse; RSI 37 is neutral."
+    },
+    {
+      "symbol": "UNH",
+      "stance": "avoid",
+      "conviction": 0.398,
+      "thesis": "UNH: 63d momentum -12.8%, below the 200d MA, RSI 42.",
+      "bear_case": "Momentum can reverse; RSI 42 is neutral."
+    },
+    {
+      "symbol": "WMT",
+      "stance": "long",
+      "conviction": 0.606,
+      "thesis": "WMT: 63d momentum +13.2%, above the 200d MA, RSI 51.",
+      "bear_case": "Momentum can reverse; RSI 51 is neutral."
+    }
+  ],
+  "target_weights": {
+    "AAPL": 0.084967,
+    "NVDA": 0.205229,
+    "AMZN": 0.230065,
+    "GOOGL": 0.188235,
+    "JPM": 0.152941,
+    "WMT": 0.138562
+  },
+  "signal_snapshot": {
+    "AAPL": {
+      "price": 243.4446258544922,
+      "ret_1d": 0.00673900574156705,
+      "mom_21d": 0.008188982886226936,
+      "mom_63d": 0.0814353825496732,
+      "mom_126d": 0.07783970330334244,
+      "sma_50": 236.61840423583985,
+      "sma_200": 212.7325170135498,
+      "vol_30d_ann": 0.16735082875890253,
+      "rsi_14": 48.14515970015329,
+      "macd_hist": -1.8129294363676385,
+      "above_200dma": 1.0,
+      "golden_cross": 1.0
+    },
+    "MSFT": {
+      "price": 422.833984375,
+      "ret_1d": 0.010629631074943635,
+      "mom_21d": -0.021878196182568477,
+      "mom_63d": 0.030395705950797547,
+      "mom_126d": -0.07884536550736154,
+      "sma_50": 423.1715057373047,
+      "sma_200": 418.9787840270996,
+      "vol_30d_ann": 0.18933897717487472,
+      "rsi_14": 46.30456053090211,
+      "macd_hist": -2.6409501556978086,
+      "above_200dma": 1.0,
+      "golden_cross": 1.0
+    },
+    "NVDA": {
+      "price": 149.2071533203125,
+      "ret_1d": 0.03433240961951434,
+      "mom_21d": 0.029628766983951005,
+      "mom_63d": 0.19628797948613808,
+      "mom_126d": 0.1657807366203381,
+      "sma_50": 139.78296356201173,
+      "sma_200": 118.49222831726074,
+      "vol_30d_ann": 0.37619367431333456,
+      "rsi_14": 64.02945796077704,
+      "macd_hist": 1.3421995147196277,
+      "above_200dma": 1.0,
+      "golden_cross": 1.0
+    },
+    "AMZN": {
+      "price": 227.61000061035156,
+      "ret_1d": 0.015254909370185477,
+      "mom_21d": 0.04331681696741496,
+      "mom_63d": 0.2203635585974415,
+      "mom_126d": 0.14210451241050515,
+      "sma_50": 212.01599975585938,
+      "sma_200": 190.45625038146972,
+      "vol_30d_ann": 0.2729117874110123,
+      "rsi_14": 59.285535206883225,
+      "macd_hist": -1.1408773888539647,
+      "above_200dma": 1.0,
+      "golden_cross": 1.0
+    },
+    "GOOGL": {
+      "price": 195.84706115722656,
+      "ret_1d": 0.026487385194259083,
+      "mom_21d": 0.13033001852908654,
+      "mom_63d": 0.17978964409326292,
+      "mom_126d": 0.04405205035514759,
+      "sma_50": 178.58282501220702,
+      "sma_200": 168.92331344604492,
+      "vol_30d_ann": 0.352615985516696,
+      "rsi_14": 63.914177768038726,
+      "macd_hist": -0.4387545756180842,
+      "above_200dma": 1.0,
+      "golden_cross": 1.0
+    },
+    "META": {
+      "price": 627.1004028320312,
+      "ret_1d": 0.04229028859648998,
+      "mom_21d": 0.027580537162785523,
+      "mom_63d": 0.058342138762298434,
+      "mom_126d": 0.19268119719762522,
+      "sma_50": 586.8158435058593,
+      "sma_200": 526.3320185852051,
+      "vol_30d_ann": 0.28653444614449336,
+      "rsi_14": 62.32020537061393,
+      "macd_hist": -0.08235741479129999,
+      "above_200dma": 1.0,
+      "golden_cross": 1.0
+    },
+    "JPM": {
+      "price": 233.75595092773438,
+      "ret_1d": -0.004875447278684497,
+      "mom_21d": -0.0053659646033453745,
+      "mom_63d": 0.14616950786872396,
+      "mom_126d": 0.18719811826746624,
+      "sma_50": 230.63503936767577,
+      "sma_200": 204.50202682495117,
+      "vol_30d_ann": 0.17690459997578803,
+      "rsi_14": 53.53300366151914,
+      "macd_hist": 0.06541732858236937,
+      "above_200dma": 1.0,
+      "golden_cross": 1.0
+    },
+    "XOM": {
+      "price": 102.54167175292969,
+      "ret_1d": -0.00111249751120579,
+      "mom_21d": -0.05722789687065144,
+      "mom_63d": -0.12981400830423773,
+      "mom_126d": -0.023891464140798346,
+      "sma_50": 108.94005020141601,
+      "sma_200": 109.15930694580078,
+      "vol_30d_ann": 0.1500364927739678,
+      "rsi_14": 36.92371091078839,
+      "macd_hist": 0.361257275580499,
+      "above_200dma": 0.0,
+      "golden_cross": 0.0
+    },
+    "UNH": {
+      "price": 494.631591796875,
+      "ret_1d": 0.0013059904807255496,
+      "mom_21d": -0.15578161447347472,
+      "mom_63d": -0.1278075693924111,
+      "mom_126d": 0.057482762335105964,
+      "sma_50": 538.0670861816407,
+      "sma_200": 516.1208059692383,
+      "vol_30d_ann": 0.36490917813709367,
+      "rsi_14": 42.016609710202644,
+      "macd_hist": 2.729428397736637,
+      "above_200dma": 0.0,
+      "golden_cross": 1.0
+    },
+    "WMT": {
+      "price": 90.20549774169922,
+      "ret_1d": 0.007160100720993379,
+      "mom_21d": -0.029829779381205235,
+      "mom_63d": 0.13210469384216217,
+      "mom_126d": 0.3187968863074804,
+      "sma_50": 87.72254943847656,
+      "sma_200": 73.01954433441162,
+      "vol_30d_ann": 0.19176824332678183,
+      "rsi_14": 50.93967941358598,
+      "macd_hist": -0.5986234392599062,
+      "above_200dma": 1.0,
+      "golden_cross": 1.0
+    }
+  }
+}

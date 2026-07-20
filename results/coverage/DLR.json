@@ -1,0 +1,26 @@
+{
+  "ticker": "DLR",
+  "name": "Digital Realty",
+  "sector": "Real Estate",
+  "sub_industry": "Data Center REITs",
+  "tier": "S&P 500",
+  "price": 173.8800048828125,
+  "as_of": "2026-07-19T22:00:31.213021+00:00",
+  "rating": "bearish",
+  "conviction": 0.58,
+  "key_signal": "DLR has broken below its 50-day moving average (185.7) and sits right at 200-day support (173.5) with negative MACD and RSI 39, while trading at a stretched 64x forward P/E despite only 5.7% ROE.",
+  "thesis": "Data center demand tied to AI/cloud buildout continues to drive 16.7% revenue growth and 67.6% earnings growth, and DLR's pullback from its 52-week high of $208 to $173.88 puts it right at 200-day trend support with a golden cross still technically intact, offering a potential entry point for a sector leader with a 2.81% dividend and 31 analysts still rating it a buy.",
+  "bear_case": "The stock's momentum has clearly deteriorated (-8.7% over 21 days, -12% over 63 days, MACD histogram deeply negative) and it just lost the 50-day moving average, suggesting institutional selling into what is already an expensive stock (46x trailing, 64x forward P/E, 2.68x book) whose ROE of only 5.7% signals the AI-driven capex boom is not yet translating into efficient returns on equity capital, all while debt/equity sits elevated at 76.6% in a market still sensitive to rate expectations for capital-intensive REITs \u2014 if 200-day support at ~173.5 fails, the next real floor is well below current price given the 52-week low of 146.23.",
+  "metrics": {
+    "momentum_63d": -0.12062637910962515,
+    "volatility_ann": 0.31458022176300315,
+    "rsi_14": 39.33018874840084,
+    "profit_margin": 0.21823,
+    "revenue_growth": 0.167,
+    "trailing_pe": 46.122017,
+    "return_on_equity": 0.05688,
+    "beta": 1.053,
+    "market_cap": 65425653760,
+    "analyst_coverage": 31
+  }
+}

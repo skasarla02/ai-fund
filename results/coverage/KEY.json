@@ -1,0 +1,26 @@
+{
+  "ticker": "KEY",
+  "name": "KeyCorp",
+  "sector": "Financials",
+  "sub_industry": "Regional Banks",
+  "tier": "S&P 500",
+  "price": 23.549999237060547,
+  "as_of": "2026-07-19T22:41:25.755826+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "Strong uptrend (price above both 50/200-day SMAs with a golden cross) coincides with 33% YoY earnings growth and a still-cheap 10.96x forward P/E, near 52-week highs.",
+  "thesis": "KeyCorp is showing a durable technical uptrend (mom_63d +9.8%, mom_126d +14.6%, price ~1.06x above 200dma, golden cross intact) that is backed by improving fundamentals: revenue growth of 11.8%, earnings growth of 33.3%, and operating margins near 36%. Valuation remains reasonable at 14.4x trailing / 11.0x forward earnings and 1.46x book, well below the multiples typically afforded to banks with re-accelerating earnings. A 3.48% dividend yield adds a income cushion while the stock trades just below its 52-week high ($24.07 vs $23.55), suggesting the market hasn't yet fully priced in the earnings inflection. With 19 analysts already covering it at a 'buy' consensus, sentiment is aligned but not yet stretched (RSI 58.9, not overbought), leaving room for continued re-rating as NII normalizes and loan growth resumes in a stabilizing rate environment.",
+  "bear_case": "The bear case centers on the fact that regional banks like KEY remain structurally exposed to net interest margin compression and credit normalization risk as the Fed's rate path shifts, and KeyCorp's ROE of just 9.98% is subpar relative to larger peers, suggesting the earnings growth burst may be more cyclical/mean-reverting (easy comps) than a genuine structural improvement. The negative MACD histogram (-0.0025) hints at fading upside momentum despite the golden cross, and the stock is already up ~15% over 6 months and sitting just 2% below its 52-week high, meaning much of the good news may be priced in. Additionally, with 19 analysts already covering the name and a consensus 'buy' rating, this is not an under-the-radar mispricing \u2014 any disappointment on loan growth, deposit costs, or credit quality (unknown debt-to-equity, no FCF disclosed) could trigger a sharp reversal, especially given the elevated 21.6% annualized volatility and beta of 1.02 amplifying downside in a risk-off scenario for financials.",
+  "metrics": {
+    "momentum_63d": 0.09752102288717346,
+    "volatility_ann": 0.21576199958828088,
+    "rsi_14": 58.92917395305766,
+    "profit_margin": 0.27024,
+    "revenue_growth": 0.118,
+    "trailing_pe": 14.447852,
+    "return_on_equity": 0.09977,
+    "beta": 1.024,
+    "market_cap": 25419132928,
+    "analyst_coverage": 19
+  }
+}

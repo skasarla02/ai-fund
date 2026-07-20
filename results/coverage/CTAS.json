@@ -1,0 +1,26 @@
+{
+  "ticker": "CTAS",
+  "name": "Cintas",
+  "sector": "Industrials",
+  "sub_industry": "Diversified Support Services",
+  "tier": "S&P 500",
+  "price": 204.4499969482422,
+  "as_of": "2026-07-19T21:47:56.508746+00:00",
+  "rating": "neutral",
+  "conviction": 0.56,
+  "key_signal": "CTAS is up ~15.6% over 3 months and trading at RSI 74 (deeply overbought) near its 52-week high, yet the 50-day SMA (175.2) still sits below the 200-day SMA (183.8), a technical divergence suggesting the recent surge is unusually stretched relative to its own trend structure.",
+  "thesis": "Cintas remains one of the highest-quality industrial compounders in the S&P 500: 50.7% gross margin, 23.6% operating margin, 40.7% ROE, and 15.6% earnings growth on steady 8.9% revenue growth, all while carrying a manageable 52.6% debt/equity and generating consistent free cash flow (~$1.46B). Consensus among all 16 covering analysts is 'buy,' and shares are comfortably above both the 50- and 200-day moving averages with strong MACD momentum (3.11), reflecting genuine fundamental strength in uniform/facility services demand rather than pure speculation.",
+  "bear_case": "Valuation has run well ahead of the underlying growth rate \u2014 a 41.6x trailing P/E and 33.6x forward P/E against 15.6% earnings growth implies a PEG near 2.7x, and a price-to-book of nearly 16x leaves almost no room for a disappointing quarter. With RSI at 74 and 30-day annualized volatility spiking to 38.8% (unusually high for a beta-0.93 staple), the stock looks technically overextended, and the fact that the 50-day SMA still trails the 200-day SMA despite price being above both suggests the rally is a sharp short-term spike rather than a confirmed uptrend, raising the odds of a mean-reversion pullback toward the $175-184 SMA zone over the next quarter.",
+  "metrics": {
+    "momentum_63d": 0.15483265364660626,
+    "volatility_ann": 0.38836549064099335,
+    "rsi_14": 74.24672646004137,
+    "profit_margin": 0.17754,
+    "revenue_growth": 0.089,
+    "trailing_pe": 41.63951,
+    "return_on_equity": 0.40714002,
+    "beta": 0.933,
+    "market_cap": 81810055168,
+    "analyst_coverage": 16
+  }
+}

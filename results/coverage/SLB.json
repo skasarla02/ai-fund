@@ -1,0 +1,26 @@
+{
+  "ticker": "SLB",
+  "name": "Schlumberger",
+  "sector": "Energy",
+  "sub_industry": "Oil & Gas Equipment & Services",
+  "tier": "S&P 500",
+  "price": 46.81999969482422,
+  "as_of": "2026-07-20T16:05:24.635687+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "SLB trades at a 14.2x forward P/E despite a golden cross and RSI near 38 (oversold), suggesting a technical bottoming process within a still-intact long-term uptrend (price above the 200dma).",
+  "thesis": "SLB's forward P/E of 14.2x versus trailing 20.6x signals the market is already pricing an earnings rebound, while the stock still pays a 2.5% dividend and generates ~$3B in free cash flow on $36B revenue with 12.3% operating margins. RSI at 37.9 and a positive MACD histogram suggest the recent 21d/63d selloff (-7%/-10%) is losing momentum, and the stock remains above its 200-day SMA with a golden cross intact \u2014 a structurally bullish long-term technical setup even as it dips below the 50dma. With low beta (0.73) and 29 analysts consensus at 'buy', SLB looks like a quality energy-services name being temporarily discounted on near-term earnings growth concerns (-13.8%) rather than a broken business \u2014 ROE of 14% and manageable debt/equity of 42.5 support the balance sheet through the cycle.",
+  "bear_case": "Earnings growth is already negative (-13.8%) and revenue growth has slowed to just 2.7%, meaning the 'cheap' forward multiple could be a value trap if oilfield activity continues decelerating amid softening crude prices and capex discipline from E&P customers \u2014 the exact dynamic pressuring margins in this cycle. The price is below its 50-day SMA (51.84) and has broken down meaningfully over both 1-month and 3-month windows, and a golden cross that formed while price is essentially flat against the 200dma (45.69) is a weak signal, not a strong buy trigger. High realized volatility (33% annualized) in a sector prone to sharp drawdowns on oil-price shocks means the stock could easily revisit its 52-week low of $31.64 if global demand or OPEC+ supply dynamics turn adverse, and consensus 'buy' ratings across 29 well-covered analysts leave little informational edge to exploit before such a move.'",
+  "metrics": {
+    "momentum_63d": -0.10623853495608193,
+    "volatility_ann": 0.3328602703340337,
+    "rsi_14": 37.9064543922609,
+    "profit_margin": 0.09263,
+    "revenue_growth": 0.027,
+    "trailing_pe": 20.625551,
+    "return_on_equity": 0.14066,
+    "beta": 0.733,
+    "market_cap": 69998600192,
+    "analyst_coverage": 29
+  }
+}

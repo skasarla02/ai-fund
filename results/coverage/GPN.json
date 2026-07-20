@@ -1,0 +1,26 @@
+{
+  "ticker": "GPN",
+  "name": "Global Payments",
+  "sector": "Financials",
+  "sub_industry": "Transaction & Payment Processing Services",
+  "tier": "S&P 500",
+  "price": 77.81999969482422,
+  "as_of": "2026-07-19T22:26:43.796081+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "Forward P/E of 4.8x versus trailing P/E of 28.6x signals the market expects a massive earnings inflection (likely Worldpay integration synergies), while the stock still trades below book value (P/B 0.89).",
+  "thesis": "GPN is showing strong positive price momentum (mom_21d +13.6%, mom_63d +10.3%, trading above its 200dma) after a sharp bounce off its 52-week low of $61.16, even after the recent pullback to $77.82 from a 52-week high of $90.64. Revenue growth of 63% (reflecting the Worldpay consolidation) combined with healthy 67% gross margins and 12.5% operating margins suggests the core business generates substantial cash - free cash flow of $7.1B against an $21.3B market cap is a striking yield. The negative net profit margin (-8%) and low ROE (2.9%) look like transitional noise from acquisition-related amortization/charges rather than a structural earnings problem, which is why forward PE (4.8x) is so much cheaper than trailing PE (28.6x) - the Street expects earnings to normalize sharply upward. With 27 analysts covering the stock and a consensus 'buy' rating, sentiment is already constructive, and low beta (0.77) plus a 1.29% dividend yield add a defensive cushion while the re-rating plays out.",
+  "bear_case": "The technical picture is not unambiguously bullish: the 50-day SMA ($70.70) sits below the 200-day SMA ($74.16), a death-cross configuration that contradicts the 'above_200dma' signal and points to underlying trend deterioration, and the stock is still 14% below its 52-week high with a sharp -3.3% one-day move suggesting fragile sentiment. Debt-to-equity of 95.6% is elevated for a company also carrying a net loss on trailing earnings, and if Worldpay integration costs or amortization run longer than expected, the anticipated forward-PE earnings snapback may not materialize on schedule, leaving the stock re-rating higher on hope rather than delivered results. ROE of just 2.9% and 43% annualized volatility signal the market remains uncertain about the quality and durability of GPN's post-acquisition earnings power, and with 27 analysts already scrutinizing every disclosure, any integration misstep will be quickly priced in rather than offering a lasting mispricing opportunity.",
+  "metrics": {
+    "momentum_63d": 0.10274476878521477,
+    "volatility_ann": 0.43326393777619415,
+    "rsi_14": 59.53131582953904,
+    "profit_margin": -0.07967,
+    "revenue_growth": 0.631,
+    "trailing_pe": 28.610294,
+    "return_on_equity": 0.02935,
+    "beta": 0.769,
+    "market_cap": 21287155712,
+    "analyst_coverage": 27
+  }
+}

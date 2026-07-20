@@ -1,0 +1,26 @@
+{
+  "ticker": "PFG",
+  "name": "Principal Financial Group",
+  "sector": "Financials",
+  "sub_industry": "Life & Health Insurance",
+  "tier": "S&P 500",
+  "price": 112.56999969482422,
+  "as_of": "2026-07-20T15:55:07.810507+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "Stock is up 25.8% over 126 days and sits near its 52-week high (112.57 vs 114.90), trading well above both its 50- and 200-day moving averages with a confirmed golden cross.",
+  "thesis": "PFG's strong technical momentum (mom_63d +18%, mom_126d +26%) is backed by improving fundamentals: forward PE of 10.9 vs trailing PE of 16.2 signals expected earnings growth, ROE of 13.4% is solid for an insurer/asset manager, and the reported earningsGrowth figure (though likely inflated by a one-off comparison) points to a strengthening earnings base. A 2.88% dividend yield paired with low beta (0.888) makes this an attractive risk-adjusted income name in a rate environment favorable to life & health insurers, and the stock trading above both the 50-day and 200-day SMAs with a golden cross suggests trend-followers and institutional flows continue to support the name. Revenue decline of -4.5% is modest and margins (operating 14.8%, gross 47.6%) remain healthy, suggesting profitability isn't impaired despite top-line softness.",
+  "bear_case": "Revenue growth is negative (-4.5%), and the stock is up sharply against a backdrop of decelerating top-line performance, meaning the rally is arguably multiple-expansion (trailing PE 16.15) rather than fundamentally driven, leaving it vulnerable to a pullback especially as RSI at 58 and a negative MACD histogram (-0.072) hint at fading upside momentum right at the 52-week high; a failure to convert on forward earnings expectations (which justify the low forward PE of 10.9) could trigger a sharp reversion, particularly given elevated 30-day annualized volatility of 23.4% and no price cushion below the 52-week high of 114.90.'",
+  "metrics": {
+    "momentum_63d": 0.1798683325227528,
+    "volatility_ann": 0.23364474321153064,
+    "rsi_14": 58.424806565084324,
+    "profit_margin": 0.10102,
+    "revenue_growth": -0.045,
+    "trailing_pe": 16.150646,
+    "return_on_equity": 0.13385999,
+    "beta": 0.888,
+    "market_cap": null,
+    "analyst_coverage": null
+  }
+}

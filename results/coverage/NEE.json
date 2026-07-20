@@ -1,0 +1,26 @@
+{
+  "ticker": "NEE",
+  "name": "NextEra Energy",
+  "sector": "Utilities",
+  "sub_industry": "Multi-Utilities",
+  "tier": "S&P 500",
+  "price": 88.80000305175781,
+  "as_of": "2026-07-19T21:04:58.409364+00:00",
+  "rating": "bullish",
+  "conviction": 0.587,
+  "key_signal": "63d momentum -2.6%, margin 29.4%, 20 analysts covering it.",
+  "thesis": "[mock] Trades above its 200-day average with -2.6% momentum; profit margin 29.4% \u2014 20 analysts covering it.",
+  "bear_case": "[mock] Valuation at 22.5x trailing earnings leaves little room for a growth miss.",
+  "metrics": {
+    "momentum_63d": -0.025912928829893933,
+    "volatility_ann": 0.16342799516270362,
+    "rsi_14": 54.03182805657317,
+    "profit_margin": 0.29369,
+    "revenue_growth": 0.073,
+    "trailing_pe": 22.53807,
+    "return_on_equity": 0.10325,
+    "beta": 0.667,
+    "market_cap": 185201770496,
+    "analyst_coverage": 20
+  }
+}

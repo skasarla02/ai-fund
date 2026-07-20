@@ -1,0 +1,26 @@
+{
+  "ticker": "RTX",
+  "name": "RTX Corporation",
+  "sector": "Industrials",
+  "sub_industry": "Aerospace & Defense",
+  "tier": "S&P 500",
+  "price": 197.1300048828125,
+  "as_of": "2026-07-20T15:59:36.278211+00:00",
+  "rating": "neutral",
+  "conviction": 0.56,
+  "key_signal": "RTX trades near its 52-week high (197 vs 214.5) with decelerating momentum (126d return -0.6%, negative MACD histogram) even as forward earnings growth (32.5%) justifies the drop from 37x trailing to 26x forward PE.",
+  "thesis": "RTX's defense and commercial aerospace backlog (Pratt & Whitney GTF fleet management, Collins Aerospace content growth, Raytheon missile/munitions demand) is driving 8.7% revenue growth and a projected 32.5% earnings growth that compresses the forward P/E to a more digestible 26x from 37x trailing. The stock is comfortably above both its 50- and 200-day moving averages, RSI at 59 shows room before overbought territory, and the sell-side consensus is 'buy' across 22 analysts, reflecting confidence in the GTF durability fix progress and multi-year defense budget tailwinds (Europe rearmament, munitions restocking). Low beta (0.298) also makes this a relatively defensive, index-like holding within Industrials that can compound steadily as margins normalize.",
+  "bear_case": "The stock is priced near its 52-week high with only 6% cushion to the ceiling ($214.5), yet the technical picture is quietly rolling over: 126-day momentum is negative, MACD histogram is negative despite the recent 1-day pop, and the 50-day SMA sits fractionally below the 200-day (no golden cross), suggesting the multi-month uptrend has stalled just as valuation (37x trailing PE, 4x book) leaves little room for disappointment. With 22 analysts already covering RTX and a 'buy' consensus baked in, the earnings-growth story (partly GTF-related one-time recovery economics and powder-metal inspection costs still working through) is likely already reflected in the forward multiple, so any hiccup in GTF fleet remediation costs, FCF conversion (only ~$7.2B FCF against $90B revenue, an 8% FCF margin) or defense supplemental funding timing could trigger multiple compression toward the 200-day average near $185, a roughly 6% downside from here.",
+  "metrics": {
+    "momentum_63d": 0.00779527057223528,
+    "volatility_ann": 0.2892896522530656,
+    "rsi_14": 59.46649030762862,
+    "profit_margin": 0.080290005,
+    "revenue_growth": 0.087,
+    "trailing_pe": 37.054512,
+    "return_on_equity": 0.11571,
+    "beta": 0.298,
+    "market_cap": 265471705088,
+    "analyst_coverage": 22
+  }
+}

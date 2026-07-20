@@ -1,0 +1,26 @@
+{
+  "ticker": "RCL",
+  "name": "Royal Caribbean Group",
+  "sector": "Consumer Discretionary",
+  "sub_industry": "Hotels, Resorts & Cruise Lines",
+  "tier": "S&P 500",
+  "price": 285.44500732421875,
+  "as_of": "2026-07-20T16:03:31.013266+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "RCL trades right at its 50- and 200-day moving averages with negative 21-day momentum (-5.3%) and a deteriorating MACD, showing stalled price action despite strong underlying earnings growth.",
+  "thesis": "Royal Caribbean continues to post best-in-class profitability for the cruise industry\u201424% net margin, 26% operating margin, 49.6% ROE, and 28.9% earnings growth on 11.3% revenue growth\u2014while trading at only 14.3x forward earnings, a discount to its own growth rate and to broader leisure/travel peers. The stock remains above both its 50- and 200-day moving averages with a golden cross intact, and it's still ~22% off its 52-week high of $366.50, offering room to re-rate if booking trends and pricing power (onboard spend, new ship deployments like Icon-class) continue to support double-digit revenue growth. With 27 analysts already assigning a consensus 'buy,' any stabilization in momentum could quickly reattract flows given the valuation gap versus earnings growth (PEG well below 1).",
+  "bear_case": "The technical picture is genuinely deteriorating, not just noisy: 21-day momentum is -5.3%, MACD histogram is solidly negative, RSI is a listless 45.6, and the stock is essentially pinned to its 50/200-day averages after falling ~22% from its 52-week high\u2014consistent with distribution rather than accumulation. More importantly, the balance sheet remains stretched with debt-to-equity at 217% and free cash flow actually negative (-$195M) despite $18.4B in revenue, meaning any slowdown in discretionary travel demand (tariff-driven consumer pullback, fuel cost spikes, or a growth-scare macro shock) would hit a highly levered, high-beta (1.76) stock hard, and refinancing that debt load in a higher-for-longer rate environment pressures the equity story even if operating margins hold up. A beta this high in a name already showing momentum cracks is precisely the setup that gets punished disproportionately in a risk-off move, regardless of how attractive the forward P/E looks today.",
+  "metrics": {
+    "momentum_63d": 0.005061701916410755,
+    "volatility_ann": 0.4890623079478546,
+    "rsi_14": 45.6566579965852,
+    "profit_margin": 0.24358,
+    "revenue_growth": 0.113,
+    "trailing_pe": 17.415804,
+    "return_on_equity": 0.49576,
+    "beta": 1.764,
+    "market_cap": null,
+    "analyst_coverage": 27
+  }
+}

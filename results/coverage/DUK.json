@@ -1,0 +1,26 @@
+{
+  "ticker": "DUK",
+  "name": "Duke Energy",
+  "sector": "Utilities",
+  "sub_industry": "Electric Utilities",
+  "tier": "S&P 500",
+  "price": 125.01000213623047,
+  "as_of": "2026-07-19T22:03:08.828733+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "Price is consolidating right at its 50/200-day moving averages (125.0 vs 124.7/123.0) after a golden cross, with momentum flat-to-negative (mom_21d -0.8%, mom_63d -2.0%) despite a solid 126-day gain of 7.1%.",
+  "thesis": "Duke remains a classic defensive utility compound story: 11.3% revenue growth and 12% earnings growth are unusually strong for a regulated electric utility, forward PE of 17.4x is reasonable versus trailing 19.2x, and the 3.47% dividend yield plus low beta (0.373) make it attractive for income-oriented rotation into defensives, especially with price still above both the 50- and 200-day moving averages (golden cross intact) and only ~7% below its 52-week high. Rate base growth from grid modernization and data-center demand tailwinds in its Carolinas/Florida territories support the earnings growth guidance, and 18 analysts rating it 'buy' suggests broad institutional comfort with the regulatory and earnings trajectory.",
+  "bear_case": "The stock is technically stalling exactly at trend support with negative MACD histogram (-0.26) and RSI near 48 (neutral-to-weak), while free cash flow is deeply negative (-$2.25B), meaning the dividend and capex program are being funded by additional leverage on top of an already stretched debt-to-equity ratio of 161.5%; if long-term rates stay elevated or move higher, this high-leverage, negative-FCF utility with only 0.157 net margin and mediocre 9.66% ROE could see multiple compression since much of the bull case (17.4x forward PE, 1.82x book) is already priced for flawless execution, and any negative surprise on rate-case outcomes or interest expense would hit a stock with little valuation cushion left after its run to near 52-week highs.",
+  "metrics": {
+    "momentum_63d": -0.019744665831107344,
+    "volatility_ann": 0.2105982065517535,
+    "rsi_14": 47.98447788076558,
+    "profit_margin": 0.15706,
+    "revenue_growth": 0.113,
+    "trailing_pe": 19.232307,
+    "return_on_equity": 0.09661,
+    "beta": 0.373,
+    "market_cap": 97457324032,
+    "analyst_coverage": 18
+  }
+}

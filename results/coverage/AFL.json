@@ -1,0 +1,26 @@
+{
+  "ticker": "AFL",
+  "name": "Aflac",
+  "sector": "Financials",
+  "sub_industry": "Life & Health Insurance",
+  "tier": "S&P 500",
+  "price": 124.72000122070312,
+  "as_of": "2026-07-19T21:15:16.074379+00:00",
+  "rating": "bullish",
+  "conviction": 0.6,
+  "key_signal": "AFL is trading within 1% of its 52-week high with a golden cross intact and price above both the 50- and 200-day moving averages, confirming a durable uptrend.",
+  "thesis": "Aflac's technical picture is unambiguously constructive: price sits at $124.72 vs a 52-week high of $125.93, above both the 50-day ($117.46) and 200-day ($111.76) moving averages, with a golden cross and positive MACD histogram (0.23) confirming trend strength across multiple timeframes (6% 1-month, 10% 3-month, 14% 6-month momentum). Fundamentally, the stock is not expensive for the trend it's in\u201414.2x trailing earnings and 2.1x book for a company generating 16.5% ROE, 29.6% operating margins, and nearly $4.9B in free cash flow. Revenue growth of 27.9% and reported earnings growth of 38.6% suggest the business is compounding faster than its multiple implies, and a low beta of 0.6 with 19.6% annualized volatility makes this a rare combination of momentum and defensiveness\u2014attractive if markets turn choppy. The 1.96% dividend yield adds a income floor while investors wait for the trend to play out.",
+  "bear_case": "The stock is pinned at the top of its 52-week range with RSI at 66 (nearing overbought) and virtually no room left before hitting a fresh high, meaning the easy re-rating has already happened and the risk/reward is now asymmetric to the downside if momentum stalls. Critically, forward P/E (16.5x) is meaningfully higher than trailing P/E (14.2x), signaling the market itself expects earnings growth to decelerate sharply from the unusual 38.6% pace\u2014likely a mean-reversion in FX-driven Japan segment gains or investment income tailwinds that won't repeat. With 14 analysts already covering the name and a consensus 'hold' rating, this is not an under-followed stock where a technical breakout is likely to go unnoticed or unpriced; institutional money has already had ample opportunity to bid it up, and any earnings disappointment relative to the now-elevated forward multiple could trigger a swift reversal back toward the 50-day support at $117.46.",
+  "metrics": {
+    "momentum_63d": 0.10250490695715908,
+    "volatility_ann": 0.19570266655149648,
+    "rsi_14": 66.04914730782089,
+    "profit_margin": 0.25596002,
+    "revenue_growth": 0.279,
+    "trailing_pe": 14.237443,
+    "return_on_equity": 0.16469,
+    "beta": 0.603,
+    "market_cap": 63480598528,
+    "analyst_coverage": 14
+  }
+}

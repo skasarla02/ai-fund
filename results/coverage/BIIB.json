@@ -1,0 +1,26 @@
+{
+  "ticker": "BIIB",
+  "name": "Biogen",
+  "sector": "Health Care",
+  "sub_industry": "Biotechnology",
+  "tier": "S&P 500",
+  "price": 205.99000549316406,
+  "as_of": "2026-07-19T21:33:11.291784+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "Biogen trades at a steep discount between trailing (22x) and forward (12.5x) P/E, implying the market is pricing in the 31% earnings growth analysts expect while momentum (mom_126d +21.7%, golden cross, above both SMAs) confirms the re-rating is already underway.",
+  "thesis": "BIIB has broken out of its multi-year malaise: price is above both the 50- and 200-day moving averages with a confirmed golden cross, and 126-day momentum of +21.7% shows the market rewarding recent catalysts (likely Leqembi trajectory, cost cuts, and pipeline readouts). The forward P/E of 12.45 versus trailing 22.2 signals consensus for a big earnings growth of 31%, and operating margins near 23% with gross margins near 79% show the underlying business remains highly profitable even as top-line growth stalls at just 1.9%. Debt/equity of 35 is manageable, free cash flow near $1.9B provides flexibility for buybacks, pipeline investment, or bolt-on M&A. With 30 analysts already carrying a 'buy' consensus, the setup looks like a name transitioning from show-me to earnings-delivery, and the stock still sits about 6% below its 52-week high of $219.72, leaving room to re-test highs if the growth materializes.",
+  "bear_case": "The bear case is that revenue growth is essentially flat (1.9%), meaning the projected 31% earnings growth is almost entirely margin/cost-driven or one-off (e.g., legal settlements, restructuring savings) rather than durable demand growth \u2014 a red flag for a biotech historically reliant on MS franchise drugs (Tecfidera, Tysabri) now facing generic erosion, with Leqembi's commercial ramp still uncertain and controversial post-Aduhelm. Negative MACD histogram (-0.72) and a sharp -1.4% daily drop suggest the recent uptrend is losing momentum right as the stock nears its 52-week high, and annualized volatility of 48% means a disappointing pipeline readout or Leqembi sales miss could quickly erase the year's gains. With ROE at only 7.7% and price-to-book at 1.63, the balance-sheet returns don't yet justify a premium re-rating, and 30 analysts already cover the name, so any known good news is likely already priced in, leaving limited room for further multiple expansion absent an actual earnings beat.",
+  "metrics": {
+    "momentum_63d": 0.1702647454451407,
+    "volatility_ann": 0.4793515276198862,
+    "rsi_14": 52.776662235239776,
+    "profit_margin": 0.13805,
+    "revenue_growth": 0.019,
+    "trailing_pe": 22.173306,
+    "return_on_equity": 0.077010006,
+    "beta": 0.158,
+    "market_cap": 30411771904,
+    "analyst_coverage": 30
+  }
+}

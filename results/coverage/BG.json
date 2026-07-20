@@ -1,0 +1,26 @@
+{
+  "ticker": "BG",
+  "name": "Bunge Global",
+  "sector": "Consumer Staples",
+  "sub_industry": "Agricultural Products & Services",
+  "tier": "S&P 500",
+  "price": 119.1500015258789,
+  "as_of": "2026-07-19T21:37:17.605636+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "Forward P/E of 10.7x versus a trailing P/E of 31x signals the market expects a sharp post-Viterra-merger earnings rebound, and the stock is confirming that with a golden cross and price back above both the 50- and 200-day moving averages.",
+  "thesis": "Bunge's revenue jumped 88% following the Viterra merger, and while trailing earnings collapsed (-76% growth) due to deal costs and integration drag, the forward P/E of ~10.7x implies analysts expect margins and earnings to normalize sharply as synergies materialize. Technicals corroborate this optimism: price sits above both the 50-day (119.3) and 200-day (109.3) moving averages, a golden cross is in place, MACD histogram is strongly positive (1.33), and momentum over the last 126 days is up 14.3%, with today's +2.9% move suggesting fresh buying interest. A low beta (0.64) and 2.4% dividend yield offer defensive ballast typical of a staples name, while the sell-side consensus is already 'buy' despite thin coverage (9 analysts), leaving room for upward re-rating as integration proof points accumulate.",
+  "bear_case": "The balance sheet and cash generation tell a more troubling story than the forward P/E suggests: free cash flow is deeply negative (-$6.8B), debt-to-equity has ballooned to 94%, and core profitability remains razor-thin (gross margin 4.4%, operating margin 1.2%, ROE under 5%), which is structurally normal for a grain trader but leaves almost no room for error if commodity spreads compress or integration costs run longer than expected. The stock is essentially flat over both 1 month and 3 months (mom_21d -0.2%, mom_63d -2.6%), meaning the bullish 6-month trend has already stalled just below the 50-day average (119.15 vs 119.29), and at 31x trailing earnings the stock is pricing in a flawless recovery \u2014 any delay in Viterra synergies, working-capital normalization, or a downturn in crop pricing could quickly deflate the forward-multiple thesis and trigger a re-test of the 200-day (109.3) or lower.",
+  "metrics": {
+    "momentum_63d": -0.025555199831881592,
+    "volatility_ann": 0.31751504929915886,
+    "rsi_14": 56.93065239680739,
+    "profit_margin": 0.00848,
+    "revenue_growth": 0.878,
+    "trailing_pe": 31.355265,
+    "return_on_equity": 0.04933,
+    "beta": 0.639,
+    "market_cap": 23117258752,
+    "analyst_coverage": 9
+  }
+}

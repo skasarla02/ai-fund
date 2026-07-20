@@ -1,0 +1,26 @@
+{
+  "ticker": "GDDY",
+  "name": "GoDaddy",
+  "sector": "Information Technology",
+  "sub_industry": "Internet Services & Infrastructure",
+  "tier": "S&P 500",
+  "price": 94.3499984741211,
+  "as_of": "2026-07-19T22:27:19.760361+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "GDDY trades at an 8.8x forward P/E despite generating a ~10.8% FCF yield on market cap and 63.8% gross margins, while 21d/63d momentum (+19.7%/+12.0%) shows a sharp bounce off the 71.59 52-week low.",
+  "thesis": "After cratering from a 171.42 high to a 71.59 low, GDDY has staged a strong short-term reversal (mom_21d +19.7%, MACD histogram firmly positive at 1.12, RSI 63.7 without being overbought) and now sits comfortably above its 50-day SMA. The valuation reset is severe relative to the underlying cash-generative business: forward PE of 8.76 versus trailing PE of 14.95 implies expected earnings growth, and the company converts revenue into cash extremely efficiently (24.7% operating margin, 63.8% gross margin, $1.35B FCF on $5.02B revenue \u2014 a roughly 27% FCF margin). With 15 analysts still carrying a consensus 'buy' and low beta (0.888) despite the stock's own elevated realized volatility (48.7% annualized), any stabilization in growth (6.1% revenue growth, 6% earnings growth) could re-rate the stock materially given how cheap it now is on forward earnings and free cash flow.",
+  "bear_case": "The stock remains below its 200-day SMA (94.35 vs 102.59) with a bearish 50/200 cross structure (golden_cross=0), meaning the medium-term trend is still technically negative and the 21-63 day pop could simply be a bounce within a larger downtrend \u2014 note mom_126d is still deeply negative at -12.8%. More fundamentally, GoDaddy's balance sheet is aggressively levered (debt-to-equity of 1621%, price-to-book of 52.7x reflecting a near-zero or negative equity base from years of buybacks), which is fine in a low-rate, stable-growth environment but leaves little cushion if revenue growth (only 6.1%) decelerates further or financing costs rise; the extreme ROE figure (398%) is an artifact of that thin equity base, not a genuine profitability signal, and the 48.7% annualized volatility shows the market is still pricing real uncertainty about the durability of the current bounce.",
+  "metrics": {
+    "momentum_63d": 0.11974835131830708,
+    "volatility_ann": 0.48668443155188484,
+    "rsi_14": 63.74955664505344,
+    "profit_margin": 0.1732,
+    "revenue_growth": 0.061,
+    "trailing_pe": 14.952456,
+    "return_on_equity": 3.98215,
+    "beta": 0.888,
+    "market_cap": 12492868608,
+    "analyst_coverage": 15
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "J",
+  "name": "Jacobs Solutions",
+  "sector": "Industrials",
+  "sub_industry": "Construction & Engineering",
+  "tier": "S&P 500",
+  "price": 131.75,
+  "as_of": "2026-07-19T22:39:52.460257+00:00",
+  "rating": "bullish",
+  "conviction": 0.6,
+  "key_signal": "Forward PE of 16 versus trailing PE of 39 signals the market expects a sharp earnings normalization, and price action (RSI 62, positive MACD, 21d/63d momentum) shows the stock building a base above its 50-day SMA even though it remains below the 200-day.",
+  "thesis": "Jacobs is delivering 27% revenue growth and a 'buy' consensus from all 15 covering analysts, and the market is pricing a material margin recovery (forward PE 16x vs trailing 39x) likely tied to working through transition costs from its portfolio reshaping (PA Consulting/Critical Mission Solutions divestiture noise depressing trailing operating margin to -0.9%). Technically the stock has stabilized well off its 52-week low of $105.68, reclaimed its 50-day SMA ($121.9) with a +5.6% 21-day and +4.7% 63-day momentum, and MACD histogram is solidly positive (0.43), suggesting the corrective phase from the 168 high is giving way to renewed accumulation. Low beta (0.67) also makes this a lower-volatility way to play an infrastructure/engineering capex cycle that continues to benefit from federal and reshoring-driven demand.",
+  "bear_case": "The trailing operating margin is negative and ROE is a modest 9.4% against a heavily levered balance sheet (debt/equity ~139%), meaning any stumble in the anticipated earnings normalization would leave the stock looking expensive on both trailing (39x) and book value (4.7x P/B) bases with little margin of safety. The stock is still below its 200-day SMA ($134.4) with a death-cross structure (50-day under 200-day) and negative 126-day momentum (-4.7%), indicating the recent bounce could be a countertrend rally within a still-intact downtrend from the $168 high; a 30% annualized volatility level means a reversal back toward the 52-week low is entirely plausible if the expected earnings inflection disappoints or if construction/engineering capex softens with rate-sensitive infrastructure spending.",
+  "metrics": {
+    "momentum_63d": 0.04686909880585133,
+    "volatility_ann": 0.3015480715146793,
+    "rsi_14": 62.126456140067354,
+    "profit_margin": 0.028959999,
+    "revenue_growth": 0.27,
+    "trailing_pe": 38.864307,
+    "return_on_equity": 0.09380999,
+    "beta": 0.672,
+    "market_cap": 15557155840,
+    "analyst_coverage": 15
+  }
+}

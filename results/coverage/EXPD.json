@@ -1,0 +1,26 @@
+{
+  "ticker": "EXPD",
+  "name": "Expeditors International",
+  "sector": "Industrials",
+  "sub_industry": "Air Freight & Logistics",
+  "tier": "S&P 500",
+  "price": 182.8000030517578,
+  "as_of": "2026-07-19T22:10:32.682753+00:00",
+  "rating": "bearish",
+  "conviction": 0.58,
+  "key_signal": "EXPD is trading at its 52-week high with RSI at 77.6 (deeply overbought) while carrying a stretched 29.5x trailing P/E and 10.6x price-to-book against only 4.4% revenue growth.",
+  "thesis": "The stock has been in a powerful uptrend\u2014up 25% over 63 days, above both the 50- and 200-day moving averages with a golden cross intact\u2014reflecting strong earnings growth (16.3%) and best-in-class ROE (36.6%) for an asset-light freight forwarder that generates solid free cash flow ($783M) with low leverage. If freight volumes and margins hold up, momentum could continue and justify a premium multiple versus peers given EXPD's historically superior returns on capital.",
+  "bear_case": "Valuation and technicals have become extended in a way that's hard to sustain: RSI of 77.6 signals a stock priced for perfection, sitting just below its 52-week high of $183.52, with a forward P/E of 26x and price-to-book of 10.6x that are well above EXPD's historical norms for a business growing revenue only 4.4% and with thin 7.5% net margins typical of freight brokerage. The 14 covering analysts rate it just 'hold,' suggesting the sell-side sees the rally as having outrun fundamentals, and freight forwarding is a cyclical, rate-sensitive business exposed to tariff/trade-flow disruptions that could quickly reverse the earnings growth that's supporting the current multiple\u2014any deceleration or air/ocean rate softening could trigger a sharp mean-reversion given how overbought and momentum-driven this move has been.",
+  "metrics": {
+    "momentum_63d": 0.24986082495953066,
+    "volatility_ann": 0.2129211448528161,
+    "rsi_14": 77.60578288212645,
+    "profit_margin": 0.07475,
+    "revenue_growth": 0.044,
+    "trailing_pe": 29.483871,
+    "return_on_equity": 0.36641,
+    "beta": 1.038,
+    "market_cap": 23908620288,
+    "analyst_coverage": 14
+  }
+}

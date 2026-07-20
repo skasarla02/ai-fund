@@ -1,0 +1,26 @@
+{
+  "ticker": "ACGL",
+  "name": "Arch Capital Group",
+  "sector": "Financials",
+  "sub_industry": "Property & Casualty Insurance",
+  "tier": "S&P 500",
+  "price": 101.3499984741211,
+  "as_of": "2026-07-19T21:24:52.893523+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "ACGL trades at a trailing P/E of ~7.8 (with ROE of 21%) while sitting just below its 52-week high with a golden cross and price above both the 50- and 200-day moving averages, signaling the market hasn't yet re-rated a still-cheap, highly profitable underwriter.",
+  "thesis": "Arch continues to compound book value at an elite pace (ROE 21.3%, operating margin 25%, net margin 24.6%) while trading at a valuation (7.8x trailing, 1.53x book) that looks disconnected from that profitability, especially versus P&C peers. Technicals confirm the fundamental strength: price is up 9.5%/11% over the last 21/126 days, sits above both moving averages with a golden cross intact, and RSI at ~60 shows room to run before overbought. Low beta (0.29) and minimal net leverage (debt/equity 11%, mostly float-related) make this a defensive compounder that can re-rate toward peers' forward multiples (10.3x) as the market prices in continued underwriting discipline and reinvestment income tailwinds from higher-for-longer rates on its large investment portfolio.",
+  "bear_case": "The 94.6% trailing earnings growth is almost certainly an easy comp against a prior cat-heavy year, not a repeatable growth rate, and the jump from a 7.8x trailing P/E to a 10.3x forward P/E signals the Street already expects earnings to normalize lower \u2014 i.e., the cheapness is partly an illusion of peak margins. Revenue growth is already negative (-3.3%), consistent with property cat-reinsurance pricing beginning to soften after several hard-market years, which could pressure both top-line and margins into 2025. The stock is also within 4% of its 52-week high with a negative MACD histogram hinting at fading short-term momentum, so much of the good news (rate environment, underwriting discipline) may already be priced in, leaving limited upside if hurricane season or reserve development surprises to the downside.",
+  "metrics": {
+    "momentum_63d": 0.04376931067751455,
+    "volatility_ann": 0.24349133973254988,
+    "rsi_14": 59.7753963774641,
+    "profit_margin": 0.24635,
+    "revenue_growth": -0.033,
+    "trailing_pe": 7.7961535,
+    "return_on_equity": 0.21305999,
+    "beta": 0.292,
+    "market_cap": 35410636800,
+    "analyst_coverage": 19
+  }
+}

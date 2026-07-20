@@ -1,0 +1,26 @@
+{
+  "ticker": "CFG",
+  "name": "Citizens Financial Group",
+  "sector": "Financials",
+  "sub_industry": "Regional Banks",
+  "tier": "S&P 500",
+  "price": 72.38999938964844,
+  "as_of": "2026-07-19T21:48:40.331911+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "Strong multi-timeframe momentum (mom_126d +22.5%, above both 50/200 DMA with golden cross) alongside forward PE of 11.1x vs trailing 15.8x signals the market is pricing in accelerating earnings growth (+41% YoY) that hasn't been fully rerated yet.",
+  "thesis": "CFG trades near its 52-week high ($72.39 vs $74.70) but still at a modest 1.28x price-to-book and 11.1x forward earnings, cheap for a bank posting 41% earnings growth and 14.7% revenue growth. The technical picture is uniformly positive: price above both the 50-day ($66.28) and 200-day ($59.94) moving averages, a golden cross intact, RSI at 61 (bullish but not overbought), and positive MACD histogram confirming upward momentum. With 17 analysts covering the stock and a consensus 'buy' rating, sentiment is already constructive, but the low forward multiple suggests the market hasn't fully priced the earnings acceleration\u2014operating margins of 35% and profit margins of 26% show operating leverage kicking in as rate-driven NII pressures ease. The 2.54% dividend yield adds a income cushion while the stock re-rates toward peer multiples.",
+  "bear_case": "The single largest risk is that this rally has already run its course: the stock is within 3% of its 52-week high after a 22.5% six-month move, and RSI at 61 combined with a -2.7% one-day drop could be the first sign of exhaustion after regional banks broadly re-rated on rate-cut optimism. ROE of only 8.27% is mediocre for a bank trading above book value, meaning further multiple expansion requires either sustained earnings beats or continued sector-wide multiple re-rating rather than company-specific execution\u2014if rate-cut expectations get pushed out or credit costs normalize higher (common late-cycle risk for regional banks with CRE exposure), the 41% earnings growth comp could prove unsustainable and the stock's premium to its own history could compress quickly, especially given 28.9% annualized volatility that leaves little room for disappointment.",
+  "metrics": {
+    "momentum_63d": 0.13197930027938876,
+    "volatility_ann": 0.28860461108868746,
+    "rsi_14": 60.86896901419838,
+    "profit_margin": 0.26051,
+    "revenue_growth": 0.147,
+    "trailing_pe": 15.771241,
+    "return_on_equity": 0.08270001,
+    "beta": 0.998,
+    "market_cap": 30597636096,
+    "analyst_coverage": 17
+  }
+}

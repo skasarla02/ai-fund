@@ -1,0 +1,26 @@
+{
+  "ticker": "ABNB",
+  "name": "Airbnb",
+  "sector": "Consumer Discretionary",
+  "sub_industry": "Hotels, Resorts & Cruise Lines",
+  "tier": "S&P 500",
+  "price": 145.97999572753906,
+  "as_of": "2026-07-19T21:16:11.856179+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "ABNB trades near its 52-week high (145.98 vs 150.88) with a bullish golden cross and above-trend price action, but earnings growth has decelerated to just 6% while it still commands a 36x trailing P/E and 11.4x price-to-book.",
+  "thesis": "Airbnb's technical setup is constructive: price sits above both the 50-day ($139.09) and 200-day ($131.24) moving averages with a golden cross intact, momentum is positive across all horizons (21d +3.4%, 63d +5.9%, 126d +9.9%), and RSI at 54 shows no overbought exhaustion. Fundamentally, the business generates exceptional cash flow ($3.19B FCF on $12.65B revenue, a ~25% FCF margin) and 83% gross margins, with revenue still growing 17.9% y/y and ROE at a stellar 32.3%. The consensus 'buy' rating across 38 analysts and a forward P/E of 24x (down from 36x trailing) suggest the market expects earnings to catch up to the top-line growth, which would justify the current premium if margin operating leverage improves.",
+  "bear_case": "The stock is priced for perfection at 11.4x book value and 36x trailing earnings while earnings growth has slowed sharply to just 6% versus 17.9% revenue growth\u2014a widening gap that signals margin compression, not leverage, and operating margins of only 3.2% despite 83% gross margins point to heavy and rising opex (marketing, R&D) eating into profitability. The MACD histogram has turned negative (-0.25) even as price sits within 3% of its 52-week high, a classic momentum-divergence warning that upside is stalling; a single -1.2% daily move already shows fragility at these levels. With 38 analysts already covering the name, any disappointment on take-rate, booking growth, or guidance during a slowing travel-discretionary spending environment (beta 1.14, 32% annualized volatility) could trigger a sharp multiple compression given how little room for error the current valuation allows.",
+  "metrics": {
+    "momentum_63d": 0.059284509931665896,
+    "volatility_ann": 0.32274795633795406,
+    "rsi_14": 54.04859668179426,
+    "profit_margin": 0.19902,
+    "revenue_growth": 0.179,
+    "trailing_pe": 36.133663,
+    "return_on_equity": 0.32325,
+    "beta": 1.143,
+    "market_cap": 86639845376,
+    "analyst_coverage": 38
+  }
+}

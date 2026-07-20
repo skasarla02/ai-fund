@@ -1,0 +1,26 @@
+{
+  "ticker": "EBAY",
+  "name": "eBay Inc.",
+  "sector": "Consumer Discretionary",
+  "sub_industry": "Broadline Retail",
+  "tier": "S&P 500",
+  "price": 112.05999755859375,
+  "as_of": "2026-07-19T22:04:01.625883+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "Price is consolidating just below its 52-week high with a negative MACD histogram despite a golden cross and 19% six-month gain, signaling momentum is stalling after a strong run.",
+  "thesis": "EBAY trades 18% above its 200-day SMA with a golden cross intact, and revenue growth has reaccelerated to 19.5% while operating margins sit at a healthy 23.1% and ROE at 42.9%. The forward P/E of 16.6x versus a trailing 25.9x implies the market expects earnings to catch up to revenue growth, and at 11x book the market is pricing durable high-return economics; a 1.1% dividend adds a modest income floor while the stock remains up double digits over the past quarter and half-year.",
+  "bear_case": "Earnings growth of just 7.1% is running well below the 19.5% revenue growth, suggesting margin pressure or dilution is eating into the topline strength, and the negative MACD histogram alongside a sharp deceleration in 21-day momentum (2.5%) versus 63-day (10.2%) and 126-day (19.4%) shows the rally losing steam right as the stock sits within 6% of its 52-week high. With debt-to-equity at a striking 163% and a beta of 1.37, this is a leveraged, macro-sensitive name in a 'hold'-rated consensus among 27 analysts covering it \u2014 a crowded trade with little room for a mispricing to persist, so any earnings disappointment relative to the priced-in forward multiple expansion could trigger a sharp reversal back toward the 50-day support at 111.",
+  "metrics": {
+    "momentum_63d": 0.10210537073406667,
+    "volatility_ann": 0.261368206889281,
+    "rsi_14": 50.73366431398714,
+    "profit_margin": 0.17615,
+    "revenue_growth": 0.195,
+    "trailing_pe": 25.879908,
+    "return_on_equity": 0.42875,
+    "beta": 1.365,
+    "market_cap": 49754640384,
+    "analyst_coverage": 27
+  }
+}

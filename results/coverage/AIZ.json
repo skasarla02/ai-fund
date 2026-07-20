@@ -1,0 +1,26 @@
+{
+  "ticker": "AIZ",
+  "name": "Assurant",
+  "sector": "Financials",
+  "sub_industry": "Multi-line Insurance",
+  "tier": "S&P 500",
+  "price": 276.8399963378906,
+  "as_of": "2026-07-19T21:26:19.403078+00:00",
+  "rating": "bullish",
+  "conviction": 0.66,
+  "key_signal": "Strong uptrend (price above both 50/200 DMA with golden cross, +23.6% over 63 days) combined with cheap valuation (14x trailing, 12.3x forward PE) and explosive earnings growth (+91%) signals underappreciated momentum.",
+  "thesis": "Assurant is executing a strong fundamental turnaround with 91% earnings growth, 18% ROE, and 11.3% revenue growth, yet trades at just 14.2x trailing and 12.3x forward earnings \u2014 a substantial discount to the market and to typical insurance multiples given its growth profile. The stock is in a confirmed uptrend (golden cross, price above both 50- and 200-day moving averages, momentum strongly positive across 21/63/126-day windows) and sits near its 52-week high of $284.12, suggesting the market is only beginning to price in the earnings inflection. Low beta (0.555) and thin sell-side coverage (only 6 analysts, all rating it 'strong buy') suggest the re-rating story hasn't been fully discovered or arbitraged away by institutional flows. Healthy free cash flow (~$2B) and a manageable capital structure support continued buybacks/dividends (1.27% yield) as tailwinds.",
+  "bear_case": "The stock is already up sharply and trading just below its 52-week high, so most of the earnings re-rating may already be reflected in price \u2014 RSI at 63.7 and a negative MACD histogram hint at fading upside momentum and a potential near-term pullback or consolidation. The 91% earnings growth figure is likely inflated by an easy prior-year comparison (e.g., catastrophe losses or one-time items in P&C/lifestyle insurance segments), making the growth rate unsustainable and forward PE compression from 14x to 12x less meaningful than it appears. With only 6 analysts covering the name, any single earnings miss or guidance disappointment could trigger an outsized repricing given limited institutional scrutiny and lower liquidity cushioning. Additionally, debt-to-equity of 37.6 is elevated for the insurance sector, and if catastrophe losses (hurricanes, property claims) resurface in upcoming quarters, margins and the ROE-driven bull case could reverse quickly.",
+  "metrics": {
+    "momentum_63d": 0.23654530933694318,
+    "volatility_ann": 0.17378340789452568,
+    "rsi_14": 63.740270881616325,
+    "profit_margin": 0.076,
+    "revenue_growth": 0.113,
+    "trailing_pe": 14.182377,
+    "return_on_equity": 0.18016,
+    "beta": 0.555,
+    "market_cap": 13716767744,
+    "analyst_coverage": 6
+  }
+}

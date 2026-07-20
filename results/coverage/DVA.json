@@ -1,0 +1,26 @@
+{
+  "ticker": "DVA",
+  "name": "DaVita",
+  "sector": "Health Care",
+  "sub_industry": "Health Care Services",
+  "tier": "S&P 500",
+  "price": 236.97000122070312,
+  "as_of": "2026-07-19T21:58:17.472385+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "DVA has rallied ~128% over the past six months to sit just below its 52-week high with RSI at 73 and a negative MACD histogram, a classic bearish-divergence setup even as the fundamental trend (forward P/E of 13.8x vs trailing 22.8x on 43.5% earnings growth) still looks attractive.",
+  "thesis": "DaVita's aggressive buyback program has driven its equity to negative book value while compressing the forward P/E to 13.8x against 43.5% expected earnings growth and 6% revenue growth \u2014 cheap relative to its own growth trajectory. The stock remains in a firmly bullish structural trend (golden cross intact, price above both the 50- and 200-day moving averages by wide margins, 200dma at $151 vs price near $237), and positive free cash flow (~$1B) continues to fund the buyback engine that has been the core value-creation lever. With only 7 analysts covering the name, any re-rating higher as the market catches up to the improved forward earnings power could persist longer than in a heavily-covered stock.",
+  "bear_case": "The technical picture shows genuine exhaustion: RSI at 72.9 is deeply overbought, the stock sits within a dollar of its 52-week high after tripling off its 52-week low of $101, and the MACD histogram has turned negative even as price grinds higher \u2014 a bearish divergence that often precedes a sharp pullback or extended consolidation. Fundamentally, debt-to-equity of over 1,260% and negative book value mean DaVita has essentially no equity cushion; the 80%+ ROE is a leverage artifact, not a sign of a widening moat, and any earnings disappointment, refinancing cost increase, or reimbursement/regulatory shock (dialysis providers are perpetually exposed to Medicare/Medicaid rate risk) would be amplified by that balance sheet. Sell-side coverage remains stuck at a lukewarm 'hold' despite the massive run, suggesting professional skepticism that the current price is sustainable, and a 20.7% annualized 30-day vol with a stock this extended raises the odds of a mean-reversion move over the next quarter.",
+  "metrics": {
+    "momentum_63d": 0.5997434240832777,
+    "volatility_ann": 0.2069847558085264,
+    "rsi_14": 72.87757344064184,
+    "profit_margin": 0.056479998,
+    "revenue_growth": 0.06,
+    "trailing_pe": 22.82948,
+    "return_on_equity": 0.80981004,
+    "beta": 0.882,
+    "market_cap": 15209919488,
+    "analyst_coverage": 7
+  }
+}

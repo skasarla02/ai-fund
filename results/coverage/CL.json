@@ -1,0 +1,26 @@
+{
+  "ticker": "CL",
+  "name": "Colgate-Palmolive",
+  "sector": "Consumer Staples",
+  "sub_industry": "Household Products",
+  "tier": "S&P 500",
+  "price": 92.9800033569336,
+  "as_of": "2026-07-19T21:51:11.279426+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "CL trades near 36x trailing earnings and negative equity (debt/equity >1600%) while earnings growth is negative (-5.9%) even as the stock sits just 6% below its 52-week high.",
+  "thesis": "Colgate's uptrend remains technically intact\u2014price is above both the 50- and 200-day moving averages with a golden cross in place, and 63/126-day momentum of +11-12% shows the market rewarding steady 8.4% revenue growth and best-in-class 60% gross margins in a defensive category. A 2.28% dividend yield and 'buy' consensus from all 20 covering analysts provide a floor, and low beta (0.32) makes this a classic staples holding for a risk-off rotation, which could keep multiple expansion supported even as rates ease.",
+  "bear_case": "The valuation is stretched on every conventional metric\u201436x trailing and 23x forward earnings for a company with negative earnings growth (-5.9%) and a balance sheet so levered (debt/equity over 1600%, priceToBook over 500x) that book value is effectively negative, meaning ROE of 363% is an accounting artifact rather than a quality signal; the negative MACD histogram and a red 1-day print (-1.16%) after a run to within 6% of the 52-week high suggest the momentum trade is exhausted, and any earnings miss or guidance cut given already-declining profits could trigger a sharp de-rating back toward the 50-day (90.20) or lower, especially since 20 analysts already cover the name and any incremental negative data point gets priced in fast.'",
+  "metrics": {
+    "momentum_63d": 0.11884540124962517,
+    "volatility_ann": 0.2801764004477705,
+    "rsi_14": 53.93928863916908,
+    "profit_margin": 0.10041001,
+    "revenue_growth": 0.084,
+    "trailing_pe": 36.03876,
+    "return_on_equity": 3.6357698,
+    "beta": 0.319,
+    "market_cap": 74401603584,
+    "analyst_coverage": 20
+  }
+}

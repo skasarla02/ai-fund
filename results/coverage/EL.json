@@ -1,0 +1,26 @@
+{
+  "ticker": "EL",
+  "name": "Est\u00e9e Lauder Companies (The)",
+  "sector": "Consumer Staples",
+  "sub_industry": "Personal Care Products",
+  "tier": "S&P 500",
+  "price": 82.12999725341797,
+  "as_of": "2026-07-19T22:08:32.478434+00:00",
+  "rating": "bearish",
+  "conviction": 0.58,
+  "key_signal": "EL trades below both its 50- and 200-day moving averages with earnings growth at -45.5% and a negative net margin (-1.67%), despite a forward P/E of ~26x that still prices in a recovery.",
+  "thesis": "The 63-day momentum (+9.4%) suggests some stabilization off the lows near $66, and gross margins remain robust at 74.6% with operating margins near 15%, indicating the core prestige beauty franchise still generates strong unit economics once restructuring costs and China/travel-retail headwinds fade. Free cash flow remains positive (~$1.8B) and the stock has already shed nearly a third of its value from the 52-week high, so much of the bad news (inventory destocking, Asia travel retail collapse, earnings guidance cuts) may be priced in, leaving room for a re-rating if margin recovery materializes as the company executes its cost-cutting program.",
+  "bear_case": "Despite the drawdown, valuation is still not cheap for a company with negative ROE (-5.9%), negative net margins, and debt-to-equity above 230% \u2014 this isn't a statistically cheap value stock, it's a broken turnaround still priced at ~26x forward earnings that have fallen 45.5% y/y. The stock remains below both its 50-day ($83.66) and 200-day ($92.11) moving averages with no golden cross and negative 126-day momentum (-29.3%), showing the primary trend is still down, and 33% annualized volatility with a 1.26 beta means any disappointment on the China/travel-retail recovery timeline (which has repeatedly disappointed for two years) could quickly retest the 52-week low near $66.",
+  "metrics": {
+    "momentum_63d": 0.09433980869435987,
+    "volatility_ann": 0.3302190273342474,
+    "rsi_14": 47.96024685324069,
+    "profit_margin": -0.01672,
+    "revenue_growth": 0.046,
+    "trailing_pe": null,
+    "return_on_equity": -0.05949,
+    "beta": 1.261,
+    "market_cap": 29714214912,
+    "analyst_coverage": 26
+  }
+}

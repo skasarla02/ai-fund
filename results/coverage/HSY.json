@@ -1,0 +1,26 @@
+{
+  "ticker": "HSY",
+  "name": "Hershey Company (The)",
+  "sector": "Consumer Staples",
+  "sub_industry": "Packaged Foods & Meats",
+  "tier": "S&P 500",
+  "price": 171.4199981689453,
+  "as_of": "2026-07-19T22:29:41.607565+00:00",
+  "rating": "bearish",
+  "conviction": 0.58,
+  "key_signal": "HSY trades below both its 50- and 200-day moving averages near its 52-week low, with negative momentum across all timeframes despite a still-rich trailing P/E of 32x.",
+  "thesis": "The bull case rests on a valuation reset: forward P/E has compressed to 17.3x from a trailing 32x, implying analysts expect a sharp earnings recovery (93.6% forward earnings growth) as elevated cocoa costs anniversary and pricing actions flow through, while the stock's 3.39% dividend yield and low beta (0.098) offer a defensive cushion near 52-week lows ($161.43) with 21 analysts still rating it a consensus 'buy'.",
+  "bear_case": "The technical picture is unambiguously deteriorating\u2014price is below both the 50-day ($182.2) and 200-day ($190.7) SMAs, momentum is negative at 21/63/126-day horizons (-6%/-9.7%/-12.7%), MACD histogram is negative, and RSI at 42.7 shows no oversold bounce signal yet\u2014while gross margins have already collapsed to 35% from historical strength, debt-to-equity sits elevated at 120%, and trailing P/E of 32x and price-to-book of 7.3x remain expensive for a company growing revenue only 10.6%, meaning the anticipated earnings rebound is not yet visible in results and cocoa cost normalization remains unconfirmed, leaving room for further multiple compression before the fundamental turn materializes.",
+  "metrics": {
+    "momentum_63d": -0.09731464674587731,
+    "volatility_ann": 0.3474870704644021,
+    "rsi_14": 42.73387181733859,
+    "profit_margin": 0.09125,
+    "revenue_growth": 0.106,
+    "trailing_pe": 31.921787,
+    "return_on_equity": 0.23234,
+    "beta": 0.098,
+    "market_cap": 34771410944,
+    "analyst_coverage": 21
+  }
+}

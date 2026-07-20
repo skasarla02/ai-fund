@@ -1,0 +1,26 @@
+{
+  "ticker": "SPGI",
+  "name": "S&P Global",
+  "sector": "Financials",
+  "sub_industry": "Financial Exchanges & Data",
+  "tier": "S&P 500",
+  "price": 449.6400146484375,
+  "as_of": "2026-07-20T16:03:51.293761+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "Strong 1- and 3-month price momentum (+13.7%/+7.6%) and a bullish MACD histogram have pushed SPGI back above both moving averages even though the 50dma still sits below the 200dma, signaling an early-stage trend reversal after a 6-month drawdown.",
+  "thesis": "SPGI's core Ratings/Indices/Market Intelligence franchise continues to compound at high quality \u2014 70% gross margin, 44% operating margin, 30% net margin \u2014 while earnings growth of 32.5% is outrunning 10.4% revenue growth, showing operating leverage kicking in. Forward PE of 22.2x is a meaningful discount to trailing 28.4x, implying the Street expects continued margin expansion, consistent with the 'strong buy' consensus from all 18 covering analysts. Technically, the stock has reclaimed its 200dma and is up 13.7% in the last month with RSI at 65 (room before overbought) and a positive MACD histogram of 2.9, suggesting the negative 126-day momentum (-12.5%) is reversing and fresh buyers are stepping in after the pullback from the 52-week high of $547.82 \u2014 the stock is still ~18% below that high, leaving room to re-rate if bond issuance and ratings volumes stay healthy.",
+  "bear_case": "The 50-day moving average (405) remains below the 200-day (434.6) \u2014 no golden cross has actually formed \u2014 and the prior 126-day momentum was sharply negative (-12.5%), meaning the recent 1-month pop could be a short-covering bounce within a longer downtrend rather than a durable reversal; annualized volatility of 39% is unusually high for a data/index business and implies the market is pricing real uncertainty. Debt-to-equity of 38.4x and a price-to-book of 4.27x leave little margin for error if bond issuance (the key driver of the Ratings segment) slows as rates stay higher for longer, and at 28x trailing earnings with ROE of only 14%, the stock is priced for flawless execution \u2014 any disappointment relative to the unanimous 'strong buy' consensus among 18 analysts could trigger an outsized correction given how much good news is already embedded in the multiple.",
+  "metrics": {
+    "momentum_63d": 0.0763852087187924,
+    "volatility_ann": 0.3905254835692818,
+    "rsi_14": 64.92865523450664,
+    "profit_margin": 0.30361998,
+    "revenue_growth": 0.104,
+    "trailing_pe": 28.422253,
+    "return_on_equity": 0.13939999,
+    "beta": 1.079,
+    "market_cap": 133093441536,
+    "analyst_coverage": 18
+  }
+}

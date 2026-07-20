@@ -1,0 +1,26 @@
+{
+  "ticker": "BLDR",
+  "name": "Builders FirstSource",
+  "sector": "Industrials",
+  "sub_industry": "Building Products",
+  "tier": "S&P 500",
+  "price": 74.26000213623047,
+  "as_of": "2026-07-19T21:37:01.232643+00:00",
+  "rating": "bearish",
+  "conviction": 0.57,
+  "key_signal": "BLDR has cratered ~41% over the last six months, trading at $74 versus a 52-week high of $151 and now sitting below both its 50- and 200-day moving averages with no golden cross in sight.",
+  "thesis": "The stock is technically deeply broken (mom_126d -41%, RSI 43, MACD histogram sharply negative, price ~25% below its 200dma), but a forward P/E of just 12.4x versus a trailing 28.3x signals the market expects a sharp earnings snapback, and 21 sell-side analysts still carry a 'buy' rating. Free cash flow remains solidly positive (~$641M) even amid a housing downturn, and gross margins near 30% suggest the underlying business retains pricing power once volumes stabilize. If housing starts inflect higher on rate cuts, BLDR's operating leverage could produce outsized EPS growth from today's depressed base, and the stock is already pricing in much of the pain (down over 50% from highs).",
+  "bear_case": "Revenue is already declining (-10.1% YoY) and operating margins have collapsed to just 0.5% from historically much higher levels, meaning the business has very little buffer if volumes keep falling \u2014 this is classic operating deleverage in a cyclical industrial with 132% debt-to-equity, a dangerous combination if higher-for-longer rates keep new construction and R&R activity depressed. The technical picture (all momentum windows negative, below both moving averages, no golden cross, elevated 61% annualized volatility) suggests institutional money is still de-risking rather than bargain-hunting, and a 'cheap' forward P/E is only cheap if consensus earnings estimates hold \u2014 given the current margin trajectory, further downward revisions are a real risk, which would make the stock look expensive again rather than a value opportunity.",
+  "metrics": {
+    "momentum_63d": -0.11489867955097699,
+    "volatility_ann": 0.6128972308260251,
+    "rsi_14": 42.707987712643366,
+    "profit_margin": 0.01967,
+    "revenue_growth": -0.101,
+    "trailing_pe": 28.343513,
+    "return_on_equity": 0.06958,
+    "beta": 1.418,
+    "market_cap": 7987396096,
+    "analyst_coverage": 21
+  }
+}

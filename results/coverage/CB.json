@@ -1,0 +1,26 @@
+{
+  "ticker": "CB",
+  "name": "Chubb Limited",
+  "sector": "Financials",
+  "sub_industry": "Property & Casualty Insurance",
+  "tier": "S&P 500",
+  "price": 352.1600036621094,
+  "as_of": "2026-07-19T21:46:29.241331+00:00",
+  "rating": "bullish",
+  "conviction": 0.63,
+  "key_signal": "Chubb trades at just 12.5x trailing earnings with 78.7% earnings growth and is up 17.7% over 126 days while sitting near its 52-week high, a rare combination of value and momentum for a large-cap P&C insurer.",
+  "thesis": "Chubb combines cheap valuation (12.5x trailing, 12.0x forward PE, 1.85x book) with strong technical momentum: price is above both the 50-day ($330.8) and 200-day ($313.7) moving averages, a golden cross is in place, and the stock is up 7-18% across 1-6 month windows. Fundamentals support the move \u2014 78.7% earnings growth, 10.2% revenue growth, 15.4% ROE, and a healthy 20.6% operating margin suggest underwriting and investment income are both contributing. A low beta of 0.41 signals defensive characteristics unusual for a stock with this much recent price strength, appealing to investors wanting equity exposure with lower volatility. Consensus sell-side rating is 'buy' among 23 analysts, and the stock sits just below its 52-week high ($365.29) with room to test new highs. The dividend (1.16% yield) plus buyback capacity from strong free cash flow ($12.6B) provide additional support.",
+  "bear_case": "The rally has pushed CB within ~3.6% of its 52-week high after a sharp 2.5% one-day pop, and the negative MACD histogram (-1.01) alongside RSI at 57.8 suggests momentum may be decelerating or due for a pause even as price stays elevated \u2014 a classic setup for a near-term pullback if earnings growth normalizes from the unusually high 78.7% pace (likely driven by prior-year catastrophe loss comparisons or reserve releases that won't repeat). P&C insurers are also exposed to catastrophe losses (hurricane season, wildfires) and reserve development risk that can quickly erase premium growth gains; with 30-day annualized volatility at 27.6%, a single large cat event or adverse reserve charge could sharply reverse sentiment. Additionally, at 1.85x book value, Chubb is no longer deep-value cheap relative to its own history, and further multiple expansion may be limited if the earnings growth rate reverts toward the more modest 10.2% revenue growth trend, capping upside from current levels near all-time highs.",
+  "metrics": {
+    "momentum_63d": 0.07563108944525054,
+    "volatility_ann": 0.27572985388267623,
+    "rsi_14": 57.84943105652531,
+    "profit_margin": 0.18527001,
+    "revenue_growth": 0.102,
+    "trailing_pe": 12.452617,
+    "return_on_equity": 0.15433,
+    "beta": 0.406,
+    "market_cap": 136588812288,
+    "analyst_coverage": 23
+  }
+}

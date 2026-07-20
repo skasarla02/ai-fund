@@ -1,0 +1,26 @@
+{
+  "ticker": "DOC",
+  "name": "Healthpeak Properties",
+  "sector": "Real Estate",
+  "sub_industry": "Health Care REITs",
+  "tier": "S&P 500",
+  "price": 22.510000228881836,
+  "as_of": "2026-07-19T22:29:06.803195+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "DOC is sitting at RSI 71 and within a hair of its 52-week high after a 33% three-month rally, while MACD histogram has just turned negative \u2014 a classic momentum-exhaustion signature.",
+  "thesis": "Healthpeak has ridden a powerful uptrend (+33% over 63 days, +35% over 126 days) with a golden cross and price comfortably above both the 50- and 200-day moving averages, likely reflecting the health-care REIT sector's re-rating as rate-cut expectations built and lab/life-science and outpatient medical fundamentals stabilized. Revenue growth of 7.1% and a 5.4% dividend yield give income-oriented buyers a reason to hold through volatility, and with 19 analysts already carrying a 'buy' consensus, the stock has institutional sponsorship that can sustain further upside if rate cuts materialize as expected.",
+  "bear_case": "The technical picture is flashing late-stage-rally warnings: RSI at 71 signals overbought conditions, price is essentially at its 52-week high (22.51 vs 22.62), and the MACD histogram has already rolled negative even as price stays elevated \u2014 a bearish divergence that often precedes a pullback toward the 50-day (20.35) or even 200-day (17.64) moving average. Fundamentally, the rally has pushed valuation to a stretched 70x trailing P/E and 2.0x price-to-book despite anemic 2.8% ROE and heavy leverage (debt/equity of 118%), and the negative forward P/E (-150) implies consensus forward earnings estimates are troublingly low or negative, meaning the 'growth' narrative embedded in the recent move isn't obviously supported by improving profitability. With 19 analysts already covering the name, any disappointment on rate-cut timing or occupancy/lab-leasing trends could trigger a swift mean-reversion trade given how extended and consensus-crowded the current momentum has become.'",
+  "metrics": {
+    "momentum_63d": 0.33161591242766875,
+    "volatility_ann": 0.2467484873756922,
+    "rsi_14": 71.04982540820916,
+    "profit_margin": 0.07734,
+    "revenue_growth": 0.071,
+    "trailing_pe": 70.34375,
+    "return_on_equity": 0.027999999,
+    "beta": 1.004,
+    "market_cap": 15518837760,
+    "analyst_coverage": 19
+  }
+}

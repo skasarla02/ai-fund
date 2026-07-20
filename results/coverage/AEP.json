@@ -1,0 +1,26 @@
+{
+  "ticker": "AEP",
+  "name": "American Electric Power",
+  "sector": "Utilities",
+  "sub_industry": "Electric Utilities",
+  "tier": "S&P 500",
+  "price": 132.13999938964844,
+  "as_of": "2026-07-19T21:20:10.743627+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "AEP trades above both its 50- and 200-day moving averages with a golden cross intact, reflecting a utility sector re-rating driven by data-center/electrification demand even as short-term momentum has cooled (mom_63d -1.1%, MACD hist negative).",
+  "thesis": "AEP is a large, low-beta (0.504) regulated utility trading at a reasonable 19.5x trailing/19.3x forward P/E with 10.2% revenue growth and 6.7% earnings growth, well above the historical growth profile for a regulated electric utility\u2014likely reflecting the load-growth story from data centers and industrial reshoring in its Ohio/Texas/Indiana service territories. The stock sits comfortably above its 50-day (131.2) and 200-day (124.2) moving averages with a golden cross signal active, and 126-day momentum of +13.6% shows the underlying uptrend remains intact despite a recent consolidation. A 2.88% dividend yield with sell-side consensus at 'buy' across 21 analysts provides income support, and ROE of 12.6% is solid for the group. The pullback in mom_63d and negative MACD histogram look like a normal digestion phase after the strong 126-day run, not a trend reversal, since price remains above both key SMAs.",
+  "bear_case": "The balance sheet and cash flow tell a more precarious story than the multiple suggests: debt-to-equity of 157% is high even for a capital-intensive utility, and free cash flow is deeply negative (-$6.95B) as AEP funds a massive capex program for grid modernization and data-center interconnection\u2014meaning continued reliance on debt and equity issuance that could pressure EPS accretion or force dilutive equity raises if rates stay elevated. At 2.26x price-to-book and 19.5x earnings, AEP is priced for the data-center growth narrative to materialize smoothly, but regulated utilities carry execution risk on rate-case approvals and cost recovery; any commission pushback on capex recovery or a re-acceleration of long-term rates would hit a rate-sensitive, high-leverage name particularly hard. The negative MACD histogram and stalled 63-day momentum could also be an early signal that the sector-wide AI/data-center enthusiasm that drove the 126-day rally is fading, especially since price is now hovering just below the 52-week high of $140.58, leaving limited near-term upside without a fresh catalyst.",
+  "metrics": {
+    "momentum_63d": -0.010852727522352557,
+    "volatility_ann": 0.20223368130612396,
+    "rsi_14": 46.50575413432851,
+    "profit_margin": 0.16289,
+    "revenue_growth": 0.102,
+    "trailing_pe": 19.518463,
+    "return_on_equity": 0.12585,
+    "beta": 0.504,
+    "market_cap": 71898038272,
+    "analyst_coverage": 21
+  }
+}

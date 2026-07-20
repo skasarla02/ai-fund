@@ -1,0 +1,26 @@
+{
+  "ticker": "FFIV",
+  "name": "F5, Inc.",
+  "sector": "Information Technology",
+  "sub_industry": "Communications Equipment",
+  "tier": "S&P 500",
+  "price": 409.1000061035156,
+  "as_of": "2026-07-19T22:11:15.553436+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "FFIV trades near its 52-week high with a 33.6x trailing P/E despite earnings growth of just 4%, even as momentum is showing early signs of fatigue (negative MACD histogram despite price still above both moving averages).",
+  "thesis": "F5 has been in a powerful uptrend (126-day momentum of +53%, golden cross intact, price above both the 50- and 200-day SMAs) and screens as a quality software-infrastructure name with 81.5% gross margins, 22% operating margins, and 20.3% ROE. Revenue growth of 11% and consistent free cash flow generation (~$759M) support a business that is executing well on its transition toward software/subscription and security offerings, which the market has rewarded by re-rating the multiple to 23x forward earnings from a much cheaper base historically.",
+  "bear_case": "The re-rating has outpaced fundamentals: earnings growth of only 4% against a 33.6x trailing P/E and 6.4x price-to-book leaves little room for disappointment, and the stock is already sitting just 6% below its 52-week high after a 53% six-month run, meaning much of the good news may be priced in. The negative MACD histogram alongside a middling RSI of 51.5 suggests the recent rally is losing momentum even as price stays elevated, and the sell-side consensus is a tepid 'hold' from all 10 covering analysts with no signs of upward estimate revisions \u2014 a setup where any growth deceleration (already visible in the gap between 11% revenue growth and just 4% earnings growth) could trigger a sharp multiple compression given how richly the stock is now priced relative to its own history.",
+  "metrics": {
+    "momentum_63d": 0.32798808461232887,
+    "volatility_ann": 0.3212900690414968,
+    "rsi_14": 51.51808077701966,
+    "profit_margin": 0.21962999,
+    "revenue_growth": 0.11,
+    "trailing_pe": 33.559887,
+    "return_on_equity": 0.2034,
+    "beta": 1.03,
+    "market_cap": 23080833024,
+    "analyst_coverage": 10
+  }
+}

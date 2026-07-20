@@ -1,0 +1,26 @@
+{
+  "ticker": "CMG",
+  "name": "Chipotle Mexican Grill",
+  "sector": "Consumer Discretionary",
+  "sub_industry": "Restaurants",
+  "tier": "S&P 500",
+  "price": 34.439998626708984,
+  "as_of": "2026-07-19T21:46:16.519375+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "CMG trades at 31.6x trailing earnings despite -17.9% earnings growth, even after a 36% drawdown from its 52-week high, leaving valuation still stretched relative to deteriorating fundamentals.",
+  "thesis": "The stock has been beaten down from $54 to $34 and is showing early signs of technical stabilization: 21-day momentum is positive (+5.6%), RSI is neutral at 54, MACD histogram just turned positive, and price is now above the 50-day SMA and only marginally below the 200-day (35.27 vs 34.44). Revenue growth remains positive (+7.4%), gross margins are strong (39.6%), operating margins healthy (13.3%), and ROE is exceptional at 49%. With 32 analysts still rating it a consensus 'buy' and free cash flow generation intact (~$1.09B), a stabilization in comp sales or margin execution could catalyze a re-rating back toward the 200dma and beyond, especially given the stock's low beta (0.96) suggesting the drawdown was company-specific rather than macro-driven.",
+  "bear_case": "Earnings growth of -17.9% is a serious red flag that the market has only partially priced in \u2014 trailing P/E of 31.6x and forward P/E of 25.4x are still premium multiples for a restaurant chain whose growth is decelerating sharply from its historical 15-20%+ pace, and price-to-book of 18.4x leaves zero margin for error if same-store sales or margins disappoint further. The 126-day momentum of -15.2% and the stock still sitting below its 200-day moving average with no golden cross confirm the primary trend remains down, and the recent 21-day bounce could easily be a dead-cat rally within a broader downtrend, particularly with annualized volatility at an elevated 42%. Debt-to-equity of 218 (largely lease-driven) also leaves less balance sheet flexibility than peers if a slowdown persists.",
+  "metrics": {
+    "momentum_63d": -0.018244104074679357,
+    "volatility_ann": 0.4230026048567588,
+    "rsi_14": 53.746939726614855,
+    "profit_margin": 0.119619995,
+    "revenue_growth": 0.074,
+    "trailing_pe": 31.596329,
+    "return_on_equity": 0.49231997,
+    "beta": 0.964,
+    "market_cap": 44177354752,
+    "analyst_coverage": 32
+  }
+}

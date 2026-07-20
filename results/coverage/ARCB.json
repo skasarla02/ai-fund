@@ -1,0 +1,26 @@
+{
+  "ticker": "ARCB",
+  "name": "ArcBest Corp.",
+  "sector": "Industrials",
+  "sub_industry": "Cargo Ground Transportation",
+  "tier": "S&P 600",
+  "price": 159.80999755859375,
+  "as_of": "2026-07-19T21:04:59.525813+00:00",
+  "rating": "neutral",
+  "conviction": 0.521,
+  "key_signal": "63d momentum +40.1%, margin 1.4%, 13 analysts covering it.",
+  "thesis": "[mock] Trades above its 200-day average with +40.1% momentum; profit margin 1.4% \u2014 13 analysts covering it.",
+  "bear_case": "[mock] Valuation at 65.5x trailing earnings leaves little room for a growth miss.",
+  "metrics": {
+    "momentum_63d": 0.4011354308140662,
+    "volatility_ann": 0.5732265470102996,
+    "rsi_14": 62.66198913945144,
+    "profit_margin": 0.013839999,
+    "revenue_growth": 0.033,
+    "trailing_pe": 65.495895,
+    "return_on_equity": 0.04334,
+    "beta": 1.57,
+    "market_cap": 3557974528,
+    "analyst_coverage": 13
+  }
+}

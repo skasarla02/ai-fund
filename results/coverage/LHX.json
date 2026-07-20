@@ -1,0 +1,26 @@
+{
+  "ticker": "LHX",
+  "name": "L3Harris",
+  "sector": "Industrials",
+  "sub_industry": "Aerospace & Defense",
+  "tier": "S&P 500",
+  "price": 282.010009765625,
+  "as_of": "2026-07-19T22:44:09.398145+00:00",
+  "rating": "bearish",
+  "conviction": 0.58,
+  "key_signal": "LHX has broken decisively below both its 50- and 200-day moving averages with double-digit negative momentum across the 21/63/126-day windows, and trailing earnings growth is negative (-6.1%) despite a still-rich 30.6x trailing P/E.",
+  "thesis": "L3Harris trades 26% off its 52-week high with a forward P/E of 20.7x vs 30.6x trailing, implying the market is baking in a meaningful earnings recovery, and the stock's low beta (0.75) and 1.77% dividend give some ballast while defense budgets and multi-year backlogs (following the Aerojet Rocketdyne integration) support a longer-term bull case; 18 analysts still carry a consensus 'buy,' and RSI at 36.5 suggests the sharp selloff may be nearing exhaustion, setting up a mean-reversion bounce for patient buyers.",
+  "bear_case": "The technical trend is unambiguous and persistent: price is below both the 50-day (300.4) and 200-day (314.7) averages, MACD histogram is solidly negative (-0.49), and momentum has been negative for 21, 63, and 126 days simultaneously \u2014 this is not a one-off dip but a sustained deterioration that started well before the recent 1-day move; combined with trailing earnings growth of -6.1% and only 9.7% operating margins (thin for a prime defense contractor relative to peers like NOC or GD), the market may be correctly repricing execution or program risk (e.g., cost overruns, integration drag from Aerojet Rocketdyne) rather than offering a discount entry, and with 18 analysts already covering the name any fundamental disappointment gets priced in fast, leaving little edge for contrarian buyers before the trend actually turns.",
+  "metrics": {
+    "momentum_63d": -0.19879866236742239,
+    "volatility_ann": 0.30877048091048803,
+    "rsi_14": 36.51116301184868,
+    "profit_margin": 0.103690006,
+    "revenue_growth": 1.9,
+    "trailing_pe": 30.586767,
+    "return_on_equity": null,
+    "beta": 0.746,
+    "market_cap": 52537040896,
+    "analyst_coverage": 18
+  }
+}

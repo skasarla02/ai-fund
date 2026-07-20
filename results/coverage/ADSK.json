@@ -1,0 +1,26 @@
+{
+  "ticker": "ADSK",
+  "name": "Autodesk",
+  "sector": "Information Technology",
+  "sub_industry": "Application Software",
+  "tier": "S&P 500",
+  "price": 218.35000610351562,
+  "as_of": "2026-07-19T21:27:05.284877+00:00",
+  "rating": "bullish",
+  "conviction": 0.6,
+  "key_signal": "ADSK trades 34% below its 52-week high with a forward P/E of just 15.3x despite 18% revenue growth, 92% gross margins and 50% ROE, while short-term momentum (mom_21d +8.4%, MACD histogram +2.97) is turning up even though price remains below both the 50- and 200-day moving averages.",
+  "thesis": "The stock has been de-rated hard (price down from a 329 high to 218, still below sma_200 of 258) largely on governance/accounting overhang from its prior deferred-revenue/free-cash-flow recognition review, but the underlying business remains excellent: 92.4% gross margin, 29.5% operating margin, 19.5% net margin, 50.4% ROE, and $3.06B of free cash flow on $7.5B revenue (>40% FCF margin) with revenue still growing 18.4%. Forward PE of 15.3 versus trailing PE of 31.8 signals the market is pricing in a sharp earnings step-up that the fundamentals (operating leverage, subscription mix) support, and 32 analysts still carry a 'strong buy' consensus. Technically, the recent 21-day momentum of +8.4% and a strongly positive MACD histogram suggest the multi-month downtrend (mom_63d -10.2%, mom_126d -16.4%) may be bottoming, with price now sitting almost exactly at the 50-day SMA (219.4) \u2014 a potential inflection point for a name this profitable trading at a below-peer multiple.",
+  "bear_case": "The stock's steep decline (-34% off highs, still below both the 50- and 200-day moving averages with no golden cross) reflects real, unresolved risk: Autodesk disclosed an SEC/audit-committee investigation into its free cash flow and deferred revenue disclosures, and until that overhang fully clears, multiple expansion back toward historical premium software valuations (priceToBook of 14.4x is already rich) is unlikely; debt-to-equity of 85.4 leaves less balance-sheet cushion than peers if litigation or restatement costs materialize, and a beta of 1.32 with 40.6% annualized volatility means any broader software-sector derating (elevated forward multiples across the group) or disappointing guidance could easily extend the downtrend rather than confirm the recent 21-day bounce as a durable reversal.",
+  "metrics": {
+    "momentum_63d": -0.1020315725651545,
+    "volatility_ann": 0.40609234464535676,
+    "rsi_14": 57.66314526504078,
+    "profit_margin": 0.19488001,
+    "revenue_growth": 0.184,
+    "trailing_pe": 31.829447,
+    "return_on_equity": 0.50396,
+    "beta": 1.318,
+    "market_cap": 46103564288,
+    "analyst_coverage": 32
+  }
+}

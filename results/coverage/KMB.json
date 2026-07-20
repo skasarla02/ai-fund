@@ -1,0 +1,26 @@
+{
+  "ticker": "KMB",
+  "name": "Kimberly-Clark",
+  "sector": "Consumer Staples",
+  "sub_industry": "Household Products",
+  "tier": "S&P 500",
+  "price": 108.3499984741211,
+  "as_of": "2026-07-19T22:41:59.330225+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "KMB has recovered into a golden cross with price above both the 50- and 200-day SMAs, but remains ~21% below its 52-week high and revenue growth is stuck at just 2.7%, matching the sell-side 'hold' consensus.",
+  "thesis": "The stock has regained technical footing (mom_63d +12%, mom_126d +12%, golden cross intact) after a sharp drawdown from its 52-week high of $137, and a forward P/E of 14.3 vs. trailing 21 implies the market expects earnings to grow (earningsGrowth 17.9%) as restructuring/cost actions flow through margins (operating margin near 19.6%). A 4.73% dividend yield and beta of 0.279 make this an attractive defensive holding for income-oriented capital rotating out of risk assets, and the RSI of 53 shows no overbought exhaustion despite the rally off lows.",
+  "bear_case": "KMB's balance sheet is stretched (debt/equity of 371%, price-to-book over 20x reflecting a nearly wiped-out equity base from buybacks), leaving little cushion if the anticipated earnings growth doesn't materialize, and organic revenue growth of only 2.7% suggests the core business is barely growing, meaning the forward P/E discount is a bet on margin expansion rather than demand strength; negative MACD histogram (-0.78) hints the recent upward momentum is already fading, and 15 analysts collectively rate it just 'hold,' implying no fresh catalyst is visible to re-rate the stock toward its former $137 high.",
+  "metrics": {
+    "momentum_63d": 0.1211414324437663,
+    "volatility_ann": 0.3370940131814356,
+    "rsi_14": 53.03056448600264,
+    "profit_margin": 0.12798999,
+    "revenue_growth": 0.027,
+    "trailing_pe": 20.957447,
+    "return_on_equity": 1.11727,
+    "beta": 0.279,
+    "market_cap": 35965734912,
+    "analyst_coverage": 15
+  }
+}

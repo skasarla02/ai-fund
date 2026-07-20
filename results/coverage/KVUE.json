@@ -1,0 +1,26 @@
+{
+  "ticker": "KVUE",
+  "name": "Kenvue",
+  "sector": "Consumer Staples",
+  "sub_industry": "Personal Care Products",
+  "tier": "S&P 500",
+  "price": 18.979999542236328,
+  "as_of": "2026-07-19T22:40:53.980097+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "KVUE trades above both its 50- and 200-day moving averages with a golden cross intact and multi-timeframe positive momentum (21/63/126d all positive), while forward PE of 15.3x sits well below trailing PE of 22.6x on 46.9% projected earnings growth.",
+  "thesis": "Kenvue has recovered roughly 35% off its 52-week low of $14.02 and now trades at $18.98 with confirmed uptrend structure (golden cross, above both SMAs, RSI a neutral 53.6 leaving room to run). The stock offers a rare combination for a low-beta (0.437) defensive name: a 4.37% dividend yield, 58.6% gross margins, and 21.6% operating margins, alongside consensus expectations of 46.9% earnings growth that compress the forward P/E to 15.3x versus a 22.6x trailing multiple \u2014 implying the market hasn't fully priced the earnings inflection. Post-J&J spin-off cost normalization and margin execution could re-rate the stock toward its 52-week high of $22.87, a ~20% gain from here, while investors collect a well-covered dividend in the interim.",
+  "bear_case": "The negative MACD histogram (-0.105) signals fading short-term momentum even as price sits near multi-month highs, and with only 12 analysts covering the name at a consensus 'hold,' there's limited sell-side conviction to drive re-rating. More importantly, revenue growth is anemic at 4.5%, debt-to-equity is elevated at ~83%, and Kenvue continues to carry unresolved talc-related litigation risk inherited from J&J that can produce binary, headline-driven drawdowns independent of fundamentals \u2014 the stock's 26% annualized volatility despite a sub-0.5 beta suggests the market is still pricing tail risk that pure staples multiples don't capture. If litigation news deteriorates or the earnings growth fails to materialize as modeled, the stock could round-trip back toward the $14-16 range seen within the past year.",
+  "metrics": {
+    "momentum_63d": 0.10015480242403663,
+    "volatility_ann": 0.26431761307957774,
+    "rsi_14": 53.60900757340422,
+    "profit_margin": 0.106070004,
+    "revenue_growth": 0.045,
+    "trailing_pe": 22.595238,
+    "return_on_equity": 0.15701,
+    "beta": 0.437,
+    "market_cap": 36441763840,
+    "analyst_coverage": 12
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "FAST",
+  "name": "Fastenal",
+  "sector": "Industrials",
+  "sub_industry": "Trading Companies & Distributors",
+  "tier": "S&P 500",
+  "price": 45.4900016784668,
+  "as_of": "2026-07-19T22:18:04.824094+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "Stock trades at 38.9x trailing earnings and 12.8x book value despite a -2.5% daily drop and fading momentum (price below 50dma, negative MACD histogram) after a strong 126-day run.",
+  "thesis": "Fastenal remains a high-quality industrial distributor with 34% ROE, 44.7% gross margins, and 14.7% revenue growth, reflecting durable pricing power and share gains from its Onsite/vending strategy. The stock is above its 200dma with a golden cross intact, and low beta (0.71) plus a 2.1% dividend yield make it a defensive quality holding that institutions rotate into during industrial cyclicality. Long-term compounding via FAST's razor-vending model and margin expansion supports the premium valuation over time.",
+  "bear_case": "At 38.9x trailing and 32.5x forward earnings with a 12.8x price-to-book, FAST is priced for perfection in a sector typically valued far lower, leaving no room for error if industrial demand softens; the recent -2.5% single-day drop, negative MACD histogram, RSI near 45, and price now below the 50dma all suggest short-term momentum has turned negative just as the stock sits only ~10% off its 52-week high, and a 'hold' consensus from all 13 covering analysts signals the sell-side already sees limited upside from current levels.",
+  "metrics": {
+    "momentum_63d": 0.02263856168076961,
+    "volatility_ann": 0.24019342791341877,
+    "rsi_14": 44.93127565396409,
+    "profit_margin": 0.15454,
+    "revenue_growth": 0.147,
+    "trailing_pe": 38.880344,
+    "return_on_equity": 0.34334,
+    "beta": 0.713,
+    "market_cap": 52199669760,
+    "analyst_coverage": 13
+  }
+}

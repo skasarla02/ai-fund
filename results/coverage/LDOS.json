@@ -1,0 +1,26 @@
+{
+  "ticker": "LDOS",
+  "name": "Leidos",
+  "sector": "Industrials",
+  "sub_industry": "Diversified Support Services",
+  "tier": "S&P 500",
+  "price": 106.4800033569336,
+  "as_of": "2026-07-19T22:45:30.142365+00:00",
+  "rating": "bullish",
+  "conviction": 0.56,
+  "key_signal": "LDOS has cratered 44% over six months to near its 52-week low, yet still trades at just 9.75x trailing and 8.1x forward earnings with a 30.6% ROE.",
+  "thesis": "The selloff has pushed Leidos into deep-value territory: trailing P/E under 10, forward P/E of 8.1, and a price-to-book of 2.7x despite a 30.6% return on equity and 12.2% operating margins. Free cash flow of ~$1.2B against a $13.4B market cap implies a ~9% FCF yield, and the 1.6% dividend is well covered. Low beta (0.55) and a diversified government-services backlog provide earnings stability even if growth has decelerated. Technically, the MACD histogram has turned positive (1.16) and RSI sits at 39, suggesting the freefall is losing momentum and a base may be forming after such an extreme drawdown (-43.9% over 126 days). Sell-side consensus remains 'buy' across all 15 covering analysts, indicating the Street sees the selloff as overdone relative to fundamentals rather than a structural impairment.",
+  "bear_case": "This is a stock in a confirmed technical downtrend \u2014 price is below both the 50-day ($116.9) and 200-day ($163.0) moving averages with no golden cross, and momentum has been negative at every horizon (21d, 63d, 126d), meaning the 'cheap' valuation could simply reflect a re-rating of government IT-services multiples amid federal spending cuts and contract efficiency reviews. Earnings growth is already negative (-7.6%) even before the market fully re-prices for slower government outlays, and revenue growth of just 3.7% suggests the top line is stagnating, not just cyclically dipping. Leverage is elevated (debt-to-equity of 137%), which constrains flexibility if contract awards or margins deteriorate further, and a stock that has lost nearly half its value in six months can easily fall further before finding a durable bottom \u2014 the positive MACD tick could be a dead-cat bounce within a larger downtrend rather than a genuine reversal.",
+  "metrics": {
+    "momentum_63d": -0.3170823138004152,
+    "volatility_ann": 0.33501595942837437,
+    "rsi_14": 39.05423027153738,
+    "profit_margin": 0.08154,
+    "revenue_growth": 0.037,
+    "trailing_pe": 9.750916,
+    "return_on_equity": 0.30579,
+    "beta": 0.547,
+    "market_cap": 13393636352,
+    "analyst_coverage": 15
+  }
+}

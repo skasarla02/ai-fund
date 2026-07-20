@@ -1,0 +1,26 @@
+{
+  "ticker": "F",
+  "name": "Ford Motor Company",
+  "sector": "Consumer Discretionary",
+  "sub_industry": "Automobile Manufacturers",
+  "tier": "S&P 500",
+  "price": 14.229999542236328,
+  "as_of": "2026-07-19T22:20:32.269020+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "Ford trades above both its 50- and 200-day moving averages with a golden cross intact, but negative trailing profit margins (-3.2%) and negative FCF (-$2.25B) undercut the technical strength.",
+  "thesis": "Ford's price action is constructive: it's above its 200dma, in a golden cross, up 15.8% over 63 days, and RSI/MACD show mild positive momentum without being overbought. Forward PE of 7.8 is cheap relative to the market and reflects an expectation of earnings recovery (earningsGrowth flagged extremely high, likely off a depressed base), while the 4.22% dividend yield offers income support at this price. Revenue growth of 6.4% and operating margins of 5.7% show the core business still generates positive operating cash before financing costs, and priceToBook of 1.5x is reasonable for a capital-intensive manufacturer trading near book value.",
+  "bear_case": "The fundamentals are genuinely weak beneath the technical veneer: trailing profit margins are negative, ROE is -14.8%, free cash flow is negative $2.25B, and debt-to-equity is an extreme 425%, meaning Ford is burning cash while carrying enormous leverage in a high-rate environment that raises financing costs on both corporate debt and Ford Credit's auto loan book. Beta of 1.83 means this stock will amplify any macro downturn or consumer-discretionary pullback, and with 20 analysts already covering it at a consensus 'hold,' there's little informational edge to exploit \u2014 the cheap forward PE may simply be the market correctly pricing cyclical peak-earnings risk and EV/legacy-transition costs rather than a mispriced bargain.From the profile: consumer discretionary autos are notoriously cyclical, and mom_21d is already slightly negative (-1.2%), hinting the 3-month rally may be stalling just as it approaches the 52-week high of $17.78.\n\n(Ignore the 'from the profile' filler line, it was an editing artifact.)",
+  "metrics": {
+    "momentum_63d": 0.15830946782107125,
+    "volatility_ann": 0.2955698349093242,
+    "rsi_14": 53.49432436993721,
+    "profit_margin": -0.03216,
+    "revenue_growth": 0.064,
+    "trailing_pe": null,
+    "return_on_equity": -0.14813,
+    "beta": 1.828,
+    "market_cap": 56702177280,
+    "analyst_coverage": 20
+  }
+}

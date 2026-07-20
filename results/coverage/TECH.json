@@ -1,0 +1,26 @@
+{
+  "ticker": "TECH",
+  "name": "Bio-Techne",
+  "sector": "Health Care",
+  "sub_industry": "Life Sciences Tools & Services",
+  "tier": "S&P 500",
+  "price": 72.12000274658203,
+  "as_of": "2026-07-19T21:32:53.546993+00:00",
+  "rating": "bearish",
+  "conviction": 0.58,
+  "key_signal": "TECH is up ~29% in a month to a fresh 52-week high with RSI at 77.5 and a negative MACD histogram, signaling an overextended rally that's already losing momentum even as revenue growth is negative (-1.5%).",
+  "thesis": "The rally reflects renewed investor optimism after a rough multi-year stretch for life-science tools names, and the 128.6% earnings growth (off a depressed base) plus expanding operating margins (25.2%) suggest bottoming fundamentals in bioprocessing/reagents demand. If revenue growth inflects positive alongside continued margin discipline, the stock could sustain a re-rating toward its forward PE of 35x, which looks more reasonable than the trailing 103x.",
+  "bear_case": "The technical setup is classically overbought and unconfirmed: RSI at 77.5, price sitting right at the 52-week high (72.16) while still 22-27% above both the 50-day (57.25) and 200-day (58.90) moving averages, and a negative MACD histogram flashing bearish divergence into the move\u2014this is the type of extension that typically mean-reverts sharply. Fundamentally, revenue is still shrinking (-1.5%), ROE is a weak 5.3%, trailing P/E is 103x and price-to-book is 5.4x, none of which justifies a 29% one-month melt-up, and with only 12 analysts covering (consensus 'hold'), there's limited institutional buy-side conviction to defend the stock if momentum traders start taking profits near the 52-week high.\u201d}, 44 tokens exceeded\u2014ignore.  }}  }} 44}}",
+  "metrics": {
+    "momentum_63d": 0.25964948960939505,
+    "volatility_ann": 0.6623566258252227,
+    "rsi_14": 77.50236485519513,
+    "profit_margin": 0.09049,
+    "revenue_growth": -0.015,
+    "trailing_pe": 103.02858,
+    "return_on_equity": 0.053400002,
+    "beta": 1.289,
+    "market_cap": 11237064704,
+    "analyst_coverage": 12
+  }
+}

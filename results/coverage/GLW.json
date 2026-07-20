@@ -1,0 +1,26 @@
+{
+  "ticker": "GLW",
+  "name": "Corning Inc.",
+  "sector": "Information Technology",
+  "sub_industry": "Electronic Components",
+  "tier": "S&P 500",
+  "price": 154.61000061035156,
+  "as_of": "2026-07-19T21:53:54.412160+00:00",
+  "rating": "bearish",
+  "conviction": 0.56,
+  "key_signal": "GLW has cratered from its 52-week high of $271.78 to $154.61 (down ~43%), with price now 19% below its 50-day SMA and a deeply negative MACD histogram, even as it grew earnings 139% and revenue 20% on the back of AI-optical/fiber demand.",
+  "thesis": "Corning's fiber/optical connectivity business tied to AI datacenter buildout has driven blowout revenue growth (+20%) and earnings growth (+139%), pushing ROE to 16.7% and expanding operating margins to 15.7% \u2014 the fundamental growth story behind the prior 72% 126-day rally is intact, and the stock remains above its 200-day SMA with a golden cross still in effect, suggesting the primary uptrend hasn't technically broken.",
+  "bear_case": "The stock is in a sharp, high-momentum breakdown \u2014 down 12.9% in 21 days and 6.8% in 63 days, trading 19% below its 50-day SMA with MACD histogram at -6.5 and RSI only at 37 (not yet washed out) \u2014 while still carrying a stretched valuation (74x trailing, 36x forward earnings, 11.9x book) that priced in perfection after the AI-driven run; annualized 30-day volatility above 110% signals the market is actively repricing growth assumptions downward, and with FCF of just $612M against $16.3B revenue and debt/equity at 80x, any slowdown in hyperscaler capex or fiber demand could trigger further multiple compression before the long-term trend reasserts itself.",
+  "metrics": {
+    "momentum_63d": -0.06763632288122001,
+    "volatility_ann": 1.1144995313658166,
+    "rsi_14": 36.983165171375866,
+    "profit_margin": 0.1109,
+    "revenue_growth": 0.2,
+    "trailing_pe": 73.97608,
+    "return_on_equity": 0.1674,
+    "beta": 1.086,
+    "market_cap": 133063213056,
+    "analyst_coverage": 15
+  }
+}

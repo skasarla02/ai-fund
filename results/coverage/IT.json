@@ -1,0 +1,26 @@
+{
+  "ticker": "IT",
+  "name": "Gartner",
+  "sector": "Information Technology",
+  "sub_industry": "IT Consulting & Other Services",
+  "tier": "S&P 500",
+  "price": 140.19000244140625,
+  "as_of": "2026-07-19T22:23:20.083118+00:00",
+  "rating": "bullish",
+  "conviction": 0.56,
+  "key_signal": "Gartner's forward PE of 9.2x (vs trailing 13.9x) implies the market is pricing in continued earnings growth despite a stock that's down over 60% from its 52-week high, suggesting the sell-off has outrun the fundamental deterioration.",
+  "thesis": "Gartner has been crushed\u2014down 41% over 126 days and trading below both its 50- and 200-day moving averages\u2014on fears that contract-value/subscription growth is stalling (revenue growth is only -1.5%). Yet earnings growth remains positive at +17.3%, operating margins are still robust at 20.5%, gross margins near 69%, and free cash flow of ~$1.06B against a $9.4B market cap implies an ~11% FCF yield. The forward PE of 9.2x is unusually cheap for a research/advisory business with this margin structure, and a positive MACD histogram (1.56) alongside neutral RSI (50.7) hints the freefall in momentum may be stabilizing even though the stock remains technically weak. For a name with only 13 analysts covering it, this kind of dislocation between price action and forward earnings expectations can persist longer before being arbitraged away, creating opportunity for patient capital.",
+  "bear_case": "The negative revenue growth (-1.5%) is the real story: Gartner's business model depends on renewing and growing subscription research contracts (contract value growth), and a deceleration here is a leading indicator that enterprise IT research/advisory budgets are being cut in a tighter macro environment\u2014this is exactly the kind of top-line stall that precedes further earnings disappointments regardless of today's still-positive EPS growth. The balance sheet is alarming on its face: debt-to-equity of 5293% and price-to-book of 150x indicate the company has almost no tangible equity (likely from years of aggressive buybacks), meaning any further revenue erosion or margin compression has no equity cushion and could pressure credit metrics. Technically, the stock remains below both its 50-day and 200-day moving averages with no golden cross and 54% annualized volatility\u2014this is not a name showing confirmed reversal, and the 'hold' consensus among the 13 covering analysts signals the Street isn't yet convinced the bottom is in. A cheap forward multiple can stay cheap, or get cheaper, if TAS growth continues decelerating.",
+  "metrics": {
+    "momentum_63d": -0.09863046652278751,
+    "volatility_ann": 0.5415583110903944,
+    "rsi_14": 50.72340038215486,
+    "profit_margin": 0.1144,
+    "revenue_growth": -0.015,
+    "trailing_pe": 13.852767,
+    "return_on_equity": 0.94878,
+    "beta": 0.963,
+    "market_cap": 9385985024,
+    "analyst_coverage": 13
+  }
+}

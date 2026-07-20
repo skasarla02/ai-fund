@@ -1,0 +1,26 @@
+{
+  "ticker": "ALGN",
+  "name": "Align Technology",
+  "sector": "Health Care",
+  "sub_industry": "Health Care Supplies",
+  "tier": "S&P 500",
+  "price": 176.75999450683594,
+  "as_of": "2026-07-19T21:17:26.635669+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "ALGN trades above both its 50- and 200-day moving averages (golden cross intact) yet at a forward P/E of just 14.3x versus a trailing 29.7x, implying the market has not yet priced in the 23.9% earnings growth analysts expect.",
+  "thesis": "Align remains in a technical uptrend (price above 50dma of 171.9 and 200dma of 164.6, golden cross confirmed) despite short-term softness (mom_21d -1.5%, mom_63d -4.5%), and the stock is roughly 15% off its 52-week high of $208, offering entry into a name still rated 'buy' by 15 covering analysts. Fundamentally, the forward P/E of 14.3x versus trailing 29.7x reflects expected earnings acceleration (23.9% earnings growth vs. only 6.2% revenue growth), meaning margin expansion or operating leverage is baked into estimates\u2014consistent with the company's already-strong 69.9% gross margin and 15.5% operating margin. Free cash flow of ~$533M on $4.1B revenue (~13% FCF margin) gives balance-sheet flexibility despite the elevated debt/equity of 2.8x. If Align executes on the earnings ramp implied by the forward multiple, the stock has room to re-rate back toward its 52-week high.",
+  "bear_case": "The near-term technical picture is deteriorating\u2014momentum is negative over both 21 and 63 days, MACD histogram is negative (-0.43), and RSI sits at a listless 49.8, suggesting the recent bounce off the 200dma lacks conviction and the stock could retest lower support; combined with a very high beta (1.67) and 48.8% annualized volatility, downside moves could be sharp. More fundamentally, revenue growth of just 6.2% is tepid for a name still trading at 3.05x book and 29.7x trailing earnings, and Align's clear aligner business remains exposed to discretionary consumer spending pressure and intensifying low-cost competition (e.g., SmileDirectClub-style disruptors and in-office aligner alternatives), which could cap the pricing power needed to hit the 23.9% earnings growth baked into the cheap forward multiple\u2014if that growth disappoints, the stock's premium valuation on trailing metrics leaves little cushion.",
+  "metrics": {
+    "momentum_63d": -0.04464387404002701,
+    "volatility_ann": 0.4875897090492862,
+    "rsi_14": 49.769523406508256,
+    "profit_margin": 0.10496,
+    "revenue_growth": 0.062,
+    "trailing_pe": 29.707563,
+    "return_on_equity": 0.10824,
+    "beta": 1.669,
+    "market_cap": 12659219456,
+    "analyst_coverage": 15
+  }
+}

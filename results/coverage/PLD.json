@@ -1,0 +1,26 @@
+{
+  "ticker": "PLD",
+  "name": "Prologis",
+  "sector": "Real Estate",
+  "sub_industry": "Industrial REITs",
+  "tier": "S&P 500",
+  "price": 149.7899932861328,
+  "as_of": "2026-07-20T15:55:58.935536+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "PLD is testing its 52-week high with a golden cross and MACD firmly positive, signaling technical momentum despite trading at a rich 44x forward earnings.",
+  "thesis": "Prologis is in a confirmed uptrend\u2014price 149.79 sits above both the 50-day (142.59) and 200-day (132.03) moving averages with a golden cross intact, momentum accelerating across 21/63/126-day windows (2.5%/6.1%/15.0%), and MACD histogram strongly positive (1.04). Earnings growth of 85.3% and revenue growth of 12.3% show the industrial logistics portfolio is still monetizing e-commerce-driven demand and development lease-up, while 75.5% gross margins and 43% operating margins reflect best-in-class REIT economics. With 14 analysts still rating it a consensus 'buy' and the stock only slightly below its 52-week high of 153.35, further rate-cut expectations could re-rate industrial REITs higher given PLD's beta of 1.34 provides leveraged upside if the Fed eases.",
+  "bear_case": "The valuation is stretched on any absolute or return-adjusted basis: a 44.2x forward P/E and 2.61x price-to-book against a mere 7.75% ROE means investors are paying a premium multiple for below-average capital efficiency, and the 85.3% earnings growth figure likely reflects lumpy gains/comparisons rather than a repeatable run-rate given revenue only grew 12.3%. RSI at 64.9 with price just below its 52-week high suggests the easy momentum trade may be largely priced in, and with debt-to-equity at 62.7% and 27.9% annualized volatility, PLD remains highly sensitive to any repricing of rate-cut expectations or a slowdown in industrial/logistics leasing demand post-pandemic normalization\u2014a scenario that could quickly compress both the multiple and the technical uptrend.",
+  "metrics": {
+    "momentum_63d": 0.06124440128824293,
+    "volatility_ann": 0.2792515418224997,
+    "rsi_14": 64.92181820325756,
+    "profit_margin": 0.43575,
+    "revenue_growth": 0.123,
+    "trailing_pe": 33.3608,
+    "return_on_equity": 0.07749,
+    "beta": 1.34,
+    "market_cap": 142914027520,
+    "analyst_coverage": 14
+  }
+}

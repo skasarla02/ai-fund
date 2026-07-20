@@ -1,0 +1,26 @@
+{
+  "ticker": "AZO",
+  "name": "AutoZone",
+  "sector": "Consumer Discretionary",
+  "sub_industry": "Automotive Retail",
+  "tier": "S&P 500",
+  "price": 3046.43994140625,
+  "as_of": "2026-07-19T21:29:39.925304+00:00",
+  "rating": "neutral",
+  "conviction": 0.56,
+  "key_signal": "AZO has fallen ~30% from its 52-week high and trades below both its 50- and 200-day moving averages, yet recent MACD momentum (+1.84) hints at stabilization even as revenue (+8.4%) and earnings (+7.7%) keep growing.",
+  "thesis": "AutoZone's core business remains healthy\u201451.8% gross margin and 19.1% operating margin are best-in-class for auto parts retail, and revenue/earnings are still growing mid-single to high-single digits despite a tough consumer discretionary backdrop. The stock's low beta (0.335) reflects its historically defensive, non-discretionary repair-and-maintenance demand profile, and the recent MACD histogram turning positive (1.84) after a brutal 63-day (-12.7%) and 126-day (-12.3%) drawdown suggests selling pressure may be exhausting. At a forward P/E of 17.35 versus trailing 20.96, the multiple has compressed to a level that looks reasonable for a company with AZO's margin structure and buyback-driven EPS growth, especially with 24 analysts already anchoring expectations, limiting further negative surprise risk.",
+  "bear_case": "The technical picture is unambiguously deteriorating: price sits below both the 50-day (3162) and 200-day (3538) moving averages with no golden cross, and momentum is negative across 21-, 63-, and 126-day windows, meaning trend-following and momentum-driven capital likely continues to exit regardless of fundamentals. The negative price-to-book (-17.9) signals AutoZone has taken on substantial leverage to fund buybacks, meaning any earnings deceleration\u2014already visible as earnings growth (7.7%) lags historical rates\u2014could pressure a balance sheet with no equity cushion, and debt-to-equity/ROE data being unavailable (null) obscures exactly how stretched the leverage has become. With RSI at 46.7 (neither oversold nor showing a reversal signal) and the stock still 30%+ off highs, this could be a value trap tied to broader concerns about tariff-driven auto parts cost inflation and consumer discretionary spending pullback rather than a bottoming pattern, and 24 analysts covering the name means any incremental negative data point gets priced in quickly, capping near-term upside.",
+  "metrics": {
+    "momentum_63d": -0.12691696382317208,
+    "volatility_ann": 0.343911683584229,
+    "rsi_14": 46.74091497500757,
+    "profit_margin": 0.12399,
+    "revenue_growth": 0.084,
+    "trailing_pe": 20.963665,
+    "return_on_equity": null,
+    "beta": 0.335,
+    "market_cap": 49734213632,
+    "analyst_coverage": 24
+  }
+}

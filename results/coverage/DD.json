@@ -1,0 +1,26 @@
+{
+  "ticker": "DD",
+  "name": "DuPont",
+  "sector": "Materials",
+  "sub_industry": "Specialty Chemicals",
+  "tier": "S&P 500",
+  "price": 135.2899932861328,
+  "as_of": "2026-07-19T22:03:29.368735+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "DD trades above its 200dma with a golden cross intact, but has broken below its 50dma with negative 21d/63d momentum and negative MACD, signaling a stalled short-term trend within a longer-term uptrend.",
+  "thesis": "DuPont's forward PE of 17.85 (vs. a distorted trailing PE of 118x caused by a near-zero net margin) suggests the market expects meaningful earnings normalization, and the stock remains well above its 52-week low ($86.59) and its 200-day moving average ($130.0), with a golden cross signaling intact long-term uptrend structure. Revenue growth of 4.3%, operating margins of 13.8%, and low leverage (debt/equity 22.6) provide a stable balance sheet base, and 16 sell-side analysts maintain a consensus 'buy' rating, suggesting institutional confidence in the recovery story despite recent price weakness.",
+  "bear_case": "The near-term technical picture is deteriorating \u2014 price is 6.1% below its 21-day level, below the 50dma ($141.8), with a negative MACD histogram (-0.19) and RSI at 43.5 pointing to weakening momentum rather than a bottoming pattern. More concerning fundamentally, DuPont is burning free cash flow (-$124.75M) despite $6.9B in trailing revenue, net margin is negative (-0.42%), and ROE is a razor-thin 0.9%, meaning the 'cheap' forward PE hinges entirely on an earnings recovery that hasn't yet shown up in cash generation; if that recovery disappoints, the stock could retest or break below its 200dma support near $130.",
+  "metrics": {
+    "momentum_63d": -0.031537524355293334,
+    "volatility_ann": 0.26260032731282673,
+    "rsi_14": 43.455371511921335,
+    "profit_margin": -0.00419,
+    "revenue_growth": 0.043,
+    "trailing_pe": 118.67544,
+    "return_on_equity": 0.00896,
+    "beta": 1.083,
+    "market_cap": 18266775552,
+    "analyst_coverage": 16
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "SRE",
+  "name": "Sempra",
+  "sector": "Utilities",
+  "sub_industry": "Multi-Utilities",
+  "tier": "S&P 500",
+  "price": 91.16999816894531,
+  "as_of": "2026-07-20T16:06:03.658967+00:00",
+  "rating": "neutral",
+  "conviction": 0.56,
+  "key_signal": "Forward P/E (16.5x) is less than half trailing P/E (31x), signaling the market expects a large earnings inflection as Sempra's massive capex cycle (Oncor, Sempra Infrastructure, LNG exports) starts converting into EPS, even as free cash flow remains deeply negative (-$28.2B) and price action is stuck between the 50- and 200-day moving averages.",
+  "thesis": "Sempra trades right at its 200-day SMA (90.82) with the price at 91.17 and a golden cross intact, and while short-term momentum is soft (mom_63d -2.3%, MACD histogram negative, RSI 43.5), the fundamental setup is constructive: earningsGrowth of +13.7% and a forward P/E of 16.5x versus a trailing 31x imply consensus expects a step-change in profitability as regulated infrastructure investment (Oncor rate base growth, Sempra Infrastructure LNG capacity) comes online. Low beta (0.57) and an 18-analyst 'buy' consensus provide a defensive utility profile with a 2.85% dividend yield, and the stock sits meaningfully above its 52-week low (77.87) while still ~10% below its high (101.04), leaving room for multiple re-rating if earnings deliver.",
+  "bear_case": "The negative free cash flow of -$28.2B against $13.6B revenue and elevated debt/equity of 85.3x show Sempra is funding an enormous capex program that could pressure the balance sheet, dilute equity, or force credit-rating scrutiny if project timelines slip or rate-case outcomes disappoint; meanwhile revenue growth is already negative (-3.9%) and ROE is a weak 5.7%, so the forward P/E compression relies entirely on execution of future projects rather than current operating strength, and short-term technicals (price below the 50-day SMA of 91.48, negative MACD histogram, RSI under 50) suggest the market is not yet rewarding that story.",
+  "metrics": {
+    "momentum_63d": -0.02338274840094068,
+    "volatility_ann": 0.18083814873353843,
+    "rsi_14": 43.52255846887762,
+    "profit_margin": 0.1443,
+    "revenue_growth": -0.039,
+    "trailing_pe": 31.010202,
+    "return_on_equity": 0.05689,
+    "beta": 0.568,
+    "market_cap": null,
+    "analyst_coverage": 18
+  }
+}

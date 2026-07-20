@@ -1,0 +1,26 @@
+{
+  "ticker": "BKR",
+  "name": "Baker Hughes",
+  "sector": "Energy",
+  "sub_industry": "Oil & Gas Equipment & Services",
+  "tier": "S&P 500",
+  "price": 55.95000076293945,
+  "as_of": "2026-07-19T21:30:55.206774+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "BKR has fallen below its 50-day moving average (61.19 vs price 55.95) with negative 21d/63d momentum (-9%/-7.4%), even as it remains above its rising 200dma and retains a golden cross, reflecting a market caught between near-term oilfield services weakness and an intact longer-term uptrend.",
+  "thesis": "Baker Hughes trades at a reasonable 17.9x trailing / 19.7x forward earnings with ROE of 17.2%, healthy FCF generation (~$3.15B against $27.9B revenue), and reported earnings growth of 132% suggests margin/mix improvement is flowing through despite anemic 2.5% revenue growth. The stock is still above its 200dma with a golden cross intact, and the pullback from the 52-week high of $70.41 to $55.95 (down ~20%) may be pricing in more oil-price pessimism than the diversified, less-commodity-sensitive equipment/turbomachinery mix (IET segment) warrants; 22 analysts rate it a consensus 'buy'.",
+  "bear_case": "The technical deterioration is real and recent: momentum has turned decisively negative over both 1-month and 3-month windows, the stock has broken below its 50dma, and RSI at 40.5 with 35% annualized volatility signals a market losing confidence, likely tied to falling oil prices and capex uncertainty across E&P customers. Debt-to-equity of 83% is elevated for a cyclical business, and the disconnect between the reported 132% earnings growth (likely inflated by prior-year charges or divestiture comps) and only 2.5% revenue growth suggests the forward multiple of 19.7x is not backed by durable top-line momentum \u2014 if oil prices stay depressed and E&P capex discipline persists, estimates could see downward revisions that catch up with the stock's recent slide rather than reverse it.",
+  "metrics": {
+    "momentum_63d": -0.0736452598534666,
+    "volatility_ann": 0.352545656827069,
+    "rsi_14": 40.54595034922339,
+    "profit_margin": 0.11171,
+    "revenue_growth": 0.025,
+    "trailing_pe": 17.875399,
+    "return_on_equity": 0.17184,
+    "beta": 0.96,
+    "market_cap": 55506243584,
+    "analyst_coverage": 22
+  }
+}

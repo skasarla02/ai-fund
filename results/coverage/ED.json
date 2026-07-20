@@ -1,0 +1,26 @@
+{
+  "ticker": "ED",
+  "name": "Consolidated Edison",
+  "sector": "Utilities",
+  "sub_industry": "Multi-Utilities",
+  "tier": "S&P 500",
+  "price": 112.37000274658203,
+  "as_of": "2026-07-19T21:52:12.594597+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "ED trades near 52-week highs (112.37 vs 116.23 high) with strong 126-day momentum (+12.5%) and above both moving averages, but valuation (18.9x trailing P/E, 1.6x book) is full for a low-growth regulated utility with negative free cash flow.",
+  "thesis": "Consolidated Edison exhibits solid technical strength \u2014 price above both the 50-day (108.19) and 200-day (104.51) moving averages with a golden cross intact, and 126-day momentum of +12.5% signals sustained investor demand for defensive yield plays. Earnings growth of 12.9% outpaces revenue growth of 6.2%, suggesting margin expansion, and the 3.13% dividend yield remains attractive in a market where rate-cut expectations could rotate capital into high-yield defensives. Low beta (0.264) makes ED a portfolio ballast, and RSI at 57 shows momentum without being overbought, leaving room to retest the 52-week high of 116.23.",
+  "bear_case": "The stock is trading at a premium for a regulated utility with ROE of only 8.7% and negative free cash flow (-$833M), meaning capex is outstripping operating cash generation and the company likely relies on continued equity/debt issuance to fund growth \u2014 a risk given debt-to-equity already at 106%. With 17 analysts covering it and a consensus 'hold' rating, the stock is efficiently priced, leaving little room for multiple expansion; the recent MACD histogram turning negative (-0.074) hints at fading upward momentum just as the stock nears its all-time high, and any pause in rate-cut expectations or uptick in long bond yields would pressure this bond-proxy trading at 1.6x book value with limited earnings power to grow through it.",
+  "metrics": {
+    "momentum_63d": 0.025255705517235993,
+    "volatility_ann": 0.20050842965776994,
+    "rsi_14": 56.97812965655873,
+    "profit_margin": 0.12524,
+    "revenue_growth": 0.062,
+    "trailing_pe": 18.949411,
+    "return_on_equity": 0.08732,
+    "beta": 0.264,
+    "market_cap": 41411682304,
+    "analyst_coverage": 17
+  }
+}

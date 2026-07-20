@@ -1,0 +1,26 @@
+{
+  "ticker": "HUM",
+  "name": "Humana",
+  "sector": "Health Care",
+  "sub_industry": "Managed Health Care",
+  "tier": "S&P 500",
+  "price": 400.0,
+  "as_of": "2026-07-19T22:32:30.231869+00:00",
+  "rating": "neutral",
+  "conviction": 0.56,
+  "key_signal": "HUM has surged ~100% over the past 63 trading days to near its 52-week high of $428, but the MACD histogram has turned negative even as price holds near highs \u2014 a momentum deceleration signal after an extraordinary run.",
+  "thesis": "Humana's stock reflects a powerful recovery narrative: price is up 47% over 126 days and nearly 100% over 63 days, trading well above both its 50-day ($347) and 200-day ($258) moving averages with a golden cross intact, and 24 analysts still carry a 'buy' consensus. The forward PE of ~25 versus trailing PE of 42.7 implies the Street expects a sharp earnings rebound \u2014 consistent with Medicare Advantage star-rating restoration and 23.5% revenue growth \u2014 while low beta (0.72) and a defensive managed-care business model provide downside insulation versus broader market volatility.",
+  "bear_case": "The valuation has run far ahead of current fundamentals: trailing profit margin is just 0.82%, operating margin only 4.7%, earnings growth is actually negative (-4.6%) trailing twelve months, and debt-to-equity sits at a stretched 77x with ROE of only 6.3% \u2014 none of which supports a 42.7x trailing PE or a stock that has round-tripped nearly 100% in three months. The negative MACD histogram despite price proximity to 52-week highs is a classic bearish divergence signal, often preceding a consolidation or pullback, and with 30-day annualized volatility at 37.6%, any disappointment on the expected earnings recovery (which the market has aggressively pre-priced via the forward PE compression) could trigger a sharp mean-reversion given how extended the momentum indicators already are.",
+  "metrics": {
+    "momentum_63d": 0.9971295224705641,
+    "volatility_ann": 0.37615194080126774,
+    "rsi_14": 61.66265286371351,
+    "profit_margin": 0.00824,
+    "revenue_growth": 0.235,
+    "trailing_pe": 42.735043,
+    "return_on_equity": 0.062800005,
+    "beta": 0.717,
+    "market_cap": 48024600576,
+    "analyst_coverage": 24
+  }
+}

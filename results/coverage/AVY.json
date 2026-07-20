@@ -1,0 +1,26 @@
+{
+  "ticker": "AVY",
+  "name": "Avery Dennison",
+  "sector": "Materials",
+  "sub_industry": "Paper & Plastic Packaging Products & Materials",
+  "tier": "S&P 500",
+  "price": 160.41000366210938,
+  "as_of": "2026-07-19T21:30:15.914570+00:00",
+  "rating": "bearish",
+  "conviction": 0.58,
+  "key_signal": "AVY is trading below both its 50- and 200-day moving averages with negative momentum across the 21/63/126-day windows and a negative MACD histogram, signaling a persistent downtrend near 52-week lows.",
+  "thesis": "Despite the technical weakness, AVY trades at only 14.4x forward earnings with a 30.9% ROE and 2.49% dividend yield, and the consensus analyst view remains 'buy' from all 10 covering analysts\u2014suggesting the ~20% pullback from its 52-week high of $199.54 may eventually attract value buyers once the downtrend stabilizes, especially as revenue growth (7%) still outpaces earnings growth in a still-functioning packaging demand backdrop.",
+  "bear_case": "The price action is unambiguously bearish\u2014price sits below both moving averages with no golden cross, momentum has deteriorated for six months straight (-13.9% over 126 days), and earnings growth of just 4.3% is decelerating relative to 7% revenue growth, implying margin compression; combined with elevated debt/equity of 164.8% and only 7.7% net margins, AVY has little balance-sheet cushion if packaging demand or input costs worsen further, and a low-beta 'quality' stock breaking down through multi-year support often continues grinding lower until a clear earnings catalyst reverses sentiment, which isn't evident yet.",
+  "metrics": {
+    "momentum_63d": -0.029061122721184995,
+    "volatility_ann": 0.2881607464890361,
+    "rsi_14": 49.68661670650974,
+    "profit_margin": 0.0766,
+    "revenue_growth": 0.07,
+    "trailing_pe": 18.043869,
+    "return_on_equity": 0.30857,
+    "beta": 0.826,
+    "market_cap": 12269822976,
+    "analyst_coverage": 10
+  }
+}

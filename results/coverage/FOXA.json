@@ -1,0 +1,26 @@
+{
+  "ticker": "FOXA",
+  "name": "Fox Corporation (Class A)",
+  "sector": "Communication Services",
+  "sub_industry": "Broadcasting",
+  "tier": "S&P 500",
+  "price": 57.619998931884766,
+  "as_of": "2026-07-19T22:21:25.718716+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "FOXA trades near 9.9x forward earnings and has bounced 10% in the last month, but remains below both its 50- and 200-day moving averages after a 21% six-month drawdown driven by a post-election-year earnings comp collapse (-49% earnings growth).",
+  "thesis": "Fox's forward P/E of ~9.9x and trailing P/E of ~15x look cheap relative to a 21% operating margin and 15.2% ROE, and the stock has stabilized with a fresh positive MACD histogram, a mid-50s RSI, and a strong 21-day momentum bounce (+10%) after being oversold. The earnings and revenue declines (-49% and -8.6%) largely reflect the well-known cyclical drop-off from 2024's political-ad and Super Bowl-driven boost rather than a structural deterioration, and free cash flow remains solidly positive (~$1.4B), supporting the ~1% dividend and buybacks. With 18 analysts still rating it a consensus 'buy' and low beta (0.55) making it a relatively defensive Comm Services name, a reversion toward the 50-day ($59.85) or even the 200-day ($62.99) is plausible if the recent momentum sustains.",
+  "bear_case": "The stock is below both its 50-day and 200-day moving averages with no golden cross, and momentum over 63 and 126 days remains sharply negative (-10.7% and -20.8%), suggesting the recent 21-day bounce could be a short-lived relief rally within a broader downtrend that has already erased ~25% from the 52-week high of $76.39. A -49% earnings growth print is not a minor comp issue\u2014it signals real margin/revenue pressure in linear TV and ad markets structurally challenged by cord-cutting, and revenue is already shrinking (-8.6%), meaning the 'cheap' forward multiple could be a value trap if 2025-26 estimates get cut further. Elevated realized volatility (63% annualized) and 68% debt-to-equity add fragility, and if the next earnings report confirms continued declines rather than a political-cycle rebound, the stock could retest or break the 52-week low of $48.34.",
+  "metrics": {
+    "momentum_63d": -0.10694355347464424,
+    "volatility_ann": 0.6307844766128674,
+    "rsi_14": 54.26219027540271,
+    "profit_margin": 0.10561,
+    "revenue_growth": -0.086,
+    "trailing_pe": 15.163157,
+    "return_on_equity": 0.152,
+    "beta": 0.55,
+    "market_cap": 24194674688,
+    "analyst_coverage": 18
+  }
+}

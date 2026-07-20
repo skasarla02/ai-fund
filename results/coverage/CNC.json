@@ -1,0 +1,26 @@
+{
+  "ticker": "CNC",
+  "name": "Centene Corporation",
+  "sector": "Health Care",
+  "sub_industry": "Managed Health Care",
+  "tier": "S&P 500",
+  "price": 66.44000244140625,
+  "as_of": "2026-07-19T21:44:12.525871+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "CNC has surged ~70% over the past 3 months (mom_63d) to trade just under its 52-week high with a golden cross intact, despite trailing profitability metrics (ROE -26%, net margin -3.6%) still reflecting Medicaid redetermination and risk-adjustment headwinds.",
+  "thesis": "The market is pricing in a recovery story: forward earnings growth of 18.3% and a forward P/E of just 14.8x suggest investors expect the negative net margin (-3.6%) and ROE (-26%) to normalize as Medicaid cohort mix stabilizes and medical cost trend guidance resets lower. Price action confirms this - shares are up 70% over 63 days, sit above both the 50-day ($62.33) and 200-day ($45.26) moving averages with a golden cross, and RSI at 55 shows room to run without being overbought. A price-to-book of just 1.53x for a company generating $6.8B in free cash flow on $178B revenue is inexpensive if the margin trough is truly behind it, and the sell-side consensus 'buy' rating across 18 analysts corroborates the turnaround narrative.",
+  "bear_case": "The negative ROE (-26%) and net margin (-3.6%) aren't noise - they reflect structural Medicaid rate/acuity mismatches and marketplace risk-adjustment true-ups that have plagued the entire managed-care Medicaid book industry-wide, and there's no fundamental evidence in this data that the mismatch has actually closed (gross margin is still thin at 10.6%). The stock has already rallied 70% in three months and sits within 5% of its 52-week high of $69.36, meaning most of the anticipated recovery may already be priced in, and the negative MACD histogram (-0.42) despite the price strength hints at fading momentum/a potential bearish divergence right at resistance. With debt-to-equity at 76x and elevated volatility (43% annualized), any disappointment on 2025 Medicaid rate updates or medical cost ratio guidance could trigger a sharp reversal, especially since so much good news is now embedded in the multiple expansion from beaten-down levels.",
+  "metrics": {
+    "momentum_63d": 0.7035898061899037,
+    "volatility_ann": 0.4289314948330208,
+    "rsi_14": 54.98171780370545,
+    "profit_margin": -0.03613,
+    "revenue_growth": 0.051,
+    "trailing_pe": null,
+    "return_on_equity": -0.26044,
+    "beta": 1.077,
+    "market_cap": 32807872512,
+    "analyst_coverage": 18
+  }
+}

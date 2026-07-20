@@ -1,0 +1,26 @@
+{
+  "ticker": "CNP",
+  "name": "CenterPoint Energy",
+  "sector": "Utilities",
+  "sub_industry": "Multi-Utilities",
+  "tier": "S&P 500",
+  "price": 43.130001068115234,
+  "as_of": "2026-07-19T21:44:29.659362+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "CNP trades near its 52-week high with a stalling MACD/RSI backdrop while carrying elevated leverage (215% debt/equity) and deeply negative free cash flow (-$4.9B), suggesting the regulated growth story is already priced in.",
+  "thesis": "CNP remains in a durable uptrend (price above both 50- and 200-day SMAs, golden cross intact, +11.6% over 126 days) reflecting confidence in its Houston Electric/Indiana rate-base growth capex program and low-beta (0.454) defensive profile that suits a rotation into utilities. Forward PE of 20.7x versus trailing 26.5x implies the market expects meaningful earnings acceleration, and the 'buy' consensus from 16 analysts with a 2.23% yield offers a reasonable income-plus-growth utility profile for investors seeking regulated, rate-base-driven earnings visibility with modest revenue growth (1.9%) translating into steadier EPS growth (6.7%) than the broader market.",
+  "bear_case": "The stock is only ~4.6% below its 52-week high yet momentum has clearly stalled (21-day return -0.5%, MACD histogram negative, RSI a neutral 47.6), and the fundamentals show real strain: debt-to-equity of 216% and free cash flow of -$4.9B mean CNP is funding its capex program almost entirely with debt and equity issuance, which is a headwind in a higher-for-longer rate environment and could pressure the 2.46x price-to-book multiple if regulators push back on rate-case outcomes or if financing costs rise faster than allowed ROE (currently a modest 9.56%); with earnings growth of only 6.7% failing to justify the market's implied 28% forward-earnings re-rating, any disappointment in Q3/Q4 guidance or a regulatory setback in Texas or Indiana could quickly compress the multiple back toward trailing levels, especially since 16 analysts already cover the name, limiting the mispricing window for upside surprises.",
+  "metrics": {
+    "momentum_63d": 0.0036134009801906952,
+    "volatility_ann": 0.19978707297498083,
+    "rsi_14": 47.58340498761695,
+    "profit_margin": 0.11379,
+    "revenue_growth": 0.019,
+    "trailing_pe": 26.460123,
+    "return_on_equity": 0.09561,
+    "beta": 0.454,
+    "market_cap": 28214329344,
+    "analyst_coverage": 16
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "EXC",
+  "name": "Exelon",
+  "sector": "Utilities",
+  "sub_industry": "Electric Utilities",
+  "tier": "S&P 500",
+  "price": 46.2599983215332,
+  "as_of": "2026-07-19T22:09:43.703877+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "EXC trades above both its 50- and 200-day moving averages (golden cross) yet short-term momentum has turned negative (macd_hist -0.13, 21d/63d returns down), leaving the stock in a technical no-man's-land near the middle of its 52-week range.",
+  "thesis": "Exelon is a pure-play regulated electric transmission/distribution utility with low beta (0.405) and a 3.63% dividend yield, offering ballast in a volatile market\u2014its 8% revenue growth and 22% operating margins reflect steady rate-base growth from grid investment programs across its Illinois, Pennsylvania, Maryland and DC territories. Forward P/E (15.2) sits below trailing P/E (16.9), implying the Street expects earnings to inflect positively even though trailing earnings growth is roughly flat (-0.3%). The stock remains above its 200-day SMA with a golden cross intact, and at $46.26 it's roughly 9% below its 52-week high of $50.65, giving some room to re-rate if rate-cut expectations firm up and utility sector rotation resumes\u2014Exelon's low beta makes it a natural beneficiary of any 'flight to safety' or falling-yield environment.",
+  "bear_case": "The balance sheet is stretched (debt/equity of 175%) and free cash flow is deeply negative (-$2.8B), meaning the current dividend and capex program are being funded by external financing at a time when rates remain elevated\u2014any equity issuance to fund the multi-year capital plan risks EPS dilution, which is consistent with the Street's tepid 'hold' consensus among all 18 covering analysts. ROE of just 9.76% is unremarkable for a regulated utility, and negative short/medium-term momentum (mom_21d -0.7%, mom_63d -1.9%) alongside a bearish MACD histogram suggests the market is already discounting execution risk on rate-case outcomes and financing needs; with 18 analysts already dissecting every rate case, there's little informational edge left to exploit in either direction.",
+  "metrics": {
+    "momentum_63d": -0.01880558155732215,
+    "volatility_ann": 0.23174465179812473,
+    "rsi_14": 48.73462649507983,
+    "profit_margin": 0.11212,
+    "revenue_growth": 0.079,
+    "trailing_pe": 16.945055,
+    "return_on_equity": 0.09764,
+    "beta": 0.405,
+    "market_cap": 47333605376,
+    "analyst_coverage": 18
+  }
+}

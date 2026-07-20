@@ -1,0 +1,26 @@
+{
+  "ticker": "BKNG",
+  "name": "Booking Holdings",
+  "sector": "Consumer Discretionary",
+  "sub_industry": "Hotels, Resorts & Cruise Lines",
+  "tier": "S&P 500",
+  "price": 181.67999267578125,
+  "as_of": "2026-07-19T21:34:54.731007+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "Forward P/E of 14.8 versus 16% revenue growth and 87% gross margins suggests the market is pricing BKNG well below its quality-compounder history despite the stock sitting below its 200-day moving average.",
+  "thesis": "Booking's fundamentals remain best-in-class for the sector: 87% gross margin, 25% operating margin, 22% net margin, and $7.1B of free cash flow on $27.7B revenue give it enormous capital-return capacity (buybacks plus a newly initiated dividend). Revenue growth of 16.2% paired with a forward P/E of just 14.8x (versus a trailing 24x) implies the Street expects meaningful earnings acceleration, and the 'buy' consensus from 36 analysts corroborates that the recent pullback (price down 12% over 126 days, now trading between its 50-day at 169 and 200-day at 186) is being read as a buying opportunity rather than a fundamental deterioration. Short-term momentum has already turned positive (21-day momentum +3.4%, RSI 56), consistent with a base forming after the drawdown from the 52-week high of $231.80, leaving room to retest that level if travel demand holds.",
+  "bear_case": "The stock is below its 200-day moving average with no golden cross, 126-day momentum is still down 12%, and MACD histogram is negative, meaning the technical trend is still bearish and the recent bounce could be a dead-cat rally within a larger downtrend; 30-day annualized volatility of 40% shows the market is genuinely uncertain about direction. With 36 analysts already covering the name, any true mispricing is likely to be arbitraged away quickly, so the cheap forward multiple may simply reflect legitimate concern about slowing international travel demand, consumer discretionary pullback risk, or margin normalization after years of pandemic-recovery outperformance; the negative book value (price-to-book of -16.2) also means downside in a stress scenario has no tangible asset cushion, amplifying drawdown risk if growth disappoints.",
+  "metrics": {
+    "momentum_63d": -0.013129970319916473,
+    "volatility_ann": 0.4043915020232084,
+    "rsi_14": 56.248118434364144,
+    "profit_margin": 0.22227,
+    "revenue_growth": 0.162,
+    "trailing_pe": 23.968336,
+    "return_on_equity": null,
+    "beta": 1.075,
+    "market_cap": 140779913216,
+    "analyst_coverage": 36
+  }
+}

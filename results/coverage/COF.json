@@ -1,0 +1,26 @@
+{
+  "ticker": "COF",
+  "name": "Capital One",
+  "sector": "Financials",
+  "sub_industry": "Consumer Finance",
+  "tier": "S&P 500",
+  "price": 208.02999877929688,
+  "as_of": "2026-07-19T21:38:33.268491+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "Forward P/E of 8.6x versus a trailing P/E of 64x signals the market expects a sharp earnings normalization as Discover-related merger charges roll off and cost/network synergies phase in.",
+  "thesis": "COF trades at just 1.2x book and 8.6x forward earnings even though revenue grew 46% y/y on the Discover acquisition, and the stock has reclaimed its 200-day average (206.4) with price at 208 and a positive MACD histogram (0.37) and RSI near 59 signaling renewed upward momentum after the 21d (+3.7%) and 63d (+4.1%) rebounds. The current depressed ROE of 3.3% and negative trailing earnings growth (-3.2%) look like transitional merger/CECL-related noise rather than a structural profitability problem, and 22 analysts still carry a consensus 'buy' rating, suggesting the Street believes normalized earnings power is materially higher than trailing GAAP figures imply. A re-rating toward historical forward multiples as integration costs fade and Discover network economics kick in offers meaningful upside from current levels, which are still ~20% below the 52-week high of 259.64.",
+  "bear_case": "The 126-day momentum is still sharply negative (-10.5%), the stock lacks a golden cross, and 34.6% annualized volatility reflects genuine uncertainty about how cleanly the Discover integration proceeds; a 64x trailing P/E and near-zero gross margin reported metric could also reflect real credit-cost pressure in a card/consumer-lending book that is inherently sensitive to labor market weakening, and if charge-offs or provisions stay elevated longer than the market's forward-earnings assumption embeds, the current 'cheap forward multiple' thesis unwinds quickly and COF re-tests lower support near or below its 50-day (192.96) rather than the 200-day.\u201d",
+  "metrics": {
+    "momentum_63d": 0.040919613034814395,
+    "volatility_ann": 0.3464849047954567,
+    "rsi_14": 59.08404328691358,
+    "profit_margin": 0.08876,
+    "revenue_growth": 0.463,
+    "trailing_pe": 64.00923,
+    "return_on_equity": 0.03259,
+    "beta": 1.022,
+    "market_cap": 128150528000,
+    "analyst_coverage": 22
+  }
+}

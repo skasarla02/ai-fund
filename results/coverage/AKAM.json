@@ -1,0 +1,26 @@
+{
+  "ticker": "AKAM",
+  "name": "Akamai Technologies",
+  "sector": "Information Technology",
+  "sub_industry": "Internet Services & Infrastructure",
+  "tier": "S&P 500",
+  "price": 120.19000244140625,
+  "as_of": "2026-07-19T21:16:29.669565+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "AKAM has pulled back ~27% from its 52-week high (165.45) and is down 9.2% over the past month, slipping below its 50-day SMA (134.26) even though it remains above its 200-day SMA (103.1) with an intact golden cross.",
+  "thesis": "The stock's forward P/E of 16.7 versus a trailing P/E of 40.6 signals the market expects a meaningful earnings recovery as Akamai's higher-margin security and cloud computing revenue scales and offsets legacy CDN delivery erosion; revenue growth of 5.8% and gross margins near 58% support a durable, if unspectacular, growth base. Medium-term momentum remains strong (63d +24%, 126d +33%), the stock trades above its 200dma with a golden cross still in place, and low beta (0.63) plus broad analyst coverage (23 analysts, consensus 'buy') suggest institutional confidence in the transition story even after the recent drawdown.",
+  "bear_case": "Trailing earnings growth is actually negative (-13.4%), debt-to-equity is elevated at ~120%, and the sharp one-month reversal (-9.2%) with price now below the 50-day moving average and RSI sitting at a neutral 45 suggests the earlier 63d/126d rally may have been a bull trap that is now unwinding as investors reassess whether the security/compute pivot can actually offset slowing delivery revenue growth of just 5.8%; if forward earnings estimates embedded in that low 16.7x forward P/E prove too optimistic, the stock could re-rate toward its trailing multiple or lower, especially with 54% annualized volatility signaling the market is already pricing significant uncertainty.",
+  "metrics": {
+    "momentum_63d": 0.24150403338933946,
+    "volatility_ann": 0.5400134263241033,
+    "rsi_14": 45.15988461135437,
+    "profit_margin": 0.102,
+    "revenue_growth": 0.058,
+    "trailing_pe": 40.60473,
+    "return_on_equity": 0.091680005,
+    "beta": 0.633,
+    "market_cap": 17473878016,
+    "analyst_coverage": 23
+  }
+}

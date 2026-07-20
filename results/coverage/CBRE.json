@@ -1,0 +1,26 @@
+{
+  "ticker": "CBRE",
+  "name": "CBRE Group",
+  "sector": "Real Estate",
+  "sub_industry": "Real Estate Services",
+  "tier": "S&P 500",
+  "price": 140.9600067138672,
+  "as_of": "2026-07-19T21:41:11.451060+00:00",
+  "rating": "bullish",
+  "conviction": 0.63,
+  "key_signal": "Trailing PE of 32x collapses to a forward PE of 15.9x, implying the market expects earnings to nearly double even as the stock trades 19% below its 52-week high and below its 200-day moving average.",
+  "thesis": "CBRE's price action looks bearish on the surface (below both SMA50/200 crossover status, 126-day momentum of -14.5%), but this masks a fundamental inflection: revenue growth of 18.6% and earnings growth of 98% signal a business re-accelerating hard off a depressed base, likely driven by recovering transaction activity and resilient project/facilities management. The forward PE of 15.9x versus trailing 32.2x is a huge valuation compression that only makes sense if consensus earnings estimates are credible \u2014 and with 12 analysts holding a 'buy' consensus, sell-side conviction supports that. Technically, short-term momentum has turned (mom_21d +4.1%, MACD histogram positive at 0.27, RSI at 55 \u2014 neither overbought nor oversold), and price is now above its 50-day SMA ($135.1) after the stock's -1.9% daily move, suggesting a base is forming even as the longer 200-day trend (148.6) remains a headwind to reclaim. ROE of 15.6% and FCF of ~$1.1B provide a real earnings/cash floor beneath the multiple compression story, and at a $41B market cap with only 12 analysts covering, mispricings in either direction can persist longer than in a mega-cap peer group.",
+  "bear_case": "The stock trading below its 200-day SMA with no golden cross and 126-day momentum of -14.5% reflects real market skepticism, and CBRE's thin operating margin (2.65%) and net margin (3.1%) mean any miss on the embedded ~98% earnings growth assumption will be brutally punished given how much of the bull case rests purely on multiple compression via forward estimates that haven't yet been delivered; debt-to-equity of 113.7% and a price-to-book of 4.8x leave little margin for error if real estate transaction volumes (CBRE's core sensitivity) stall amid persistently high rates, and a beta of 1.2 with 35% annualized volatility means this stock will amplify any broader risk-off move in a sector still working through a commercial real estate value reset.",
+  "metrics": {
+    "momentum_63d": -0.04627872934140154,
+    "volatility_ann": 0.35146681171762245,
+    "rsi_14": 54.9410523709652,
+    "profit_margin": 0.031089999,
+    "revenue_growth": 0.186,
+    "trailing_pe": 32.182648,
+    "return_on_equity": 0.15597,
+    "beta": 1.205,
+    "market_cap": 41275424768,
+    "analyst_coverage": 12
+  }
+}

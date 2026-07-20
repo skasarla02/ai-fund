@@ -1,0 +1,26 @@
+{
+  "ticker": "AAPL",
+  "name": "Apple Inc.",
+  "sector": "Information Technology",
+  "sub_industry": "Technology Hardware, Storage & Peripherals",
+  "tier": "S&P 500",
+  "price": 333.739990234375,
+  "as_of": "2026-07-19T21:23:37.289778+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "AAPL is trading at 333.74, just off its 52-week high of 334.99, with RSI at 71.7 signaling an overbought technical setup after a 28.6% six-month run.",
+  "thesis": "Apple's fundamentals remain excellent \u2014 16.6% revenue growth, 21.8% earnings growth, 32.3% operating margins, and $101B in trailing free cash flow \u2014 supporting the golden cross, price above both the 50- and 200-day moving averages, and a persistently bullish MACD histogram (3.33). Consensus sell-side sentiment is 'buy' across 43 analysts, and the stock's strength through mom_21d (+11.5%), mom_63d (+26.8%), and mom_126d (+28.6%) shows durable institutional accumulation rather than a speculative spike, suggesting the uptrend could continue if upcoming earnings confirm growth acceleration.",
+  "bear_case": "At a trailing P/E of 40.5, forward P/E of 34.6, and a price-to-book of 46x against an ROE that is mathematically inflated by heavy buybacks and debt (debt/equity of 79.5), the stock is priced for flawless execution, leaving little room for even a modest growth deceleration; combined with RSI at 71.7 and price sitting just 0.4% below its 52-week high, this is a classic setup for a mean-reverting pullback toward the 50-day SMA (302.6, ~9% below spot) once momentum traders rotate out, especially since with 43 analysts already covering the name any incremental good news is likely already priced in.\u201d, ",
+  "metrics": {
+    "momentum_63d": 0.2682137122576842,
+    "volatility_ann": 0.34036811326692973,
+    "rsi_14": 71.65827439147218,
+    "profit_margin": 0.27152002,
+    "revenue_growth": 0.166,
+    "trailing_pe": 40.502426,
+    "return_on_equity": 1.4147099,
+    "beta": 1.097,
+    "market_cap": 4901757779968,
+    "analyst_coverage": 43
+  }
+}

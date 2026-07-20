@@ -1,0 +1,26 @@
+{
+  "ticker": "COST",
+  "name": "Costco",
+  "sector": "Consumer Staples",
+  "sub_industry": "Consumer Staples Merchandise Retail",
+  "tier": "S&P 500",
+  "price": 940.8699951171875,
+  "as_of": "2026-07-19T21:54:57.516124+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "COST has slipped ~14% off its 52-week high of $1096.5 and is now trading just below its 200-day moving average (955 vs 940.87) despite a golden cross, showing momentum stalling even as valuation remains near 47x trailing earnings.",
+  "thesis": "Costco's fundamentals remain best-in-class for a staples retailer: revenue growth of 21.5%, earnings growth of 45.5%, ROE near 29%, and a membership-driven moat that supports premium pricing power. The recent pullback from all-time highs (-4.6% over 21d, -4.6% over 63d) has brought the stock down to test the 200dma, and MACD histogram is positive, suggesting the selling pressure may be exhausting and a base could be forming for a resumption of the multi-year uptrend that produced the golden cross.",
+  "bear_case": "Costco trades at 47.4x trailing and 41.5x forward earnings with a price-to-book of over 25x \u2014 pricing in near-perfect execution for a low-margin retailer (3.7% operating margin, 3% net margin) where even small membership or comp-sales deceleration could trigger sharp multiple compression; the stock is currently below its 200dma for the first time in this cycle and down nearly 14% from its high, and with 35 analysts already covering it closely, any earnings miss or guidance softness has little room to hide behind growth optimism, especially given beta of only 0.87 offering limited defensive cushion against a valuation-driven de-rating.",
+  "metrics": {
+    "momentum_63d": -0.04555745203102746,
+    "volatility_ann": 0.228329548739881,
+    "rsi_14": 47.23334533069981,
+    "profit_margin": 0.0301,
+    "revenue_growth": 0.215,
+    "trailing_pe": 47.39899,
+    "return_on_equity": 0.29152,
+    "beta": 0.872,
+    "market_cap": 417255915520,
+    "analyst_coverage": 35
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "INTC",
+  "name": "Intel",
+  "sector": "Information Technology",
+  "sub_industry": "Semiconductors",
+  "tier": "S&P 500",
+  "price": 95.04000091552734,
+  "as_of": "2026-07-19T22:35:32.278542+00:00",
+  "rating": "bearish",
+  "conviction": 0.58,
+  "key_signal": "INTC has cratered -18.8% over the past month and now trades below its 50-day SMA with negative MACD momentum, unwinding much of a speculative 95%+ six-month rally that was never supported by fundamentals (negative net margin, negative ROE, negative free cash flow).",
+  "thesis": "Bulls point to the golden cross and price still holding above the 200-day SMA (64 vs 95) as evidence the multi-month uptrend\u2014driven by foundry turnaround hopes, CHIPS Act support, and AI capex narratives\u2014remains structurally intact, with the recent pullback just a healthy reset after a +95% six-month run. Revenue growth of 7.2% and gross margins near 37% suggest early stabilization, and at $477B market cap the stock could re-rate further if Intel Foundry lands a marquee external customer or turns a corner on 18A yields.",
+  "bear_case": "The fundamentals do not support the current valuation or the prior run-up: trailing PE is not even calculable (negative/near-zero earnings), forward PE of ~59x is extreme for a company with -5.9% net margin, -2.9% ROE, and -$8.3B of free cash flow, meaning the entire thesis rests on a foundry turnaround that has no proof point yet in the numbers. Technically, the stock just broke below its 50-day SMA with RSI at 36 and a deeply negative MACD histogram (-3.6), and momentum has flipped hard negative over 21 days (-18.8%) after the euphoric 126-day melt-up (+95%)\u2014classic signature of a speculative move being unwound rather than a pause in an uptrend. With beta of 2.19 and 95% annualized volatility, downside moves compound quickly, and 41 analysts already cover the name with a consensus 'hold,' meaning any incremental bad news (yield misses, capex overruns, weak AI/PC demand) gets priced in fast rather than offering a mispricing opportunity to exploit.",
+  "metrics": {
+    "momentum_63d": 0.38744526883981534,
+    "volatility_ann": 0.9491036394398373,
+    "rsi_14": 36.09608015885163,
+    "profit_margin": -0.05904,
+    "revenue_growth": 0.072,
+    "trailing_pe": null,
+    "return_on_equity": -0.02911,
+    "beta": 2.187,
+    "market_cap": 477671030784,
+    "analyst_coverage": 41
+  }
+}

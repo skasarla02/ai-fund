@@ -1,0 +1,26 @@
+{
+  "ticker": "CEG",
+  "name": "Constellation Energy",
+  "sector": "Utilities",
+  "sub_industry": "Electric Utilities",
+  "tier": "S&P 500",
+  "price": 252.38999938964844,
+  "as_of": "2026-07-19T21:52:53.178554+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "CEG has fallen 39% from its 52-week high and trades below both its 50- and 200-day moving averages despite a recent MACD uptick, signaling a stock caught between a broken uptrend and stabilizing momentum.",
+  "thesis": "Constellation remains the largest owner of nuclear generation in the U.S., a scarce, carbon-free baseload asset class increasingly prized for powering AI data centers via long-term PPAs (revenue grew 63.8% y/y, likely reflecting the Calpine deal and new contracted capacity). Forward P/E of 18.6x is a meaningful discount to where the stock traded near its 52-week high of $412, and 21 sell-side analysts still carry a consensus 'buy' rating. Operating margins (21.9%) and ROE (16.1%) remain solid for a utility, and the recent positive MACD histogram plus a bounce off the $228 low suggest the selloff may be exhausting itself.",
+  "bear_case": "The technical picture is unambiguously negative: price sits below both the 50-day ($267) and 200-day ($312) moving averages with no golden cross, and momentum is deteriorating on every horizon (-5.8% 1mo, -15.5% 3mo, -23.4% 6mo), which historically signals more downside before mean reversion. Fundamentally, free cash flow is deeply negative (-$4.5B), debt-to-equity is elevated at 66.4%, and the market may be reassessing whether the AI-driven power demand narrative that drove CEG to $412 was overextended \u2014 the stock's round-trip from euphoria to a 39% drawdown suggests investors are repricing growth assumptions (or PPA/Calpine deal terms) rather than just profit-taking, and a 21-analyst-covered mega-cap utility offers little informational edge to catch the falling knife early.",
+  "metrics": {
+    "momentum_63d": -0.15497050479339258,
+    "volatility_ann": 0.366956258339516,
+    "rsi_14": 45.90618696397488,
+    "profit_margin": 0.12693,
+    "revenue_growth": 0.638,
+    "trailing_pe": 21.927889,
+    "return_on_equity": 0.16104999,
+    "beta": 1.121,
+    "market_cap": 90128973824,
+    "analyst_coverage": 21
+  }
+}

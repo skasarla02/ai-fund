@@ -1,0 +1,26 @@
+{
+  "ticker": "INCY",
+  "name": "Incyte",
+  "sector": "Health Care",
+  "sub_industry": "Biotechnology",
+  "tier": "S&P 500",
+  "price": 117.25,
+  "as_of": "2026-07-19T22:34:37.873941+00:00",
+  "rating": "bullish",
+  "conviction": 0.63,
+  "key_signal": "INCY trades at just 13.4x forward earnings with 83.8% earnings growth and 20.9% revenue growth, yet is only 2% below its 52-week high with a golden cross intact.",
+  "thesis": "Incyte combines biotech-level growth (revenue +20.9%, earnings +84%, ROE 30.8%, gross margins 52.8%) with a valuation more typical of a mature value stock (16.6x trailing, 13.4x forward P/E), an unusual combination that the sell-side (22 analysts, consensus 'buy') has not fully re-rated. Price action confirms the fundamental strength: shares are up 23% over 63 days, sit comfortably above both the 50-day ($104.7) and 200-day ($99.5) moving averages with a golden cross in place, and are trading near 52-week highs ($119.60) set on the back of durable operating margins (25.6%) and healthy free cash flow (~$559M). Low beta (0.76) and moderate leverage (debt/equity 0.70) add a defensive tilt uncommon for a biotech riding this kind of momentum, making this a rare growth-at-value setup within large-cap biotech.",
+  "bear_case": "The rally has pushed RSI to 64 and the stock within 2% of its 52-week high, while the MACD histogram is negative, signaling that upside momentum is already decelerating even as price grinds higher \u2014 a classic late-stage momentum divergence that often precedes consolidation or a pullback, especially with 30-day annualized volatility near 38%. More fundamentally, Incyte's earnings and margins remain heavily dependent on Jakafi, and any incremental data on generic/biosimilar competition, pricing pressure, or pipeline disappointment in its newer launches (Opzelura, Zynyz, etc.) could quickly reprice a stock that has already run 23% in three months and is now priced for continued execution rather than for setbacks.",
+  "metrics": {
+    "momentum_63d": 0.2300671461958319,
+    "volatility_ann": 0.3829654406168665,
+    "rsi_14": 63.99559230151849,
+    "profit_margin": 0.26707,
+    "revenue_growth": 0.209,
+    "trailing_pe": 16.560734,
+    "return_on_equity": 0.30823,
+    "beta": 0.758,
+    "market_cap": 23424458752,
+    "analyst_coverage": 22
+  }
+}

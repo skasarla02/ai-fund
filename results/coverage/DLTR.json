@@ -1,0 +1,26 @@
+{
+  "ticker": "DLTR",
+  "name": "Dollar Tree",
+  "sector": "Consumer Staples",
+  "sub_industry": "Consumer Staples Merchandise Retail",
+  "tier": "S&P 500",
+  "price": 125.94000244140625,
+  "as_of": "2026-07-19T22:01:06.027226+00:00",
+  "rating": "neutral",
+  "conviction": 0.56,
+  "key_signal": "DLTR has rallied hard off its lows (mom_63d +26%) yet lost the golden cross and shows a negative MACD histogram and a sharp -2% daily drop, signaling the sprint is running out of steam right below the 142.40 52-week high.",
+  "thesis": "Dollar Tree's post-Family Dollar-divestiture story is showing up in the numbers: revenue growth of 7.2% and earnings growth of 9.5% are both accelerating, operating margin sits at a healthy 9.1%, and forward PE of 16.4x is a discount to trailing PE of 20.2x, implying the Street expects continued margin recovery. ROE of 34% and consistent free cash flow (~$1.44B) support the case that the simplified, single-banner Dollar Tree can re-rate as tariff/cost headwinds that plagued 2024 fade, and the stock's low beta (0.65) makes it a reasonable staples holding while price still sits comfortably above both the 50- and 200-day moving averages.",
+  "bear_case": "The technical picture is deteriorating under the surface: golden_cross is 0 (50-day is actually below the 200-day, a bearish crossover), the 126-day momentum is -10.2% showing this is a bounce within a longer downtrend, and MACD histogram is negative even as price is near multi-month highs \u2014 a classic momentum-divergence warning after a 26% 63-day run. Fundamentally, debt-to-equity of 216.5% is very high for a discount retailer, price-to-book of 6.9x is rich for a 6.5% net margin business, and the 25-analyst consensus is only 'hold,' suggesting the Street isn't yet convinced the turnaround justifies the current multiple, especially with 40% annualized volatility leaving room for a sharp reversal if forward guidance disappoints.",
+  "metrics": {
+    "momentum_63d": 0.26028221812067076,
+    "volatility_ann": 0.4003614148439897,
+    "rsi_14": 60.66439512902689,
+    "profit_margin": 0.06514,
+    "revenue_growth": 0.072,
+    "trailing_pe": 20.215088,
+    "return_on_equity": 0.33976,
+    "beta": 0.651,
+    "market_cap": 24202469376,
+    "analyst_coverage": 25
+  }
+}

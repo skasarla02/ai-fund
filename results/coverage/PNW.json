@@ -1,0 +1,26 @@
+{
+  "ticker": "PNW",
+  "name": "Pinnacle West Capital",
+  "sector": "Utilities",
+  "sub_industry": "Multi-Utilities",
+  "tier": "S&P 500",
+  "price": 107.125,
+  "as_of": "2026-07-20T15:54:12.103317+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "PNW is up 17.7% over 6 months and trading near its 52-week high with strong technical momentum (above both 50/200 DMA, golden cross), but valuation (19.2x forward PE, 1.84x P/B) has caught up to fundamentals and negative free cash flow persists amid heavy capex.",
+  "thesis": "Pinnacle West has strong price momentum (mom_126d +17.7%, above both SMA50 and SMA200 with a golden cross) reflecting investor confidence in Arizona's population/data-center-driven load growth, evidenced by 11.4% revenue growth. The stock offers a solid 3.38% dividend yield with low beta (0.425), appealing to income/defensive investors in a volatile market, and regulated utility earnings provide visibility. Rate base growth from continued capex should support steady EPS growth as new rates are recovered, and the stock's proximity to its 52-week high (111.16 vs current 107.125) shows sustained demand.",
+  "bear_case": "Negative free cash flow (-$831M) funded by debt (debt/equity of 213%) signals a utility in a heavy capex cycle that depends on constructive rate case outcomes and continued access to capital markets at reasonable cost \u2014 any regulatory friction in Arizona or higher-for-longer rates would pressure ROE (already modest at 9.56%) and dividend coverage. Valuation at ~20x forward earnings and 1.84x book is rich versus the sector historically, leaving little margin for error, and the negative MACD histogram plus RSI near 53 suggest momentum is stalling just below the 52-week high, risking a pullback if bond yields rise given the stock's rate-sensitive profile despite low beta.",
+  "metrics": {
+    "momentum_63d": 0.038781807545957836,
+    "volatility_ann": 0.21293898730317892,
+    "rsi_14": 52.78133402062905,
+    "profit_margin": 0.11986,
+    "revenue_growth": 0.114,
+    "trailing_pe": 19.986008,
+    "return_on_equity": 0.09559,
+    "beta": 0.425,
+    "market_cap": null,
+    "analyst_coverage": 14
+  }
+}

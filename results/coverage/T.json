@@ -1,0 +1,26 @@
+{
+  "ticker": "T",
+  "name": "AT&T",
+  "sector": "Communication Services",
+  "sub_industry": "Integrated Telecommunication Services",
+  "tier": "S&P 500",
+  "price": 21.809999465942383,
+  "as_of": "2026-07-19T21:26:35.750746+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "AT&T trades at just 7.3x trailing earnings with a >5% dividend yield, yet the stock is down 16% over 3 months and sits below both its 50- and 200-day moving averages, reflecting a tug-of-war between deep value and negative earnings growth (-11.3%).",
+  "thesis": "At 7.3x trailing and 8.5x forward earnings with a 5.09% dividend yield, AT&T is priced for pessimism that its fundamentals only partially justify \u2014 revenue is still growing (2.9%), operating margins are healthy (22.7%), ROE is a solid 18.4%, and free cash flow of $8.85B comfortably underpins the dividend. The stock's low beta (0.42) and defensive telecom cash flows make it a relative safe haven, and the recent MACD histogram turning positive (0.22) alongside RSI near neutral (49.5) suggests the sharp 3-month decline (-16.3%) may be stabilizing rather than accelerating, with price now closer to the 52-week low ($19.89) than the high ($29.79), offering an attractive entry for income-focused capital.",
+  "bear_case": "The technical picture is unambiguously negative \u2014 price is below both the 50-day ($22.87) and 200-day ($24.74) moving averages with no golden cross, and momentum is negative across all three horizons (21d, 63d, 126d), meaning trend-following capital has no reason to step in yet. More importantly, earnings growth is contracting (-11.3%) even as debt-to-equity sits at an elevated 127%, so the cheap multiple may reflect a genuine deterioration in underlying profitability rather than a mispricing, and with 23 analysts already covering the name (consensus already 'buy'), there's little informational edge left to exploit \u2014 if the market is discounting further margin or subscriber pressure, the stock could keep drifting toward its 52-week low ($19.89) despite the seemingly low valuation.",
+  "metrics": {
+    "momentum_63d": -0.16280179407130602,
+    "volatility_ann": 0.3246005192336585,
+    "rsi_14": 49.49443701558683,
+    "profit_margin": 0.16938,
+    "revenue_growth": 0.029,
+    "trailing_pe": 7.343434,
+    "return_on_equity": 0.18370001,
+    "beta": 0.422,
+    "market_cap": 151543267328,
+    "analyst_coverage": 23
+  }
+}

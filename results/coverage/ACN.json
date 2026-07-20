@@ -1,0 +1,26 @@
+{
+  "ticker": "ACN",
+  "name": "Accenture",
+  "sector": "Information Technology",
+  "sub_industry": "IT Consulting & Other Services",
+  "tier": "S&P 500",
+  "price": 143.57000732421875,
+  "as_of": "2026-07-19T21:14:07.446494+00:00",
+  "rating": "neutral",
+  "conviction": 0.56,
+  "key_signal": "ACN has cratered nearly 50% over the past six months (now $143.57 vs a 52-week high of $291) on fears over AI disruption and federal contract cuts, yet still trades at just 11.5x trailing / 9.8x forward earnings with a 24% ROE.",
+  "thesis": "The valuation reset is severe enough to price in a lot of bad news: trailing P/E of 11.5x and forward P/E under 10x are unusually cheap for a company generating 17% operating margins, 24% ROE, and $12B in free cash flow on $73B revenue, while still growing revenue (+5.6%) and earnings (+9%) and now yielding 4.5%. MACD histogram has turned positive and RSI sits at a neutral 50, suggesting the freefall (mom_63d -25%, mom_126d -49%) may be stabilizing, and low leverage (debt/equity 25) gives balance-sheet flexibility to keep buying back stock and paying the dividend through the downturn. Consensus sell-side rating remains 'buy' across 25 analysts, indicating the Street hasn't capitulated on the long-term consulting franchise despite the price collapse.",
+  "bear_case": "The technical picture is unambiguously broken \u2014 price is below both the 50-day ($156.55) and 200-day ($211.88) moving averages with no golden cross, and a 49% six-month drawdown of this magnitude in a large-cap IT services name reflects a genuine re-rating of the business model, not just sentiment: GenAI is increasingly seen as a substitute for the staff-augmentation and systems-integration work that has been Accenture's bread and butter, and federal government spending cuts (DOGE-driven) directly hit its large public-sector practice, which could structurally impair the revenue growth and margin assumptions embedded in that 'cheap' forward P/E \u2014 cheapness that can persist or deepen if bookings and guidance keep deteriorating, making this a classic value trap rather than a bottom.",
+  "metrics": {
+    "momentum_63d": -0.25104989482942863,
+    "volatility_ann": 0.6884847410861921,
+    "rsi_14": 50.056192646446725,
+    "profit_margin": 0.10656,
+    "revenue_growth": 0.056,
+    "trailing_pe": 11.467253,
+    "return_on_equity": 0.24406,
+    "beta": 1.122,
+    "market_cap": 87856529408,
+    "analyst_coverage": 25
+  }
+}

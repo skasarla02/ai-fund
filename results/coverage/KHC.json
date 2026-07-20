@@ -1,0 +1,26 @@
+{
+  "ticker": "KHC",
+  "name": "Kraft Heinz",
+  "sector": "Consumer Staples",
+  "sub_industry": "Packaged Foods & Meats",
+  "tier": "S&P 500",
+  "price": 25.8799991607666,
+  "as_of": "2026-07-19T22:43:26.896112+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "KHC has broken above both its 50- and 200-day moving averages with a golden cross and strong 3-month momentum (+16.6%), while trading at a deep discount to book value (P/B 0.73) and a 6.18% dividend yield.",
+  "thesis": "After a prolonged slide to the 52-week low near $21, KHC has staged a technical turnaround: price is above both the 50dma ($23.71) and 200dma ($23.28), a golden cross is in place, MACD is positive, and RSI (62.8) shows momentum without being extremely overbought. Fundamentally, the stock looks statistically cheap \u2014 forward P/E of 12.35 and price-to-book of 0.73 imply the market is pricing in continued deterioration, yet earningsGrowth is guided at +13.6% and operating margins remain solid at 20.7% with gross margins near 34%. The 6.18% dividend yield, well covered by ~$3.2B of free cash flow against a $30.7B market cap, offers a substantial income cushion while the market re-rates the stock, and beta of just 0.077 suggests defensive positioning is attracting inflows in a volatile tape. With only 17 analysts covering a well-known S&P 500 staple carrying a 'hold' consensus, a re-rating catalyst (stabilizing volumes, cost cuts) could still surprise to the upside given how depressed sentiment already is.",
+  "bear_case": "The reported profitMargins of -23% and ROE of -12.6% aren't noise \u2014 they reflect real structural impairment (likely goodwill/brand write-downs on legacy Kraft/Oscar Mayer assets) signaling the underlying business is shrinking in real terms, with revenueGrowth essentially flat at 0.8% and total revenue under $25B, well below peak. Debt-to-equity of over 50x is elevated for a staple that needs balance-sheet flexibility to invest in reformulation and marketing amid GLP-1/health-conscious headwinds facing processed foods. The stock's 52-week range ($21.04\u2013$29.19) shows it's merely bouncing within a long downtrend, still 11% below its high, and the 34% annualized volatility is unusually high for a 'defensive' name, implying the market still isn't confident in the recovery. If the dividend (6.18% yield against negative net income) is ever perceived as at risk, the stock could snap back toward its 52-week low regardless of near-term technical strength.",
+  "metrics": {
+    "momentum_63d": 0.16640334584075012,
+    "volatility_ann": 0.3393661406572042,
+    "rsi_14": 62.83043994522251,
+    "profit_margin": -0.23049,
+    "revenue_growth": 0.008,
+    "trailing_pe": null,
+    "return_on_equity": -0.12576,
+    "beta": 0.077,
+    "market_cap": 30687924224,
+    "analyst_coverage": 17
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "JNJ",
+  "name": "Johnson & Johnson",
+  "sector": "Health Care",
+  "sub_industry": "Pharmaceuticals",
+  "tier": "S&P 500",
+  "price": 253.0399932861328,
+  "as_of": "2026-07-19T22:40:09.258887+00:00",
+  "rating": "bullish",
+  "conviction": 0.6,
+  "key_signal": "JNJ is in a confirmed golden-cross uptrend (price $253 vs 50DMA $238 and 200DMA $221) with 126-day momentum of +17%, reflecting a defensive rotation into low-beta healthcare names.",
+  "thesis": "JNJ's technical picture is unambiguously constructive: price sits above both the 50- and 200-day moving averages with an active golden cross, and momentum across 21/63/126-day windows is consistently positive (7.6%/8.5%/17.1%), showing sustained institutional accumulation rather than a short squeeze. With a beta of just 0.235, JNJ is exactly the kind of low-volatility, dividend-paying defensive name (2.12% yield) that attracts flows in a risk-off or rate-uncertain environment. Forward PE of 19.7 versus trailing PE of 29.3 implies the market and 22 covering analysts (consensus 'buy') expect a meaningful earnings inflection after this year's flat earnings growth (-1%), supported by 6.6% revenue growth and best-in-class 68% gross margins and 28.6% operating margins. At $253, the stock still has room to the 52-week high of $269.43, and the durable moat in pharma/device manufacturing supports the premium multiple.",
+  "bear_case": "The valuation is stretched on trailing numbers (29.3x earnings, 7.5x book) for a company whose earnings actually shrank 1% over the past year and whose revenue growth is a modest 6.6% \u2014 this is priced like a growth compounder, not a mature pharma giant. The MACD histogram is already negative (-1.52) even as price sits near cycle highs, a classic bearish divergence suggesting upside momentum is decelerating just as the stock approaches its 52-week high of $269.43, raising mean-reversion risk. Debt-to-equity of 67.7 is non-trivial, and the forward PE re-rating to 19.7x assumes an earnings acceleration that has yet to materialize in the trailing figures. Add in the overhang of ongoing talc litigation and patent-cliff risk on key franchises, and the current re-rating could stall or reverse if the anticipated earnings inflection disappoints an already well-covered stock where 22 analysts leave little room for a surprise re-rating catalyst.",
+  "metrics": {
+    "momentum_63d": 0.08508249732380979,
+    "volatility_ann": 0.2944464934681411,
+    "rsi_14": 54.50224890741695,
+    "profit_margin": 0.21482,
+    "revenue_growth": 0.066,
+    "trailing_pe": 29.320972,
+    "return_on_equity": null,
+    "beta": 0.235,
+    "market_cap": 609122123776,
+    "analyst_coverage": 22
+  }
+}

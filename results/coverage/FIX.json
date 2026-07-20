@@ -1,0 +1,26 @@
+{
+  "ticker": "FIX",
+  "name": "Comfort Systems USA",
+  "sector": "Industrials",
+  "sub_industry": "Construction & Engineering",
+  "tier": "S&P 500",
+  "price": 1674.06005859375,
+  "as_of": "2026-07-19T21:51:42.601293+00:00",
+  "rating": "bearish",
+  "conviction": 0.58,
+  "key_signal": "FIX has broken below its 50-day moving average (1674 vs 1869) with negative MACD momentum and a -12.5% 21-day move, unwinding part of a huge run even though revenue growth has decelerated to just 1%.",
+  "thesis": "Comfort Systems has been a phenomenal compounder, up 59% over 126 days with ROE north of 53% and 38.8% earnings growth, reflecting genuine operating leverage in mechanical/HVAC construction services tied to data center and industrial reshoring demand. The stock remains above its 200-day SMA with a golden cross intact, and sell-side sentiment is a 'strong buy' across its (thin) coverage, meaning any stabilization in the pullback could see analysts defend price targets and momentum buyers re-enter.",
+  "bear_case": "The valuation is priced for perfection at 48x trailing earnings, 91x book, and 30x forward earnings, yet revenue growth has crashed to just 1% while the stock trades near multiples reserved for structurally higher-growth software or specialty industrials \u2014 this is a classic setup for multiple compression once growth deceleration becomes visible in guidance. Technically the stock has fallen ~19% off its 52-week high of $2074, broken decisively below its 50-day SMA, RSI sits at a weak 41, and MACD histogram is solidly negative at -16.7, all consistent with distribution rather than a healthy pause; with only 7 analysts covering a $59B market cap name, there's limited institutional scrutiny to arrest a re-rating if data-center-driven backlog growth (the key 1-year narrative) shows any signs of deceleration in upcoming prints, and beta of 1.66 means any market-wide risk-off episode disproportionately hits this stock.",
+  "metrics": {
+    "momentum_63d": 0.042806634835257595,
+    "volatility_ann": 0.6722865232604526,
+    "rsi_14": 41.25371488953843,
+    "profit_margin": 0.12073,
+    "revenue_growth": 0.01,
+    "trailing_pe": 48.31342,
+    "return_on_equity": 0.53294,
+    "beta": 1.66,
+    "market_cap": 58900074496,
+    "analyst_coverage": 7
+  }
+}

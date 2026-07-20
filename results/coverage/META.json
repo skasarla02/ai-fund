@@ -1,0 +1,26 @@
+{
+  "ticker": "META",
+  "name": "Meta Platforms",
+  "sector": "Communication Services",
+  "sub_industry": "Interactive Media & Services",
+  "tier": "S&P 500",
+  "price": 646.010009765625,
+  "as_of": "2026-07-19T21:04:57.977456+00:00",
+  "rating": "bullish",
+  "conviction": 0.678,
+  "key_signal": "63d momentum -4.5%, margin 32.8%, 58 analysts covering it.",
+  "thesis": "[mock] Trades above its 200-day average with -4.5% momentum; profit margin 32.8% \u2014 58 analysts covering it.",
+  "bear_case": "[mock] Valuation at 23.5x trailing earnings leaves little room for a growth miss.",
+  "metrics": {
+    "momentum_63d": -0.04470760550342712,
+    "volatility_ann": 0.5271910364217148,
+    "rsi_14": 56.82198685717768,
+    "profit_margin": 0.32837,
+    "revenue_growth": 0.331,
+    "trailing_pe": 23.474201,
+    "return_on_equity": 0.32930002,
+    "beta": 1.246,
+    "market_cap": 1639846903808,
+    "analyst_coverage": 58
+  }
+}

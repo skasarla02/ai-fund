@@ -1,0 +1,26 @@
+{
+  "ticker": "IBM",
+  "name": "IBM",
+  "sector": "Information Technology",
+  "sub_industry": "IT Consulting & Other Services",
+  "tier": "S&P 500",
+  "price": 212.6699981689453,
+  "as_of": "2026-07-19T22:33:32.232966+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "IBM has cratered ~21% in a month and sits right at its 52-week low ($204.44) with RSI near 31, yet still trades at only 16.2x forward earnings with 14.2% earnings growth and a 3.18% dividend yield.",
+  "thesis": "The technical picture looks broken (price below both the 50- and 200-day moving averages, negative MACD histogram, no golden cross), but the fundamentals haven't deteriorated nearly as much as the price action suggests: revenue growth of 9.5%, earnings growth of 14.2%, ROE of 35.8%, and gross margins near 58% all point to a business executing well. Forward PE (16.2x) is actually cheaper than trailing PE (18.8x), implying consensus still expects earnings to grow, and the 22-analyst consensus remains 'buy.' At a 3.18% dividend yield with strong free cash flow (~$13.1B), IBM offers a rare combination of income and quality at a valuation now roughly 36% below its 52-week high, which historically has been a good entry point for a low-beta (0.675) mega-cap that institutions rotate back into once volatility subsides.",
+  "bear_case": "The magnitude and speed of this drawdown (mom_21d -21.5%, mom_63d -14.6%, mom_126d -30.3%, annualized 30-day volatility of 84%) is not typical noise \u2014 it signals a real fundamental re-rating, likely tied to disappointing guidance or a structural concern about IBM's consulting/software growth trajectory or AI-related capex competitiveness, and momentum of this severity often persists for multiple quarters before finding a true bottom. IBM's debt-to-equity of 211% is unusually high for a mega-cap, leaving less flexibility to defend the dividend or buy back stock aggressively while the stock is under pressure, and a price-to-book of 6x is not obviously 'cheap' for a services-heavy business now growing revenue at under 10%. With 22 analysts already covering the name, any real deterioration in fundamentals will be quickly priced in, and there's no informational edge to exploit \u2014 the stock could simply keep drifting down toward the 52-week low as trend-followers and momentum funds continue to sell into weakness before value buyers step in.'",
+  "metrics": {
+    "momentum_63d": -0.14647311173156163,
+    "volatility_ann": 0.8397665520768514,
+    "rsi_14": 31.46185939855971,
+    "profit_margin": 0.15606,
+    "revenue_growth": 0.095,
+    "trailing_pe": 18.837025,
+    "return_on_equity": 0.35772,
+    "beta": 0.675,
+    "market_cap": 199885406208,
+    "analyst_coverage": 22
+  }
+}

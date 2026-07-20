@@ -1,0 +1,26 @@
+{
+  "ticker": "EXR",
+  "name": "Extra Space Storage",
+  "sector": "Real Estate",
+  "sub_industry": "Self-Storage REITs",
+  "tier": "S&P 500",
+  "price": 148.16000366210938,
+  "as_of": "2026-07-19T22:10:43.211439+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "EXR trades near 52-week highs with a golden cross and above both moving averages, yet earnings growth is negative (-10.6%) and the stock carries a stretched 33x trailing P/E for a self-storage REIT with only 3.8% revenue growth.",
+  "thesis": "Technicals are constructive: price is above both the 50-day ($144.29) and 200-day ($137.76) SMAs, a golden cross is in place, momentum is positive across 21/63/126-day windows, and RSI at 54.7 with a positive MACD histogram suggests room to run before overbought. The 4.37% dividend yield offers income support, and high margins (75% gross, 44% operating) reflect the durability of self-storage cash flows. As a well-covered, liquid S&P 500 REIT, EXR benefits from institutional demand for yield in a stabilizing rate environment, and its proximity to the 52-week high ($155.19) shows the market rewarding operational resilience despite sector headwinds.",
+  "bear_case": "The fundamental picture is deteriorating even as the stock re-rates higher: earnings growth is negative (-10.6%) against only 3.8% revenue growth, meaning margin compression or cost pressure is eating into profitability, yet the stock still trades at 33x trailing and 31x forward earnings \u2014 a premium valuation for a business posting shrinking earnings. ROE of just 6.8% is weak for a REIT with 98% debt-to-equity, meaning leveraged returns are barely adequate, and any softening in occupancy/rate trends (a known industry-wide issue in self-storage post-2023 as move-in discounting persists) could compress the multiple sharply. With 20 analysts already covering the name and consensus at 'buy,' most of the good news may already be priced in, leaving asymmetric downside risk if the next earnings print confirms continued earnings decline rather than stabilization.",
+  "metrics": {
+    "momentum_63d": 0.05740674250737832,
+    "volatility_ann": 0.23297877557394986,
+    "rsi_14": 54.7456250396646,
+    "profit_margin": 0.27142,
+    "revenue_growth": 0.038,
+    "trailing_pe": 33.36937,
+    "return_on_equity": 0.0683,
+    "beta": 1.2,
+    "market_cap": 32698011648,
+    "analyst_coverage": 20
+  }
+}
