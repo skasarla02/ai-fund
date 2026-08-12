@@ -1,0 +1,79 @@
+name: Coverage run
+
+# Phase 4: the desk re-rates on its own cadence, so the changes feed and the
+# calibration trend fill in organically instead of being seeded by hand.
+#
+# Each run is cost-bounded by --max-new. It fills genuine gaps first (companies
+# with no rating at all), then rotates through the oldest ratings once the
+# universe is fully covered. Ratings are committed back to the repo, which is
+# what the deployed API serves.
+
+on:
+  schedule:
+    # 06:20 UTC daily — after the previous US session has settled.
+    - cron: "20 6 * * *"
+  workflow_dispatch:
+    inputs:
+      max_new:
+        description: "Max companies to rate this run (cost bound)"
+        required: false
+        default: "60"
+      stale_days:
+        description: "Also re-rate ratings older than this many days"
+        required: false
+        default: "14"
+
+concurrency:
+  # Never let two runs rate and commit at the same time.
+  group: coverage-run
+  cancel-in-progress: false
+
+jobs:
+  rate:
+    runs-on: ubuntu-latest
+    # A capped run is minutes, but yfinance can be slow; well under the 6h ceiling.
+    timeout-minutes: 120
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Rate companies
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          MAX_NEW: ${{ inputs.max_new || '60' }}
+          STALE_DAYS: ${{ inputs.stale_days || '14' }}
+        run: |
+          if [ -z "$ANTHROPIC_API_KEY" ]; then
+            echo "ANTHROPIC_API_KEY is not set — the engine would silently run in MOCK mode"
+            echo "and commit fake ratings over real ones. Refusing to run."
+            exit 1
+          fi
+          python scripts/run_coverage.py \
+            --max-new "$MAX_NEW" \
+            --stale-days "$STALE_DAYS" \
+            --pace 0.5
+
+      - name: Commit ratings
+        run: |
+          git config user.name "spread-model-bot"
+          git config user.email "actions@github.com"
+          git add results/
+          if git diff --staged --quiet; then
+            echo "No rating changes to commit."
+            exit 0
+          fi
+          rated=$(git diff --staged --name-only -- results/coverage | grep -c '\.json$' || true)
+          git commit -m "Scheduled coverage run: ${rated} companies re-rated"
+          # The scheduled run is the only writer, but a manual dispatch can race it.
+          git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+          git push

@@ -20,8 +20,10 @@ drift and populate the changes feed for real).
 from __future__ import annotations
 
 import argparse
+import json
 import sys
 import time
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))
@@ -35,6 +37,16 @@ from fund.decision.llm import LLMClient  # noqa: E402
 EST_COST_PER_COMPANY = 5000 / 1e6 * 2.0 + 700 / 1e6 * 10.0
 
 
+def _rated_at(ticker: str, out_dir: Path = COVERAGE_DIR) -> datetime | None:
+    """When the stored rating for ``ticker`` was written, or None if unreadable."""
+    path = out_dir / f"{ticker}.json"
+    try:
+        stamp = json.loads(path.read_text()).get("as_of")
+        return datetime.fromisoformat(stamp) if stamp else None
+    except (OSError, ValueError):
+        return None
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--limit", type=int, default=None, help="Rate only the first N companies (universe order).")
@@ -42,6 +54,9 @@ def main():
     parser.add_argument("--tier", choices=["S&P 500", "S&P 400", "S&P 600"], default=None, help="Restrict to a single index tier.")
     parser.add_argument("--pace", type=float, default=0.0, help="Seconds to sleep between companies (rate-limit friendliness).")
     parser.add_argument("--refresh", action="store_true", help="Re-rate companies that already have a stored rating (default: skip them).")
+    parser.add_argument("--max-new", type=int, default=None, help="Hard cap on how many companies this run may rate (cost bound for scheduled runs).")
+    parser.add_argument("--stale-days", type=float, default=None, help="Also re-rate companies whose stored rating is older than this many days, oldest first.")
+    parser.add_argument("--out-dir", type=Path, default=COVERAGE_DIR, help="Where to write ratings (default: results/coverage). Point elsewhere to test without touching live data.")
     args = parser.parse_args()
 
     client = LLMClient(model=COVERAGE_MODEL)
@@ -53,18 +68,42 @@ def main():
         tickers = [c.ticker for c in universe[: args.limit]]
 
     scope = [c for c in universe if c.ticker in set(tickers)] if tickers else universe
-    already = {p.stem for p in COVERAGE_DIR.glob("*.json")} if COVERAGE_DIR.exists() else set()
+    already = {p.stem for p in args.out_dir.glob("*.json")} if args.out_dir.exists() else set()
     remaining = scope if args.refresh else [c for c in scope if c.ticker not in already]
     skipped = len(scope) - len(remaining)
+
+    # Scheduled runs top up a fully-rated universe by rotating through the
+    # oldest ratings: unrated companies first (they're the real gaps), then
+    # anything whose rating has gone stale, oldest first.
+    stale = []
+    if args.stale_days is not None and not args.refresh:
+        unrated = {c.ticker for c in remaining}
+        cutoff = datetime.now(timezone.utc) - timedelta(days=args.stale_days)
+        aged = [(t, ts) for t, ts in ((c.ticker, _rated_at(c.ticker, args.out_dir)) for c in scope)
+                if t not in unrated and ts is not None and ts < cutoff]
+        aged.sort(key=lambda pair: pair[1])
+        by_ticker = {c.ticker: c for c in scope}
+        stale = [by_ticker[t] for t, _ in aged]
+        remaining = remaining + stale
+        skipped -= len(stale)
+
+    capped = 0
+    if args.max_new is not None and len(remaining) > args.max_new:
+        capped = len(remaining) - args.max_new
+        remaining = remaining[: args.max_new]
     n = len(remaining)
 
     print(f"\n{'=' * 62}\nCOVERAGE ENGINE — {mode}\n{'=' * 62}")
     print(f"Scope: {len(scope)} companies" + (f" (of {len(universe)} in universe)" if tickers else ""))
     if skipped and not args.refresh:
         print(f"Already rated: {skipped} (skipping — pass --refresh to re-rate)")
+    if stale:
+        print(f"Stale re-rates queued: {len(stale)} (rating older than {args.stale_days:g}d, oldest first)")
+    if capped:
+        print(f"Capped by --max-new {args.max_new}: {capped} deferred to a later run")
     print(f"To rate this run: {n}")
     if n == 0:
-        print("Nothing to do — everything in scope is already rated. Pass --refresh to re-rate.")
+        print("Nothing to do — everything in scope is already rated and current.")
         return
     if not client.mock:
         print(f"Estimated cost: ~${n * EST_COST_PER_COMPANY:.2f}")
@@ -82,7 +121,11 @@ def main():
         client=client,
         pace_seconds=args.pace,
         on_result=on_result,
-        skip_existing=not args.refresh,
+        # ``remaining`` is already exactly what should be rated — the skip and
+        # staleness filtering happened above. Letting the engine skip again
+        # would drop the stale re-rates, which have files by definition.
+        skip_existing=False,
+        out_dir=args.out_dir,
     )
 
     elapsed = time.time() - t0
@@ -93,8 +136,8 @@ def main():
         bullish = sum(1 for r in results if r.rating.rating == "bullish")
         bearish = sum(1 for r in results if r.rating.rating == "bearish")
         print(f"Bullish: {bullish}  Neutral: {len(results) - bullish - bearish}  Bearish: {bearish}")
-    total_done = len(list(COVERAGE_DIR.glob("*.json"))) if COVERAGE_DIR.exists() else 0
-    print(f"Results written to results/coverage/  ({total_done}/{len(universe)} of the full universe rated so far)")
+    total_done = len(list(args.out_dir.glob("*.json"))) if args.out_dir.exists() else 0
+    print(f"Results written to {args.out_dir}/  ({total_done}/{len(universe)} of the full universe rated so far)")
 
 
 if __name__ == "__main__":
