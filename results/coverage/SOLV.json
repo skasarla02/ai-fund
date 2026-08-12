@@ -1,0 +1,26 @@
+{
+  "ticker": "SOLV",
+  "name": "Solventum",
+  "sector": "Health Care",
+  "sub_industry": "Health Care Technology",
+  "tier": "S&P 500",
+  "price": 79.86000061035156,
+  "as_of": "2026-07-20T17:18:10.880244+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "SOLV trades at just 9.8x trailing earnings and 11.3x forward while sitting in a confirmed uptrend (golden cross, price above both 50- and 200-day SMAs, MACD histogram positive), suggesting the market hasn't fully re-rated the post-3M spinoff despite a stabilizing technical picture.",
+  "thesis": "Since its 3M spinoff, Solventum has been de-risking its balance sheet and cost structure, and the -91% 'earnings growth' figure is almost certainly a distorted comparison against a one-time spin-related base rather than an ongoing operating collapse \u2014 gross margins remain healthy at 53.7% and ROE is a strong 34.8%. The stock has reclaimed its 200-day average, is up 13.3% over 63 days and 7.1% over 21 days, and sits comfortably above both moving averages with a golden cross intact, indicating institutional accumulation as spinoff overhang clears. At under 10x trailing earnings and roughly 11x forward, with sell-side consensus at 'buy' across 13 analysts, there is room for multiple expansion if operating margins (currently a thin 5.6%) normalize toward historical medical-device peer levels as one-time separation costs roll off and FCF generation ($377.5M) continues.",
+  "bear_case": "The fundamentals show real deterioration, not just noise: revenue growth is negative (-3%), operating margin of just 5.6% is far below typical medical device/instrument peers (often 15-20%+), and debt-to-equity of 106% is a genuine constraint for a newly-independent company still working through dis-synergies and stand-up costs from the 3M separation. With only 13 analysts covering it and 33% annualized volatility, this is a name where negative surprises on deleveraging progress or margin recovery could hit hard, and the recent -1.8% daily move plus a 126-day momentum that's actually negative (-0.7%) suggests the longer-term trend is less convincingly bullish than the short-term bounce implies \u2014 the stock is also still 9% below its 52-week high, meaning the market may be pricing in exactly the execution risk bulls are dismissing.",
+  "metrics": {
+    "momentum_63d": 0.13308735537248229,
+    "volatility_ann": 0.33351060532854204,
+    "rsi_14": 56.655006074884895,
+    "profit_margin": 0.17332001,
+    "revenue_growth": -0.03,
+    "trailing_pe": 9.774786,
+    "return_on_equity": 0.34794998,
+    "beta": 0.716,
+    "market_cap": 13829733376,
+    "analyst_coverage": 13
+  }
+}

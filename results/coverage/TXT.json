@@ -1,0 +1,26 @@
+{
+  "ticker": "TXT",
+  "name": "Textron",
+  "sector": "Industrials",
+  "sub_industry": "Aerospace & Defense",
+  "tier": "S&P 500",
+  "price": 93.08000183105469,
+  "as_of": "2026-07-20T17:25:50.959671+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "TXT trades at just 12.8x forward earnings (vs 17.8x trailing) while sitting above both its 50- and 200-day moving averages with a fresh golden cross, signaling the market hasn't yet priced in expected earnings growth.",
+  "thesis": "Textron's technical setup is constructive: price is above both the 50-day ($90.96) and 200-day ($89.31) SMAs, a golden cross is in place, RSI at 57 shows room to run without being overbought, and MACD histogram is positive. Fundamentally, the stock looks inexpensive relative to peers in Aerospace & Defense at 12.78x forward earnings versus 17.76x trailing, implying the market expects double-digit earnings growth (consistent with the reported 10.6% earnings growth and 11.8% revenue growth). ROE of 12.25% and a 'buy' consensus from 16 analysts support the case that Bell (military rotorcraft, including V-280 program tailwinds) and Textron Aviation's Cessna/Beechcraft backlog can keep converting into earnings. With shares still roughly 8% below the 52-week high of $101.57 and well above the $75.80 low, there's room to re-test highs if momentum persists.",
+  "bear_case": "The valuation discount to peers may be a warning, not an opportunity: Textron's operating margin (8.0%) and net margin (6.15%) are thin for a defense/aerospace name, meaning any cost overrun, supply-chain disruption, or program delay (common in Bell/Cessna production) disproportionately hits earnings. Debt-to-equity of 52.67% adds leverage risk in a higher-for-longer rate environment, and 30-day annualized volatility of 26.8% with a 126-day momentum reading that's still slightly negative (-0.47%) suggests the recent bounce could be a short-term technical pop within a choppier, range-bound trend rather than a durable breakout. Free cash flow of only $622M against a $16.2B market cap (~3.8% FCF yield) leaves limited cushion if aviation demand softens amid economic slowdown fears, and the market's cheap multiple may simply reflect appropriately discounted cyclicality rather than mispricing.",
+  "metrics": {
+    "momentum_63d": 0.016263132922569312,
+    "volatility_ann": 0.2678199190001434,
+    "rsi_14": 57.16308171958537,
+    "profit_margin": 0.0615,
+    "revenue_growth": 0.118,
+    "trailing_pe": 17.76336,
+    "return_on_equity": 0.12254,
+    "beta": 0.905,
+    "market_cap": 16185586688,
+    "analyst_coverage": 16
+  }
+}

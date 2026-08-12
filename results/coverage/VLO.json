@@ -1,0 +1,26 @@
+{
+  "ticker": "VLO",
+  "name": "Valero Energy",
+  "sector": "Energy",
+  "sub_industry": "Oil & Gas Refining & Marketing",
+  "tier": "S&P 500",
+  "price": 315.57000732421875,
+  "as_of": "2026-07-20T17:33:22.169367+00:00",
+  "rating": "bearish",
+  "conviction": 0.58,
+  "key_signal": "VLO is trading essentially at its 52-week high with RSI at 74.4 and a 73% six-month rally, an overbought extreme in a historically volatile, margin-cyclical refiner (30d annualized vol ~41%).",
+  "thesis": "Refining margins (crack spreads) have clearly been strong, driving VLO's forward PE down to 13.8x from a trailing 23x, and the stock is in a textbook uptrend (golden cross, price above both the 50- and 200-day moving averages, positive MACD histogram). If crack spreads stay elevated and the 6.6% revenue growth and 15.85% ROE persist, the cheaper forward multiple could justify further upside as consensus 'buy' rating suggests analysts see continued earnings power.",
+  "bear_case": "Refining is a notoriously cyclical, spread-driven business with thin net margins (3.6%) and gross margins of just 14.6%, meaning earnings are extremely sensitive to crack-spread compression that can happen quickly and without warning as new refining capacity comes online or demand softens; the stock's RSI of 74.4, its position right at the 52-week high, and a 73% run in just six months are classic signs of an overextended move that historically mean-reverts, especially in a high-beta-feeling, high-volatility name (40.8% annualized vol) even though its formal beta is low; a pullback in crack spreads or even a pause in momentum after such a steep advance could trigger a sharp multiple-driven correction rather than the forward-PE re-rating bulls expect.",
+  "metrics": {
+    "momentum_63d": 0.4177032793871762,
+    "volatility_ann": 0.40780437802992026,
+    "rsi_14": 74.36009202638748,
+    "profit_margin": 0.03569,
+    "revenue_growth": 0.066,
+    "trailing_pe": 23.051134,
+    "return_on_equity": 0.1585,
+    "beta": 0.545,
+    "market_cap": 93703077888,
+    "analyst_coverage": 18
+  }
+}

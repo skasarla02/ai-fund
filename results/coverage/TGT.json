@@ -1,0 +1,26 @@
+{
+  "ticker": "TGT",
+  "name": "Target Corporation",
+  "sector": "Consumer Staples",
+  "sub_industry": "Consumer Staples Merchandise Retail",
+  "tier": "S&P 500",
+  "price": 139.7949981689453,
+  "as_of": "2026-07-20T17:23:29.643097+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "TGT is in a powerful technical uptrend (golden cross, +28% over 126 days, price near the 52-week high of $144.40) despite trailing earnings having fallen 24.7% y/y.",
+  "thesis": "Target's price action shows a decisive turnaround from its 52-week low of $83.44 to $139.80, a ~67% rally, with the stock now above both its 50- and 200-day moving averages and a fresh golden cross confirming trend strength. MACD is solidly positive and RSI at 62 shows momentum without being extremely overbought. The forward P/E of 15.7x sits meaningfully below the trailing 18.5x, implying the sell-side (34 analysts, consensus 'buy') expects an earnings inflection after the recent downturn. A 3.3% dividend yield offers income support, and ROE of 22% (even amid a thin 3.2% net margin) shows the balance sheet is still generating solid returns on equity, aided by revenue growth of 6.7%. If margin recovery materializes alongside this technical strength, TGT has room to test/break its 52-week high.",
+  "bear_case": "The rally has pushed TGT to within ~3% of its 52-week high right as trailing earnings growth is deeply negative (-24.7%) and net margins remain razor-thin at 3.2%, meaning the stock's re-rating has outpaced any actual fundamental improvement \u2014 this is a valuation-momentum mismatch that has burned Target investors before. Debt-to-equity of 117.5% is elevated for a retailer facing continued discretionary spending pressure and tariff/cost headwinds, and 30-day annualized volatility of 37% signals the market is still pricing meaningful uncertainty despite the uptrend. If the next earnings print fails to show the margin inflection implied by the forward P/E discount, the stock is technically extended (RSI 62, well above both moving averages) and vulnerable to a sharp mean-reversion pullback toward the 50-day SMA near $129.",
+  "metrics": {
+    "momentum_63d": 0.10384693144552348,
+    "volatility_ann": 0.36954569039608887,
+    "rsi_14": 61.88123182888904,
+    "profit_margin": 0.03243,
+    "revenue_growth": 0.067,
+    "trailing_pe": 18.466974,
+    "return_on_equity": 0.22015,
+    "beta": 0.981,
+    "market_cap": null,
+    "analyst_coverage": 34
+  }
+}

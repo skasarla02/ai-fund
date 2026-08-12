@@ -1,0 +1,26 @@
+{
+  "ticker": "TPR",
+  "name": "Tapestry, Inc.",
+  "sector": "Consumer Discretionary",
+  "sub_industry": "Apparel, Accessories & Luxury Goods",
+  "tier": "S&P 500",
+  "price": 141.02000427246094,
+  "as_of": "2026-07-20T17:22:49.965898+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "TPR trades at a rich trailing P/E (43x) but a much cheaper forward P/E (18x) on the back of 73.7% earnings growth and 21.2% revenue growth, even as the stock has pulled back ~13% from its 52-week high and sits right at its 50-day moving average.",
+  "thesis": "Tapestry's fundamentals are unusually strong for a mid-cap luxury name: 76% gross margins, 22% operating margins, ROE north of 60%, and forward P/E of 18x versus a trailing 43x implies the market is pricing in a sharp earnings inflection that is already showing up in the 73.7% earnings growth figure. The stock remains above both its 50- and 200-day moving averages with an active golden cross, and the 126-day momentum is still positive (+6.6%), suggesting the medium-term uptrend from the Capri-deal collapse recovery is intact despite a recent 3-month pullback (-9.3%) that has reset RSI to a neutral 47.6 \u2014 a healthier entry point than a name still overbought near highs. With Coach driving brand momentum and buybacks supporting EPS growth (evidenced by the extreme priceToBook of ~42x reflecting a thin equity base being levered up for shareholder returns), a re-rating toward peer multiples on continued double-digit revenue growth is plausible, and 20 analysts collectively rate it a ",
+  "bear_case": "The near-term technicals are actually deteriorating \u2014 mom_21d and mom_63d are both negative, MACD histogram is solidly negative (-0.366), and price is essentially flat against its 50dma (141.02 vs 140.83), meaning the stock has stalled right at a key support/resistance level after rolling over from 161.97; a break below the 50dma with negative MACD momentum could quickly test the 200dma near 133. Fundamentally, the balance sheet carries an alarming debt-to-equity of 575%, a legacy of aggressive buybacks that have hollowed out book value (priceToBook of 41.8x is not a quality signal, it's a leverage signal), leaving little cushion if the high-margin growth story stumbles amid a high-beta (1.44), high-volatility (33.6% annualized) profile in a discretionary category vulnerable to consumer pullback; if forward earnings growth disappoints even modestly, the stock re-rates on trailing multiples rather than forward ones, and 43x trailing PE offers no margin of safety.",
+  "metrics": {
+    "momentum_63d": -0.09257159341251153,
+    "volatility_ann": 0.33594398281366195,
+    "rsi_14": 47.62391627562677,
+    "profit_margin": 0.08442,
+    "revenue_growth": 0.212,
+    "trailing_pe": 42.993904,
+    "return_on_equity": 0.60914004,
+    "beta": 1.444,
+    "market_cap": 28492347392,
+    "analyst_coverage": 20
+  }
+}

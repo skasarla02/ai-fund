@@ -1,0 +1,26 @@
+{
+  "ticker": "TDY",
+  "name": "Teledyne Technologies",
+  "sector": "Information Technology",
+  "sub_industry": "Electronic Equipment & Instruments",
+  "tier": "S&P 500",
+  "price": 631.1599731445312,
+  "as_of": "2026-07-20T17:24:12.242869+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "TDY trades above both its 50- and 200-day moving averages (golden cross intact) with 126-day momentum of nearly 11%, yet sits 9% below its 52-week high, suggesting room to run as earnings growth (21.6%) outpaces revenue growth (7.6%) on margin expansion.",
+  "thesis": "Teledyne's technical setup is constructive: price is above the 50-day ($625.9) and 200-day ($595.7) SMAs with a golden cross confirmed, and 126-day momentum (+10.8%) shows a durable uptrend despite a recent pullback (mom_63d -0.7%, RSI 49.9 near neutral). Fundamentally, the company shows earnings growth of 21.6% well ahead of revenue growth of 7.6%, implying operating leverage and margin discipline \u2014 consistent with operating margins of 19% and gross margins of 42.9%. Low beta (0.92) and moderate debt-to-equity (23.1) suggest a defensively-positioned, quality industrial-tech name with strong free cash flow ($760M) relative to its ~$6.2B revenue base. The stock is only 13-analyst covered versus mega-cap tech peers, leaving room for a slower re-rating as the buy-side digests improving fundamentals; consensus recommendation is already 'buy'. With shares still 9% below the 52-week high of $693, there's a credible path back toward highs if momentum resumes.",
+  "bear_case": "The valuation is not cheap \u2014 trailing P/E of 31.9x and forward P/E of 24.2x for a company with ROE of only 9% and revenue growth of just 7.6% is a demanding multiple that leaves little room for disappointment, especially with high volatility (27% annualized) embedded in the stock. The MACD histogram is negative (-1.39) and 63-day momentum is slightly negative, signaling the recent uptrend is losing steam and could be rolling over into a consolidation or pullback toward the 50-day support at $626. Given only 13 analysts cover this name, any negative surprise (e.g., guidance miss in a slowing revenue growth environment) could trigger outsized moves before consensus estimates catch up, and the stock's premium multiple relative to its modest ROE makes it vulnerable to multiple compression if growth decelerates further from already-modest 7.6% levels.",
+  "metrics": {
+    "momentum_63d": -0.00734479942719124,
+    "volatility_ann": 0.2693632543396457,
+    "rsi_14": 49.904548964364,
+    "profit_margin": 0.14987001,
+    "revenue_growth": 0.076,
+    "trailing_pe": 31.941294,
+    "return_on_equity": 0.09049,
+    "beta": 0.924,
+    "market_cap": null,
+    "analyst_coverage": 13
+  }
+}

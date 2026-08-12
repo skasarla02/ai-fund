@@ -1,0 +1,26 @@
+{
+  "ticker": "TT",
+  "name": "Trane Technologies",
+  "sector": "Industrials",
+  "sub_industry": "Building Products",
+  "tier": "S&P 500",
+  "price": 465.5799865722656,
+  "as_of": "2026-07-20T17:27:56.488493+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "TT trades at a rich 35.5x trailing P/E despite earnings growth turning negative (-2.1%), while short-term momentum has broken down (price below 50-day SMA, negative MACD histogram) even as the longer-term uptrend (above 200-day SMA, golden cross) remains intact.",
+  "thesis": "Trane's long-term technical structure is still constructive \u2014 price sits ~7% above its rising 200-day SMA with a golden cross in place and 126-day momentum up 20.8%, reflecting durable demand for HVAC/building efficiency products. Fundamentals show a high-quality franchise: 36% gross margin, 15.5% operating margin, and an exceptional 36.6% ROE, with revenue still growing 6% and free cash flow of $2.66B supporting the dividend and buybacks. The 21 covering analysts rate it a consensus 'buy,' and the pullback from the 52-week high of $505.87 to $465.58 (down ~8%) could represent a buyable dip within an intact uptrend for a structurally advantaged industrial compounder.",
+  "bear_case": "The stock is priced for perfection at 35.5x trailing and 27.3x forward earnings with a price-to-book of nearly 12x, yet earnings growth just went negative (-2.1%) while revenue growth decelerated to 6% \u2014 a valuation-fundamentals mismatch that leaves little room for error. Short-term technicals are deteriorating: price has broken below the 50-day SMA (469.2), RSI at 44.6 shows waning momentum, and the MACD histogram is solidly negative (-2.15), all consistent with a stock rolling over from its highs. With 21 analysts already covering the name and consensus already at 'buy,' any earnings disappointment or margin compression from elevated input costs could trigger an outsized multiple derating given how extended the valuation already is relative to single-digit growth.'",
+  "metrics": {
+    "momentum_63d": -0.0198977248271055,
+    "volatility_ann": 0.34765519537902595,
+    "rsi_14": 44.60075430934629,
+    "profit_margin": 0.13415,
+    "revenue_growth": 0.06,
+    "trailing_pe": 35.513348,
+    "return_on_equity": 0.36630002,
+    "beta": 1.195,
+    "market_cap": 102919004160,
+    "analyst_coverage": 21
+  }
+}

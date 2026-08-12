@@ -1,0 +1,26 @@
+{
+  "ticker": "WRB",
+  "name": "W. R. Berkley Corporation",
+  "sector": "Financials",
+  "sub_industry": "Property & Casualty Insurance",
+  "tier": "S&P 500",
+  "price": 72.38999938964844,
+  "as_of": "2026-07-20T17:37:50.317398+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "Despite a short-term death-cross (50dma 68.06 < 200dma 69.10) and negative MACD histogram, WRB trades above its 200dma with positive momentum across 21/63/126-day windows and 26% earnings growth on a 15x forward multiple.",
+  "thesis": "WRB combines a 20.2% ROE, 26% earnings growth and a reasonable 15.1x forward P/E for a specialty P&C insurer with a low beta (0.29) that has historically compounded book value through disciplined underwriting and opportunistic reinsurance/investment income. Price momentum is positive on every horizon shown (1m, 3m, 6m all up 6-9%), and the stock sits comfortably above its 200-day moving average with RSI at 59 - constructive but not overbought. At $72.39 versus a 52-week high of $78.96, there is room to retest highs if the current underwriting/investment tailwind (rising short-term rates boosting float income) persists, and the stock is cheap relative to its growth and profitability profile versus P&C peers.",
+  "bear_case": "The technical picture is more mixed than the momentum numbers suggest: sma_50 (68.06) sits just below sma_200 (69.10), a recent death-cross configuration, and MACD histogram is negative, implying momentum is decelerating even as price stays elevated - a setup that has preceded pullbacks before. Revenue growth is a modest 4%, meaning the 26% earnings growth is likely driven by favorable reserve development, investment gains, or margin expansion that can reverse quickly if catastrophe losses (hurricane season, social inflation in casualty lines) spike or if the multi-year hard P&C pricing cycle finally softens, which many insurers are already signaling. With 17 analysts covering the name and consensus sitting at 'hold,' the stock is efficiently priced, leaving little room for multiple expansion and making it vulnerable to any earnings miss or reserve charge, especially with the stock already 8% off its 52-week high and volatility (27% annualized) elevated for a supposedly low-beta insurer.",
+  "metrics": {
+    "momentum_63d": 0.09296344241194432,
+    "volatility_ann": 0.2690106380991037,
+    "rsi_14": 59.15451190541376,
+    "profit_margin": 0.12639,
+    "revenue_growth": 0.04,
+    "trailing_pe": 15.336865,
+    "return_on_equity": 0.20164,
+    "beta": 0.293,
+    "market_cap": null,
+    "analyst_coverage": 17
+  }
+}

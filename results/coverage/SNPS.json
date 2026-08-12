@@ -1,0 +1,26 @@
+{
+  "ticker": "SNPS",
+  "name": "Synopsys",
+  "sector": "Information Technology",
+  "sub_industry": "Application Software",
+  "tier": "S&P 500",
+  "price": 379.1400146484375,
+  "as_of": "2026-07-20T17:21:21.703083+00:00",
+  "rating": "bearish",
+  "conviction": 0.6,
+  "key_signal": "Earnings growth of -96% alongside a stock down ~25% over 126 days and trading near its 52-week low signals a serious fundamental air-pocket, not just macro-driven weakness.",
+  "thesis": "Bulls will point to forward PE of ~22x versus trailing PE of 87x, implying the market expects a sharp EPS recovery, plus 42% revenue growth (largely Ansys-driven) and healthy $3.5B free cash flow and 82.6% gross margins that preserve long-term earnings power. RSI at 22.8 and price sitting right at the 52-week low ($366 vs $379 current) suggest the stock is technically oversold and due for at least a relief bounce, especially with 25 analysts still carrying a consensus 'buy' rating, which could support the stock on any stabilization in Ansys integration commentary.",
+  "bear_case": "The price action is not noise: mom_21d (-17.9%), mom_63d (-15.7%), and mom_126d (-25.4%) show accelerating, not decelerating, deterioration, and MACD histogram at -5.28 confirms strong bearish momentum with no sign of a turn yet despite RSI already oversold \u2014 oversold conditions can persist for extended periods in a genuine fundamental repricing. The -96% earnings growth print alongside ROE of just 3.8% suggests the Ansys acquisition (debt/equity now 35.6x) is diluting profitability far more than integration synergies are offsetting, and a stock trading at 86.5x trailing earnings has essentially zero margin for further disappointment \u2014 if forward estimates embedded in the 22x forward PE prove too optimistic, there's substantial room for further multiple compression from a stock still down only from $651 to $379, not yet at a valuation floor by historical standards for this name.",
+  "metrics": {
+    "momentum_63d": -0.15667950982623557,
+    "volatility_ann": 0.360032882672673,
+    "rsi_14": 22.836029950014094,
+    "profit_margin": 0.089090005,
+    "revenue_growth": 0.419,
+    "trailing_pe": 86.561646,
+    "return_on_equity": 0.03824,
+    "beta": 1.222,
+    "market_cap": 72597471232,
+    "analyst_coverage": 25
+  }
+}

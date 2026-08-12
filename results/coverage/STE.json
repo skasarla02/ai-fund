@@ -1,0 +1,26 @@
+{
+  "ticker": "STE",
+  "name": "Steris",
+  "sector": "Health Care",
+  "sub_industry": "Health Care Equipment",
+  "tier": "S&P 500",
+  "price": 216.0850067138672,
+  "as_of": "2026-07-20T17:20:09.163760+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "STE has rebounded 8.4% over the past month and reclaimed its 50-day average (216 vs 211.3) even though it's still ~20% below its 52-week high and below the 200-day line, while forward PE of 17.7 (vs trailing 27.2) implies the market is pricing in the 52% earnings growth already embedded in estimates.",
+  "thesis": "Steris trades at a meaningful discount to its own trailing multiple on a forward basis (17.7x vs 27.2x), consistent with consensus earnings growth of 52% even as revenue grows a steady 7.3% with strong 44% gross and 20% operating margins. The stock has been in a multi-month drawdown (mom_126d -19%, now 20% off its 52-week high of $269), but the technical picture is turning: price has cleared the 50-day moving average, MACD histogram is positive, RSI is a neutral 53, and 1-month momentum is a strong +8.4%, suggesting the selling pressure that pushed it below the 200-day average may be exhausting. With low beta (0.92) and modest debt-to-equity (29%), STE offers a defensive healthcare equipment exposure trading at a reasonable forward valuation after a sizable de-rating, and with only 7 analysts covering it, any re-acceptance of the earnings growth story could re-rate the stock faster than in more heavily covered names.",
+  "bear_case": "The stock remains below its 200-day moving average with no golden cross, and the prior 6-month trend (mom_126d -19%) shows this was a genuine, sustained downtrend rather than a blip, meaning the recent 1-month bounce could simply be a bear-market rally that fails to reclaim $234 (the 200dma) let alone the $269 high. Trailing PE of 27.2x and price-to-book of 2.9x are still rich for a company generating only 7.3% revenue growth and 11.4% ROE, so the entire bull case hinges on the market believing the 52% forward earnings growth figure, which is often distorted by easy prior-year comparisons or one-time items in med-device names and could disappoint given STE's mid-single-digit organic growth profile; a miss would collapse the forward-PE justification and re-widen the gap toward the lower 52-week range near $195.",
+  "metrics": {
+    "momentum_63d": -0.04013462051508965,
+    "volatility_ann": 0.3133559606275101,
+    "rsi_14": 53.2208360339388,
+    "profit_margin": 0.13179,
+    "revenue_growth": 0.073,
+    "trailing_pe": 27.249056,
+    "return_on_equity": 0.11368,
+    "beta": 0.922,
+    "market_cap": 21059143680,
+    "analyst_coverage": 7
+  }
+}

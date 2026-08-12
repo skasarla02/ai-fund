@@ -1,0 +1,26 @@
+{
+  "ticker": "UPS",
+  "name": "United Parcel Service",
+  "sector": "Industrials",
+  "sub_industry": "Air Freight & Logistics",
+  "tier": "S&P 500",
+  "price": 113.43000030517578,
+  "as_of": "2026-07-20T17:32:04.389929+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "UPS trades in a confirmed uptrend (golden cross, price above both 50/200-day SMAs) even as trailing earnings have fallen -27% and revenue -1.6% YoY, with a -3.6% single-day drop suggesting the market is still digesting weak fundamentals against the technical strength.",
+  "thesis": "UPS shares are in a technically healthy uptrend\u2014price is 13% above the 200-day SMA, momentum is positive across 1-, 3-, and 6-month windows, and MACD/RSI readings (56.9) show room to run without being overbought. The stock's forward P/E of 14.2 (vs. trailing 18.4) implies the market expects an earnings inflection as cost-cutting (network reconfiguration, SurePost changes) and easier comps take hold. A 5.6% dividend yield provides a high floor for a well-covered mega-cap, and consensus recommendation remains 'buy' from 26 analysts, suggesting institutional sponsorship. If revenue stabilizes and margins recover toward historical operating-margin norms (well above the current 6.3%), the earnings recovery implied by forward estimates could validate the price action already seen since the golden cross.",
+  "bear_case": "The fundamentals are genuinely deteriorating, not just cyclically soft: earnings are down 27% YoY, revenue is contracting, operating margin is a thin 6.3%, and debt-to-equity sits at an elevated 181%, meaning the 33% ROE is largely a leverage artifact rather than efficient capital generation. Free cash flow of $4.6B against a market cap implied dividend obligation (5.57% yield on a shrinking earnings base) raises real payout-sustainability questions if earnings don't recover as the forward P/E discount assumes. The sharp -3.6% one-day move suggests a negative catalyst (likely guidance or volume data) that the multi-month momentum signals haven't yet priced in, and with 26 analysts already covering the name, any further fundamental disappointment gets repriced quickly\u2014leaving technical bulls exposed to a mean-reversion break below the 50-day SMA (106.4) if earnings trends don't inflect within the next quarter's reporting cycle.\u201d}}]}}]}}]}}]}",
+  "metrics": {
+    "momentum_63d": 0.08363459608099921,
+    "volatility_ann": 0.33606965772808206,
+    "rsi_14": 56.8580299254478,
+    "profit_margin": 0.05943,
+    "revenue_growth": -0.016,
+    "trailing_pe": 18.35437,
+    "return_on_equity": 0.33353,
+    "beta": 1.03,
+    "market_cap": null,
+    "analyst_coverage": 26
+  }
+}

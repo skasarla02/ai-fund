@@ -1,0 +1,26 @@
+{
+  "ticker": "TMO",
+  "name": "Thermo Fisher Scientific",
+  "sector": "Health Care",
+  "sub_industry": "Life Sciences Tools & Services",
+  "tier": "S&P 500",
+  "price": 530.0150146484375,
+  "as_of": "2026-07-20T17:26:05.145024+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "TMO has surged 14.8% over the past month and just crossed back above its 200-day moving average (530 vs 528.6), recovering sharply from a 15% six-month drawdown, with positive MACD momentum confirming the bounce.",
+  "thesis": "Thermo Fisher's recent 1-month momentum (+14.8%) shows a strong reversal from the 126-day drawdown of -15%, with price reclaiming the 200-day SMA and RSI at 61 signaling healthy but not yet overbought conditions. The forward PE of 19.4 versus trailing PE of 29.1 implies the market expects meaningful earnings growth (11.3% earnings growth, 6.2% revenue growth), and the stock trades well below its 52-week high of $644 (down ~18%), leaving room for re-rating. Solid fundamentals underpin the case: 40.9% gross margins, 17.9% operating margins, and consistent free cash flow generation (~$5.5B) support the 'buy' consensus from 26 analysts. A low beta (0.868) suggests defensive characteristics typical of life sciences tools names, and the recent momentum surge alongside a positive MACD histogram indicates institutional buying returning after a prolonged de-rating from macro/biotech funding concerns that have pressured the sub-industry over the past year.",
+  "bear_case": "The stock remains in a technically mixed position \u2014 no golden cross has formed (50-day SMA at 485 is still well below the 200-day at 528.6), and the sharp 1-month rally could be a bear-market bounce within a longer downtrend, given the -15% 126-day momentum reflects real underlying weakness likely tied to soft biopharma/academic capex spending that has plagued life sciences tools all year. Elevated debt-to-equity of 82.9% is a concern if higher-for-longer rates persist, and a trailing PE of 29x is still rich for a company only growing revenue at 6.2%, meaning any disappointment in the growth reacceleration story (which the forward PE compression to 19.4x is pricing in) could trigger a sharp de-rating back toward the 52-week low of $403. Additionally, 30.9% annualized volatility signals the market remains uncertain about the demand recovery timeline, and if end-market funding (NIH, biotech VC, pharma R&D budgets) stays constrained, the current bounce could fade quickly, especially with the stock now sitting right at 200-day resistance rather than through it with conviction.",
+  "metrics": {
+    "momentum_63d": 0.007493989563269077,
+    "volatility_ann": 0.30884130596846626,
+    "rsi_14": 61.31296325932756,
+    "profit_margin": 0.15151,
+    "revenue_growth": 0.062,
+    "trailing_pe": 29.105713,
+    "return_on_equity": 0.13523,
+    "beta": 0.868,
+    "market_cap": null,
+    "analyst_coverage": 26
+  }
+}

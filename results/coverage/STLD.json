@@ -1,0 +1,26 @@
+{
+  "ticker": "STLD",
+  "name": "Steel Dynamics",
+  "sector": "Materials",
+  "sub_industry": "Steel",
+  "tier": "S&P 500",
+  "price": 231.00999450683594,
+  "as_of": "2026-07-20T17:19:52.209263+00:00",
+  "rating": "bullish",
+  "conviction": 0.6,
+  "key_signal": "Despite a sharp -14.3% one-month pullback that pushed price below its 50-day SMA, STLD remains firmly above its rising 200-day SMA (+32% momentum over 6 months) with a forward P/E of just 12.2x versus a trailing 24.8x, implying the Street expects a 93% earnings jump.",
+  "thesis": "Steel Dynamics trades near 231, down about 20% from its 52-week high of 288.74, but the golden cross and above-200dma trend structure remain intact, and the pullback looks more like a mid-cycle consolidation than a trend reversal given still-positive MACD histogram and 63/126-day momentum of +15.6%/+32.6%. The forward P/E of 12.2x versus trailing 24.8x signals the market and analysts expect a major earnings inflection (earningsGrowth of 93.1%), consistent with 19.1% revenue growth and a 15.2% ROE. With 12 analysts already rating it 'buy' and a reasonable debt/equity of 48%, the stock offers a cyclical steel producer priced for recovery rather than for peak conditions, and the recent -19.1% one-day move plus RSI near 44 suggest the stock is oversold within an intact uptrend rather than broken.",
+  "bear_case": "The 21-day momentum of -14.3% and price falling below the 50-day SMA (245 vs current 231) show the recent rally has genuinely stalled, and at a 1.54 beta with 41% annualized volatility, STLD is highly exposed to any further deterioration in steel pricing or a slowing industrial economy. Free cash flow is negative (-$31.8M) despite $19B in revenue, gross margins are thin at 14%, and a price-to-book of 3.64x is rich for a cyclical commodity producer if the anticipated 93% earnings growth fails to materialize due to falling scrap/HRC prices, import competition, or tariff policy shifts \u2014 in which case the 'cheap' forward P/E becomes a value trap rather than a discount.",
+  "metrics": {
+    "momentum_63d": 0.15582024305901498,
+    "volatility_ann": 0.4139825791097992,
+    "rsi_14": 43.72739474770142,
+    "profit_margin": 0.07216,
+    "revenue_growth": 0.191,
+    "trailing_pe": 24.786482,
+    "return_on_equity": 0.15247,
+    "beta": 1.542,
+    "market_cap": 33314594816,
+    "analyst_coverage": 12
+  }
+}

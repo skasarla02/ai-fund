@@ -1,0 +1,26 @@
+{
+  "ticker": "URI",
+  "name": "United Rentals",
+  "sector": "Industrials",
+  "sub_industry": "Trading Companies & Distributors",
+  "tier": "S&P 500",
+  "price": 1020.4749755859375,
+  "as_of": "2026-07-20T17:32:19.973791+00:00",
+  "rating": "neutral",
+  "conviction": 0.56,
+  "key_signal": "URI's price has slipped below its 50-day SMA (1020 vs 1036) with negative MACD momentum and a 21-day drawdown of -2.7%, even as it remains well above its 200-day SMA (+14%) in a still-intact golden cross.",
+  "thesis": "United Rentals continues to compound from a position of operating strength: 23% operating margins, 28% ROE, and a forward P/E of 18.9x that's meaningfully cheaper than its trailing 26.1x, implying the market expects earnings growth to accelerate from the current 6.6% pace. The stock's 63-day momentum of +28% shows the underlying uptrend that took it from the 52-week low of 701 to near 1144 is still fundamentally supported by fleet demand tied to infrastructure and reshoring capex, and with 21 analysts already rating it a consensus 'buy,' the sell-side is validating the cyclical recovery thesis even as short-term technicals cool off.",
+  "bear_case": "This is a highly levered (debt/equity 167%), high-beta (1.79) industrial cyclical trading at a rich 7.1x price-to-book, and the recent price action \u2014 a break below the 50dma, RSI at 41, and a materially negative MACD histogram (-11.9) \u2014 looks like classic distribution after a 28% three-month run, not a buying dip; if construction/industrial capex softens even modestly (revenue growth already decelerated to 7.2%), a name with this balance-sheet leverage and beta could see outsized downside, and with 21 analysts already covering it closely, any earnings disappointment gets repriced immediately rather than offering a slow-discovery opportunity.",
+  "metrics": {
+    "momentum_63d": 0.284409532100363,
+    "volatility_ann": 0.3292178763715212,
+    "rsi_14": 41.423038992541684,
+    "profit_margin": 0.15319,
+    "revenue_growth": 0.072,
+    "trailing_pe": 26.105782,
+    "return_on_equity": 0.28237,
+    "beta": 1.794,
+    "market_cap": 63929241600,
+    "analyst_coverage": 21
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "VLTO",
+  "name": "Veralto",
+  "sector": "Industrials",
+  "sub_industry": "Environmental & Facilities Services",
+  "tier": "S&P 500",
+  "price": 93.30999755859375,
+  "as_of": "2026-07-20T17:34:14.224173+00:00",
+  "rating": "bullish",
+  "conviction": 0.6,
+  "key_signal": "VLTO has surged 12.9% over the past month and is now well above its 50-day SMA ($87.08), signaling a technical recovery after a 9.3% six-month drawdown, even though it still sits just under its 200-day average ($94.03 vs $93.31).",
+  "thesis": "Veralto's fundamentals justify a premium: 59.9% gross margins, 23.8% operating margins, and a 36.5% ROE reflect a high-quality, asset-light water/environmental analytics franchise inherited from the Danaher playbook. Revenue growth of 6.8% and earnings growth of 13.3% show the business is still compounding, and a forward P/E of ~20x (down from trailing 24x) suggests the market is pricing in continued margin expansion rather than a re-rating. The stock's low beta (0.78) and steady 'buy' consensus from 17 analysts indicate institutional comfort, while the recent 21-day momentum (+12.9%) and positive MACD histogram (0.16) show the post-pullback base is being retested successfully \u2014 a golden-cross setup is close given the 50/200 SMA gap has narrowed to under 7%. With shares still ~15% off the 52-week high of $110.11, there's room to re-approach prior highs if the uptrend continues.",
+  "bear_case": "The stock remains below its 200-day moving average and has not achieved a golden cross, meaning the medium-term trend is still technically bearish despite the recent bounce \u2014 the 126-day momentum of -9.3% shows this was a real drawdown, not noise. Valuation is rich in absolute terms: a price-to-book of 7.6x and trailing P/E of 24x leave little margin for error if revenue growth (only 6.8%) decelerates further, especially as this is a recent spinoff with a shorter standalone earnings track record. Debt-to-equity of 95.5% is elevated for an industrial with modest FCF ($768M against $5.6B revenue, roughly 13.7% FCF margin), constraining flexibility for M&A-driven growth that peers in this niche often rely on. Annualized volatility of 25.7% is high for a low-beta industrial, suggesting the market is still uncertain about the stock's true risk profile, and with 17 analysts already covering it, any earnings disappointment relative to the 13.3% growth expectation would be quickly and harshly repriced.",
+  "metrics": {
+    "momentum_63d": 0.027121839921433688,
+    "volatility_ann": 0.2569392230406977,
+    "rsi_14": 61.96317749061204,
+    "profit_margin": 0.17325,
+    "revenue_growth": 0.068,
+    "trailing_pe": 24.048967,
+    "return_on_equity": 0.36463,
+    "beta": 0.782,
+    "market_cap": 22916866048,
+    "analyst_coverage": 17
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "SMCI",
+  "name": "Supermicro",
+  "sector": "Information Technology",
+  "sub_industry": "Technology Hardware, Storage & Peripherals",
+  "tier": "S&P 500",
+  "price": 24.169599533081055,
+  "as_of": "2026-07-20T17:20:48.654403+00:00",
+  "rating": "bearish",
+  "conviction": 0.58,
+  "key_signal": "SMCI trades ~29% below both its 50- and 200-day moving averages with negative momentum across all windows, while burning through $7.4B in free cash flow against a $15.6B market cap.",
+  "thesis": "The bull case rests on stunningly cheap forward multiples (7.7x forward PE, 0.46x sales) against 123% revenue growth and 326% earnings growth tied to AI server demand, with RSI near 35 suggesting the stock is oversold and due for a technical bounce from its $19.48 52-week low.",
+  "bear_case": "The technical picture is unambiguously deteriorating (below both SMAs, no golden cross, negative MACD histogram, mom_126d of -17.8%) and the fundamentals explain why: gross margins of just 8.4% and operating margins of 6.1% show SMCI is losing pricing power in a commoditizing AI-server market against Dell and HPE, while debt-to-equity of 121% and negative free cash flow of $7.4B (nearly half its market cap) signal the company is funding hypergrowth with leverage and working-capital burn it cannot sustain if AI capex decelerates or GPU supply/customer concentration issues bite; the stock's history of accounting restatements and delisting threats in 2024 also means the market may be structurally unwilling to re-rate the multiple higher even if growth continues, capping any oversold bounce.",
+  "metrics": {
+    "momentum_63d": -0.15372549071987385,
+    "volatility_ann": 1.2279029700029398,
+    "rsi_14": 34.749382966449815,
+    "profit_margin": 0.03701,
+    "revenue_growth": 1.227,
+    "trailing_pe": 12.71579,
+    "return_on_equity": 0.17877,
+    "beta": 1.936,
+    "market_cap": 15628451840,
+    "analyst_coverage": 16
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "TER",
+  "name": "Teradyne",
+  "sector": "Information Technology",
+  "sub_industry": "Semiconductor Materials & Equipment",
+  "tier": "S&P 500",
+  "price": 338.70001220703125,
+  "as_of": "2026-07-20T17:24:30.819737+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "Revenue growth of 87% and a 5% single-day pop signal renewed AI-driven semiconductor test demand, even as the stock trades 30% below its 52-week high of $487.91 and below its 50-day average.",
+  "thesis": "Teradyne is riding a powerful cyclical upswing in semiconductor test equipment demand tied to AI chip production, evidenced by 87% revenue growth, 37.6% operating margins, and 28.75% ROE \u2014 fundamentals far stronger than the stock's recent price action suggests. The stock remains above its 200-day moving average with an active golden cross, and the 126-day momentum of +48.9% shows the primary uptrend is intact despite a sharp 1-month pullback (-17%) that has taken shares from $487 to $338. Today's 5% pop and a 'buy' consensus from 17 analysts suggest the market may be finding a floor after the correction, and forward P/E of 34x looks more digestible than the trailing 63x once the current earnings growth (reported at over 300%) is annualized.",
+  "bear_case": "The valuation is still rich for a cyclical semiconductor equipment name \u2014 63x trailing earnings and 34x forward \u2014 while debt-to-equity of 2.62x is unusually high for the sector and free cash flow of only $298M against $3.79B in revenue shows weak cash conversion relative to reported margins, raising questions about capex intensity or buyback-funded leverage. Annualized volatility above 100% and a negative MACD histogram (-8.25) with RSI at 43 indicate the recent downtrend has real technical momentum, and the stock is still down sharply from its 52-week high, meaning the current bounce could be a dead-cat rally within a broader de-rating if AI-driven test demand growth decelerates from its currently unsustainable 87% pace.",
+  "metrics": {
+    "momentum_63d": -0.10923830053422323,
+    "volatility_ann": 1.068567739123659,
+    "rsi_14": 43.02844777520482,
+    "profit_margin": 0.22553,
+    "revenue_growth": 0.87,
+    "trailing_pe": 62.95539,
+    "return_on_equity": 0.2875,
+    "beta": 1.742,
+    "market_cap": null,
+    "analyst_coverage": 17
+  }
+}

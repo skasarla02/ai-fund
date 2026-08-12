@@ -1,0 +1,26 @@
+{
+  "ticker": "STT",
+  "name": "State Street Corporation",
+  "sector": "Financials",
+  "sub_industry": "Asset Management & Custody Banks",
+  "tier": "S&P 500",
+  "price": 181.9499969482422,
+  "as_of": "2026-07-20T17:19:34.604306+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "Strong multi-month price momentum (up ~35% over 126 days, trading well above both 50- and 200-day moving averages with a golden cross) contrasts with soft trailing fundamentals (revenue -2.8%, earnings -24.1% growth), signaling the market is pricing in a forward re-rating rather than trailing results.",
+  "thesis": "STT is in a firmly established uptrend (above_200dma=1, golden_cross=1, mom_63d +25.7%, mom_126d +35%) with RSI at 64 and positive MACD histogram suggesting continued but not yet overbought momentum. Valuation remains reasonable at 16x trailing and just 12x forward earnings, well below typical market multiples, with a 2% dividend yield and solid 27.8% operating margin and 12.4% ROE. The forward PE compression (16x to 12x) implies analysts expect a sharp earnings recovery, consistent with the 'buy' consensus recommendation. As an asset/custody manager, STT benefits from higher rates on client cash balances, rising AUM/AUC from market appreciation (helped by the broad market rally reflected in its own momentum), and fee income leverage as markets recover, which should reverse the recent earnings decline. Trading near its 52-week high ($192.51) with price at $181.95 shows the market rewarding this improving setup.",
+  "bear_case": "The trailing numbers are genuinely weak \u2014 revenue down 2.8% and earnings down 24.1% year-over-year \u2014 and this is not a story stock but a mature, capital-intensive custody bank where such fundamental deterioration is hard to wave away with multiple expansion alone; if forward earnings estimates (implying the 12x forward PE) disappoint, the stock has priced in a lot of recovery already after a 35% six-month run and sits near 52-week highs, leaving little margin for error. High beta (1.43) and elevated 30-day annualized volatility (24.4%) mean any macro shock, rate-cut disappointment, or market drawdown (which would directly hit AUC/AUM and fee revenue) could trigger an outsized pullback, and RSI near 64 combined with proximity to the 52-week high raises the risk of a near-term technical reversal or profit-taking before fundamentals actually confirm the bullish setup.",
+  "metrics": {
+    "momentum_63d": 0.25734484291196624,
+    "volatility_ann": 0.24398877113503817,
+    "rsi_14": 63.87092688455526,
+    "profit_margin": 0.23005,
+    "revenue_growth": -0.028,
+    "trailing_pe": 16.059135,
+    "return_on_equity": 0.12437,
+    "beta": 1.433,
+    "market_cap": 49982128128,
+    "analyst_coverage": 15
+  }
+}

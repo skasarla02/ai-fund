@@ -1,0 +1,26 @@
+{
+  "ticker": "TDG",
+  "name": "TransDigm Group",
+  "sector": "Industrials",
+  "sub_industry": "Aerospace & Defense",
+  "tier": "S&P 500",
+  "price": 1209.4400634765625,
+  "as_of": "2026-07-20T17:28:18.733720+00:00",
+  "rating": "bearish",
+  "conviction": 0.58,
+  "key_signal": "TDG trades below both its 50- and 200-day moving averages with negative momentum across all horizons (-8.1% 1m, -4.5% 3m, -15.6% 6m) despite still trading at 25.7x forward earnings, signaling the market is de-rating a premium multiple faster than fundamentals are deteriorating.",
+  "thesis": "TransDigm's aftermarket-heavy, sole-source parts model generates extraordinary profitability (59.7% gross margin, 46.7% operating margin, 21.9% net margin) and $1.5B of free cash flow on $9.5B revenue, with 18.3% revenue growth still outpacing most industrial peers; a low beta (0.88) reflects the durability of aftermarket cash flows even in downturns, and sell-side consensus remains 'buy' across all 20 covering analysts, suggesting the current ~26% pullback from the 52-week high is a valuation reset rather than a fundamental breakdown, potentially setting up a bounce if RSI (37) stabilizes and the stock finds support near its 52-week low of $1,123.",
+  "bear_case": "The technical picture is unambiguous and persistent \u2014 negative momentum at 21d, 63d, and 126d horizons simultaneously, price below both the 50-day ($1,254) and 200-day ($1,283) moving averages, no golden cross, and a deeply negative MACD histogram (-15) \u2014 this is not noise but a sustained distribution pattern over six months; meanwhile earnings growth (11.5%) is decelerating well below revenue growth (18.3%), implying margin pressure or share dilution, and the stock still commands 37.7x trailing / 25.7x forward earnings, leaving substantial room for further multiple compression if aerospace supply-chain normalization, defense budget uncertainty, or M&A-funded leverage (TDG's historical playbook) disappoints \u2014 a premium-priced industrial in a confirmed downtrend with elevated volatility (32% annualized) is exactly the setup that keeps grinding lower until sentiment, not just price, resets.",
+  "metrics": {
+    "momentum_63d": -0.04458553827262235,
+    "volatility_ann": 0.3189288019863859,
+    "rsi_14": 37.17438506510516,
+    "profit_margin": 0.21909,
+    "revenue_growth": 0.183,
+    "trailing_pe": 37.724266,
+    "return_on_equity": null,
+    "beta": 0.884,
+    "market_cap": null,
+    "analyst_coverage": 20
+  }
+}

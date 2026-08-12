@@ -1,0 +1,26 @@
+{
+  "ticker": "TYL",
+  "name": "Tyler Technologies",
+  "sector": "Information Technology",
+  "sub_industry": "Application Software",
+  "tier": "S&P 500",
+  "price": 317.2349853515625,
+  "as_of": "2026-07-20T17:29:40.839000+00:00",
+  "rating": "bullish",
+  "conviction": 0.56,
+  "key_signal": "TYL has cratered ~49% off its 52-week high of $621 to $317, yet the last 21 trading days show a sharp +10.3% reversal with positive MACD momentum, suggesting the selloff may be exhausting itself.",
+  "thesis": "After a brutal 126-day drawdown (-28.9%) that pushed the stock well below both its 50- and 200-day moving averages, TYL is showing early signs of technical stabilization: a positive 21-day momentum of +10.3%, RSI at a healthy 56 (neither overbought nor oversold), and a positive MACD histogram indicating building bullish momentum. Fundamentally, the forward P/E of 21.4x is roughly half the trailing P/E of 43.8x, implying the market/analysts expect meaningful earnings acceleration from depressed levels. Gross margins remain robust at 46.8% and operating margins at 17%, showing the core business model (public sector software with recurring SaaS revenue) is intact even as growth decelerated. Revenue growth of 8.6% continues despite the stock's collapse, and with 21 analysts still rating this a 'buy,' there's an institutional base ready to defend the name if fundamentals stabilize. Low beta (0.82) also suggests this isn't a speculative name prone to permanent impairment \u2014 the drawdown looks more sentiment/multiple-driven than business-model-driven.",
+  "bear_case": "The trend remains firmly bearish on every structural technical measure: price is below both the 50-day ($306) and 200-day ($384) moving averages with no golden cross, and the 126-day momentum of -28.9% signals a broken long-term uptrend that a single 21-day bounce doesn't reverse. More concerning fundamentally, earnings growth has collapsed to just 2.2% against 8.6% revenue growth \u2014 margin compression or rising costs are eating into profitability, and ROE of just 8.9% is mediocre for a software company trading at 43.75x trailing earnings. Debt-to-equity of 1.35 is elevated for a company with slowing earnings growth, limiting balance-sheet flexibility. The 52-week range from $270.71 to $621.34 shows this stock lost more than half its value, and until it reclaims the 200dma, every rally is vulnerable to being sold into by longer-term holders still underwater. With 21 analysts already covering the name, any real fundamental deterioration (e.g., a soft government/public-sector spending cycle, which is TYL's core end market) would be quickly priced in, and the 'buy' consensus could still lag reality, as sell-side ratings are notoriously slow to downgrade after a crash of this magnitude.",
+  "metrics": {
+    "momentum_63d": -0.07406380749224795,
+    "volatility_ann": 0.39997785775617284,
+    "rsi_14": 56.17796690566334,
+    "profit_margin": 0.13262,
+    "revenue_growth": 0.086,
+    "trailing_pe": 43.75655,
+    "return_on_equity": 0.08930001,
+    "beta": 0.821,
+    "market_cap": null,
+    "analyst_coverage": 21
+  }
+}

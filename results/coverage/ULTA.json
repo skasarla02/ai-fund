@@ -1,0 +1,26 @@
+{
+  "ticker": "ULTA",
+  "name": "Ulta Beauty",
+  "sector": "Consumer Discretionary",
+  "sub_industry": "Other Specialty Retail",
+  "tier": "S&P 500",
+  "price": 485.20001220703125,
+  "as_of": "2026-07-20T17:31:12.332550+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "Stock has staged a sharp technical recovery (mom_21d +7.6%, price now above the 50-day SMA at 480 with positive MACD) even though it remains far below its 200-day SMA and 52-week high, while fundamentals show accelerating growth (revenue +11.1%, earnings +15.5%) at a reasonable 15.2x forward P/E.",
+  "thesis": "ULTA has round-tripped from a 52-week high of $715 to $485, a ~32% drawdown that has compressed valuation to 18.2x trailing / 15.2x forward earnings despite ROE near 47%, gross margins above 43%, and reaccelerating revenue growth (+11.1%) and earnings growth (+15.5%). The stock is showing clear signs of a bottoming process: price has reclaimed the 50-day SMA, momentum over the last 21 days is strongly positive (+7.6%), RSI is a healthy 57 (not overbought), and MACD histogram is positive, all suggesting the multi-month downtrend (mom_126d -27%) is stalling out. Sell-side consensus remains 'buy' across 24 analysts, and with a beta of 0.879 the stock has historically been less volatile than the market, making the current setup attractive risk/reward for a name trading well off its highs but with fundamentals still intact (FCF near $1B, healthy margins).",
+  "bear_case": "The stock is still below both its 50-day and 200-day moving averages on a longer horizon (200dma at 557 vs price 485, no golden cross), and the 126-day momentum of -27% signals a structural derating that a single month of bounce doesn't reverse \u2014 this is a stock that's fallen over 30% from its highs for a reason, likely reflecting concerns about beauty category deceleration, promotional intensity, and market share loss to competitors like Sephora/Amazon. Price-to-book at 7.6x is still rich for a specialty retailer facing traffic and comp pressure, and debt-to-equity of 89% adds leverage risk if earnings growth disappoints. A 21-day bounce inside a broader downtrend is exactly the kind of dead-cat bounce that traps investors before the 200dma resistance (557, ~15% above current price) reasserts itself.",
+  "metrics": {
+    "momentum_63d": -0.12317474148628149,
+    "volatility_ann": 0.3212456581176269,
+    "rsi_14": 56.937889844474526,
+    "profit_margin": 0.09355,
+    "revenue_growth": 0.111,
+    "trailing_pe": 18.19955,
+    "return_on_equity": 0.47449002,
+    "beta": 0.879,
+    "market_cap": 20858415104,
+    "analyst_coverage": 24
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "SO",
+  "name": "Southern Company",
+  "sector": "Utilities",
+  "sub_industry": "Electric Utilities",
+  "tier": "S&P 500",
+  "price": 94.5999984741211,
+  "as_of": "2026-07-20T17:18:25.509820+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "SO trades above both its 50- and 200-day moving averages in a confirmed golden cross, but momentum is stalling (negative MACD histogram, RSI near 48) while trading at a rich 24x trailing / 19x forward P/E for a utility with negative earnings growth.",
+  "thesis": "Southern Company remains a classic defensive, low-beta (0.33) regulated utility with a golden cross intact and price sitting comfortably above both the 50-day ($93.94) and 200-day ($91.80) moving averages, reflecting a durable uptrend over the past six months (+8.3% on 126-day momentum). Revenue growth of 8% shows the regulated rate base and Georgia Power/Vogtle-driven capex are translating into top-line expansion, and operating margins of 25.8% remain healthy for the sector. The 3.19% dividend yield offers income support, and with 19 analysts covering the name at a 'hold' consensus, any positive surprise (e.g., data-center demand growth in its Southeast service territory) could re-rate the stock modestly higher given its already-established technical uptrend.",
+  "bear_case": "The valuation is stretched for a utility with flat-to-negative earnings growth (-0.8%) and negative free cash flow (-$3.95B), implying continued reliance on external financing or equity issuance to fund the elevated debt-to-equity ratio of 190% \u2014 a red flag as it sits near multi-year highs on interest-rate-sensitive utility valuations; short-term technicals are also softening, with MACD histogram turning negative and price pulling back 0.7% on the latest session while trading 6% below its 52-week high of $100.84, suggesting the momentum that drove the golden cross is fading and a mean-reversion toward the 50-day/200-day support band (or through it) is plausible if 10-year yields tick up, especially since ROE of 11% doesn't clearly justify a 24x trailing multiple.",
+  "metrics": {
+    "momentum_63d": 0.00923994924258631,
+    "volatility_ann": 0.19608275909787443,
+    "rsi_14": 47.97449140839323,
+    "profit_margin": 0.14458999,
+    "revenue_growth": 0.08,
+    "trailing_pe": 24.194372,
+    "return_on_equity": 0.109910004,
+    "beta": 0.332,
+    "market_cap": null,
+    "analyst_coverage": 19
+  }
+}

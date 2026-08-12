@@ -1,0 +1,26 @@
+{
+  "ticker": "VEEV",
+  "name": "Veeva Systems",
+  "sector": "Health Care",
+  "sub_industry": "Health Care Technology",
+  "tier": "S&P 500",
+  "price": 199.5500030517578,
+  "as_of": "2026-07-20T17:33:40.847557+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "VEEV just staged a sharp 21-day (+28.9%) momentum surge on strong fundamentals (16.3% revenue growth, 75% gross margin, ~38% FCF margin) but remains below its 200-day moving average and 36% off its 52-week high, suggesting a recovery still in its early stages.",
+  "thesis": "Veeva's recent price action (mom_21d +28.9%, mom_63d +18.8%, positive MACD histogram) signals a strong reversal from its multi-month drawdown, likely driven by a fundamental catalyst given the scale of the move. The underlying business remains excellent: 75% gross margins, 31% operating margins, 28% net margins, and revenue growth of 16.3% with earnings growth of 14.6% \u2014 all funding ~$1.26B of free cash flow on $3.3B revenue, an enviable FCF conversion for a software company. Forward PE of ~19.9x is reasonable relative to growth and margin profile, especially versus the trailing PE of 35x, implying the market expects continued earnings acceleration. With 27 analysts already rating it a consensus 'buy' and the stock still 36% below its 52-week high of $310.50, there is room for multiple re-rating as the stock reclaims its 200-day moving average (208.48, just 4.5% above current price) and the golden cross triggers, which could attract additional momentum-driven buying.",
+  "bear_case": "The stock remains technically weak on a medium-term basis \u2014 mom_126d is -8.9%, it's still below its 200dma with no golden cross, and RSI at 68.3 is flirting with overbought territory after a violent 21-day sprint, raising real risk of a sharp pullback or consolidation once the momentum trade gets crowded, especially given 44% annualized volatility. With 27 analysts already covering the name and a consensus 'buy' already priced in, much of the good news (whatever drove the rally) may already be reflected, limiting further re-rating upside. Additionally, debt-to-equity of 1.41 is unusually high for a software company with Veeva's cash-generative profile, and priceToBook of 4.45 combined with a still-rich trailing PE of 35x means any deceleration in the 16.3% revenue growth or earnings growth (14.6%, already lower than revenue growth) could trigger multiple compression back toward the 52-week low of $148.05, a level nearly 26% below current price.'",
+  "metrics": {
+    "momentum_63d": 0.18815127524684572,
+    "volatility_ann": 0.44273878187080634,
+    "rsi_14": 68.30941680178304,
+    "profit_margin": 0.28370002,
+    "revenue_growth": 0.163,
+    "trailing_pe": 35.318584,
+    "return_on_equity": 0.13934,
+    "beta": 0.941,
+    "market_cap": 32415559680,
+    "analyst_coverage": 27
+  }
+}

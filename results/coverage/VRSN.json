@@ -1,0 +1,26 @@
+{
+  "ticker": "VRSN",
+  "name": "Verisign",
+  "sector": "Information Technology",
+  "sub_industry": "Internet Services & Infrastructure",
+  "tier": "S&P 500",
+  "price": 277.2049865722656,
+  "as_of": "2026-07-20T17:35:04.209705+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "VRSN trades above both its 50- and 200-day moving averages with a golden cross intact, reflecting durable uptrend momentum in a near-monopoly, 68% operating-margin domain registry business.",
+  "thesis": "Verisign's economics are exceptional for a slow-growth business: 88% gross margins, 68% operating margins, and ~50% net margins stem from its exclusive .com/.net registry contracts, which give it pricing power with minimal capex (FCF of $807M on $1.68B revenue). The stock is in a confirmed uptrend (above 200dma, golden cross, MACD histogram +2.8, RSI a healthy 59.5 signaling room before overbought), with 126-day momentum of +11.9% and a low beta of 0.707 offering defensive characteristics inside a volatile tech tape. Earnings growth (11.4%) is outpacing revenue growth (6.6%), evidence of continued margin expansion/buyback-driven EPS accretion, and analyst sentiment (recommendation 'buy') is supportive even with limited five-analyst coverage, which itself suggests the stock could be under-followed relative to the quality of the underlying cash-flow stream.",
+  "bear_case": "Verisign's negative book value (price-to-book of -11.4) is the direct result of years of aggressive debt-funded buybacks, meaning the balance sheet has effectively no equity cushion and the company is structurally reliant on continued strong FCF and favorable refinancing conditions to sustain its capital return program \u2014 any pricing cap tightening from ICANN, unexpected renewal-rate softness, or a rise in borrowing costs could quickly expose this leverage. Additionally, the stock trades at 30.6x trailing and 26.5x forward earnings for only mid-single-digit revenue growth, a premium multiple that leaves little room for error, and the recent price action (277.2 now sitting just below its 50dma of 278.9, with 63-day momentum a tepid 1.4%) suggests the strong 126-day rally may be losing steam right at a level near the 52-week high of 312.48, raising the risk of a near-term pullback or consolidation rather than continued breakout.",
+  "metrics": {
+    "momentum_63d": 0.01420327380503772,
+    "volatility_ann": 0.310629612929835,
+    "rsi_14": 59.52649591268044,
+    "profit_margin": 0.49958,
+    "revenue_growth": 0.066,
+    "trailing_pe": 30.630384,
+    "return_on_equity": null,
+    "beta": 0.707,
+    "market_cap": 25225654272,
+    "analyst_coverage": 5
+  }
+}

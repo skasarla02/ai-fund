@@ -1,0 +1,26 @@
+{
+  "ticker": "VMC",
+  "name": "Vulcan Materials Company",
+  "sector": "Materials",
+  "sub_industry": "Construction Materials",
+  "tier": "S&P 500",
+  "price": 280.8299865722656,
+  "as_of": "2026-07-20T17:37:31.720614+00:00",
+  "rating": "bearish",
+  "conviction": 0.6,
+  "key_signal": "VMC trades below both its 50- and 200-day moving averages with negative momentum across all timeframes (-4.7% 21d, -6.6% 126d) despite a rich 33x trailing / 26x forward P/E.",
+  "thesis": "Vulcan's core aggregates business benefits from infrastructure spending tailwinds and pricing power, evidenced by 29.7% earnings growth outpacing 7.4% revenue growth, implying margin expansion. A pullback from the 52-week high of $331 to $281 (-15%) combined with a still-bullish sell-side consensus (22 analysts, 'buy' rating) suggests the market may be overreacting to near-term weakness, setting up a mean-reversion opportunity once technicals stabilize.",
+  "bear_case": "The technical picture is unambiguously deteriorating \u2014 price is below both the 50-day ($286) and 200-day ($291) moving averages, MACD histogram is negative (-2.26), and RSI at 41 shows room to fall further before oversold, all while realized volatility has climbed to 35.9% annualized, signaling elevated downside risk rather than a base for reversal. More concerning fundamentally, free cash flow of just $244M against a $36.4B market cap (a FCF yield under 1%) is starkly inconsistent with the reported 29.7% earnings growth, suggesting aggressive capex, working capital drag, or lower earnings quality than the multiple (33x trailing PE, 4.3x price-to-book) demands; combined with 61% debt-to-equity, any slowdown in construction/infrastructure demand or rate-driven multiple compression could hit this stock hard given how little cash-flow cushion exists to support the premium valuation.",
+  "metrics": {
+    "momentum_63d": -0.03538338958720988,
+    "volatility_ann": 0.358525344933746,
+    "rsi_14": 41.445274854459896,
+    "profit_margin": 0.13809,
+    "revenue_growth": 0.074,
+    "trailing_pe": 33.234318,
+    "return_on_equity": 0.13458,
+    "beta": 1.05,
+    "market_cap": 36439064576,
+    "analyst_coverage": 22
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "TRMB",
+  "name": "Trimble Inc.",
+  "sector": "Information Technology",
+  "sub_industry": "Application Software",
+  "tier": "S&P 500",
+  "price": 53.130001068115234,
+  "as_of": "2026-07-20T17:28:55.108613+00:00",
+  "rating": "bullish",
+  "conviction": 0.6,
+  "key_signal": "TRMB trades near its 52-week low (53.13 vs 87.5 high) yet forward PE has compressed to 13x on 55.6% expected earnings growth, and 21-day momentum has turned sharply positive (+8.7%) with a rising MACD histogram.",
+  "thesis": "Trimble's stock has been cut nearly 40% from its 52-week high despite improving fundamentals: revenue growth of 11.8%, robust 71.5% gross margins, and 15.9% operating margins signal a high-quality software/instrumentation business. The forward P/E of 13x versus a trailing P/E of 27.8x implies the market is pricing in a major earnings inflection (56% earnings growth), likely reflecting the company's transition toward higher-margin recurring software revenue. Technicals show early stabilization \u2014 mom_21d is +8.7%, RSI is neutral at 52 (no longer oversold-panic), and MACD histogram is positive, suggesting the multi-month downtrend (mom_63d -23%, mom_126d -32%) may be bottoming. With all 12 covering analysts at 'strong buy' and only 12 analysts covering a $12.4B S&P 500 name, there's room for re-rating if the growth acceleration confirms in upcoming prints.",
+  "bear_case": "The stock remains below both its 50-day (53.56) and 200-day (68.44) moving averages with no golden cross, meaning the primary trend is still bearish and the recent 21-day bounce could be a dead-cat rally within a larger downtrend that erased over 30% of value in six months. ROE of just 8.25% and price-to-book of 2.18x look unimpressive for a company trading at 27.8x trailing earnings, and the wide gap between trailing and forward PE assumes analysts' aggressive 55.6% earnings growth materializes \u2014 any guidance disappointment (common after major business-model transitions like Trimble's software pivot) could quickly re-rate the forward multiple back toward the trailing one. With beta of 1.38 and 28.6% annualized volatility, TRMB is also more exposed than peers to any broader market or rate-driven tech selloff, and being near the 52-week low with a 'strong buy' consensus from all 12 analysts raises the risk that sell-side sentiment hasn't yet caught up to fundamental deterioration.",
+  "metrics": {
+    "momentum_63d": -0.23322268197272866,
+    "volatility_ann": 0.2860695612673696,
+    "rsi_14": 51.934688803749935,
+    "profit_margin": 0.12375,
+    "revenue_growth": 0.118,
+    "trailing_pe": 27.816755,
+    "return_on_equity": 0.08252,
+    "beta": 1.383,
+    "market_cap": 12385215488,
+    "analyst_coverage": 12
+  }
+}

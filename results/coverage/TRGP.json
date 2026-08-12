@@ -1,0 +1,26 @@
+{
+  "ticker": "TRGP",
+  "name": "Targa Resources",
+  "sector": "Energy",
+  "sub_industry": "Oil & Gas Storage & Transportation",
+  "tier": "S&P 500",
+  "price": 283.4200134277344,
+  "as_of": "2026-07-20T17:23:08.266412+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "TRGP is trading within 1% of its 52-week high with a golden cross intact and 57% six-month momentum, while sell-side earnings growth estimates of +143% reflect the payoff from its Permian NGL/G&P buildout.",
+  "thesis": "Targa's technical picture is unambiguously strong: price sits above both the 50- and 200-day moving averages, a golden cross is in place, MACD is positive, and RSI at 62 shows room before overbought without any exhaustion signal. The fundamental growth story backs this up \u2014 despite a reported revenue decline (likely mix/commodity-price related), earnings growth of +142.9% and ROE of 74% show the multi-year capex cycle into Permian NGL logistics and export capacity is now converting to bottom-line leverage. A low beta of 0.70 for an energy name suggests the market treats Targa more like a contracted fee-based infrastructure story than a commodity-price play, which supports a premium multiple, and 21 analysts still rate it a consensus buy, meaning institutional sentiment hasn't turned skeptical even after the run-up.",
+  "bear_case": "The balance sheet and valuation leave very little margin for error: debt-to-equity of 585% and negative free cash flow (-$319M) show Targa is still funding a large capex program with debt while trading at 19.4x book value and nearly 24x forward earnings \u2014 multiples that assume flawless execution and continued NGL/export volume growth. Revenue growth is already negative (-10.2%), and if commodity price weakness or a slowdown in Permian production growth curtails throughput, the earnings growth engine (which is unusually earnings-growth-heavy relative to revenue) could reverse sharply, and a stock priced for perfection at 52-week highs with 28.5% annualized volatility would be vulnerable to a fast multiple compression rather than a gradual pullback.",
+  "metrics": {
+    "momentum_63d": 0.20952622139154076,
+    "volatility_ann": 0.285434871974913,
+    "rsi_14": 62.284777973303626,
+    "profit_margin": 0.12874,
+    "revenue_growth": -0.102,
+    "trailing_pe": 28.949951,
+    "return_on_equity": 0.74097997,
+    "beta": 0.704,
+    "market_cap": 60834377728,
+    "analyst_coverage": 21
+  }
+}

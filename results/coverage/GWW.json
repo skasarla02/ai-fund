@@ -1,0 +1,26 @@
+{
+  "ticker": "GWW",
+  "name": "W. W. Grainger",
+  "sector": "Industrials",
+  "sub_industry": "Industrial Machinery & Supplies & Components",
+  "tier": "S&P 500",
+  "price": 1368.7750244140625,
+  "as_of": "2026-07-20T17:38:09.244632+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "GWW trades near all-time highs at 36.7x trailing earnings and 16.4x book value even as MACD momentum turns negative and the stock has already dropped ~2% off its 52-week high of $1419.91.",
+  "thesis": "GWW remains a best-in-class industrial distributor with a 46% ROE, 39% gross margins, 10% revenue growth and 18% earnings growth, and the technical picture is unambiguously bullish: price sits above both the 50-day ($1310) and 200-day ($1112) moving averages with a confirmed golden cross and 29% appreciation over the past six months. A durable moat in MRO distribution, sticky high-touch/e-commerce hybrid model, and consistent execution justify a premium multiple, and the forward PE of 27x is more reasonable than the trailing 37x given projected earnings growth.",
+  "bear_case": "Valuation is extended by almost any historical standard for this name \u2014 36.7x trailing earnings and 16.4x price-to-book are well above GWW's typical range, leaving little room for error, and the 14 covering analysts collectively rate the stock a 'hold,' signaling the sell-side sees the risk/reward as balanced at best. The negative MACD histogram and a sharp -1.9% single-day move suggest momentum is already decelerating after a strong run, and with 64% debt-to-equity and a modest 9.7% net margin, any macro slowdown in industrial capex or manufacturing activity could compress both revenue growth and the premium multiple simultaneously, creating outsized downside from a stock priced for continued perfection.",
+  "metrics": {
+    "momentum_63d": 0.17937579462946185,
+    "volatility_ann": 0.2302376376030665,
+    "rsi_14": 55.26056578925069,
+    "profit_margin": 0.09696,
+    "revenue_growth": 0.101,
+    "trailing_pe": 36.74564,
+    "return_on_equity": 0.46129,
+    "beta": 1.035,
+    "market_cap": null,
+    "analyst_coverage": 14
+  }
+}

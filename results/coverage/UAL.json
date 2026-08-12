@@ -1,0 +1,26 @@
+{
+  "ticker": "UAL",
+  "name": "United Airlines Holdings",
+  "sector": "Industrials",
+  "sub_industry": "Passenger Airlines",
+  "tier": "S&P 500",
+  "price": 117.05000305175781,
+  "as_of": "2026-07-20T17:31:45.566830+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "UAL trades at just 7.6x forward earnings and 11x trailing while still up 15% over the past quarter and holding above its 50/200-day averages with an intact golden cross, despite a short-term pullback (RSI 44, negative MACD).",
+  "thesis": "United's valuation is disconnected from its underlying profitability metrics: a 23% ROE, 16% revenue growth, and 5.5% operating margin are being priced at a single-digit forward P/E (7.6x) and trailing P/E of 11x, well below historical airline multiples in a normalized demand environment. The stock remains above both its 50-day ($113.9) and 200-day ($104.5) moving averages with a golden cross intact, and 63-day momentum of +15% shows the underlying uptrend is still functioning even as the last month has consolidated (21d mom +1%, RSI 44). With 23 analysts rating it 'strong buy' and free cash flow still positive ($910M) despite heavy leverage, the setup favors a resumption of the primary uptrend once the recent MACD-driven pullback (-2.54 histogram) exhausts, especially given the stock is still 16% below its 52-week high of $138.77, leaving room to re-rate.",
+  "bear_case": "Earnings growth is actually contracting (-17.2%) even as revenue grows 16%, signaling margin compression from costs (labor, fuel) that the cheap multiple may be correctly pricing rather than mispricing \u2014 airlines routinely trade at low absolute P/E because earnings are cyclical and capital-intensive, and debt-to-equity of 202% leaves little room for error if a demand slowdown or fuel spike hits. The negative MACD histogram, sub-50 RSI, and stalled 126-day momentum (+0.9%) suggest the golden cross is aging and losing thrust, and with annualized volatility over 51% and beta of 1.26, any macro deterioration (recession fears, oil prices, consumer pullback in discretionary travel) could hit UAL disproportionately hard and fast, especially since 23 analysts already cover the name so the 'cheap value' thesis is likely already reflected in consensus estimates rather than representing an exploitable gap.",
+  "metrics": {
+    "momentum_63d": 0.14980353185496953,
+    "volatility_ann": 0.5128520116087587,
+    "rsi_14": 43.9417128255692,
+    "profit_margin": 0.05558,
+    "revenue_growth": 0.16,
+    "trailing_pe": 10.959738,
+    "return_on_equity": 0.23252001,
+    "beta": 1.258,
+    "market_cap": 37990887424,
+    "analyst_coverage": 23
+  }
+}

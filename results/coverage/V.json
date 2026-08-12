@@ -1,0 +1,26 @@
+{
+  "ticker": "V",
+  "name": "Visa Inc.",
+  "sector": "Financials",
+  "sub_industry": "Transaction & Payment Processing Services",
+  "tier": "S&P 500",
+  "price": 362.1099853515625,
+  "as_of": "2026-07-20T17:36:57.965327+00:00",
+  "rating": "bullish",
+  "conviction": 0.63,
+  "key_signal": "Visa is trading within 1% of its 52-week high with a golden cross intact, strong 63-day momentum (+14.5%), and 35.5% earnings growth alongside 17.1% revenue growth, confirming durable operating strength behind the technical breakout.",
+  "thesis": "Visa's fundamentals justify the technical strength: 67.3% operating margins, 60.3% ROE, and 97.8% gross margins reflect an unmatched network moat, while 17.1% revenue growth and 35.5% earnings growth show the business is still compounding at scale despite its size. The stock is above both its 50-day ($333.9) and 200-day ($328.8) moving averages with a golden cross, RSI at 64.5 (strong but not yet overbought), and positive MACD histogram confirming upward momentum. Forward PE of 24.4x versus trailing 31.6x signals expected earnings acceleration, and consensus among 38 analysts sits at 'strong buy.' Low beta (0.75) makes this a relatively defensive way to own a secular payments-growth story, and free cash flow of $20.8B provides ample support for buybacks/dividends even amid the multiple.",
+  "bear_case": "At 31.6x trailing and 24.4x forward earnings, Visa is pricing in continued double-digit growth, and the stock is sitting just 0.8% below its 52-week high after a 9.6% one-month and 14.5% three-month run \u2014 a setup vulnerable to any deceleration in cross-border volumes or consumer spending, especially with debt-to-equity at 67.2x (elevated for the sector) limiting balance-sheet flexibility. Heavy sell-side coverage (38 analysts, already 'strong buy') means most positive fundamentals are likely priced in, leaving limited room for further re-rating and asymmetric downside risk if RSI near 65 rolls over or if regulatory pressure on interchange fees (a persistent overhang for card networks) intensifies.",
+  "metrics": {
+    "momentum_63d": 0.1445987216662712,
+    "volatility_ann": 0.22939080282597005,
+    "rsi_14": 64.50176305650203,
+    "profit_margin": 0.51679003,
+    "revenue_growth": 0.171,
+    "trailing_pe": 31.57018,
+    "return_on_equity": 0.60349,
+    "beta": 0.754,
+    "market_cap": null,
+    "analyst_coverage": 38
+  }
+}

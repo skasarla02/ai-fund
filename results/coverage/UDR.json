@@ -1,0 +1,26 @@
+{
+  "ticker": "UDR",
+  "name": "UDR, Inc.",
+  "sector": "Real Estate",
+  "sub_industry": "Multi-Family Residential REITs",
+  "tier": "S&P 500",
+  "price": 39.55500030517578,
+  "as_of": "2026-07-20T17:31:00.078741+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "UDR trades above both its 50- and 200-day moving averages with a confirmed golden cross and 12.5% 63-day momentum, yet MACD has just turned negative, signaling a stalling uptrend near its 52-week high of $42.",
+  "thesis": "UDR's technical trend remains constructive: price sits above both the 50-day ($38.53) and 200-day ($36.08) moving averages with a golden cross intact, and 63-day/126-day momentum of +12.5%/+8.4% shows the stock recovering steadily from its 52-week low of $32.94. Fundamentally, the low beta (0.70) and 4.35% dividend yield make it a defensive income play attractive in a lower-rate environment, which typically benefits leveraged multi-family REITs via cap-rate compression and cheaper refinancing. Operating margins of 22% and gross margins of 66.6% reflect solid apartment-portfolio economics, and reported earnings growth of 151% (even if partly base-effect driven) plus sell-side consensus of 'buy' from all 21 covering analysts support continued institutional demand for the name.",
+  "bear_case": "The valuation is stretched on every metric that matters for a REIT with only 4.2% revenue growth: a 27x trailing P/E, a startling 70.6x forward P/E, and a 4.0x price-to-book multiple, none of which are typical for a low-growth apartment REIT and suggest the market has already priced in most of the good news. More concerning is leverage \u2014 debt-to-equity of 142% is high for a rate-sensitive REIT, meaning any reacceleration in long-term yields would pressure both refinancing costs and the multiple investors are willing to pay for the dividend. Technically, the negative MACD histogram (-0.126) and price already down from the $42 52-week high toward $39.55 hint that the recent momentum is fading just as RSI sits at a neutral 51.8, offering no confirmation of further upside and raising the risk of a range-bound or pullback scenario over the next quarter.",
+  "metrics": {
+    "momentum_63d": 0.12519509494177394,
+    "volatility_ann": 0.2243936770116726,
+    "rsi_14": 51.796500498485706,
+    "profit_margin": 0.27782,
+    "revenue_growth": 0.042,
+    "trailing_pe": 26.908163,
+    "return_on_equity": 0.123500004,
+    "beta": 0.695,
+    "market_cap": 14655747072,
+    "analyst_coverage": 21
+  }
+}

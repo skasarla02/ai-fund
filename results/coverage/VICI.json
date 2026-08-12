@@ -1,0 +1,26 @@
+{
+  "ticker": "VICI",
+  "name": "Vici Properties",
+  "sector": "Real Estate",
+  "sub_industry": "Hotel & Resort REITs",
+  "tier": "S&P 500",
+  "price": 26.7450008392334,
+  "as_of": "2026-07-20T17:36:46.980515+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "VICI trades near its 52-week low with a 6.7% dividend yield and forward P/E of ~9.1x despite defensive triple-net lease cash flows from gaming operators like Caesars and MGM.",
+  "thesis": "VICI's business model\u2014long-duration triple-net leases with embedded rent escalators tied to top-tier gaming/entertainment real estate\u2014generates extraordinarily high margins (99% gross, 107% operating) and stable cash flow, yet the stock is priced at just 9.1x forward earnings and roughly book value (P/B 1.01), levels rarely seen for this asset class. The 6.7% dividend yield is well above VICI's historical range, and with a low beta (0.68) the stock's ~6% drawdown over 63 days looks more like a rate-driven de-rating than a fundamental deterioration\u2014revenue growth remains positive (3.5%) and earnings growth is strong (60%). A slightly positive MACD histogram and RSI near 50 suggest the selling pressure that pushed shares below both the 50- and 200-day moving averages may be stabilizing, offering an attractive entry point for a REIT with contractual, inflation-linked rent growth and heavy analyst buy-side support (24 analysts, consensus buy).",
+  "bear_case": "VICI is fundamentally a long-duration bond proxy with 61.9x debt-to-equity, making it acutely sensitive to the path of long-term rates\u2014if rates stay higher for longer, the technical picture (price below both SMAs, no golden cross, negative 63-day and 126-day momentum) could simply reflect a structural re-rating rather than a temporary dislocation, and the stock could keep making new lows as it's already done at $25.82. Revenue growth of only 3.5% is anemic for a REIT trading at a premium yield to its own history, and heavy tenant concentration in regional casino operators (Caesars, MGM) exposes VICI to consumer discretionary spending risk if a slowdown hits gaming/leisure demand, which wouldn't show up in the lease-guaranteed cash flow story until renewal risk or tenant credit stress emerges. The reported 60% earnings growth is likely distorted by one-time items (gains/impairments common in REIT GAAP earnings) and shouldn't be extrapolated as a sustainable growth trajectory.",
+  "metrics": {
+    "momentum_63d": -0.0625848904847982,
+    "volatility_ann": 0.2774794699556501,
+    "rsi_14": 49.54320107881307,
+    "profit_margin": 0.7683,
+    "revenue_growth": 0.035,
+    "trailing_pe": 9.159246,
+    "return_on_equity": 0.11331,
+    "beta": 0.683,
+    "market_cap": 29448390656,
+    "analyst_coverage": 24
+  }
+}

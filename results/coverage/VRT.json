@@ -1,0 +1,26 @@
+{
+  "ticker": "VRT",
+  "name": "Vertiv",
+  "sector": "Industrials",
+  "sub_industry": "Electrical Components & Equipment",
+  "tier": "S&P 500",
+  "price": 294.114990234375,
+  "as_of": "2026-07-20T17:36:11.470020+00:00",
+  "rating": "bullish",
+  "conviction": 0.6,
+  "key_signal": "VRT has pulled back ~23% from its 52-week high and is trading below its 50-day SMA despite a still-intact golden cross and 70% six-month momentum, suggesting a valuation/momentum air pocket in an otherwise structurally growing AI-datacenter power/cooling business.",
+  "thesis": "Vertiv sits at the center of the AI datacenter buildout, with 30% revenue growth, 135% earnings growth, and 45% ROE reflecting genuine operating leverage, not just multiple expansion. The stock remains above its 200-day moving average with a golden cross intact, and 25 analysts collectively rate it a 'strong buy,' indicating broad sell-side conviction hasn't cracked despite the recent 7% one-month and 4% three-month drawdown. The 126-day momentum of +70% shows the underlying demand trend (hyperscaler capex on power/thermal management) remains intact; the current dip below the 50-day SMA looks more like digestion of a huge prior run than a fundamental deterioration, especially with forward PE compressing to 33x on the back of expected earnings growth outpacing price.",
+  "bear_case": "At 74x trailing earnings, 33x forward, and 26.6x book value, VRT is priced for flawless execution, and the negative MACD histogram plus RSI at 44 with price below the 50-day SMA signal the market is already discounting decelerating momentum after a parabolic move off the 52-week low of $118.70. With a beta of 2.03 and 77% annualized volatility, any wobble in AI-capex sentiment, hyperscaler spending guidance, or a broader growth-stock derating (rates, positioning unwinds) could disproportionately hit VRT; debt-to-equity of 77% adds leverage risk if growth decelerates faster than consensus expects, and a stock this expensive has little room for even a modest earnings miss before a sharp multiple contraction back toward the 200-day SMA near $241.",
+  "metrics": {
+    "momentum_63d": -0.042831425562990355,
+    "volatility_ann": 0.7689415882501636,
+    "rsi_14": 44.04094028175125,
+    "profit_margin": 0.14372,
+    "revenue_growth": 0.301,
+    "trailing_pe": 74.08438,
+    "return_on_equity": 0.45097,
+    "beta": 2.029,
+    "market_cap": 112972152832,
+    "analyst_coverage": 25
+  }
+}

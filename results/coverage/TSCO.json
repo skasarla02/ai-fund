@@ -1,0 +1,26 @@
+{
+  "ticker": "TSCO",
+  "name": "Tractor Supply",
+  "sector": "Consumer Discretionary",
+  "sub_industry": "Other Specialty Retail",
+  "tier": "S&P 500",
+  "price": 30.225000381469727,
+  "as_of": "2026-07-20T17:27:38.670001+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "TSCO has cratered ~40% over the past six months to trade just above its 52-week low near $30, sitting far below its 200-day SMA ($45) even as short-term momentum (mom_21d +1.6%, MACD histogram turning positive) hints at stabilization.",
+  "thesis": "After a brutal 32%/40% drawdown over 63/126 days, TSCO now trades at just 13.7x forward earnings with a 45.5% ROE, 36% gross margins, and a 3.15% dividend yield \u2014 valuation metrics that look cheap relative to its historical premium specialty-retail multiple. The 27-analyst consensus remains 'buy,' RSI at 46 shows the stock is no longer oversold but not stretched either, and the recent positive MACD histogram alongside a modest 21-day momentum uptick suggests the selling pressure that drove the stock from the low-60s to the low-30s may be exhausting itself, setting up a mean-reversion trade back toward the 50-day SMA (~$30.57) and beyond.",
+  "bear_case": "The technical trend remains decisively bearish \u2014 price is below both the 50-day and 200-day moving averages with no golden cross, and earnings growth is already negative (-8.1%) even before any further deterioration in discretionary rural spending; more concerning, debt-to-equity of ~255% leaves TSCO with a leveraged balance sheet just as revenue growth has slowed to 3.6%, meaning further margin compression or a consumer pullback could pressure the dividend and compound the de-rating that already wiped out over a third of the market cap, and the 40% 6-month decline may reflect a structural deterioration (competitive/tariff/traffic issues) rather than a temporary overreaction, in which case the 'cheap' 13.7x forward multiple is a value trap.",
+  "metrics": {
+    "momentum_63d": -0.3230303824121413,
+    "volatility_ann": 0.28655847526510414,
+    "rsi_14": 45.972245987165,
+    "profit_margin": 0.06909,
+    "revenue_growth": 0.036,
+    "trailing_pe": 14.889163,
+    "return_on_equity": 0.45504,
+    "beta": 0.456,
+    "market_cap": 15851489280,
+    "analyst_coverage": 27
+  }
+}

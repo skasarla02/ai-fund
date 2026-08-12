@@ -1,0 +1,26 @@
+{
+  "ticker": "TSN",
+  "name": "Tyson Foods",
+  "sector": "Consumer Staples",
+  "sub_industry": "Packaged Foods & Meats",
+  "tier": "S&P 500",
+  "price": 58.029998779296875,
+  "as_of": "2026-07-20T17:30:03.588290+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "Forward P/E of 12.95 vs trailing P/E of 45.7 signals the market expects a sharp margin recovery from currently razor-thin profitability (0.8% net margin, 3.64% operating margin), but price remains below its 200-day average despite a recent golden cross.",
+  "thesis": "Tyson's beef segment has been in a cyclical trough due to elevated cattle costs, depressing trailing earnings and inflating the trailing P/E to an unusual 45.7x; the collapse to a 12.95x forward P/E implies consensus expects a meaningful earnings inflection (earningsGrowth reported at 36x off a depressed base) as chicken and prepared foods margins normalize and cattle supply cycles improve. A 3.53% dividend yield, low beta (0.39), and price sitting near the lower half of its 52-week range ($50.56-$69.48) offer a favorable entry with technicals showing a golden cross (50dma above 200dma) and a recent 21-day bounce (+3.3%) with MACD turning positive. Debt/equity of 44.4 is manageable, and $1.03B of free cash flow against $55.7B revenue provides support for the dividend even as margins recover.",
+  "bear_case": "The stock trades below its 200-day moving average (above_200dma=0) and is down 9.7% over 63 days, showing the golden cross hasn't translated into sustained price strength, and RSI at 47.6 reflects genuine indecision rather than an oversold bounce setup. More fundamentally, current profitability is structurally weak \u2014 ROE of just 2.6%, gross margins under 6.4%, and net margins under 1% \u2014 meaning any delay in the cattle cycle turning (herd rebuilding takes years, not quarters) keeps trailing earnings depressed and forward estimates at risk of downward revision, which would re-rate the stock back toward its high trailing multiple rather than the optimistic forward one; a 'hold' consensus among all 12 covering analysts confirms the Street sees no near-term catalyst to force the multiple compression thesis to play out within the next quarter.",
+  "metrics": {
+    "momentum_63d": -0.09720611455539219,
+    "volatility_ann": 0.23636948267221272,
+    "rsi_14": 47.583012099871645,
+    "profit_margin": 0.00813,
+    "revenue_growth": 0.044,
+    "trailing_pe": 45.692913,
+    "return_on_equity": 0.02619,
+    "beta": 0.391,
+    "market_cap": null,
+    "analyst_coverage": 12
+  }
+}

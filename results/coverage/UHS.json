@@ -1,0 +1,26 @@
+{
+  "ticker": "UHS",
+  "name": "Universal Health Services",
+  "sector": "Health Care",
+  "sub_industry": "Health Care Facilities",
+  "tier": "S&P 500",
+  "price": 150.58999633789062,
+  "as_of": "2026-07-20T17:32:58.374486+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "UHS trades at a trailing P/E of ~6.3 and forward P/E of ~6.0 despite 17.7% earnings growth and 21% ROE, a valuation dislocation after a 26% six-month price decline that has pushed shares near their 52-week low of $140.08.",
+  "thesis": "The stock has been de-rated sharply (down 17% over 3 months, 26% over 6 months, trading well below both its 50-day ($153) and 200-day ($193) moving averages), but the fundamentals have not deteriorated in kind: revenue growth of 9.6%, earnings growth of 17.7%, operating margins near 11.2%, and ROE above 21% suggest the business is still executing well. At 6x forward earnings and 1.2x book value, UHS is priced for distress that isn't showing up in the numbers, and the 21-day momentum has turned positive (+6.6%) with a mildly positive MACD histogram, hinting the selling pressure is exhausting. Sell-side sentiment remains a 'buy' across all 17 covering analysts, and a market cap of just $9.1B for a company generating $17.8B in revenue and healthy free cash flow ($651M) leaves room for multiple re-rating if hospital-sector fears (Medicaid reimbursement, labor cost inflation) prove overdone.",
+  "bear_case": "The technical picture is unambiguously bearish on a longer horizon \u2014 the stock is below both the 50- and 200-day moving averages with no golden cross, a 6-month decline of 26%, and elevated 30-day annualized volatility (34.5%) signaling the market still sees meaningful downside risk, likely tied to structural concerns about Medicaid funding cuts, site-neutral payment reform, or behavioral-health/acute-care reimbursement pressure that a single quarter of earnings growth doesn't resolve. Debt-to-equity of 67% adds balance-sheet risk if rates stay elevated or cash flow tightens, and a 'cheap' P/E can stay cheap or get cheaper if consensus earnings estimates for hospital operators get cut on policy headwinds \u2014 the 17 analysts already covering this well-known large-cap leaves little room for a quick re-rating surprise, meaning the market may already be pricing in accurately deteriorating forward visibility rather than mispricing a healthy business.",
+  "metrics": {
+    "momentum_63d": -0.1733032600566663,
+    "volatility_ann": 0.34541175045054157,
+    "rsi_14": 48.65778725446182,
+    "profit_margin": 0.08563,
+    "revenue_growth": 0.096,
+    "trailing_pe": 6.290309,
+    "return_on_equity": 0.21369,
+    "beta": 1.075,
+    "market_cap": 9116169216,
+    "analyst_coverage": 17
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "WAB",
+  "name": "Wabtec",
+  "sector": "Industrials",
+  "sub_industry": "Construction Machinery & Heavy Transportation Equipment",
+  "tier": "S&P 500",
+  "price": 256.29998779296875,
+  "as_of": "2026-07-20T17:38:29.436563+00:00",
+  "rating": "neutral",
+  "conviction": 0.56,
+  "key_signal": "WAB has slipped below its 50-day moving average (256.3 vs 263.9) with negative 21-day and 63-day momentum and a bearish MACD histogram, even though the stock remains in a long-term uptrend (above 200dma, golden cross intact) roughly 10% off its 52-week high.",
+  "thesis": "Wabtec's underlying fundamentals remain solid for a rail-equipment cycle play: 13% revenue growth, 12.8% earnings growth, 19% operating margins, and ~$1.1B of free cash flow support a forward P/E of ~21x that's far more reasonable than the trailing 36x multiple, implying the market expects continued margin/earnings expansion. The stock is still above its 200-day average with a golden cross in place, and it's 39% above its 52-week low, showing the primary trend remains intact despite the recent pullback from the 284.91 high. A name with 0.94 beta and a defensible industrial moat in locomotive/rail services could see the current dip (RSI 41, below 50dma) resolve into a buyable consolidation rather than a trend reversal if earnings growth continues to validate the forward multiple.",
+  "bear_case": "The technical deterioration is more than noise: price has broken below the 50-day average with negative momentum across both the 21-day and 63-day windows and a deepening negative MACD histogram, suggesting institutional selling pressure that could easily test the 200-day average near 238 (roughly 7% further downside) before finding support. Valuation is also not cheap on a trailing basis (36x earnings, no price-to-book visible to sanity-check) while return on equity is just 11.3% and debt-to-equity sits at a elevated 62%, meaning the market is pricing in flawless execution on the growth deceleration already visible between earnings growth (12.8%) trailing revenue growth (13%) \u2014 any guidance miss or rail-capex slowdown could compress the forward multiple sharply from here, and thin visibility into named analyst coverage or market cap makes this a name where sentiment shifts can move the stock disproportionately on data alone.",
+  "metrics": {
+    "momentum_63d": -0.025660635041695024,
+    "volatility_ann": 0.2722447833282387,
+    "rsi_14": 41.027181326840406,
+    "profit_margin": 0.10515001,
+    "revenue_growth": 0.13,
+    "trailing_pe": 36.200565,
+    "return_on_equity": 0.11305001,
+    "beta": 0.937,
+    "market_cap": null,
+    "analyst_coverage": null
+  }
+}

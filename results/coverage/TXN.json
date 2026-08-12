@@ -1,0 +1,26 @@
+{
+  "ticker": "TXN",
+  "name": "Texas Instruments",
+  "sector": "Information Technology",
+  "sub_industry": "Semiconductors",
+  "tier": "S&P 500",
+  "price": 288.0400085449219,
+  "as_of": "2026-07-20T17:24:59.029574+00:00",
+  "rating": "bearish",
+  "conviction": 0.58,
+  "key_signal": "TXN has broken below its 50-day moving average with a negative MACD histogram and negative 21-day momentum, even as it trades at a stretched 49x trailing / 30x forward P/E after a 54% run over six months.",
+  "thesis": "TXN's underlying fundamentals remain excellent \u2014 18.6% revenue growth, 31% earnings growth, 37.8% operating margins, and 32% ROE reflect genuine analog/embedded chip demand recovery and pricing power, with the stock still comfortably above its 200-day SMA (220.6) and in a golden-cross uptrend. If the semiconductor cycle continues to inflect upward, TXN's premium multiple could be justified by continued double-digit earnings growth, and the current pullback from the 334 high to 288 offers a re-entry point within a structurally bullish trend for long-term holders (32 analysts rate it 'buy').",
+  "bear_case": "The technical picture has clearly deteriorated in the last month: price is down 4.6% over 21 days, sitting below the 50-day SMA (301) with a deepening negative MACD histogram (-2.1) and RSI at a lukewarm 45, all signaling loss of near-term momentum after an unsustainable 54% six-month run. At the same time, valuation is extreme for a cyclical semiconductor name \u2014 49x trailing earnings, 15.6x book value, and 83.7% debt-to-equity \u2014 leaving little room for error if analog/industrial demand growth decelerates or if the broader semi-cycle rolls over, and the stock's elevated 60% annualized volatility plus 1.31 beta mean any disappointment could trigger an outsized correction toward the 200-day SMA near 220, roughly 24% below current price.",
+  "metrics": {
+    "momentum_63d": 0.25969689182289657,
+    "volatility_ann": 0.6041727894337874,
+    "rsi_14": 45.31596803517221,
+    "profit_margin": 0.29108,
+    "revenue_growth": 0.186,
+    "trailing_pe": 49.23761,
+    "return_on_equity": 0.32347,
+    "beta": 1.31,
+    "market_cap": 262143131648,
+    "analyst_coverage": 32
+  }
+}

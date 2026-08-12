@@ -1,0 +1,26 @@
+{
+  "ticker": "VTR",
+  "name": "Ventas",
+  "sector": "Real Estate",
+  "sub_industry": "Health Care REITs",
+  "tier": "S&P 500",
+  "price": 95.88500213623047,
+  "as_of": "2026-07-20T17:33:56.271942+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "VTR trades at RSI 70.4 just 1.3% below its 52-week high after a 26% six-month rally, but carries a 174x trailing P/E and 3.55x price-to-book that leave almost no margin for disappointment.",
+  "thesis": "Ventas has ridden a powerful senior-housing demand recovery, with revenue growth of 21.9% and a golden cross confirming the uptrend (price above both the 50- and 200-day moving averages, momentum positive across 21/63/126-day windows). Low beta (0.72) and a sell-side 'buy' consensus from 22 analysts suggest the market still sees room to run, and the stock's steady dividend yield (2.08%) plus improving operating margins (13.8%) support the case that occupancy gains in senior housing are translating into real cash flow (FCF ~$1.48B).",
+  "bear_case": "The stock is priced for perfection at 174x trailing earnings and 113x forward earnings with ROE of just 2.1%, meaning any deceleration in senior-housing fundamentals or rate-driven cap-rate expansion could trigger a sharp de-rating; RSI at 70.4 and price sitting just under the 52-week high with 27% annualized volatility signal the rally is extended and vulnerable to a mean-reversion pullback, especially with debt-to-equity near 94% making the REIT sensitive to any renewed rate pressure, and with 22 analysts already covering the name and consensus already at 'buy,' there's little informational edge left to exploit before a re-rating on valuation grounds.",
+  "metrics": {
+    "momentum_63d": 0.13333279227000872,
+    "volatility_ann": 0.27150304377240536,
+    "rsi_14": 70.36009530156768,
+    "profit_margin": 0.042600002,
+    "revenue_growth": 0.219,
+    "trailing_pe": 174.33636,
+    "return_on_equity": 0.0214,
+    "beta": 0.724,
+    "market_cap": null,
+    "analyst_coverage": 22
+  }
+}

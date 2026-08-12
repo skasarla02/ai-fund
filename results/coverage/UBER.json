@@ -1,0 +1,26 @@
+{
+  "ticker": "UBER",
+  "name": "Uber",
+  "sector": "Industrials",
+  "sub_industry": "Passenger Ground Transportation",
+  "tier": "S&P 500",
+  "price": 72.7500991821289,
+  "as_of": "2026-07-20T17:30:41.620814+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "Stock trades 29% below its 52-week high and under both the 50- and 200-day moving averages even as forward earnings multiple (16.3x) sits below trailing (18x) and 48 analysts collectively rate it a strong buy.",
+  "thesis": "Uber's fundamentals remain robust despite the technical breakdown: 14.5% revenue growth, 39.6% gross margins, 14.6% operating margins, and 35.3% ROE point to a maturing, cash-generative platform business (FCF of $6.5B on $53.7B revenue). The stock's slide from $102 to $72.75 has compressed the forward P/E to 16.3x, cheap for a company still growing double-digits with expanding profitability, and the 48-analyst 'strong buy' consensus suggests the sell-side views this pullback as valuation dislocation rather than deteriorating business quality. A bounce off the 21-day momentum turning positive (+2.6%) while longer-term momentum remains negative suggests the selloff may be stabilizing near the 52-week low ($67.19), setting up a mean-reversion opportunity toward the 200-day average ($79.79), roughly 10% upside from here.",
+  "bear_case": "The technical picture is genuinely broken \u2014 price is below both the 50-day and 200-day moving averages with no golden cross, momentum has been negative for 63 and 126 days (-5.7% and -13.8% respectively), and MACD histogram is negative, all consistent with a durable downtrend rather than a bounce. More concerning is the -84.6% earnings growth figure, which even if driven by one-time items (e.g., equity investment marks) signals GAAP earnings volatility that could spook a market already pricing in slowing growth in ride-hailing/delivery penetration; with 48 analysts already covering the name, any incremental negative data point (regulatory risk, robotaxi competitive threats, insurance cost inflation) gets priced in almost instantly, leaving little room for the 'cheap forward multiple' thesis to play out before sentiment shifts further negative, especially with elevated realized volatility (41% annualized) signaling the market is still repricing risk aggressively downward.",
+  "metrics": {
+    "momentum_63d": -0.05666368528036392,
+    "volatility_ann": 0.4141494793385677,
+    "rsi_14": 49.20663031903169,
+    "profit_margin": 0.15907,
+    "revenue_growth": 0.145,
+    "trailing_pe": 18.052134,
+    "return_on_equity": 0.3531,
+    "beta": 1.113,
+    "market_cap": 148090028032,
+    "analyst_coverage": 48
+  }
+}

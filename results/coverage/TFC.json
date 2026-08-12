@@ -1,0 +1,26 @@
+{
+  "ticker": "TFC",
+  "name": "Truist Financial",
+  "sector": "Financials",
+  "sub_industry": "Diversified Banks",
+  "tier": "S&P 500",
+  "price": 50.970001220703125,
+  "as_of": "2026-07-20T17:29:12.164609+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "TFC trades at just 10.1x forward earnings with 36.7% YoY earnings growth while sitting above both its 50- and 200-day moving averages in a confirmed golden cross.",
+  "thesis": "Truist's valuation (11.7x trailing PE, 10.1x forward, 1.07x book) is cheap for a bank posting 8.2% revenue growth and 36.7% earnings growth, and the technical picture confirms the fundamental improvement: price is above both the 50-day (49.44) and 200-day (47.73) moving averages with an active golden cross, positive momentum across the 21/63/126-day windows, and a neutral RSI (50.9) leaving room to run before overbought. A near-4% dividend yield provides a cash return cushion while the stock re-rates toward its 52-week high of 56.20, still ~10% above current price. Improving earnings growth relative to a modest revenue growth rate suggests margin/efficiency gains are flowing through, and a beta of 0.875 signals below-market volatility risk despite the stock's own elevated 30% annualized vol, implying idiosyncratic upside catalysts (e.g., cost actions, capital return) rather than pure macro beta.",
+  "bear_case": "ROE of just 9.06% is subpar for a bank trading near book value, and with 19 analysts already covering the name and a consensus 'hold' rating, any cheapness is likely already understood and priced by the market, limiting near-term re-rating potential. Today's -2.9% single-day drop, against a backdrop of only modest 3-month (1.9%) and 6-month (3.5%) momentum, could mark the start of a reversal after the stock ran up 5.8% over the last month toward resistance near its 52-week high; regional banks remain exposed to net interest margin compression and credit normalization risk that could pressure the 30.7% net margin and 39.8% operating margin if funding costs stay elevated, and elevated 30% annualized volatility versus a sub-1 beta suggests bank-specific risk (e.g., CRE exposure) that the market may be pricing more accurately than the cheap headline multiples suggest.",
+  "metrics": {
+    "momentum_63d": 0.01855819389995439,
+    "volatility_ann": 0.3013837982071808,
+    "rsi_14": 50.932846019003854,
+    "profit_margin": 0.30692,
+    "revenue_growth": 0.082,
+    "trailing_pe": 11.717242,
+    "return_on_equity": 0.09059,
+    "beta": 0.875,
+    "market_cap": 62266277888,
+    "analyst_coverage": 19
+  }
+}

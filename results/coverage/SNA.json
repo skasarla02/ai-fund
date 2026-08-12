@@ -1,0 +1,26 @@
+{
+  "ticker": "SNA",
+  "name": "Snap-on",
+  "sector": "Industrials",
+  "sub_industry": "Industrial Machinery & Supplies & Components",
+  "tier": "S&P 500",
+  "price": 405.67999267578125,
+  "as_of": "2026-07-20T17:17:53.259739+00:00",
+  "rating": "bullish",
+  "conviction": 0.6,
+  "key_signal": "SNA trades near its 52-week high with strong multi-timeframe momentum (13% over 126 days) while still trading at a reasonable 19x forward earnings and 24.6% operating margins.",
+  "thesis": "Snap-on continues to demonstrate durable profitability with 51.6% gross margins and 24.6% operating margins, reflecting strong pricing power and brand loyalty among professional tool users. The stock is above both its 50-day and 200-day moving averages with a confirmed golden cross, and momentum has been consistently positive across 21, 63, and 126-day windows, signaling sustained institutional accumulation. Low beta (0.72) and modest debt-to-equity make this a defensive industrial holding, while a 2.37% dividend yield adds income support. Valuation at 21x trailing and 19x forward earnings is not stretched given an 18.2% ROE and consistent single-digit revenue/earnings growth, leaving room for multiple expansion if execution continues. With only 9 analysts covering the name, any re-rating from the current 'hold' consensus toward 'buy' could move the stock meaningfully given thin coverage.",
+  "bear_case": "Revenue growth of just 5.2% and earnings growth of only 4% suggest Snap-on is a mature, slow-growing franchise where further upside is capped without a catalyst, and the stock is only 3.4% below its 52-week high with a negative MACD histogram (-0.39) hinting at fading short-term momentum despite the longer-term uptrend. The 1-day return of -1.3% and RSI at 56.6 (neutral, not overbought) show the rally may already be losing steam, and with 'hold' as the consensus recommendation among the few covering analysts, there's no clear sell-side catalyst to push shares meaningfully higher from here. Industrial tool demand is also sensitive to discretionary spending by mechanics and technicians, who could pull back if broader economic conditions soften, and any deceleration in already-modest growth could compress the current premium multiple.",
+  "metrics": {
+    "momentum_63d": 0.0741019471211728,
+    "volatility_ann": 0.209918152692346,
+    "rsi_14": 56.58452918677451,
+    "profit_margin": 0.19601,
+    "revenue_growth": 0.052,
+    "trailing_pe": 20.954544,
+    "return_on_equity": 0.18202,
+    "beta": 0.721,
+    "market_cap": null,
+    "analyst_coverage": 9
+  }
+}

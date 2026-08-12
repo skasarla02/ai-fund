@@ -1,0 +1,26 @@
+{
+  "ticker": "SYK",
+  "name": "Stryker Corporation",
+  "sector": "Health Care",
+  "sub_industry": "Health Care Equipment",
+  "tier": "S&P 500",
+  "price": 320.7099914550781,
+  "as_of": "2026-07-20T17:20:30.505802+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "Stryker has bounced +6.8% over the past month and reclaimed its 50-day average (320.7 vs 311.0), even as it remains 21% below its 52-week high and under its 200dma, suggesting a stabilizing quality name after a sharp de-rating.",
+  "thesis": "Stryker's forward P/E of 19.2x is dramatically below its trailing 37.1x, reflecting consensus expectations of 14.2% earnings growth that would materially re-rate the stock if delivered, and the 25-analyst consensus already sits at 'buy.' Fundamentals remain excellent for a medtech leader: 64.7% gross margins, 17.8% operating margins, 15.2% ROE, and $4.36B in free cash flow support the dividend and buybacks even with modest 2.6% revenue growth. The stock has corrected from $404.87 to $320.71 (down ~21%) yet has just staged a 21-day rally (+6.8%) and reclaimed its 50dma, with RSI at a neutral 51 (no longer oversold, but no exhaustion signal either), suggesting the worst of the technical damage may be behind it while long-term momentum resets. Low beta (0.78) also makes this a lower-volatility way to own healthcare exposure heading into a period of macro uncertainty.",
+  "bear_case": "The stock remains below its 200-day moving average (343.1) with a negative golden cross and negative MACD histogram (-0.72), meaning the medium-term trend is still technically broken despite the recent bounce, and 30-day annualized volatility of 41% signals real uncertainty rather than stabilization. Revenue growth of just 2.6% is weak for a name still priced at 5.35x book and 37x trailing earnings, so if the 14.2% earnings growth assumption embedded in the forward multiple disappoints \u2014 plausible given tariff/FX pressure common in medtech and elevated debt-to-equity of 66.3% \u2014 the stock has further to fall rather than room to re-rate upward. With 25 analysts already covering the name and a consensus buy already priced in, there's little informational edge left to exploit, and the 126-day momentum of -11% shows this decline has been persistent, not a one-off air pocket.",
+  "metrics": {
+    "momentum_63d": -0.06336316618682225,
+    "volatility_ann": 0.411770329349382,
+    "rsi_14": 51.07913601643111,
+    "profit_margin": 0.13205,
+    "revenue_growth": 0.026,
+    "trailing_pe": 37.11921,
+    "return_on_equity": 0.152,
+    "beta": 0.778,
+    "market_cap": 122947624960,
+    "analyst_coverage": 25
+  }
+}

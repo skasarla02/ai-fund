@@ -1,0 +1,26 @@
+{
+  "ticker": "SYY",
+  "name": "Sysco",
+  "sector": "Consumer Staples",
+  "sub_industry": "Food Distributors",
+  "tier": "S&P 500",
+  "price": 81.13500213623047,
+  "as_of": "2026-07-20T17:21:37.900165+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "Stock trades above both its 50- and 200-day moving averages with a fresh golden cross, yet trailing earnings growth is -13.5% even as forward P/E (16.4x) sits well below trailing P/E (22.5x), signaling the market is pricing a rebound.",
+  "thesis": "Sysco's technical picture is constructive: price is above both the 50-day ($77.98) and 200-day ($77.38) moving averages, a golden cross is in place, and 63-day momentum (+7.1%) and 21-day momentum (+3.4%) are positive, all while RSI sits neutral at ~51, leaving room to run before overbought. Low beta (0.64) and a 2.69% dividend yield make this a defensive, income-generating holding well-suited to consumer staples allocators, and the sell-side consensus (14 analysts) is 'buy.' The gap between forward P/E (16.4x) and trailing P/E (22.5x) suggests the Street expects margin/earnings recovery from the recent earnings decline, and revenue growth remains positive (4.7%) even amid margin pressure, supporting a re-rating higher as EPS normalizes toward the 91.85 fifty-two-week high (13% upside from current 81.14).",
+  "bear_case": "The fundamental picture is genuinely weak beneath the technical strength: trailing earnings growth is -13.5%, net margins are razor-thin at 2.08%, operating margins only 3.75%, and debt-to-equity is extremely elevated at 670%, meaning the eye-popping 81.9% ROE is a leverage artifact, not operating excellence, and any revenue or margin disappointment could hit equity value disproportionately given the debt load. The negative MACD histogram (-0.47) already flags fading upward momentum despite price being above key moving averages, and the stock remains 12% below its 52-week high, suggesting recent strength could just be a bounce within a broader range rather than a breakout. In a low-margin, highly-levered distribution business, a slowdown in consumer food-away-from-home spending or input cost inflation could quickly turn the earnings growth deceleration into a more sustained de-rating, especially with 14 analysts already closely tracking the name, limiting the mispricing window.",
+  "metrics": {
+    "momentum_63d": 0.07083751676687933,
+    "volatility_ann": 0.20961860472948904,
+    "rsi_14": 50.79962873444023,
+    "profit_margin": 0.02079,
+    "revenue_growth": 0.047,
+    "trailing_pe": 22.5375,
+    "return_on_equity": 0.81894994,
+    "beta": 0.641,
+    "market_cap": null,
+    "analyst_coverage": 14
+  }
+}

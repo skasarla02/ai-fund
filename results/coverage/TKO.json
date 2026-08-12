@@ -1,0 +1,26 @@
+{
+  "ticker": "TKO",
+  "name": "TKO Group Holdings",
+  "sector": "Communication Services",
+  "sub_industry": "Movies & Entertainment",
+  "tier": "S&P 500",
+  "price": 183.43499755859375,
+  "as_of": "2026-07-20T17:26:49.058235+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "TKO trades below both its 50- and 200-day moving averages with negative momentum across all lookback windows (-5.7% 1M, -11.5% 6M), yet still commands a 68x trailing P/E despite 19 analysts holding a 'strong buy' consensus.",
+  "thesis": "TKO's underlying business remains excellent: 25.9% revenue growth, 63% earnings growth, 59% gross margins and 21% operating margins reflect the pricing power of WWE and UFC's live-event and media-rights franchises, which just repriced upward in recent deals. The stock is down roughly 19% from its 52-week high of $226.94 and sits near the middle of its 52-week range, which combined with a 1.68% dividend and low beta (0.62) could attract value-oriented buyers if the technical downtrend stabilizes. Strong-buy sentiment from a well-covered analyst base (19 analysts) suggests the Street still expects continuation of the growth story despite the recent pullback.",
+  "bear_case": "The technical picture is unambiguously deteriorating: price is below both the 50-day ($195.3) and 200-day ($196.0) SMAs, MACD histogram is solidly negative (-1.38), RSI at 38 shows momentum still rolling over rather than basing, and there's no golden cross to signal a turn. Valuation is priced for perfection at 68x trailing and 39x forward earnings while ROE is a mediocre 6.7% and debt-to-equity is elevated at 58x, meaning any deceleration in event/media revenue growth (which is already showing across-the-board negative multi-month momentum) could trigger a sharp multiple compression given how little margin of safety exists at these earnings multiples; a stock this expensive falling through key moving averages with 19 analysts already crowded into 'strong buy' has limited incremental upgrade fuel left to cushion further downside.'",
+  "metrics": {
+    "momentum_63d": -0.011591538274900448,
+    "volatility_ann": 0.36872044507409446,
+    "rsi_14": 38.45093514208647,
+    "profit_margin": 0.044699997,
+    "revenue_growth": 0.259,
+    "trailing_pe": 68.44589,
+    "return_on_equity": 0.06736,
+    "beta": 0.621,
+    "market_cap": 35059249152,
+    "analyst_coverage": 19
+  }
+}

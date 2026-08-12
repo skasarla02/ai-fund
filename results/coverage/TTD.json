@@ -1,0 +1,26 @@
+{
+  "ticker": "TTD",
+  "name": "Trade Desk (The)",
+  "sector": "Communication Services",
+  "sub_industry": "Advertising",
+  "tier": "S&P 500",
+  "price": 18.864999771118164,
+  "as_of": "2026-07-20T17:27:15.628042+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "TTD has cratered 48% over six months to $18.86 (versus a $91 52-week high) and trades below both its 50- and 200-day moving averages, yet forward P/E has collapsed to 8.8x versus a 21.4x trailing multiple, implying the market has priced in a sharp earnings recovery.",
+  "thesis": "The valuation reset is severe: at 8.8x forward earnings with 77.8% gross margins, 11.8% revenue growth, and 16.7% ROE on minimal debt (17.3x D/E), TTD is priced far below its historical growth-stock multiple despite still-solid unit economics and positive free cash flow ($569M). Short-term technicals are stabilizing \u2014 1-day return of +1.5%, 21-day momentum turning positive (+3.9%), and a positive MACD histogram \u2014 suggesting the selling pressure that drove the 126-day -47.9% drawdown may be exhausting itself. With 30 analysts already covering the name and a 'hold' consensus, most of the bad news (competitive share loss to Amazon DSP/retail media, decelerating ad spend growth) is likely already reflected in the price, setting up a favorable risk/reward if execution stabilizes.",
+  "bear_case": "Trailing earnings growth of -20% despite 11.8% revenue growth signals margin compression and rising competitive intensity that the cheap forward multiple may not fully price in if guidance keeps getting cut \u2014 this is exactly the pattern (falling profitability alongside decelerating growth) that has repeatedly triggered further de-ratings in ad-tech names losing share to walled-garden competitors. The stock remains structurally bearish on every trend metric: below both the 50-day ($20) and 200-day ($30.8) moving averages, no golden cross, and 30d annualized volatility of 44% signals the market still sees high uncertainty, not a bottom. A 3.9% 21-day bounce after a 48% collapse is statistically unremarkable and could easily be a dead-cat bounce rather than genuine stabilization, especially with 30 well-informed analysts still parked at 'hold' rather than upgrading.",
+  "metrics": {
+    "momentum_63d": -0.16043612160209486,
+    "volatility_ann": 0.4430209074698294,
+    "rsi_14": 46.3183314234622,
+    "profit_margin": 0.14571,
+    "revenue_growth": 0.118,
+    "trailing_pe": 21.4375,
+    "return_on_equity": 0.16735001,
+    "beta": 1.04,
+    "market_cap": 8868593664,
+    "analyst_coverage": 30
+  }
+}

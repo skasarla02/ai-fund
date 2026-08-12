@@ -1,0 +1,26 @@
+{
+  "ticker": "TTWO",
+  "name": "Take-Two Interactive",
+  "sector": "Communication Services",
+  "sub_industry": "Interactive Home Entertainment",
+  "tier": "S&P 500",
+  "price": 240.61500549316406,
+  "as_of": "2026-07-20T17:22:29.716081+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "TTWO trades above both its 50- and 200-day moving averages with a fresh golden cross, but remains ~10% below its 52-week high as the market awaits the GTA6 launch that will finally flip its currently negative net margin (-4.5%) and ROE (-10.6%) positive.",
+  "thesis": "Take-Two's technical picture is constructive: price is above both the 50-day ($232.6) and 200-day ($230.5) moving averages, a golden cross is in place, and 21-day and 63-day momentum are strongly positive (+5.5% and +13.5%), suggesting the market is re-accumulating ahead of the GTA6 catalyst. Despite currently unprofitable GAAP results, the company still generates $1.45B in free cash flow on $6.66B revenue with a robust 57.7% gross margin, and 29 sell-side analysts collectively rate it a 'strong buy' \u2014 a rare consensus alignment for a stock this widely covered. Revenue growth of 6.1% understates the setup, since the bull case is entirely about the step-change from GTA6 and an expanding pipeline (NBA 2K, sports titles, mobile) layering onto that gross margin structure once launched, which forward P/E of ~24x already partially reflects but doesn't fully capture if GTA6 outperforms typical franchise economics.",
+  "bear_case": "The stock is priced for perfection with a forward P/E of 24x and price-to-book of 12.7x despite negative trailing profitability (-4.5% net margin, -10.6% ROE) and elevated leverage (debt/equity of 84.3%) \u2014 there is essentially no valuation cushion if GTA6 slips again or launches with softer-than-expected monetization. The 126-day momentum has actually turned negative (-1.5%) and MACD histogram is negative (-2.0), signaling the recent bounce may be losing steam after a strong run, and with 29 analysts already at 'strong buy,' most of the good news is arguably already in the price, leaving the stock vulnerable to a sharp de-rating on any execution disappointment or delay commentary.",
+  "metrics": {
+    "momentum_63d": 0.13476237083478537,
+    "volatility_ann": 0.3432904923933816,
+    "rsi_14": 51.46627784859167,
+    "profit_margin": -0.0448,
+    "revenue_growth": 0.061,
+    "trailing_pe": null,
+    "return_on_equity": -0.105579995,
+    "beta": 0.961,
+    "market_cap": 44674183168,
+    "analyst_coverage": 29
+  }
+}

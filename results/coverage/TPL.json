@@ -1,0 +1,26 @@
+{
+  "ticker": "TPL",
+  "name": "Texas Pacific Land Corporation",
+  "sector": "Energy",
+  "sub_industry": "Oil & Gas Exploration & Production",
+  "tier": "S&P 500",
+  "price": 416.4281921386719,
+  "as_of": "2026-07-20T17:25:26.341347+00:00",
+  "rating": "neutral",
+  "conviction": 0.56,
+  "key_signal": "TPL trades near 57x trailing earnings and 18.5x book value while sitting 24% below its 52-week high despite a fresh golden cross and 26% six-month momentum\u2014technical strength and valuation risk are pulling in opposite directions.",
+  "thesis": "TPL's royalty/land model in the Permian generates extraordinary economics\u201493% gross margin, 77% operating margin, 36% ROE\u2014with minimal capex, and revenue/earnings are still growing at 21%/18% even as oil markets have been choppy. The stock has reclaimed both its 50-day ($393) and 200-day ($380) moving averages with a golden cross intact, MACD histogram positive, and 126-day momentum of +26%, suggesting institutional accumulation has resumed after the mid-cycle pullback (63-day momentum of just -1.3% shows the drawdown has stabilized). With only 2 analysts covering a $28.7B company, any re-rating toward TPL's historical premium (it has traded above 400 before) can happen with limited sell-side friction, and low beta (0.59) plus a dividend yield suggest it's viewed as a defensive royalty play rather than a leveraged E&P.",
+  "bear_case": "TPL is priced for perfection at 57x trailing earnings and 18.5x book\u2014multiples that leave zero margin for error if Permian rig counts or oil prices soften, and the stock is already down roughly 24% from its $547 high, which could reflect the market pricing in exactly that risk. Free cash flow is actually negative (-$56M) despite the eye-popping margins, an anomaly for a royalty business that raises questions about capital allocation or one-off land/water investments eating into cash generation. With debt-to-equity at 1.16x\u2014unusually leveraged for a royalty trust model\u2014and a 'hold' consensus from the only two analysts who bother to cover it, there's little sell-side skepticism to drive a near-term re-rating higher, and the recent 63-day flat-to-negative momentum could be the start of a longer consolidation rather than a pause before another leg up.",
+  "metrics": {
+    "momentum_63d": -0.013050883989249251,
+    "volatility_ann": 0.4161457889858672,
+    "rsi_14": 58.0607001100796,
+    "profit_margin": 0.60025,
+    "revenue_growth": 0.208,
+    "trailing_pe": 57.280357,
+    "return_on_equity": 0.36466,
+    "beta": 0.594,
+    "market_cap": 28722898944,
+    "analyst_coverage": 2
+  }
+}

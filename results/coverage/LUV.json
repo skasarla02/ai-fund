@@ -1,0 +1,26 @@
+{
+  "ticker": "LUV",
+  "name": "Southwest Airlines",
+  "sector": "Industrials",
+  "sub_industry": "Passenger Airlines",
+  "tier": "S&P 500",
+  "price": 48.060001373291016,
+  "as_of": "2026-07-20T17:18:43.974038+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "Forward PE of ~9.9 vs trailing PE of 32x signals the market expects a sharp earnings inflection as Southwest's new revenue initiatives (bag fees, seating changes) and cost discipline kick in, while the stock trades above both its 50- and 200-day moving averages with a golden cross intact.",
+  "thesis": "LUV has staged a durable uptrend (+13% over both 63d and 126d, price 7% above the 50-day SMA and 18% above the 200-day SMA) as investors reprice the airline's strategic pivot away from its legacy open-seating/no-bag-fee model toward ancillary revenue streams, a shift expected to materially lift margins from today's thin 4.6% operating margin. Revenue growth of 12.8% is running well ahead of peers, and a forward P/E near 9.85x versus a trailing 32x implies the Street is underwriting a large earnings ramp that, if delivered, would justify further re-rating. With the stock still ~13% below its 52-week high of $55.11, there's room to run if the fundamental turnaround executes, and being one of the more heavily-scrutinized S&P 500 industrials (23 analysts) means any incremental earnings beat gets quickly reflected in price rather than languishing unnoticed.",
+  "bear_case": "The technical picture is more fragile than the moving averages suggest: MACD histogram is meaningfully negative (-0.51), indicating the recent price momentum is already decelerating even as the stock sits near multi-month highs, and 30-day annualized volatility of ~40% shows this is a choppy, sentiment-driven move rather than a steady re-rating. Fundamentally, Southwest is burning cash (-$372mm FCF), carries elevated leverage (debt/equity ~93), and nets a razor-thin 2.8% profit margin on ~$28.9B revenue \u2014 a single fuel spike, demand shock, or execution stumble on the bag-fee/seating transition could quickly erase the anticipated earnings inflection the cheap forward P/E is pricing in. Notably, the sell-side consensus itself is only 'hold' despite 23 analysts covering the name, suggesting professional skepticism that the turnaround story is as clean as the price action implies, and at 3.4x book value the stock is no longer statistically cheap on a balance-sheet basis.",
+  "metrics": {
+    "momentum_63d": 0.13044184765706812,
+    "volatility_ann": 0.39640704111565483,
+    "rsi_14": 51.09951719651594,
+    "profit_margin": 0.02829,
+    "revenue_growth": 0.128,
+    "trailing_pe": 32.04,
+    "return_on_equity": 0.10062,
+    "beta": 1.118,
+    "market_cap": 23490465792,
+    "analyst_coverage": 23
+  }
+}

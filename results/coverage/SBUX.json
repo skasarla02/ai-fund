@@ -1,0 +1,26 @@
+{
+  "ticker": "SBUX",
+  "name": "Starbucks",
+  "sector": "Consumer Discretionary",
+  "sub_industry": "Restaurants",
+  "tier": "S&P 500",
+  "price": 104.05000305175781,
+  "as_of": "2026-07-20T17:19:21.647122+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "SBUX trades near its 52-week high with strong technical momentum (golden cross, above both 50/200-day SMAs) but at a nosebleed 79x trailing P/E and negative free cash flow (-$1.3B), a valuation disconnect that limits further upside.",
+  "thesis": "Price action is unambiguously bullish: shares sit at $104 vs a 52-week high of $109.23, above both the 50-day ($102.6) and 200-day ($93.1) moving averages with a confirmed golden cross, and momentum is positive across 21/63/126-day windows (up to +12.9% over six months). Earnings growth of 32.6% suggests the turnaround under new leadership is gaining traction, and the stock carries a low beta (0.97) with a solid 2.35% dividend yield, making it a reasonable holding for investors wanting exposure to a stabilizing mega-cap brand with 31 analysts still rating it a consensus 'buy.'",
+  "bear_case": "The fundamentals tell a much shakier story than the chart: trailing P/E of 79x and forward P/E of 34.6x price in years of flawless execution, yet free cash flow is actually negative (-$1.3B) against $38.5B of revenue, profit margins are a thin 3.9%, and price-to-book is deeply negative (-14x), implying negative shareholder equity likely from aggressive buybacks/debt-funded capital returns rather than organic strength. Revenue growth of just 8.8% doesn't obviously justify the multiple, and with the stock already sitting near its 52-week high after a ~13% six-month run, any stumble in the China recovery or U.S. same-store sales could trigger a sharp multiple compression given how little margin for error is priced in; 30-day annualized volatility of 25.8% shows the market already senses this fragility.",
+  "metrics": {
+    "momentum_63d": 0.04659866840336946,
+    "volatility_ann": 0.2577948380636405,
+    "rsi_14": 50.7127332768638,
+    "profit_margin": 0.03888,
+    "revenue_growth": 0.088,
+    "trailing_pe": 79.42749,
+    "return_on_equity": null,
+    "beta": 0.969,
+    "market_cap": 118585786368,
+    "analyst_coverage": 31
+  }
+}

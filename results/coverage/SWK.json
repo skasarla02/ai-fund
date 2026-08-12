@@ -1,0 +1,26 @@
+{
+  "ticker": "SWK",
+  "name": "Stanley Black & Decker",
+  "sector": "Industrials",
+  "sub_industry": "Industrial Machinery & Supplies & Components",
+  "tier": "S&P 500",
+  "price": 88.77999877929688,
+  "as_of": "2026-07-20T17:19:03.667367+00:00",
+  "rating": "neutral",
+  "conviction": 0.56,
+  "key_signal": "SWK has rallied 26% over the past quarter and sits above both the 50- and 200-day averages with a golden cross, yet MACD is turning negative and earnings growth is -34.8%, showing the price recovery has outrun the underlying fundamentals.",
+  "thesis": "The market is pricing in a margin/earnings recovery story: forward PE of 14.3x versus a trailing PE of 36.4x implies analysts expect a sharp earnings rebound, consistent with the 'buy' consensus from 11 covering analysts. Technicals support this: price is above both the 50-day ($83.02) and 200-day ($75.82) moving averages, a golden cross is in place, and 63-day momentum of +25.8% shows strong recent buying. A 3.68% dividend yield offers income support while the turnaround (cost-cutting, supply-chain normalization for a tools/hardware business) plays out, and free cash flow remains positive ($842M) despite thin net margins (2.4%).",
+  "bear_case": "The fundamental picture is weak in ways technicals can mask: earnings growth is down 34.8% YoY, ROE is a paltry 4.2%, operating margins are only 6.4%, and debt-to-equity is elevated at 77.6x, leaving little cushion if the expected earnings recovery implied by the 14.3x forward PE fails to materialize (SWK has a history of guidance disappointments in this sector). Momentum is already decelerating \u2014 126-day momentum of only 7.5% versus 63-day momentum of 25.8% shows the rally has stalled, and MACD histogram is negative despite price still being near 52-week highs, a classic bearish divergence. With 44.8% annualized volatility and the stock down 1.5% on the last print, any earnings miss or macro slowdown in housing/DIY-linked demand could quickly reverse the technical setup and re-rate the stock back toward its 52-week low of $61.90.",
+  "metrics": {
+    "momentum_63d": 0.2577652050674768,
+    "volatility_ann": 0.4484743900855637,
+    "rsi_14": 53.78637281870195,
+    "profit_margin": 0.024360001,
+    "revenue_growth": 0.027,
+    "trailing_pe": 36.385246,
+    "return_on_equity": 0.04165,
+    "beta": 1.164,
+    "market_cap": 13801345024,
+    "analyst_coverage": 11
+  }
+}

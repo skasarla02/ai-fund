@@ -1,0 +1,26 @@
+{
+  "ticker": "VTRS",
+  "name": "Viatris",
+  "sector": "Health Care",
+  "sub_industry": "Pharmaceuticals",
+  "tier": "S&P 500",
+  "price": 17.15999984741211,
+  "as_of": "2026-07-20T17:36:26.675742+00:00",
+  "rating": "bullish",
+  "conviction": 0.62,
+  "key_signal": "VTRS trades at 6.5x forward earnings with a golden cross and 35.8% six-month momentum, sitting just below its 52-week high after a multi-quarter re-rating from single digits.",
+  "thesis": "Viatris has shifted from a falling knife to a technically confirmed uptrend\u2014price is above both the 50- and 200-day moving averages (golden cross intact), momentum is strong across 21/63/126-day windows, and RSI at 61.5 shows room before overbought territory. The valuation still hasn't caught up to the price action: a 6.5x forward P/E and 1.36x price-to-book against $2.24B in free cash flow and a 2.78% dividend yield suggest the market is still pricing in generic-pricing-pressure fears that the 8.1% revenue growth print is starting to contradict. With only 8 analysts covering a $20B market-cap S&P 500 name, there's less efficient price discovery than in a mega-cap, meaning the re-rating from deep-value multiples toward peer levels could continue as sell-side coverage catches up to the improving trend.",
+  "bear_case": "The fundamentals underneath the technical strength are still shaky: profit margins are negative (-2.0%), ROE is negative (-1.96%), and debt-to-equity near 100% leaves little room for error if generic pricing pressure or litigation costs (a chronic overhang for this name) resurface. The stock is already up ~36% over six months and sitting near its 52-week high of $17.67 versus a low of $8.63\u2014most of the 'cheap re-rating' trade may already be priced in, and a low-coverage stock with negative earnings quality can reverse sharply on any earnings disappointment given thin analyst scrutiny provides less of a stabilizing floor. A forward P/E this low despite positive revenue growth may simply reflect the market correctly discounting further margin erosion rather than an inefficiency.",
+  "metrics": {
+    "momentum_63d": 0.17752191399523354,
+    "volatility_ann": 0.2841694524923863,
+    "rsi_14": 61.548788167500234,
+    "profit_margin": -0.02036,
+    "revenue_growth": 0.081,
+    "trailing_pe": null,
+    "return_on_equity": -0.01957,
+    "beta": 0.902,
+    "market_cap": 19977902080,
+    "analyst_coverage": 8
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "TJX",
+  "name": "TJX Companies",
+  "sector": "Consumer Discretionary",
+  "sub_industry": "Apparel Retail",
+  "tier": "S&P 500",
+  "price": 154.89500427246094,
+  "as_of": "2026-07-20T17:26:26.536495+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "TJX trades ~9% below its 52-week high with a golden cross intact and price still above its 200-day SMA, despite 29% earnings growth and 61% ROE that few retailers can match.",
+  "thesis": "TJX's off-price model continues to deliver best-in-class fundamentals: 9.2% revenue growth, 29.3% earnings growth, 11.8% operating margins, and a remarkable 61.25% ROE, all with a low beta (0.623) that signals defensive characteristics attractive in a choppy consumer environment. The stock remains above its 200-day SMA with a golden cross still in effect, and the recent pullback (-5.6% over 21 days, now trading near the 50-day SMA of 156.2) looks like a within-uptrend consolidation rather than a trend break, especially with MACD histogram positive (0.23) and RSI neutral (49.4) rather than oversold or overbought. As a value/off-price retailer, TJX is structurally positioned to benefit if consumers trade down amid tariff or inflation pressure, a dynamic that has historically driven traffic to its stores. With 19 analysts covering it, mispricing windows are short, but the combination of resilient fundamentals and a technical setup still intact above key long-term support suggests the current dip is buyable.",
+  "bear_case": "TJX's valuation is genuinely stretched \u2014 a 30x trailing P/E, 26.9x forward P/E, and a startling 16.45x price-to-book leave essentially no room for error, and any deceleration in the 9.2% revenue growth or 29.3% earnings growth (which itself looks unsustainably high versus revenue growth, suggesting margin/buyback-driven optics) could trigger meaningful multiple compression. The stock is currently below its 50-day SMA (154.9 vs 156.2) with negative 1-month and 3-month momentum (-5.6% and -3.3%), suggesting the intermediate-term trend has already turned down even if the longer-term 200-day trend hasn't broken. Debt-to-equity of 136% is elevated for a retailer, and at a market cap of $171B, TJX is a large, heavily-scrutinized name where 19 analysts have already priced in most known positives, leaving limited asymmetric upside and real downside risk if consumer discretionary spending weakens more broadly, given the stock's already-rich premium to sector peers on nearly every valuation metric.",
+  "metrics": {
+    "momentum_63d": -0.032845729198683005,
+    "volatility_ann": 0.2671229670440601,
+    "rsi_14": 49.40640820458103,
+    "profit_margin": 0.09402,
+    "revenue_growth": 0.092,
+    "trailing_pe": 30.135216,
+    "return_on_equity": 0.6125,
+    "beta": 0.623,
+    "market_cap": 171113185280,
+    "analyst_coverage": 19
+  }
+}

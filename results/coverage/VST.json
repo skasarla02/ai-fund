@@ -1,0 +1,26 @@
+{
+  "ticker": "VST",
+  "name": "Vistra Corp.",
+  "sector": "Utilities",
+  "sub_industry": "Electric Utilities",
+  "tier": "S&P 500",
+  "price": 158.2899932861328,
+  "as_of": "2026-07-20T17:37:15.481108+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "VST has pulled back ~28% from its 52-week high and trades below both its 50- and 200-day moving averages even as forward P/E (14.6x) sits far below trailing P/E (26.5x), implying the Street expects a sharp earnings inflection.",
+  "thesis": "Vistra remains one of the purest public proxies for the AI/data-center power demand story, with 43% revenue growth, 26.6% operating margins, and a jaw-dropping 42.9% ROE. The stock's steep drawdown from $219 to $158 (52-week range low $132.66) has compressed forward P/E to 14.6x versus a trailing 26.5x, meaning the market is pricing in substantial near-term earnings growth that the 18 covering analysts collectively rate 'strong buy.' The 1-day pop of +1.8% and RSI near 52 (neutral, not oversold-exhausted or overbought) suggest the recent multi-month slide (mom_126d -11.9%) may be stabilizing rather than accelerating, giving a favorable entry point relative to where sentiment was a few months ago.",
+  "bear_case": "The technical picture is genuinely bearish: price is below both the 50-day ($153.8) and 200-day ($165.5) moving averages with no golden cross, MACD histogram negative, and 126-day momentum down nearly 12%, all consistent with a stock still working through a valuation reset rather than bottoming. More concerning fundamentally, debt-to-equity of 367% and negative free cash flow (-$164M) show Vistra is heavily levered and currently cash-flow negative even as it's asked to fund the capex needed to capture the AI power-demand upside \u2014 if data-center demand growth disappoints or financing costs stay elevated (beta 1.41, 42.7% annualized vol), the deleveraging math gets much harder and the 'cheap forward multiple' thesis unravels quickly since it depends entirely on hitting aggressive forward estimates.",
+  "metrics": {
+    "momentum_63d": -0.030272490837607968,
+    "volatility_ann": 0.4267139513963625,
+    "rsi_14": 51.915983708209865,
+    "profit_margin": 0.11525,
+    "revenue_growth": 0.434,
+    "trailing_pe": 26.469898,
+    "return_on_equity": 0.42898,
+    "beta": 1.409,
+    "market_cap": 53372608512,
+    "analyst_coverage": 18
+  }
+}

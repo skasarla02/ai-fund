@@ -1,0 +1,26 @@
+{
+  "ticker": "UNP",
+  "name": "Union Pacific Corporation",
+  "sector": "Industrials",
+  "sub_industry": "Rail Transportation",
+  "tier": "S&P 500",
+  "price": 297.8699951171875,
+  "as_of": "2026-07-20T17:31:29.663693+00:00",
+  "rating": "neutral",
+  "conviction": 0.58,
+  "key_signal": "UNP is up ~30% over six months and trading just 2% below its 52-week high with RSI at 70.8, signaling an overextended rally against only 3.2% revenue growth.",
+  "thesis": "Union Pacific's uptrend is technically pristine: price sits above both the 50- and 200-day moving averages, a golden cross is in place, MACD histogram is strongly positive, and momentum across 21/63/126-day windows is uniformly strong (15%/19%/31%). Underlying fundamentals support the premium: 40.4% operating margins, 29.2% net margin, and a stellar 40.7% ROE reflect the rail industry's operating leverage and pricing power, while a 24-analyst 'buy' consensus and forward PE (21.5x) below trailing PE (24.5x) imply expected earnings acceleration. Low beta (0.965) and a mature dividend (1.83% yield) make this a quality compounder that institutions keep buying on strength, consistent with the persistent trend above the 200dma.",
+  "bear_case": "RSI at 70.8 combined with price only 2% off the 52-week high and 30% above the 200-day average is a classic exhaustion setup for a heavily-covered, low-beta industrial where 24 analysts have already priced in the good news \u2014 there's little room for a positive surprise but plenty for disappointment. Revenue growth of just 3.2% and earnings growth of 6.2% don't justify a 9.1x price-to-book and 24.5x trailing PE, especially with debt-to-equity at a hefty 162%, leaving the balance sheet more levered than the growth profile warrants. Rails are also late-cycle freight-volume plays tied to industrial production and consumer goods demand; any softening in intermodal/carload volumes or a tariff-driven trade slowdown would hit a stock priced for continued momentum, and the 24.9% annualized volatility shows the market is already pricing meaningful two-way risk at these levels.",
+  "metrics": {
+    "momentum_63d": 0.19223364036946444,
+    "volatility_ann": 0.24855484494947122,
+    "rsi_14": 70.84195529134092,
+    "profit_margin": 0.29202,
+    "revenue_growth": 0.032,
+    "trailing_pe": 24.495888,
+    "return_on_equity": 0.40686,
+    "beta": 0.965,
+    "market_cap": 176849354752,
+    "analyst_coverage": 24
+  }
+}

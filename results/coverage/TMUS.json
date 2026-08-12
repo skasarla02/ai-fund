@@ -1,0 +1,26 @@
+{
+  "ticker": "TMUS",
+  "name": "T-Mobile US",
+  "sector": "Communication Services",
+  "sub_industry": "Wireless Telecommunication Services",
+  "tier": "S&P 500",
+  "price": 194.22000122070312,
+  "as_of": "2026-07-20T17:21:59.108646+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "Stock has bounced +7.1% over the past month with price back above the 50-day SMA and positive MACD momentum, even though it remains below the 200-day SMA after a ~26% drawdown from its 52-week high of $261.56.",
+  "thesis": "TMUS trades at a forward P/E of just 13.5x versus a trailing 20.6x, implying the market expects meaningful earnings recovery from the recent -12% earnings growth dip, while revenue growth remains solid at 10.6% with best-in-class operating margins (24%) and gross margins (63%). Free cash flow of $11.1B supports the 2.12% dividend and continued buybacks/debt paydown. Technicals have turned constructive: 21-day momentum of +7.1%, RSI at 62 (not yet overbought), and a strongly positive MACD histogram (1.82) suggest the recent bottoming process off the 52-week low of $165.66 has legs, with price now reclaiming the 50-day SMA ($185.25) and approaching the 200-day SMA ($199.60) \u2014 a golden cross could be forming. Consensus sell-side view remains 'buy' across all 26 covering analysts, and low beta (0.32) makes this a relatively defensive way to play a recovery in wireless pricing/subscriber trends.",
+  "bear_case": "The stock is still below its 200-day moving average and down over a quarter from its 52-week high, a technical regime that has historically preceded further underperformance in telecom stocks, and the -12% trailing earnings growth signals real margin/competitive pressure (likely from aggressive promotional intensity at VZ/AT&T or cable MVNOs) that the forward P/E discount may not fully price in if it persists. Debt-to-equity of 218.6% leaves little room for error if free cash flow growth stalls, and priceToBook at 3.77x is not cheap for a capital-intensive, low-growth utility-like business; with 26 analysts already covering the name, any information edge from the 'buy' consensus is likely already reflected in price, meaning the recent 21-day bounce could simply be a bear-market rally within a broader downtrend defined by the still-negative 63-day momentum (-1.2%).",
+  "metrics": {
+    "momentum_63d": -0.012122154284912923,
+    "volatility_ann": 0.32383660701999767,
+    "rsi_14": 62.045371498757916,
+    "profit_margin": 0.116459996,
+    "revenue_growth": 0.106,
+    "trailing_pe": 20.639746,
+    "return_on_equity": 0.18024999,
+    "beta": 0.319,
+    "market_cap": 210185797632,
+    "analyst_coverage": 26
+  }
+}

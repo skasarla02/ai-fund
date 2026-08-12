@@ -1,0 +1,26 @@
+{
+  "ticker": "TEL",
+  "name": "TE Connectivity",
+  "sector": "Information Technology",
+  "sub_industry": "Electronic Manufacturing Services",
+  "tier": "S&P 500",
+  "price": 204.46499633789062,
+  "as_of": "2026-07-20T17:24:00.434856+00:00",
+  "rating": "neutral",
+  "conviction": 0.55,
+  "key_signal": "TEL trades below both its 50-day and 200-day moving averages after a 16.6% three-month drawdown, yet MACD has just turned positive and shares sit almost exactly at the 50-day SMA, suggesting a tentative base is forming.",
+  "thesis": "TEL's fundamentals remain solid for a name that's sold off from its $252 high to ~$204: 14.5% revenue growth, 20.3% operating margins, 22.7% ROE, and a forward P/E of just 16.2x versus a 20.9x trailing multiple implies the market expects meaningful earnings acceleration. Free cash flow of $2.3B on $18.7B revenue and a moderate 43.8x debt-to-equity give balance-sheet flexibility to keep buying back stock and paying its 1.47% dividend through a cyclical soft patch. The recent uptick in MACD histogram and a steadying RSI near 52 (neutral, not oversold-to-death) hint the worst of the momentum washout may be behind it, and with 20 analysts still carrying a consensus 'buy,' there's a constituency ready to defend the stock on any earnings beat.",
+  "bear_case": "The technical picture is genuinely broken, not just noisy: TEL is below both its 50-day and 200-day moving averages (no golden cross), down 16.6% over three months and nearly 15% over six months, with 33% annualized volatility signaling the market is actively repricing risk, not just consolidating. TE Connectivle's end markets (auto, industrial, sensors) are exposed to a global manufacturing slowdown and tariff-driven input cost pressure, which could explain why forward estimates already discount earnings growth the stock hasn't yet delivered \u2014 if that growth disappoints, the 'cheap forward multiple' argument evaporates and the stock reverts toward its 52-week low of $177 rather than back to its high of $252. A beta of 1.17 also means any broader market drawdown amplifies TEL's downside just as this bounce is trying to take hold.",
+  "metrics": {
+    "momentum_63d": -0.1661032808805173,
+    "volatility_ann": 0.3305798433389534,
+    "rsi_14": 51.836993987781995,
+    "profit_margin": 0.15543,
+    "revenue_growth": 0.145,
+    "trailing_pe": 20.863775,
+    "return_on_equity": 0.22719999,
+    "beta": 1.169,
+    "market_cap": null,
+    "analyst_coverage": 20
+  }
+}

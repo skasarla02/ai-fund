@@ -1,0 +1,26 @@
+{
+  "ticker": "VRSK",
+  "name": "Verisk Analytics",
+  "sector": "Industrials",
+  "sub_industry": "Research & Consulting Services",
+  "tier": "S&P 500",
+  "price": 200.97000122070312,
+  "as_of": "2026-07-20T17:35:25.432611+00:00",
+  "rating": "neutral",
+  "conviction": 0.56,
+  "key_signal": "VRSK has rallied 14.6% in a month back to essentially flat with its 200-day average, but remains ~34% below its 52-week high and its 50-day average still sits below the 200-day (no golden cross), showing a stock recovering from a real re-rating rather than confirmed uptrend.",
+  "thesis": "Verisk's insurance-analytics franchise generates best-in-class 70% gross margins and 45% operating margins with highly recurring, subscription-like revenue, and the stock has just staged a sharp 21-day and 63-day momentum surge (+14.6%/+13.2%) that pushed price back above both the 50- and 200-day moving averages, with a positive MACD histogram confirming near-term buying pressure. Low beta (0.69) and consensus 'buy' rating across 17 analysts suggest the market still views this as a defensive compounder, and continued FCF generation (~$944M on $3.1B revenue) supports ongoing buybacks and the ~1% dividend even as earnings grow modestly (4.8%).",
+  "bear_case": "The 126-day momentum is still negative (-9%), the stock trades 34% below its 52-week high of $303.72, and the golden_cross flag is off with the 50-day average below the 200-day \u2014 classic signs of a stock in a longer bearish trend that is merely bouncing, not reversing. Revenue growth of just 3.9% and earnings growth of 4.8% look thin against a 30.6x trailing / 23.2x forward P/E, leaving little room for multiple compression if growth disappoints further; the negative price-to-book (-22.5) implies negative shareholder equity, meaning the balance sheet has been levered up via buybacks, which reduces financial flexibility. With RSI at 66.6 and a 33% annualized volatility, the recent sharp rally is also vulnerable to a sharp pullback on any earnings miss or guidance softness, especially with 17 analysts already closely tracking the name, limiting how long any mispricing \u2014 bullish or bearish \u2014 can persist.",
+  "metrics": {
+    "momentum_63d": 0.13167968824176213,
+    "volatility_ann": 0.3307488765960279,
+    "rsi_14": 66.56048114777988,
+    "profit_margin": 0.2934,
+    "revenue_growth": 0.039,
+    "trailing_pe": 30.635672,
+    "return_on_equity": null,
+    "beta": 0.688,
+    "market_cap": 26331459584,
+    "analyst_coverage": 17
+  }
+}

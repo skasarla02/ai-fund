@@ -1,0 +1,26 @@
+{
+  "ticker": "TROW",
+  "name": "T. Rowe Price",
+  "sector": "Financials",
+  "sub_industry": "Asset Management & Custody Banks",
+  "tier": "S&P 500",
+  "price": 116.86000061035156,
+  "as_of": "2026-07-20T17:22:13.888422+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "Strong price momentum (63d +22%, 21d +8%) with the stock trading above both its 50- and 200-day moving averages (golden cross intact) while still valued at just 12.5x trailing earnings and a 4.43% dividend yield.",
+  "thesis": "TROW has staged a durable technical recovery, sitting near its 52-week high ($121.17 vs current $116.86) with a golden cross confirmed and price above both the 50- and 200-day SMAs, signaling institutional accumulation after a prolonged downtrend. Fundamentally, the stock remains cheap for an asset manager with 28% net margins and 37% operating margins \u2014 trailing PE of 12.5x and forward PE of 11.3x are well below asset-management peers, and ROE of nearly 19% with modest revenue growth (5.3%) and earnings growth (3.7%) suggests the market is still pricing in AUM/fee-compression fears that haven't materialized in the numbers. The 4.43% dividend yield offers a strong income floor while investors wait for multiple re-rating, and free cash flow of $1.88B against a $25B market cap (~7.5% FCF yield) gives ample coverage for the payout plus buybacks. With only 12 analysts covering the name and a 'hold' consensus, there's room for upside surprise if momentum continues to force sell-side upgrades.",
+  "bear_case": "The bear case centers on structural headwinds for active asset managers: T. Rowe's core business faces relentless fee compression and passive-fund substitution, and revenue growth of just 5.3% against earnings growth of only 3.7% suggests margin pressure is already creeping in despite reported margins looking healthy today. The negative MACD histogram (-0.29) hints momentum is decelerating even as price sits near highs, and a beta of 1.5 combined with 26% annualized volatility means this stock is highly sensitive to a market drawdown \u2014 dangerous for a company whose revenue is directly tied to AUM levels that fall in risk-off environments. Debt-to-equity of 3.87 is elevated for the sector and could constrain flexibility if flows deteriorate. Finally, the stock is already up massively (mom_63d +22%) and sitting just below its 52-week high, meaning much of the 'cheap re-rating' thesis may already be priced in, leaving limited margin of safety if the 'hold' consensus among covering analysts proves correct and AUM/flow trends disappoint in the next quarter.",
+  "metrics": {
+    "momentum_63d": 0.21944963813562124,
+    "volatility_ann": 0.26401042504123734,
+    "rsi_14": 58.82288956643769,
+    "profit_margin": 0.28278,
+    "revenue_growth": 0.053,
+    "trailing_pe": 12.538627,
+    "return_on_equity": 0.18688999,
+    "beta": 1.497,
+    "market_cap": 25039196160,
+    "analyst_coverage": 12
+  }
+}
