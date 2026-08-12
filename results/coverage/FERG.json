@@ -1,0 +1,26 @@
+{
+  "ticker": "FERG",
+  "name": "Ferguson Enterprises",
+  "sector": "Industrials",
+  "sub_industry": "Building Products",
+  "tier": "S&P 500",
+  "price": 246.47000122070312,
+  "as_of": "2026-08-12T15:22:39.309287+00:00",
+  "rating": "bullish",
+  "conviction": 0.58,
+  "key_signal": "Price has reclaimed both the 50- and 200-day moving averages with MACD turning firmly positive, even as the 50dma still trails the 200dma from the prior pullback.",
+  "thesis": "Ferguson trades at a reasonable 19.6x forward earnings for a leading industrial distributor generating 30.6% gross margins and 10.2% operating margins, with revenue growth (4.6%) and earnings growth (6.9%) both positive despite a soft non-residential/residential construction backdrop. The stock has recovered 5% over the past month and nearly 4% over three months, is now trading above both its 50- and 200-day moving averages, and MACD histogram (+1.6) confirms building upside momentum after the 126-day drawdown (-5.9%) that likely reflected macro/rate-driven construction fears now partially priced out. With 19 analysts maintaining a consensus 'buy' and the stock still ~9% below its 52-week high, there's room to re-test highs if industrial/construction demand stabilizes into year-end.",
+  "bear_case": "The lack of a golden cross (50dma still below 200dma) signals the intermediate trend remains technically bearish, and the recent 21-63 day bounce could be a relief rally within a longer downtrend, especially with 35.9% annualized volatility and a sharp -2% single-day drop suggesting fragility; meanwhile a rich 7.7x price-to-book and 111% debt-to-equity leave little margin for error if building-products end markets (new construction, remodeling) weaken further amid persistently high rates, and with 19 analysts already covering the name any earnings disappointment against the 24.3x trailing PE would be quickly and harshly repriced rather than offering a lingering mispricing opportunity.",
+  "metrics": {
+    "momentum_63d": 0.03913965417847787,
+    "volatility_ann": 0.3587052547890539,
+    "rsi_14": 54.38773271331284,
+    "profit_margin": 0.063200004,
+    "revenue_growth": 0.046,
+    "trailing_pe": 24.25886,
+    "return_on_equity": null,
+    "beta": 1.121,
+    "market_cap": 47680290816,
+    "analyst_coverage": 19
+  }
+}
