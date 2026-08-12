@@ -38,6 +38,13 @@ from fund.signals.indicators import signal_snapshot
 
 COVERAGE_DIR = RESULTS_DIR / "coverage"
 CHANGES_LOG = COVERAGE_DIR / "_changes.jsonl"
+# Tickers that couldn't be rated for lack of price history. Recent index
+# additions (spinoffs, fresh listings) sit in the constituent list for months
+# before they have the year of bars the signals need, and they sort to the
+# front of the unrated queue — so without this they'd be retried at the head
+# of every scheduled run forever. Kept as .jsonl deliberately: the API globs
+# *.json in this directory and would read a .json file here as a company.
+NODATA_LOG = COVERAGE_DIR / "_nodata.jsonl"
 COVERAGE_MODEL = "claude-sonnet-5"
 
 SYSTEM_PROMPT = """\
@@ -102,6 +109,34 @@ def build_snapshot(company: Company) -> dict | None:
     signals = _clean(signal_snapshot(bars["close"], TRADING_DAYS_PER_YEAR))
     fundamentals = _clean(get_fundamentals(company.ticker))
     return {"signals": signals, "fundamentals": fundamentals}
+
+
+def mark_nodata(ticker: str, out_dir: Path = COVERAGE_DIR) -> None:
+    """Record that ``ticker`` had no usable price history, as of now."""
+    out_dir.mkdir(parents=True, exist_ok=True)
+    with open(out_dir / NODATA_LOG.name, "a") as f:
+        f.write(json.dumps({
+            "ticker": ticker,
+            "at": datetime.now(timezone.utc).isoformat(),
+        }) + "\n")
+
+
+def load_nodata(out_dir: Path = COVERAGE_DIR) -> dict[str, datetime]:
+    """Most recent no-data timestamp per ticker."""
+    path = out_dir / NODATA_LOG.name
+    if not path.exists():
+        return {}
+    seen: dict[str, datetime] = {}
+    for line in path.read_text().splitlines():
+        try:
+            rec = json.loads(line)
+            ts = datetime.fromisoformat(rec["at"])
+        except (ValueError, KeyError, TypeError):
+            continue
+        ticker = rec.get("ticker")
+        if ticker and (ticker not in seen or ts > seen[ticker]):
+            seen[ticker] = ts
+    return seen
 
 
 def rate_company(
@@ -220,8 +255,10 @@ def run_coverage(
         if result is None:
             # Usable price history couldn't be assembled (no bars, or under a
             # year of them). Say so — a silent continue here is how a run that
-            # fetched nothing at all still looks like a clean success.
+            # fetched nothing at all still looks like a clean success — and
+            # record it so it stops blocking the head of every future run.
             print(f"  [no-data] {company.ticker}: insufficient price history")
+            mark_nodata(company.ticker, out_dir=out_dir)
             continue
         write_result(result, out_dir=out_dir)
         results.append(result)

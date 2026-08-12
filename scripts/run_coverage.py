@@ -28,7 +28,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))
 
-from fund.coverage.engine import COVERAGE_DIR, COVERAGE_MODEL, run_coverage  # noqa: E402
+from fund.coverage.engine import COVERAGE_DIR, COVERAGE_MODEL, load_nodata, run_coverage  # noqa: E402
 from fund.coverage.universe import fetch_universe  # noqa: E402
 from fund.decision.llm import LLMClient  # noqa: E402
 
@@ -57,6 +57,7 @@ def main():
     parser.add_argument("--max-new", type=int, default=None, help="Hard cap on how many companies this run may rate (cost bound for scheduled runs).")
     parser.add_argument("--stale-days", type=float, default=None, help="Also re-rate companies whose stored rating is older than this many days, oldest first.")
     parser.add_argument("--out-dir", type=Path, default=COVERAGE_DIR, help="Where to write ratings (default: results/coverage). Point elsewhere to test without touching live data.")
+    parser.add_argument("--nodata-cooldown", type=float, default=30, help="Days to park a company that had no usable price history before retrying it (ignored when --tickers is explicit).")
     args = parser.parse_args()
 
     client = LLMClient(model=COVERAGE_MODEL)
@@ -70,6 +71,19 @@ def main():
     scope = [c for c in universe if c.ticker in set(tickers)] if tickers else universe
     already = {p.stem for p in args.out_dir.glob("*.json")} if args.out_dir.exists() else set()
     remaining = scope if args.refresh else [c for c in scope if c.ticker not in already]
+
+    # Companies known to lack usable price history sort to the front of the
+    # unrated queue and can't succeed until they've accumulated a year of bars,
+    # so park them for a cooldown instead of retrying them every single run.
+    parked = []
+    if not args.tickers:
+        cooldown = datetime.now(timezone.utc) - timedelta(days=args.nodata_cooldown)
+        nodata = load_nodata(args.out_dir)
+        parked = [c for c in remaining if nodata.get(c.ticker, datetime.min.replace(tzinfo=timezone.utc)) > cooldown]
+        if parked:
+            benched = {c.ticker for c in parked}
+            remaining = [c for c in remaining if c.ticker not in benched]
+
     skipped = len(scope) - len(remaining)
 
     # Scheduled runs top up a fully-rated universe by rotating through the
@@ -97,6 +111,8 @@ def main():
     print(f"Scope: {len(scope)} companies" + (f" (of {len(universe)} in universe)" if tickers else ""))
     if skipped and not args.refresh:
         print(f"Already rated: {skipped} (skipping — pass --refresh to re-rate)")
+    if parked:
+        print(f"Parked (no usable price history, retried after {args.nodata_cooldown:g}d): {len(parked)} — {', '.join(c.ticker for c in parked[:6])}{'...' if len(parked) > 6 else ''}")
     if stale:
         print(f"Stale re-rates queued: {len(stale)} (rating older than {args.stale_days:g}d, oldest first)")
     if capped:
