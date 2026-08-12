@@ -218,6 +218,10 @@ def run_coverage(
             print(f"  [skip] {company.ticker}: {exc}")
             continue
         if result is None:
+            # Usable price history couldn't be assembled (no bars, or under a
+            # year of them). Say so — a silent continue here is how a run that
+            # fetched nothing at all still looks like a clean success.
+            print(f"  [no-data] {company.ticker}: insufficient price history")
             continue
         write_result(result, out_dir=out_dir)
         results.append(result)

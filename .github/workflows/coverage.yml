@@ -47,6 +47,30 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      # data_cache/ is gitignored, so a runner always fetches live. Yahoo
+      # throttles cloud IPs, and yfinance signals that by returning an empty
+      # frame rather than raising — which the engine reads as "no data" and
+      # skips. Prove data is reachable before spending anything on ratings.
+      - name: Preflight — market data reachable
+        run: |
+          python - <<'PY'
+          import sys, yfinance as yf
+          ok = 0
+          for sym in ("AAPL", "MSFT", "KO"):
+              try:
+                  rows = len(yf.Ticker(sym).history(period="2y", interval="1d"))
+              except Exception as exc:
+                  print(f"{sym}: raised {type(exc).__name__}: {exc}")
+                  continue
+              print(f"{sym}: {rows} daily bars")
+              if rows >= 260:
+                  ok += 1
+          if not ok:
+              print("\nNo usable price history from this runner — Yahoo is most likely")
+              print("rate-limiting or blocking GitHub's IP ranges. Not spending on ratings.")
+              sys.exit(1)
+          PY
+
       - name: Rate companies
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}

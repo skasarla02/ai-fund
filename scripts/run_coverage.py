@@ -139,6 +139,14 @@ def main():
     total_done = len(list(args.out_dir.glob("*.json"))) if args.out_dir.exists() else 0
     print(f"Results written to {args.out_dir}/  ({total_done}/{len(universe)} of the full universe rated so far)")
 
+    # Rating nothing at all when work was queued means the run failed — no data
+    # reached the engine. Exit non-zero so a scheduled run reports red instead
+    # of quietly succeeding at doing nothing, night after night.
+    if not results:
+        print(f"\nFAILED: 0 of {n} companies rated. No usable market data was fetched.")
+        return 1
+    return 0
+
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main() or 0)
