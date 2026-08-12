@@ -17,7 +17,7 @@ on:
       max_new:
         description: "Max companies to rate this run (cost bound)"
         required: false
-        default: "60"
+        default: "20"
       stale_days:
         description: "Also re-rate ratings older than this many days"
         required: false
@@ -50,7 +50,7 @@ jobs:
       - name: Rate companies
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          MAX_NEW: ${{ inputs.max_new || '60' }}
+          MAX_NEW: ${{ inputs.max_new || '20' }}
           STALE_DAYS: ${{ inputs.stale_days || '14' }}
         run: |
           if [ -z "$ANTHROPIC_API_KEY" ]; then
